@@ -1,0 +1,24 @@
+{
+  "name": "mgsl",
+  "version": "0.0.1",
+  "description": "marmooo's General Service List (English). mGSL provides a huge list with less noise and accurate statistics.",
+  "main": "index.js",
+  "dependencies": {
+    "glob": "^7.1.6",
+    "read-each-line-sync": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marmooo/mgsl.git"
+  },
+  "author": "marmooo",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/marmooo/mgsl/issues"
+  },
+  "homepage": "https://github.com/marmooo/mgsl"
+}
