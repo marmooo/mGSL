@@ -11,7 +11,7 @@ mGSL provides a huge list with less noise and accurate statistics.
 3. install [kujirahand/EJDICT](https://github.com/kujirahand/EJDict) licensed under the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 4. install [datasets/world-cities](https://github.com/datasets/world-cities) licensed under the [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 5. install [smashew/NameDatabases](https://github.com/smashew/NameDatabases) licensed under the Unlicense
-6. install [日本語 WordNet](http://compling.hss.ntu.edu.sg/wnja/) from [SQLite3 Database](http://compling.hss.ntu.edu.sg/wnja/data/1.1/wnjpn.db.gz) licensed under the [Japanese WordNet License](http://compling.hss.ntu.edu.sg/wnja/license.txt) and [WordNet 3.0 License](https://wordnet.princeton.edu/license-and-commercial-use)
+6. install [SQLite3 DB](http://compling.hss.ntu.edu.sg/wnja/data/1.1/wnjpn.db.gz) from [日本語 WordNet](http://compling.hss.ntu.edu.sg/wnja/) licensed under the [Japanese WordNet License](http://compling.hss.ntu.edu.sg/wnja/license.txt) and [WordNet 3.0 License](https://wordnet.princeton.edu/license-and-commercial-use)
 7. install [adambom/dictionary](https://github.com/adambom/dictionary) licensed under the MIT and  [Project Gutenberg License](http://www.gutenberg.org/policy/license.html)
 
 ## Build
