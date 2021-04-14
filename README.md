@@ -27,7 +27,7 @@ bash build1.sh    # preprocessing
 node build2.js    # generate frequency list
 ```
 
-3. clenup list
+3. pre-cleanup
 ```
 node build3.js    # remove noise & lemmatization
 node build4.js    # remove unknown words
