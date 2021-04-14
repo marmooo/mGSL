@@ -20,7 +20,7 @@ basicFilepaths.forEach(filepath => {
   readEachLineSync(filepath, 'utf8', (line) => {
     const row = line.split('\t');
     const en = row[0];
-    const ja = row[14].split(/\s*[,;]\s*/).join('|');
+    const ja = row[14].replace(/…/g, '〜').split(/\s*[,;]\s*/).join('|');
     if (ja != 'N/A') {
       basicDict[en] = ja;
     }
@@ -33,7 +33,7 @@ booqsFilepaths.forEach(filepath => {
   readEachLineSync(filepath, 'utf8', (line) => {
     const row = line.split(',');
     const en = row[0];
-    const ja = row[1].split(/[；，]/).join('|');
+    const ja = row[1].split(/\s*[；，/]\s*/).join('|');
     booqs[en] = ja;
   });
 });
@@ -89,10 +89,10 @@ readEachLineSync('4/mGSL.lst', 'utf8', (line) => {
   const [lemma, freq] = line.split('\t');
   if (lemma in original) {
     console.log(lemma + '\t' + original[lemma] + '\t' + 'original');
-  } else if (lemma in basicDict) {
-    console.log(lemma + '\t' + basicDict[lemma] + '\t' + 'basic');
   } else if (lemma in booqs) {
     console.log(lemma + '\t' + booqs[lemma] + '\t' + 'booqs');
+  } else if (lemma in basicDict) {
+    console.log(lemma + '\t' + basicDict[lemma] + '\t' + 'basic');
   } else {
     if (lemma in names) {
       // console.log(line);
