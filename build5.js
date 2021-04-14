@@ -55,6 +55,16 @@ atoz(alphabet => {
 });
 
 
+const badWords = {};
+readEachLineSync('List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/en', 'utf8', (lemma) => {
+  badWords[lemma] = true;
+});
+
+const profanityWords = {};
+readEachLineSync('Google-profanity-words/list.txt', 'utf8', (lemma) => {
+  profanityWords[lemma] = true;
+});
+
 const names = {};
 readEachLineSync('NameDatabases/NamesDatabases/surnames/all.txt', 'utf8', (line) => {
   const lemma = line.toLowerCase();
@@ -94,7 +104,11 @@ readEachLineSync('4/mGSL.lst', 'utf8', (line) => {
   } else if (lemma in basicDict) {
     console.log(lemma + '\t' + basicDict[lemma] + '\t' + 'basic');
   } else {
-    if (lemma in names) {
+    if (lemma in badWords) {
+      // console.log(line);
+    } else if (profanityWords in names) {
+      // console.log(line);
+    } else if (lemma in names) {
       // console.log(line);
     } else if (lemma in cities) {
       // console.log(line);
