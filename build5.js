@@ -86,6 +86,14 @@ readEachLineSync('world-cities/data/world-cities.csv', 'utf8', (line) => {
 delete cities['name'];
 delete cities['country'];
 
+const chemicals = {};
+readEachLineSync('chemicals.tsv', 'utf8', (line) => {
+  const lemma = line.split('\t')[0].toLowerCase();
+  chemicals[lemma] = true;
+});
+delete chemicals['he'];
+delete chemicals['os'];  // 骨
+
 // 省略形は複数の原形を持つため、lemmatization と同様に扱うと統計値がずれる
 // oct, nov など頻度の高いものも削除されるので注意は必要
 const abbrevs = {};
@@ -121,6 +129,8 @@ readEachLineSync('4/mGSL.lst', 'utf8', (line) => {
     } else if (lemma in cities) {
       // console.log(line);
     } else if (lemma in abbrevs) {
+      // console.log(line);
+    } else if (lemma in chemicals) {
       // console.log(line);
     } else if (lemma in wnjpn) {
       console.log(lemma + '\t' + wnjpn[lemma] + '\t' + 'wnjpn');

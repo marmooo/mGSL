@@ -115,7 +115,6 @@ email	Eメール|メール|電子郵便|Eメイル|電子メイル|メイル|電
 shop	店|商店	booqs
 store	【名|C】店|蓄え【動|他】を蓄える|を倉庫に保管する	booqs
 group	グループ|集団	booqs
-re	レニウム|レ|レ	wnjpn
 city	市|都市	booqs
 into	～の中へ	booqs
 world	世界	booqs
@@ -2586,7 +2585,6 @@ spray	噴射	booqs
 fiber	繊維|食物繊維|糸|ファイバー	booqs
 women	woman の複数形	ejdict
 massage	あんま|刷り込む|改竄する|マッサージする	booqs
-ag	Ａｇ|Ag|ａ|シルバー|銀|シルヴァー	wnjpn
 adoption	"【名】養子縁組【U】(新しい方式などの)採用	booqs
 technique	技術	booqs
 prison	刑務所	booqs
@@ -5121,7 +5119,6 @@ suburban	郊外の / 郊外じみた|やぼったい|偏狭な	ejdict
 prosecution	起訴	booqs
 clutch	握っていること|しっかり握ること|握ること|握り締めること|堅く締めること|把握|攫む|掴む|掴る|握る	wnjpn
 booster	引く手|支持者|友人|友達|サポーター|愛読者|万引|中継局|ブースター局|ブースタ|ブースタ	wnjpn
-rg		wnjpn
 widow	未亡人|赤い信女|ウイドー|後家御|女寡|ウィドー|後家|孀|孀婦|寡婦	wnjpn
 proudly	誇らしげ|得意そうに	wnjpn
 pix	=pyx	ejdict
@@ -5448,7 +5445,6 @@ kinetic	動力学的|動態学的	wnjpn
 unused	未使用	booqs
 dart	投げ矢|ダーツ	wnjpn
 alcoholic	ヘビードリンカー	wnjpn
-hg	Hg|マーキュリー|クイックシルバー|水銀	wnjpn
 eighth	八日|８分の１	wnjpn
 daemon	魔もの|鬼神|デーモン|魔王|亡者|悪鬼|波旬|悪霊|デヴィル|天魔波旬|半神	wnjpn
 bestselling	最もよく売れている	ejdict
@@ -5582,7 +5578,6 @@ mst	山岳部時間	wnjpn
 whatsoever	whatever の強調形	ejdict
 auxiliary	補助|輔佐|補佐|補助者|副次的|補助的	wnjpn
 increment	増|増嵩|増進|増加|増し|累加|上昇|延び|加重|加増|増|増進|増加|増量|増し|増分|増加分|加増|伸び|増大	wnjpn
-lr	ローレンシウム	wnjpn
 noun	名詞	booqs
 lithium	リチウム	wnjpn
 lighthouse	灯台|燈台	wnjpn
@@ -6015,7 +6010,6 @@ scare	怖がらせる	booqs
 assemble	組み立てる	booqs
 almanac	暦|年鑑	wnjpn
 microbiology	微生物学	wnjpn
-lv	being five more than fifty	wneng
 docket	アジェンダ|日程|スケジュール|スケデュール|予定	wnjpn
 cater	料理をまかなう	booqs
 replay	再戦|リプレー|リプレイ|再生|リプレー|リプレー|リプレー	wnjpn
@@ -7315,7 +7309,6 @@ rainforest	雨林|熱帯雨林	wnjpn
 driveway	私有車道|ドライブウエー|私道	wnjpn
 envision	思い描く|想描く|想い描く|イメージ|想見|思いえがく|想像|思描く|想い浮かべる	wnjpn
 deem	みなす	booqs
-os	骨	wnjpn
 excavation	採掘|掘鑿|穴掘り|掘削|発掘|穴掘|発掘作業	wnjpn
 emblem	象徴|エンブレム|表号|旗幟|表象	wnjpn
 routinely	"【副】日常的に	booqs
@@ -13554,7 +13547,6 @@ eukaryotic	真核|真核生物	wnjpn
 husbandry	アグリカルチャー|稼穡|農作|アグリカルチュア|農業|農林|農耕|耕作|農芸|畑作	wnjpn
 visibly	目に見えて|見るからに	wnjpn
 defunct	現存しない|廃用になった	ejdict
-hs	ハッシウム	wnjpn
 broiler	ブロイラー	wnjpn
 trellis	(ぶどう・つる植物などをはわせる)つるだな|格子垣 / …‘を'格子垣で支える	ejdict
 layoff	【名】一時解雇	booqs
