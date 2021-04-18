@@ -115,7 +115,7 @@ email	Eメール|メール|電子郵便|Eメイル|電子メイル|メイル|電
 shop	店|商店	booqs
 store	【名|C】店|蓄え【動|他】を蓄える|を倉庫に保管する	booqs
 group	グループ|集団	booqs
-re	レニウム|レ|レ	wnjpn
+re	〜に関して(about)	original
 city	市|都市	booqs
 into	～の中へ	booqs
 world	世界	booqs
@@ -171,7 +171,6 @@ power	【名|U】力|権力|支配権|強さ【C】権限|権力者	booqs
 sale	販売|売上高	booqs
 info	情報	booqs
 think	考える|思う	booqs
-de	デラウェア	wnjpn
 public	公の|公的な	booqs
 through	〜を通じて	booqs
 each	各|1つ1つの	booqs
@@ -544,7 +543,6 @@ organization	組織	booqs
 four	4	booqs
 land	陸|土地	booqs
 future	未来	booqs
-oct	十月	wnjpn
 poker	ポーカー	wnjpn
 finance	財政|金融|資金	booqs
 agreement	合意|協定|一致	booqs
@@ -562,14 +560,12 @@ understand	分かる|理解する	booqs
 mean	意味する|価値のある	booqs
 cause	～の原因となる|引き起こす|～させる	booqs
 agency	代理店	booqs
-nov	十一月	wnjpn
 edition	版	booqs
 put	置く	booqs
 event	出来事	booqs
 holiday	休日|祝日	booqs
 receive	受ける|受信する	booqs
 database	【名|C】データベース	booqs
-id	イド|イド|イド	wnjpn
 welcome	ようこそ|歓迎|歓迎する	booqs
 analysis	分析	booqs
 association	団体|協会	booqs
@@ -659,7 +655,6 @@ letter	手紙	booqs
 gold	金	booqs
 stop	止まる	booqs
 response	返答|反応	booqs
-feb	二月	wnjpn
 production	生産	booqs
 several	いくつかの|それぞれの	booqs
 hold	持つ|抱く	booqs
@@ -870,7 +865,6 @@ button	ボタン	booqs
 income	収入	booqs
 political	政治の	booqs
 nature	自然	booqs
-oh	オハイオ|トチノキの州|オハイオ州	wnjpn
 block	妨げる|塞ぐ	booqs
 union	結合|組合|連合	booqs
 environmental	環境の|環境保護の	booqs
@@ -1019,7 +1013,6 @@ module	モジュール	booqs
 basis	基準|基礎	booqs
 listen	聞く	booqs
 alternative	選択肢|代替案	booqs
-fri	金曜日	wnjpn
 wine	ワイン	booqs
 telephone	電話	booqs
 rank	階級|地位|順位付けする	booqs
@@ -1203,11 +1196,9 @@ normal	標準の|正常な	booqs
 accept	受け入れる|受け取る	booqs
 advance	前進する|進む	booqs
 football	サッカー	booqs
-mm	粍|ｍｍ|ミリメータ|ミリ|ミリメートル	wnjpn
 zone	地帯	booqs
 promote	推進する|促進する|奨励する	booqs
 instead	その代わりに	booqs
-fl	フロリダ|サンシャイン州|エバーグレーズの州|フロリダ州	wnjpn
 permit	許可する	booqs
 entire	全体の|完全な	booqs
 educational	教育の	booqs
@@ -1460,7 +1451,6 @@ expect	予期する|期待する	booqs
 plate	皿	booqs
 seven	七	booqs
 secret	秘密の	booqs
-disc	ディスク|レコード|レコード盤|円盤|音盤	wnjpn
 fuel	燃料	booqs
 bond	くっつける|接着する	booqs
 fix	直す	booqs
@@ -1560,9 +1550,7 @@ respond	【動|自】返事する|反応する【動|他】であると答える
 obtain	入手する|(~ A B)AにBを得させる|存続する	booqs
 apparel	衣装|衣料|着類|洋服|装い|お召し|ウエア|御衣|ウェア|衣服|衣服を着せる	wnjpn
 soft	やわらかい|穏やかな	booqs
-mo	一時|一刻|一とき|寸時|一寸|分陰|束の間|寸刻|短時間|分秒|モリブデン|ミズーリ	wnjpn
 optional	自分で選べる|随意の	booqs
-km	粁|キロメートル	wnjpn
 calculate	計算する	booqs
 influence	影響を与える|影響	booqs
 teach	教える	booqs
@@ -1581,7 +1569,6 @@ generally	一般に	booqs
 deliver	配達する|伝える|出産する	booqs
 organisation	体制|主脳部|マネージメント|総督|総領|首脳部|マネジメント|オーガナイゼーション|組織|オーガニゼイション|機構|団体|組職|取り合わせ|システム|体制|構成|系列|構造|系統|組織|体系|配列|秩序|組織|組織|組織化|編制|体制|オーガナイゼーション|構成|構造|組織|組み立て|体系|オーガニゼーション|組成|組立|創始|創業|設立|創立|結成|形成|組織|確立|開設|組成	wnjpn
 festival	祭り	booqs
-congress	連邦議会|アメリカ合衆国議会|コングレス|米国連邦議会	wnjpn
 vary	変わる	booqs
 quickly	速く|すぐに	booqs
 birth	誕生	booqs
@@ -1712,7 +1699,6 @@ framework	構成|構想	booqs
 chip	"【名】薄切り	booqs
 gamma	ガンマ	wnjpn
 scan	詳しく調べる|ざっと目を通す|スキャンする	booqs
-ne	ネオン|ＮＥ|北東|丑寅|東北|艮|コーンハスカーの州|ネブラスカ|ネブラスカ州	wnjpn
 attribute	"【動|他】《BにA》の原因があるとする《A to B》|《BにA》が備わっていると考える《A to B》|《BはA》の作だと考えられている《B be ~ed to A》【名|C】属性	booqs
 ocean	"【名|U】海【名|U】海洋	booqs
 baseball	野球	booqs
@@ -1723,7 +1709,6 @@ automatically	自動的に	booqs
 bargain	格安品|掘り出し物|契約	booqs
 frequency	頻度	booqs
 sister	姉妹	booqs
-wi	a midwestern state in north central United States	wneng
 push	押しのける	booqs
 yesterday	昨日	booqs
 billion	十億	booqs
@@ -1792,7 +1777,6 @@ vice	悪徳|副〜	booqs
 pic	ムーヴィー|フィルム|電影|シネマ|ムービー|エクラン|ピクチャー|活動|写真|活動写真|フォトグラフ|映|ブロマイド|フォト|プロマイド|画像|映し絵|光画|ピクチャー|影像	wnjpn
 minor	小さい|少ない|重要でない	booqs
 hello	こんにちは	booqs
-nj	ニュージャージー|ジャージー島	wnjpn
 equity	株式	booqs
 iv	四分子|四物|四つ物|フォー|フォア|四つ	wnjpn
 signature	署名	booqs
@@ -1840,7 +1824,6 @@ advisor	顧問	booqs
 ratio	比率	booqs
 negative	否定の|後ろ向きの|否定|拒否	booqs
 whatever	～する事は何でも|何であれ|一体何が～	booqs
-math	数学	wnjpn
 intelligence	知能	booqs
 checkout	出る|チェックアウトする|正しいと判明する	booqs
 junior	後輩の|経験の浅い|若い方の|年少者	booqs
@@ -1904,7 +1887,6 @@ paragraph	段落	booqs
 rare	珍しい	booqs
 strip	[1]【動|他】を裸にする|をはぎ取る【自】裸になる.[2]【名】細長い一片|細長い区画|大通り	booqs
 lane	小道|路地|車線	booqs
-nh	ニューハンプシャー州|花崗岩の州|ニューハンプシャー	wnjpn
 exposure	さらすこと|暴露	booqs
 pub	パブ|酒場	booqs
 toll	通行料金	booqs
@@ -2271,7 +2253,6 @@ requirement	必要条件	booqs
 biology	生物学	booqs
 dental	歯科用	booqs
 argue	言い争う	booqs
-ref	審判|レフェリー|審判員|レフリー	wnjpn
 clearance	〈U〉〈C〉(…の)取り片付け|除去|掃除《+『of』+『名』》 / 〈U〉〈C〉(積荷の)通関手続き|(船の)出港免状 / (またclearance sale)〈C〉大棚ざらいの売出し / 〈U〉〈C〉(手形の)決済|(小切手の)現金化 / 〈U〉〈C〉(二つの物の間の)あき|余裕;(特に)道路面・川の面から橋げたまでの高さ / 〈U〉〈C〉秘密情報の使用許可;(秘密情報を扱う人の)信頼性調査;公安調査	ejdict
 mystery	謎|ミステリー	booqs
 leisure	【名|U】余暇|暇|自由な時間【形】暇な|有閑な	booqs
@@ -2320,7 +2301,6 @@ consistent	一貫した|一致した	booqs
 boundary	境界	booqs
 bright	明るい	booqs
 gateway	木戸|ゲート	wnjpn
-mod	モダーン|今風の|現代的|今めかしい|当風|モダン	wnjpn
 prefer	"【動|他】〖A(to B)〗 (Bより)Aの方を好む	booqs
 babe	孩児|緑児|幼児|嬰児|やや|稚児|赤ん坊|ベビー|ベイビー|ねんね	wnjpn
 recognize	認識する	booqs
@@ -2426,7 +2406,6 @@ properly	【副】適切に|妥当に|正式に|正確に|完全に	booqs
 fundamental	基本的な	booqs
 grid	格子|マス目	booqs
 newly	新しく	booqs
-fig	図表|図式|図|数表|図形|図版	wnjpn
 penalty	【名|C】罰、罰金、報い	booqs
 appearance	外観|出現|状況	booqs
 analyze	分析する	booqs
@@ -2761,7 +2740,6 @@ strap	縛る|括る	wnjpn
 brush	磨いたり払うためのハケ	booqs
 subsection	"【名|C】小節	booqs
 stack	積み重ね|積み重ねる	booqs
-biz	your occupation or line of work; "he's in the plumbing game"; "she's in show biz"|your occupation or line of work	wneng
 pine	松|マツ科|マツ	wnjpn
 defendant	【名】被告【形】被告の	booqs
 usual	いつもの	booqs
@@ -2788,7 +2766,6 @@ blend	混ぜ合わせる|組み合わせる	booqs
 semi	"【接頭辞】半…|やや…	booqs
 luck	運	booqs
 beast	四つ脚|毛の荒物|獣畜|4つ脚|アニマル|4つ足|生物|動物|生き物|獣	wnjpn
-nv	ネバダ	wnjpn
 postage	送料	booqs
 ward	区	booqs
 till	～まで	booqs
@@ -2823,7 +2800,6 @@ brake	制動器|抑制|ブレーキをかける	booqs
 adopt	採用する|取り入れる	booqs
 apart	離れて|別々に	booqs
 workplace	"【名|C】仕事場	booqs
-tan	日焼け|サンバーン|日焼|サンタン|狐|トパーズ|トパーズ色|トッパーズ|黄褐色|狐色	wnjpn
 cottage	田舎家|在家|平家|平屋|小屋|宿小屋	wnjpn
 prompt	【動|他】刺激する|促す【形】俊敏な|即座の【副】きっかり	booqs
 illustration	挿絵|図解	booqs
@@ -2966,7 +2942,6 @@ pizza	ピザ	booqs
 screw	看守|牢番|スクリュープロペラ|螺旋釘|ねじ釘|螺子|捻子|ビス|ネジ|スクリュー|螺子釘|ヴィス|捩子|転ばす|ファッキン|セックス|交わる|交接|床入り|同衾|一発やる|寐る|共寝|セックス|ファック|抱く	wnjpn
 candy	あめ|チョコレート菓子|砂糖漬けにする	booqs
 federation	連盟|連邦|フェデレーション|連邦国家|聯邦	wnjpn
-hist	(注意・沈黙を促して)シーッ	ejdict
 consult	相談する|調べる	booqs
 torture	拷問	booqs
 passion	情熱	booqs
@@ -3077,7 +3052,6 @@ acrobat	曲芸師|アクロバット	wnjpn
 vital	【形】生命の|生き生きとした|極めて重大な|命に関わる【名|C】生命維持に必要な器官	booqs
 plenty	たくさん	booqs
 excellence	優秀	booqs
-temp	派遣社員	wnjpn
 cheat	【動|他】騙す 【動|自】不正をする 【名|C】詐欺 【名|U】詐欺師	booqs
 departure	出発|立ち去ること|辞職|逸脱	booqs
 somewhere	どこかに	booqs
@@ -3160,7 +3134,6 @@ ceramic	陶器|セラミック	wnjpn
 tobacco	タバコ	booqs
 mint	多量|許多|山積み|百千|山盛り|あまた|数多|洪水|万斛|鋳造|造る	wnjpn
 orientation	方針|目的|基本的考え|入門指導	booqs
-stud	間柱|角材|種馬|鏤める|散りばめる|散り嵌める|ちりばめる	wnjpn
 pepper	コショウ	booqs
 marker	標識|マーカー&nbsp	booqs
 saudi	サウジ|サウジ	wnjpn
@@ -3204,7 +3177,6 @@ discrimination	差別|優遇|えこひいき|識別眼|鑑識眼	booqs
 rehabilitation	修復|リハビリ	booqs
 atlas	アトラス|地図帳|環椎|環椎骨|歴史地図|アトラス	wnjpn
 rv	キャンピングカー	wnjpn
-wv	a state in east central United States	wneng
 acoustic	音響の;聴覚の / (特に楽器が電気的に増幅・変化されていない)自然音を出す	ejdict
 railway	鉄道	booqs
 protest	抗議|抗議する	booqs
@@ -3217,7 +3189,6 @@ macro	"【複合要素】長い	booqs
 bundle	バンドル|束|包み	booqs
 saver	"【名|C】節約するもの|貯蓄家	booqs
 amd	macular degeneration that is age-related	wneng
-rev	毎分回転数|吹かす	wnjpn
 mood	気分|ムード	booqs
 crap	うんち|屎|糞|汚穢|ばば|くそ|大便|うんこ	wnjpn
 engagement	婚約|約束	booqs
@@ -3232,7 +3203,6 @@ fence	フェンス|囲い	booqs
 detect	見つける|検出する	booqs
 widely	【副】広く|広範囲に|大いに	booqs
 lookup	サーチ|検索	wnjpn
-lat	広背筋	wnjpn
 genuine	本物の|誠実な	booqs
 cemetery	共同墓地|蘭塔場|三昧場|墓所|廟所|メモリアルパーク|青山|仇野|化野|徒し野	wnjpn
 emotional	感情の	booqs
@@ -3357,7 +3327,6 @@ judicial	裁判上	booqs
 dump	"【動|他】（重い荷物など）をどさっと落とす|をどさっと捨てる|を投げ売りする	booqs
 opposition	反対	booqs
 duck	アヒル|カモ|ダック|家鴨|間鴨|鴨|合鴨|竦める	wnjpn
-arch	アーチ|アーチ形|反り様|弓張|弓状|穹窿形|反り|弓形|弓張り|土踏まず|横風|驕傲|恩着せがましい|驕慢|傲然たる|恩がましい|傲慢|彎曲|湾曲|カーブ|反らす|反る|弯曲|カーヴ|反らせる	wnjpn
 montreal	モントリオール	wnjpn
 criticism	批判	booqs
 toilet	手洗|御手洗い|手洗い場|洗面所|手洗場|ご不浄|手水場|雪隠|ラバトリー|用場	wnjpn
@@ -3584,7 +3553,6 @@ fusion	融合	booqs
 tunnel	トンネル	booqs
 anchor	碇|船掛り|船繋り|船がかり|錨|アンカー|船掛かり|据える|停泊|碇泊|投錨	wnjpn
 companion	常連|仲間|侶伴|同士|定連|付添う|付く|付き添う	wnjpn
-lb	英斤|听|ポンド|重量ポンド|パウンド	wnjpn
 grave	墓	booqs
 survivor	生存者|生残り|生残者|生き残り|生還者	wnjpn
 coin	硬貨	booqs
@@ -3658,7 +3626,6 @@ mobility	"【名|U】可動性	booqs
 perfectly	完璧に	booqs
 borrow	借りる	booqs
 instantly	早速|時を移さず|直ぐと|立ち所に|即|ただちに|たちまち|さっそく|直ぐ|忽ち	wnjpn
-gen	艮	wnjpn
 prospective	期待される|起こりそうな	booqs
 horizontal	水平な	booqs
 gem	逸品|珠玉	wnjpn
@@ -3730,7 +3697,6 @@ dock	船渠|港湾施設|波止場|ドックに入れる	booqs
 authentic	真正の|本物の|確実な|信頼できる|本物そっくりの	booqs
 deer	鹿|シカ|牡鹿	wnjpn
 butter	バター|おべっか	booqs
-thru	=through	ejdict
 vaccine	ワクチン	booqs
 loud	音が大きい|うるさい|派手な	booqs
 divide	分ける|分割する	booqs
@@ -3852,7 +3818,6 @@ lemon	檸檬|レモン	wnjpn
 merit	【名|U】価値、優秀さ【名|C】功績、美点【動|他】に値する	booqs
 offensive	【形】攻撃的な、いらいらさせる、【名|C】攻撃	booqs
 notion	【名|C】心に思うこと|考え|意図	booqs
-alt	海抜|標高	wnjpn
 surgical	外科の	booqs
 timer	【名|C】時間記録係|秒時計|タイマー	booqs
 calm	穏やかな	booqs
@@ -3882,7 +3847,6 @@ offshore	【形】沖合いの|海外に移された|【副】沖合いに|海�
 occasionally	時折に	booqs
 jail	刑務所	booqs
 emission	放射	booqs
-spec	規格|仕様|仕樣|スペック	wnjpn
 fountain	噴水	booqs
 realty	不動産	wnjpn
 apparent	【形】明白な|外見上の	booqs
@@ -3914,7 +3878,6 @@ cox	コックス|艇長|治める	wnjpn
 explicit	明示的な	booqs
 cuisine	レシピ|レシピー|料理法|調理法	wnjpn
 radius	半径	booqs
-sept	九月	wnjpn
 exceptional	【形】例外の|まれな|非常にすぐれた	booqs
 jar	甕|広口瓶|瓶|ぶつかり合う|分かれる|牴牾|食違う|相対する|食い違う|揺する|ガタガタ|揺らぐ|揺すぶる|ゆする|揺り動かす|揺りうごかす|揺す振る|揺るがす|揺るぐ	wnjpn
 cube	正六面体|立方体	wnjpn
@@ -3958,7 +3921,6 @@ millennium	千年紀|千年期|ミレニアム	wnjpn
 melt	解凍|溶解|融雪|融解|溶ける|鎔ける|溶かす|融ける|熔ける	wnjpn
 appraisal	鑑定	booqs
 taxi	タクシー	booqs
-prep	予習|ホームワーク|宿題	wnjpn
 technological	科学技術の	booqs
 flyer	チラシ	booqs
 alias	作り名|仮名|別名|別称|偽名|筆名|雅号|異称|通称|またの名を|別名は	wnjpn
@@ -4207,7 +4169,6 @@ barrier	バリア|障壁	booqs
 incorrect	【形】不正確な|誤った|適切でない	booqs
 narrative	物語	booqs
 furnishing	(usually plural) accessory wearing apparel|accessory wearing apparel|(usually plural) the instrumentalities (furniture and appliances and other movable accessories including curtains and rugs) that make a home (or other area) livable|the instrumentalities (furniture and appliances and other movable accessories including curtains and rugs) that make a home (or other area) livable|the act of decorating a house or room	wneng
-wy	ワイオミング	wnjpn
 reside	住する|住む|住う|住まう|居住	wnjpn
 caution	注意	booqs
 thereby	それによって	booqs
@@ -4337,7 +4298,6 @@ marble	大理石	booqs
 confusion	混乱	booqs
 nervous	神経質な|緊張して	booqs
 vault	納骨堂|骨堂|地下納骨所|飛ぶ|飛ぶ	wnjpn
-col	鞍部	wnjpn
 transcription	転写	booqs
 regulate	規制する	booqs
 superb	"【形】見事な	booqs
@@ -4511,7 +4471,6 @@ chronicle	話説|由来書き|ヒストリ|青史|所記|歴史|史乗|物語り
 crest	頂上|頂|頂点	wnjpn
 flux	流れ、流束	booqs
 ladder	はしご	booqs
-sync	同期化|同調|シンクロナイズ|シンクロさせる|同期させる	wnjpn
 seventh	七日|七日|七日	wnjpn
 arctic	北極地方|北寒帯|北極|北極帯	wnjpn
 ambassador	大使	booqs
@@ -4521,7 +4480,6 @@ monument	記念碑	booqs
 terminate	終わらせる|中絶する|解雇する|暗殺する	booqs
 accomplish	"【動|他】（仕事・目的など）を成し遂げる	booqs
 medicaid	国民医療保障	wnjpn
-nat	Not. [Obs.] Chaucer.	websters
 thunder	轟|地響き|唸り|轟き|爆音	wnjpn
 infrared	赤外|赤外	wnjpn
 appreciation	感謝	booqs
@@ -4553,7 +4511,6 @@ wilderness	原野|未開地|曠野|荒蕪地|荒れ野|荒原|荒野	wnjpn
 leap	飛び跳ねる|跳躍	booqs
 protector	保護者	wnjpn
 insertion	掲載|導入|挿入	wnjpn
-quad	四重|カッド|四頭筋|大腿四頭筋|カッド|スペース|カッド|中庭|カッド	wnjpn
 rifle	鉄砲|筒|小銃|小筒|銃|ライフル|ライフル銃|分捕る|奪い取る|掠め奪う|押取る|略取|押し取る|寇掠|略す|掠める|収奪	wnjpn
 humanity	ヒュマニティ|人間み|人間味|人情味|ヒューマニチー|仁愛|ユーマニテー|仁|人情|ヒューマニティー	wnjpn
 curse	悪罵|罰当たりな言葉|罵り|下品な言葉|ののしりの言葉|ののしり|悪態|冒涜的な間投詞|悪罵|毒突く|毒づく	wnjpn
@@ -4563,7 +4520,6 @@ hierarchy	階層	booqs
 tractor	トラクター|トラクタ	wnjpn
 coil	巻き|巻|捲線|コイル|廻る|廻転|回る	wnjpn
 react	反応する	booqs
-vet	獣医|獣医師	wnjpn
 partially	部分的に	booqs
 lid	目蓋|眼瞼|目縁|瞼	wnjpn
 thesaurus	シソーラス|類語辞典	wnjpn
@@ -4632,7 +4588,6 @@ expose	さらす|暴く	booqs
 floppy	フロッピ|フロッピィ|ディスケット|フレキシブルディスク|フロッピーディスク|フロッピー	wnjpn
 ix	９|九つ|ナイン|エジプト九柱の神々|玖|9個の|9人の|9の|九の	wnjpn
 blink	目弾き|瞬ぎ|目弾|まばたき|瞬き|転瞬|瞬|瞬く|瞬き	wnjpn
-dim	蒼然たる|薄暗い|仄暗い|小暗い|薄ぐらい|小ぐらい|ほの暗い|うす暗い	wnjpn
 compliant	従順な|素直な	ejdict
 minus	マイナス	booqs
 rational	合理的な	booqs
@@ -4671,7 +4626,6 @@ render	(~ A B)AをBにする|伝える	booqs
 warn	警告する	booqs
 landlord	家主	booqs
 incomplete	不完全な	booqs
-rand	ランド|ビトバーテルスラント|ランド	wnjpn
 chubby	太った|丸々と太った	wnjpn
 prohibit	禁止する|(A from doing)Aが...するのを妨げる	booqs
 epic	エピック|叙事詩|譚歌|壮大|大きい|大規模	wnjpn
@@ -4693,7 +4647,6 @@ gotta	have(has) got toの縮約形	ejdict
 enormous	巨大な	booqs
 tick	ダニ	booqs
 quantitative	量的な	booqs
-exec	ホワイトハウス	wnjpn
 ev	電子ボルト	wnjpn
 livestock	家畜|畜類	wnjpn
 sustainability	【名|U】持続可能性	booqs
@@ -4748,7 +4701,6 @@ interstate	インターステートハイウェイ|インターステート|州�
 junk	がらくた|くず|くだらないもの	booqs
 pod	殻|さや|莢|さや|群れ|ポッド	wnjpn
 thanksgiving	感謝祭の日|感謝祭	wnjpn
-idol	神|偶像	wnjpn
 revenge	報復|御返し|復仇|お返し|復讐|会稽|仕返し|復讎|意趣晴らし|意趣返し|報復|御返し|竹蓖返し|返礼|しっぺい返し|復仇|竹蓖返|お返し|復讐|仕返し	wnjpn
 standing	地位|ステータス|地歩|羽振り|格|ステイタス|格式	wnjpn
 equilibrium	平衡	booqs
@@ -4883,7 +4835,6 @@ chromosome	染色体	booqs
 fleece	羊皮|羊毛|吹掛ける|吹きかける|打たくる|ぼる|吹っ掛ける|吹っかける|打ったくる|ぶったくる|吹き掛ける|ふんだくる|刈る	wnjpn
 consistency	一貫性	booqs
 hearing	聴聞会|問注|審問|聴聞	wnjpn
-eval	Relating to time or duration. [Obs.]	websters
 efficiently	"【副】効率的に	booqs
 textbook	教科書	booqs
 metallic	メタリック|金属的	wnjpn
@@ -5330,7 +5281,6 @@ renovation	【名|C】修繕|刷新|改装	booqs
 relaxation	くつろぎ	booqs
 psychiatry	精神病理学|精神医学|精神科	wnjpn
 playback	再生	wnjpn
-err	(判断・考え方・選択などで)『誤る』|まちがえる;過ちを犯す|罪を犯す《+『in』+『名』(do『ing』)》 / (正道・目的などから)それる|逸脱する《+『from』+『名』》	ejdict
 persistent	持続的	booqs
 absorption	【名|U】吸収|合併|夢中になること	booqs
 helper	お手伝い|補佐人|助っと|輔佐|御手伝|ヘルパー|補佐|御手伝い|助手|副手|後押し|篤志家|支援者|支持者|寄進者|施主|後援者	wnjpn
@@ -5338,7 +5288,6 @@ banquet	晩餐会|大宴会|晩餐会を催す|御馳走を食べる	booqs
 manifest	積荷目録|端的|昭然たる|歴然たる|判然たる|章々たる|著明|瞭然たる|明白|現然たる|照照たる|立証|証明|証す|示す|証する|実証	wnjpn
 inventor	開祖|創案者|発見者|ディスカバラー|発明者	wnjpn
 subtle	"微妙な	booqs
-ind	India. [Poetical] Shak. Milton.	websters
 magnificent	雄大|素晴しい|素晴らしい|堂堂たる|宏壮|壮観|壮大|荘厳|壮麗|堂々たる	wnjpn
 colleague	同僚	booqs
 promptly	即時	booqs
@@ -5707,7 +5656,6 @@ traditionally	伝統的に	booqs
 webb	English writer and a central member of the Fabian Society (1858-1943)|English sociologist and economist and a central member of the Fabian Society (1859-1947)	wneng
 kc	キロサイクル|キロヘルツ	wnjpn
 solicitation	勧誘|募金|誘惑	wnjpn
-hen	雌鶏|牝鳥|雌鳥|牝鶏|牝鷄	wnjpn
 limo	リムジン|リムジーン	wnjpn
 rotate	回転する	booqs
 approximation	近似値	booqs
@@ -5881,7 +5829,6 @@ brokerage	【名|U】仲買業|仲買手数料【C】仲介会社	booqs
 nih	アメリカ国立衛生研究所	wnjpn
 wherein	《疑問副詞》どの点で(in what way);どういう意味で(in what sense) / 《関係副詞》 / 《制限用法》[…で]…するところの(in which) / 《非制限用法》そしてそこに(で)	ejdict
 elastic	弾性のある|柔軟な	booqs
-hex	ジンクス|呪い|魔女|化かす|悩殺|幻惑|魅す	wnjpn
 ninth	第九|第九	wnjpn
 parkway	公園道路|パークウェイ	wnjpn
 straw	麦藁|麦稈|ストロー|麦わら|麦わら色の|淡黄色の|散播く|散蒔く|振り撒く	wnjpn
@@ -5947,7 +5894,6 @@ soak	浸すこと|つけること|水漬く|押し浸す|漬ける|漬る|浸漬
 chop	チョップ|チョップ|チョップ|高くバウンドするゴロ|打ちきる|切る|打切る|打ち切る|打ち割る|刻む|打割る|小切る	wnjpn
 timeout	タイム[アウト](試合の一時中止);休憩	ejdict
 muse	ムーサ|ミューズ|思い見る|熟考|思巡らす|考え抜く|思い回す|熟思|思索|思見る|按ずる|三思	wnjpn
-ret	place (flax, hemp, or jute) in liquid so as to promote loosening of the fibers from the woody tissue	wneng
 rechargeable	capable of being recharged; "a rechargeable battery"|capable of being recharged	wneng
 culinary	料理の	booqs
 huh	ふん|へえ;えっ(驚き・軽べつ・質問などを表し|鼻にかけて発音する)	ejdict
@@ -6088,7 +6034,6 @@ ego	思い上がり|自尊	wnjpn
 inheritance	家督相続|跡取リ|跡継|世襲|跡取|後つぎ|跡継ぎ|跡つぎ|後継ぎ|跡取り	wnjpn
 misplace	置き間違える|間違って与える|置き忘れる	booqs
 pulp	パルプ|パルプ	wnjpn
-inst	in or of the present month; "your letter of the 10th inst"|in or of the present month	wneng
 slaughter	屠殺|畜殺|屠殺|畜殺|潰す|屠る	wnjpn
 stiff	凡夫|人|凡人|こわばって|堅くなって|固い	wnjpn
 carbohydrate	糖|糖類|含水炭素|サッカライド|サッカリド|炭水化物|糖分|糖質	wnjpn
@@ -6257,7 +6202,6 @@ footer	フッター|ペデストリアン|徒人|フッター|脚註|脚注	wnjp
 autism	自閉症	wnjpn
 deli	デリカテッセン	wnjpn
 inability	できないこと	booqs
-cor	(驚いて)わあっ|えっ	ejdict
 coronary	冠状動脈	booqs
 consume	消費する	booqs
 enjoyment	快事|娯しみ|楽しみ|慶び|御楽|佚楽|愉快|喜び|楽しび|悦び	wnjpn
@@ -6330,7 +6274,6 @@ nip	ショット|ジャップ|風味|味い|味わい|こく|清涼さ|冷涼|�
 symmetry	対称|相称であること|相称|シンメトリー|対称性	wnjpn
 vicinity	傍近|近間|真近|付近|附近|周囲|界隈|近傍|周り|四辺	wnjpn
 purification	斎戒沐浴|純化|清め|斎戒|斎戒もく浴|浄化|精製	wnjpn
-gloss	注|注解|用語集|色|色つや|色彩|風情|カラー|色合い|呈色|外観|趣|色艶|注釈|色付け	wnjpn
 organism	生命体	booqs
 thyroid	甲状腺	wnjpn
 symptom	症状|兆候	booqs
@@ -6524,7 +6467,6 @@ horde	大勢|多勢|大群	wnjpn
 positively	積極的に	booqs
 legion	多い|おびただしい|ぎょうさん|夥しい|膨大	wnjpn
 sorrow	哀悼痛惜|弔い|哀惜|弔意|哀悼|泣く|弔う	wnjpn
-vac	休み	wnjpn
 ich	I. [Obs.] Chaucer.	websters
 rhapsody	狂詩曲|狂想曲|ラプソディー	wnjpn
 swamp	湿原|溢れさせる	wnjpn
@@ -6589,7 +6531,6 @@ deco	デコ・ソウザ|アールデコ	wnjpn
 sensible	"分別がある	booqs
 unlawful	不正	wnjpn
 accountable	【形】説明のつく|説明できる|（説明する）責任がある	booqs
-imp	ブラウニー|小悪魔|ホブ|インプ|グレムリン|ピクシー|エルフ|小妖精|子鬼	wnjpn
 procedural	手続き的	wnjpn
 delightful	楽しい|おもろい|愉快|おもしろい|悦ばしい|小気味好い|心嬉しい|愉しい|喜ばしい|心うれしい	wnjpn
 discography	a descriptive catalog of musical recordings	wneng
@@ -6968,7 +6909,6 @@ axle	軸|心棒|車軸|機軸|心木	wnjpn
 weed	雑草	wnjpn
 lizard	リザード|蜥蜴|トカゲ	wnjpn
 saloon	赤ちょうちん|サロン|スタンドバー|bar|酒所|酒肆|居酒屋|スナック|呑み屋|飮み屋	wnjpn
-tsp	teaspoon / teaspoonful	ejdict
 kettle	湯釜|薬鑵|湯沸かし|薬缶|薬罐|湯わかし|釜|やかん|ケトル|湯沸し	wnjpn
 sneak	スニーカー|密|密やか|忍びやか|忍び寄る	wnjpn
 serenity	静穏さ|平安|康寧|沈静|安らぎ|安静|静穏|安穏|平穏|安心	wnjpn
@@ -7335,7 +7275,6 @@ fragile	脆い|壊れやすい|脆弱な|虚弱な	booqs
 boycott	ボイコット	booqs
 gypsy	ジプシー|ジプシー	wnjpn
 sling	スリング|パチンコ|三角巾|投石器で射る|カタパルトで打ち出す	wnjpn
-ord	An edge or point|also, a beginning. [ Obs. or Prov. Eng.]Chaucer. Ord and end, the beginning and end. Cf. Odds and ends, underOdds. [Obs. or Prov. Eng.] Chaucer. Halliwell.	websters
 challenger	競争相手|敵人|挑戦者|敵|対敵|ライバル|相手|競合者|敵さん|対抗者	wnjpn
 alteration	変易|変替|変更|遷移|模様替|変転|変わり様|遷り変わり|うつり変わり|遷り変り	wnjpn
 supper	軽い夕食	wnjpn
@@ -7373,7 +7312,6 @@ crust	地殻	wnjpn
 gentoo	A native of Hindostan|a Hindoo. [Archaic]	websters
 surcharge	サーチャージ|吹掛ける|吹きかける|打たくる|ぼる|吹っ掛ける|吹っかける|打ったくる|ぶったくる|吹き掛ける|ふんだくる	wnjpn
 rainforest	雨林|熱帯雨林	wnjpn
-sax	サックス|サキソホン|サクソフォン|サキソフォン|サックス	wnjpn
 driveway	私有車道|ドライブウエー|私道	wnjpn
 envision	思い描く|想描く|想い描く|イメージ|想見|思いえがく|想像|思描く|想い浮かべる	wnjpn
 deem	みなす	booqs
@@ -7382,7 +7320,6 @@ excavation	採掘|掘鑿|穴掘り|掘削|発掘|穴掘|発掘作業	wnjpn
 emblem	象徴|エンブレム|表号|旗幟|表象	wnjpn
 routinely	"【副】日常的に	booqs
 managerial	経営者の	booqs
-fab	extremely pleasing; "a fabulous vacation"|extremely pleasing	wneng
 kappa	カッパ(ギリシア語アルファベットの第10字Κ|κ;英語の『K|k』に相当)	ejdict
 ontology	オントロジー|存在論	wnjpn
 humorous	可笑しい|面白可笑しい|おかしい|滑稽|ユーモラス|面白おかしい|面白い	wnjpn
@@ -7617,7 +7554,6 @@ biochemical	生化学の	ejdict
 repetitive	しつっこい|しつこい|ねつこい|ねつっこい|ひつこい	wnjpn
 ponder	思い見る|熟考|思巡らす|考え抜く|思い回す|熟思|思索|思見る|按ずる|三思	wnjpn
 concur	讃する|賛成|賛同|同ずる|同意|同じる|賛する	wnjpn
-commend	褒め上げる|褒め奉る|嘉賞|褒め立てる|称讃|賛称する|賞する|誉めちぎる|讃称する|論賛	wnjpn
 panoramic	鳥瞰的	wnjpn
 clover	クローバー	wnjpn
 stakeholder	利害関係者	booqs
@@ -7869,7 +7805,6 @@ briefing	ブリーフィング	wnjpn
 adversely	in an adverse manner; "she was adversely affected by the new regulations"|in an adverse manner	wneng
 sectional	局部	wnjpn
 ligand	配位子	wnjpn
-conn	conduct or direct the steering of a ship or plane	wneng
 watermark	喫水線|載貨喫水線|水位線	wnjpn
 minimise	最小化|極小化	wnjpn
 callback	欠陥製品の回収	ejdict
@@ -7906,7 +7841,6 @@ beginning	起首|幕開き|出出し|出々し|幕開|始り|序開|発端|起�
 bitmap	ビットマップ	wnjpn
 inception	初め|発端(beginning)	ejdict
 forbid	禁じる|差し止める|許さない	booqs
-lex	Law|as, lex talionis, the law of retaliation|lex terræ, thelaw of the land|lex fori, the law of the forum or court|lex loci,the law of the place|lex mercatoria, the law or custom of merchants.	websters
 sleeper	眠っている人 / =sleeping car / 《米話》思いがけずに成功する人物;与想外に人気の出るもの(映画・劇・本など) / 《英》=tie5	ejdict
 remuneration	俸給|給料|ペイ|労賃|賃金|賃銭|サラリー|報酬|給与|給金	wnjpn
 pint	パイント|パイント|パイント	wnjpn
@@ -8001,7 +7935,6 @@ manpower	人手|稼働人口|人|マンパワー|人員|労働力人口|労働�
 staple	主食	booqs
 slug	鉄砲玉|弾|てっぽう弾|てっぽう玉|鉄砲だま|鉄砲弾|銃丸|銃弾|弾丸|強打|ぶん殴る|猛打	wnjpn
 refundable	【形】返金可能な|払い戻しができる	booqs
-astronaut	宇宙飛行士|スペースマン|アストロノート|コスモノート	wnjpn
 trendy	トレンディ	wnjpn
 slider	スリッパ|スライダー	wnjpn
 neurological	神経学的	wnjpn
@@ -8112,7 +8045,6 @@ nope	いいや|いえ(no)	ejdict
 vortex	渦巻き|渦|渦巻|渦状|渦巻き|渦|渦巻|渦動	wnjpn
 weaken	弱める|弱体化する	booqs
 extractor	遠心機|遠心分離機	wnjpn
-meth	メタンフェタミン	wnjpn
 morphology	形態学	booqs
 riff	リフィアーノ|目を通す|ざっと目を通す	wnjpn
 scorpion	サソリ|蠍	wnjpn
@@ -8151,7 +8083,6 @@ vodka	ウォッカ	wnjpn
 rollover	ロールオーバー	wnjpn
 gratitude	謝意|感謝|有り難さ|謝恩|有難さ|有りがたさ	wnjpn
 edible	食べられる|可食	wnjpn
-anon	《古・詩》ほどなく|やがて / いつか|そのうちに / すぐさま	ejdict
 eminent	高い|豪い|偉い|高級|高等	wnjpn
 veggie	草片|ベジタブル|野菜|蔬菜	wnjpn
 greyhound	グレイハウント(大型の猟犬の一種;dog raceに使う)	ejdict
@@ -8208,7 +8139,6 @@ revolt	逆乱|謀反|造反|謀叛|乱逆|御謀叛|反逆|ご謀叛|反乱|叛�
 mainframe	汎用コンピューター|汎用型コンピューター|メインフレーム|汎用コンピュータ|汎用型コンピュータ|プロセッサ|中央演算処理装置|プロセッサー|中央処理装置|CPU	wnjpn
 guesthouse	ゲストハウス	wnjpn
 antitrust	"【形】トラスト反対の	booqs
-proto	主要	wnjpn
 contradict	否定する|矛盾する	booqs
 inject	注入する	booqs
 addendum	後がき|跋|後書き|後序|後書|跋語|後記|跋文|あと書き	wnjpn
@@ -8385,7 +8315,6 @@ ergonomic	of or relating to ergonomics	wneng
 furious	猛烈|濘猛|強暴|劇しい|烈しい|凄まじい|獰猛|凄じい|凶猛|兇猛	wnjpn
 gin	ジン|綿繰り機|ジン	wnjpn
 ceiling	天井	booqs
-writ	〈C〉令状 / 《the Holy Writ》聖書	ejdict
 kp		wnjpn
 unsafe	不安定|危ない|剣呑|やばい|危険|危い|危うい|物騒	wnjpn
 unidentified	不明|無名の	wnjpn
@@ -8538,7 +8467,6 @@ blouse	ブラウス	wnjpn
 suffice	間にあう|まに合う|事足りる|足りる|間に合う|満たす|足る|事足る	wnjpn
 unrestricted	無制限	wnjpn
 happening	出来事|でき事	wnjpn
-contempt	軽べつ|蔑み|侮り|蔑視|侮|貶み|貶|軽視|蔑|侮慢	wnjpn
 socialism	ソシアリズム|社会主義|ソーシャリズム	wnjpn
 anarchy	無法|無政府状態|乱世|無政府|無法状態|無警察	wnjpn
 ineffective	"効果のない	booqs
@@ -8666,7 +8594,6 @@ hummingbird	(アメリカ種の)ハチドリ	ejdict
 dreamy	ドリーミー|夢幻的|幻想的|ファンタジック	wnjpn
 spoof	パロデイ|パロディー|パロディ|替え歌	wnjpn
 backstage	ウイング|舞台の袖|ウィング|バックステージ|袖|舞台裏|舞台裏	wnjpn
-crypt	地下室|(特に)教会堂の地下室(小礼拝室・納骨室に用いる)	ejdict
 acquaintance	知っていること|熟知|詳しさ|委しさ|知識|精通|面識	wnjpn
 intuition	直感|直覚|六感|第六感|勘|直観	wnjpn
 giggle	忍び笑い	wnjpn
@@ -8830,7 +8757,6 @@ tickle	くすぐり|擽る|擽ぐる|擽る|擽ぐる	wnjpn
 ashamed	恥じている	booqs
 commemorate	祝す|祝する|記念	wnjpn
 gathering	集団|人だかり|団|集まり|群集|人集|群衆|人集り|群|群がり|会合|アセンブリー|集結|コンベンション|集|会|集まり|会議|コンヴェンション|会集	wnjpn
-nom	Name. Nom de guerre (, literally, war name|hence, a fictitiousname, or one assumed for a time.-- Nom de plume (, literally, pen name|hence, a name assumed by anauthor as his or her signature.	websters
 ire	向かっ腹|向っ腹|腹立|憤り|鬱憤|怒|腹立ち|怒気|怒り|憤懣|鬱憤|怒気|立腹|忿怒|怒り|憤懣|憤怒|忿懣|欝憤	wnjpn
 scribe	スクリーブ|代書人|代書|代書	wnjpn
 unabridged	(本などが)省略のない|完全な	ejdict
@@ -9058,7 +8984,6 @@ corsair	海賊|海賊	wnjpn
 workaround	次善策・本来の方法でうまくいかないときの代わりの方法・回避方法	ejdict
 jargon	通言|スラング|隠詞|通符牒|隠し言葉|隠語|ジャーゴン|通りことば|通言葉|位相語	wnjpn
 shoppe	(おもに店の看板に用いて)=shop	ejdict
-intellect	理知|知能|智|知力|知性|理智|知|智力|頭脳|智能	wnjpn
 torso	上半身|体幹|胴部|バディ|バディー|躯幹|胴|胴体|ボデー|ボディ	wnjpn
 annoy	いらいらさせます	booqs
 playhouse	劇場 / (中で遊べるようになった)子供の家 / おもちゃの家	ejdict
@@ -9469,7 +9394,6 @@ fha	ＦＨＡ|連邦住宅局	wnjpn
 pancreatic	膵臓の	ejdict
 receptacle	器物|器|入物|入れ物|容器	wnjpn
 fiduciary	"【形】信用上の	booqs
-viz	To wit|that is|namely.	websters
 digger	パワーショベル	wnjpn
 collectable	things considered to be worth collecting (not necessarily valuable or antique)|subject to or requiring payment especially as specified; "a collectible bill"; "a note payable on demand"; "a check payable to John Doe"|subject to or requiring payment especially as specified	wneng
 shortfall	不足額	booqs
@@ -9590,7 +9514,6 @@ disgust	嫌悪	booqs
 lighten	…‘を'『明るくする』|照らす / 〈顔・目など〉‘を'輝かせる / 『明るくなる』 / 〈表情が〉明るくなる|晴れやかになる / 《itを主語にして》いなびかりがする	ejdict
 viscosity	粘着力|粘性|粘性のあること|粘り|粘力|粘着性	wnjpn
 immunoglobulin	免疫グロブリン	wnjpn
-seg	A castrated bull. [Prov. Eng. & Scot.] Halliwell.	websters
 counterfeit	偽作|偽造|贋作|贋造	wnjpn
 outlay	経費	booqs
 terminus	終点|到達点|ディスティネーション|デスティネーション|最終目標|終点|終点|ターミナル|停留所	wnjpn
@@ -9620,7 +9543,6 @@ elasticity	弾性	booqs
 unload	降ろす|売り払う|(カメラ・銃)から弾丸やフィルムを抜く	booqs
 normative	規範的|規範的	wnjpn
 spade	スペード	wnjpn
-surg	surgeon / surgery / surgical	ejdict
 longtime	長年の|長い間の	ejdict
 versatility	多才	wnjpn
 intricate	複雑	wnjpn
@@ -10340,7 +10262,6 @@ capitalization	【名|U】資本化|投資|大文字の使用	booqs
 merlot	メルロー|メルロー	wnjpn
 iodine	I|沃度|ヨウ素|アイオダイン|ヨード|沃素	wnjpn
 unilateral	一面的|片側だけの|一側性の|一方的	wnjpn
-taxon	分類群|タクソン	wnjpn
 fro	From|away|back or backward|-- now used only in oppositiontothe word to, in the phrase to and fro, that is, to and from. See Toand fro under To. Millon.	websters
 pur	To utter a low, murmuring, continued sound, as a cat does whenpleased. [Written also purr.]	websters
 urgently	緊急に	booqs
@@ -10471,7 +10392,6 @@ psoriasis	乾癬	wnjpn
 crystalline	澄み切った|透徹した|透明	wnjpn
 famed	隠れ無い|知名|隠れない|著名|有名|名高い|高名	wnjpn
 constrain	"【動|他】強いる	booqs
-resid	oil products that remain after petroleum has been distilled	wneng
 respite	小康|休み|小憩|ひと休み|お休み|たんま|ポーズ|休息|少憩|中休|業間	wnjpn
 readership	《単数形で》(特定の新聞・本などの)読者[層] / 《単数形で》読者数|購売数 / (特に英国の大学の)講師の地位(職)	ejdict
 sharpen	尖らす|尖んがらす|尖らかす|尖んがらかす|研ぎ澄ます|研ぎ澄す|磨ぎ澄ます|研澄ます|磨澄ます|鋭化|焦点を合わせる	wnjpn
@@ -10508,7 +10428,6 @@ circuitry	電気回路 / 電気回路構成物(真空管など)	ejdict
 corollary	(数学で)系 / 《文》必然的結果|帰結	ejdict
 cohesion	結合力のあること|結合の緊密さ|結合|纏り|纏まり	wnjpn
 reconnaissance	偵察	wnjpn
-veg	草片|ベジタブル|野菜|蔬菜	wnjpn
 serotonin	セロトニン	wnjpn
 avert	免れる|避く|回避|避ける	wnjpn
 iw	the use of information or information technology during a time of crisis or conflict to achieve or promote specific objectives over a specific adversary or adversaries; "not everyone agrees that information warfare is limited to the realm of traditional warfare"|the use of information or information technology during a time of crisis or conflict to achieve or promote specific objectives over a specific adversary or adversaries	wneng
@@ -11158,7 +11077,6 @@ resilient	弾力のある	wnjpn
 spiritually	霊的に|宗教的に|精神的に	wnjpn
 attentive	『注意深い』 / 『手厚い』|いんぎんな	ejdict
 dandy	ダンディー|伊達者|伊達衆|ダンディ|粧屋|伊達男|洒落者|粧し屋|洒落男|すばらしい|好い|素適|素晴しい|素晴らしい|かっこ良い|優等|いい|すてき|良い	wnjpn
-trad	トラッド	wnjpn
 assimilation	同化	wnjpn
 lyrical	=lyric / 感情を誇張した	ejdict
 bleak	暗黒|真っ暗|闇黒|まっ暗|真暗	wnjpn
@@ -11507,7 +11425,6 @@ cromwell	クロムウェル	wnjpn
 sentry	(特に軍隊の)番兵|歩哨;張り番	ejdict
 lingual	舌|言語的	wnjpn
 unframed	not provided with a frame; "unframed pictures"|not provided with a frame	wneng
-iter	A passage|esp., the passage between the third and fourthventricles in the brain|the aqueduct of Sylvius.	websters
 bassist	ベーシスト	wnjpn
 punto	A point or hit. Punto diritto Etym: [It.], a direct stroke orhit.-- Punto reverso Etym: [It. riverso reverse], a backhanded stroke.Halliwell. "Ah, the immortal passado! the punto reverso!" Shak.	websters
 agribusiness	農業関連産業|アグリビジネス|農企業	wnjpn
@@ -11582,7 +11499,6 @@ histology	組織学	wnjpn
 overwhelmingly	抵抗できないほど強い|いやおうなしに|抵抗できないほど	wnjpn
 waterway	水道|水理|水尾|水路|澪|運河|水脈	wnjpn
 synthesize	合成	wnjpn
-kilo	キロ|キログラム	wnjpn
 atrial	of or relating to a cavity or chamber in the body (especially one of the upper chambers of the heart)	wneng
 centenary	１００年祭|百年祭	wnjpn
 airflow	気流	wnjpn
@@ -11954,7 +11870,6 @@ gid	A disease of sheep, characterized by vertigo|the staggers. Itis caused by th
 daimler	ダイムラー	wnjpn
 microchip	チップ|マイクロチップ	wnjpn
 tadalafil	virility drug (trade name Cialis) used to treat erectile dysfunction in men	wneng
-gard	Garden. [Obs.] "Trees of the gard." F. Beaumont.	websters
 jem	a terrorist organization founded in 2000; a militant Islamic group active in Kashmir and closely aligned with al-Rashid Trust; seeks to secure release of imprisoned fellow militants by kidnappings|a terrorist organization founded in 2000|a militant Islamic group active in Kashmir and closely aligned with al-Rashid Trust|seeks to secure release of imprisoned fellow militants by kidnappings	wneng
 brilliantly	あかあか|明々と|燦爛|炳として|昭昭|煌々|赤赤と|ぴかっと|昭々|燦々	wnjpn
 ionization	イオン化|イオン化	wnjpn
@@ -12611,7 +12526,6 @@ gloom	冥暗|暗黒|冥闇|真っ暗さ|薄暗さ|暗がり	wnjpn
 aikido	合気道	wnjpn
 astrological	星占いの|占星の|占星学の	ejdict
 nobility	公卿|公家|雲上人|貴人|アリストクラシ|貴族階級|貴族|アリストクラシー|華族|崇高|高遠さ|高貴さ|高尚さ|高潔さ|高貴|高邁さ|尊さ|貴さ|偉大さ	wnjpn
-arb	someone who engages in arbitrage (who purchases securities in one market for immediate resale in another in the hope of profiting from the price differential)	wneng
 noncompliance	不従順|不遵守|不履行|応じないこと|不服従|不順守|不軌|反抗	wnjpn
 ashore	岸に|浜に|岸へ|浜へ	wnjpn
 swimmer	泳者|スイマー|浴客|スイマー	wnjpn
@@ -13238,7 +13152,6 @@ mistakenly	誤解して|間違って	wnjpn
 posit	仮定|公準|据える|据え置く|固定|据え付ける|据えおく|据付ける|据えつける|据置く|しっかりと置く|申し立てる|申し上げる|表明|陳じる|申したてる|言い立てる|言立てる|申立てる|陳べる|申し出る|仮定	wnjpn
 radiative	(光・熱を)放射する / 発光する|発熱する	ejdict
 intimately	親密|密接に|直|近く	wnjpn
-cwt	センタル|ハンドレッドウェイト|ハンドレッドウェイト	wnjpn
 excretion	排出|排泄|通じ|排尿|お通じ|便通|排便|御通|御通じ	wnjpn
 vacate	退く|辞任する|立ち退く|無効にする	booqs
 bioassay	生物検定|バイオアッセイ	wnjpn
@@ -13382,7 +13295,6 @@ nutcracker	ゴジュウカラ|ホシガラス|ホシガラス	wnjpn
 cess	運	ejdict
 electrochemical	of or involving electrochemistry	wneng
 slalom	スラローム	wnjpn
-calif	カリフ	wnjpn
 transmittal	発信|送信	wnjpn
 powerless	非力|無能|無力	wnjpn
 slurp	…‘を'音をたてて飲む(食べる) / 音をたてて飲む(食べる)	ejdict
@@ -13434,7 +13346,6 @@ germination	発芽	wnjpn
 attrition	摩擦|摩滅|摩擦|研削|摩滅|摩擦|摩擦|摩擦	wnjpn
 proverb	名言|俚諺|諺|里諺|金言|格言|箴|俗諺|成句|諺語	wnjpn
 mercenary	風雲児|傭兵|俗	wnjpn
-sess	ウイード|草|ドープ|ウィード	wnjpn
 wearer	着用者	wnjpn
 convocation	召集|集会|召集	wnjpn
 brocade	錦	wnjpn
@@ -13543,7 +13454,6 @@ subconscious	潜在意識|下意識の|潜在意識の	wnjpn
 incandescent	白熱した|白熱光を発する	wnjpn
 capstone	笠石|笠石	wnjpn
 workday	仕事日|平日|ウィークデー	wnjpn
-circ	An amphitheatrical circle for sports|a circus. [R.] T. Warton.	websters
 condensate	凝縮|濃縮|凝集	wnjpn
 firewood	薪|たき木|焚き木	wnjpn
 watergate	ウォーターゲート事件	wnjpn
@@ -15855,7 +15765,6 @@ fib	小さな嘘|たわいない嘘	wnjpn
 desirability	色気	wnjpn
 recumbent	(人が)横になっている	ejdict
 bodybuilder	ボディービルダー|ボディビルダー|マッスルビルダー	wnjpn
-poss	To push|to dash|to throw. [Obs. or Prov. Eng.]A cat . . . possed them [the rats] about. Piers Plowman.	websters
 airforce	エアフォース|空軍	wnjpn
 ravel	モーリス・ラヴェル|伝線|解明	wnjpn
 canvass	設定|輿論調査|世論調査|帆|キャンバステント|キャンバス地テント|キャンバス|カンヴァス|ズック|キャンヴァス|帆布|カンバス|世論調査をする	wnjpn
@@ -16518,7 +16427,6 @@ crocus	クロッカス	wnjpn
 awkwardly	ぎくぎく|ぎすぎす|ぎくしゃく	wnjpn
 lifeless	虚しい|空しい	wnjpn
 mastectomy	乳房切除	wnjpn
-hag	婆|鬼ばば|鬼ばばあ|魔女|メクラウナギ	wnjpn
 tincture	チンキ|残痕|痕跡|事跡|証跡|事蹟|事迹|形跡|跡形|跡|迹|色彩|色相|色差し|色合い|ニュアンス|色ざし|トーン|色合|色調|チンキ	wnjpn
 aristocracy	公卿|公家|雲上人|貴人|アリストクラシ|貴族階級|貴族|アリストクラシー|華族	wnjpn
 thermally	熱的	wnjpn
@@ -16963,7 +16871,6 @@ strangle	絞め殺す|絞殺す|絞める|縊る|絞殺	wnjpn
 hardtop	ハードトップ	wnjpn
 deflation	デフレ	booqs
 voyeurism	鍵穴趣味	wnjpn
-bord	The face of coal parallel to the natural fissures.	websters
 skillfully	好う|善う|手際良く|術良く|良う|じょうずに|よく	wnjpn
 heady	賢明|聡叡|魔酔|向見ず|向こう見ず|無鉄砲|命知らず|無謀|向う見ず|恐いもの知らず|向こうみず|むこう見ず|無茶	wnjpn
 ddi	ジダノシン|ジデオキシイノシン	wnjpn
@@ -17082,7 +16989,6 @@ stabilisation	安定化|安定化|安定	wnjpn
 silage	サイレージ	wnjpn
 futility	無用|無駄|徒|無益	wnjpn
 ladybird	瓢虫|天道虫	wnjpn
-sculpt	彫り刻む|彫る|刻|彫刻|刻む|彫物|彫る|彫り物|彫刻|刻みつける|刻む	wnjpn
 flak	攻撃|非難|対空|高射砲|対空火砲|対空砲|高角砲	wnjpn
 derelict	ちゃち|怠慢|おんぼろ|がたがた	wnjpn
 yuck	To itch. [Prov. Eng.] Grose.	websters
@@ -17567,7 +17473,6 @@ methylene	メチレン	wnjpn
 wholeness	ユニティー|完全性|一体性|完全	wnjpn
 subsist	生活|生きて行く|食う|生きる|食べる	wnjpn
 cofactor	共同因子	wnjpn
-oppress	圧す|禁圧|抑圧|圧する|強圧|弾圧	wnjpn
 discreetly	慎重に|控えめに	wnjpn
 boliviano	the basic unit of money in Bolivia; equal to 100 centavos|the basic unit of money in Bolivia|equal to 100 centavos	wneng
 leprechaun	レプラコーン	wnjpn
@@ -17900,7 +17805,6 @@ quetzal	ケツァール|ケツァール	wnjpn
 shoshone	a member of the North American Indian people (related to the Aztecs) of the southwestern United States|the language spoken by the Shoshone (belonging to the Uto-Aztecan family)	wneng
 xylene	キシレン	wnjpn
 schism	分裂	wnjpn
-conch	(ほら貝など|大型の)巻き貝 / (ローマ神話で)トリトン(Triton)のほら貝	ejdict
 cytotoxicity	the degree to which something is toxic to living cells	wneng
 exuberant	軒昂たる|凛凛たる|凛々たる	wnjpn
 narcissus	スイセン|水仙	wnjpn
@@ -18296,7 +18200,6 @@ cocky	自信過剰	wnjpn
 bund	League|confederacy|esp. the confederation of German states.	websters
 pyrite	黄鉄鉱	wnjpn
 toiletry	洗面化粧品	booqs
-sat	土曜日	wnjpn
 flamboyant	ホウオウボク|派手	wnjpn
 memoria	Memory. Memoria technica, technical memory|a contrivance foraiding the memory.	websters
 exchangeable	交換可能|交換可能|交換可能	wnjpn
@@ -18459,7 +18362,6 @@ soundly	聢り|ぐっつり|確り|すっかり|徹底的|全く|悉に|まん�
 wicking	the material of which wicks are made|esp., a loosely braidedor twisted cord or tape of cotton.	websters
 zany	馬鹿ばかしい|愚鈍|愚昧|阿呆|馬鹿馬鹿しい|間抜け|愚癡|梼昧|間ぬけ|愚陋	wnjpn
 hominid	大茘人	wnjpn
-austral	(おもに測地学で)南の|南方の	ejdict
 impersonation	真似|滑稽画|風刺画|ポンチ絵|ポンチ|カリカチャー|漫画|カリカチュア|戯画|諷刺画	wnjpn
 rehash	二番煎じ|焼き直し	wnjpn
 barbican	(城などの)物見やぐら|外堡(ほ)	ejdict
@@ -18513,7 +18415,6 @@ arbitrate	執成す|取成す|取りなす|執り成す|仲裁|執りなす|取�
 gonadotropin	性腺刺激ホルモン|ゴナドトロピン	wnjpn
 cran	a capacity unit used for measuring fresh herring	wneng
 superstructure	上部構造	wnjpn
-lond	Land. [Obs.] Chaucer.	websters
 pernicious	わずか	wnjpn
 reappointment	The act of reappointing, or the state of being reappointed.	websters
 heiress	女子相続人	ejdict
@@ -19109,7 +19010,6 @@ epistemological	of or relating to epistemology; "epistemic modal"|of or relating
 unannounced	来訪を告げずに|ふいに現われた	ejdict
 deactivation	breaking up a military unit (by transfers or discharges)|the act of deactivating or making ineffective (as a bomb)	wneng
 dichroic	Having the property of dichroism|as, a dichroic crystal.	websters
-exalt	称揚|誉め讃える|褒め上げる|三嘆|褒め讃える|讃美|褒め立てる|絶讃|称讃|賞揚	wnjpn
 loafer	ローファー	wnjpn
 skydive	スカイダイビングをする|曲芸的落下傘降下をする	ejdict
 grating	格子|フェンス|耳障り	wnjpn
@@ -20193,7 +20093,6 @@ mealtime	食事時間	ejdict
 regularization	均一化	wnjpn
 brackish	(水などが)塩けのある / まずい	ejdict
 tubby	(人が)背が低くて太った|ずんぐりした	ejdict
-guar	drought-tolerant herb grown for forage and for its seed which yield a gum used as a thickening agent or sizing material	wneng
 oryx	オリックス	wnjpn
 hyperthyroidism	甲状腺機能亢進症	wnjpn
 premenstrual	月経前	wnjpn
@@ -20524,7 +20423,6 @@ metical	メティカル	wnjpn
 racehorse	競走馬	wnjpn
 aliphatic	having carbon atoms linked in open chains	wneng
 monochromatic	(絵・写真が)単色の|単色で描いた	ejdict
-distill	醇化|純化|澄ます|蒸留|精製|滴下|醸造	wnjpn
 artemisia	クラムヨモギ	wnjpn
 evermore	永永|幾久しく|尽未来際|永々|何時迄も|いつ迄も|いつまでも|何時までも|永久に|千代に八千代に	wnjpn
 flyfish	fish with flies as lures	wneng
@@ -21240,7 +21138,6 @@ gyrus	回	wnjpn
 conversant	委しい|精しい	wnjpn
 ump	アンパイア|審判|アンパイヤ	wnjpn
 smithy	鍛冶場|フォージ	wnjpn
-ult	ultimate / ultimately / (また ulto)ultimo	ejdict
 schoolwork	学業|学校の勉強(授業および宿題)	ejdict
 malformation	奇形|畸形|変形|片輪|不具|奇形	wnjpn
 unencumbered	free of encumbrance; "inherited an unencumbered estate"|free of encumbrance|not burdened with cares or responsibilities; "living an unencumbered life"|not burdened with cares or responsibilities	wneng
@@ -26662,7 +26559,6 @@ foh	An exclamation of abhorrence or contempt|poh|fle. Shak.	websters
 estrangement	疎隔|疎外|疏外|離反	wnjpn
 restauration	Restoration. [Obs.] Cower.	websters
 incontinent	自制のできない|自制心のない;《古》(…を)自制できない《+『of』+『名』》 / 大小便をもらす|失禁の	ejdict
-pott	A size of paper. See under Paper.	websters
 serendipitous	lucky in making unexpected and fortunate discoveries	wneng
 altimetry	The art of measuring altitudes, or heights.	websters
 interurban	都市間の	ejdict
@@ -26806,7 +26702,6 @@ splicer	スプライサー|スプライサー|スプライサー	wnjpn
 pharmacopoeia	薬局方|調剤書 / 薬物類	ejdict
 pollinate	受粉	wnjpn
 lansa	East Indian tart yellow berrylike fruit	wneng
-ks	カンザス州|ひまわりの州|カンザス	wnjpn
 nobby	Stylish|modish|elegant|showy|aristocratic|fashionable.[Slang]	websters
 rearward	後ろに|後ろへ|後方へ|下がって|引っ込んで|後方に|後方に向けた|後ろ向きの	wnjpn
 capriccio	狂想曲	ejdict
@@ -28261,7 +28156,6 @@ lieve	Same as Lief.	websters
 uneconomic	不経済	wnjpn
 felly	rim (or part of the rim) into which spokes are inserted	wneng
 pillory	さらし台|晒す|曝す	wnjpn
-sent	sendの過去・過去分詞	ejdict
 microglia	neuroglial tissue of mesodermal origin that can become phagocytic	wneng
 pitot	ピトー|ピトー	wnjpn
 decolonization	脱植民地化	wnjpn
@@ -28745,7 +28639,6 @@ glucoside	グルコシド	wnjpn
 sauf	Safe. [Obs.] haucer.	websters
 underhanded	後ぐらい|後暗い|陰湿|汚い|後ろぐらい|こすい|陰険|狡い|不明朗|うしろ暗い	wnjpn
 biometry	生物統計学	wnjpn
-lit	文学	wnjpn
 stepsister	腹違いの姉妹|父親違いの姉妹	ejdict
 subsume	包摂	wnjpn
 muzzy	縹渺たる|ファジー|朧げ|空漠たる|幽か|おぼろげ|微か|朧々たる|朧|朧ろ|散漫	wnjpn
@@ -29260,7 +29153,6 @@ stratify	層別化|層別化	wnjpn
 rhyolite	流紋岩	wnjpn
 commiserate	哀れむ	wnjpn
 wapiti	ワピチ|アカシカ|ワピチ	wnjpn
-gerund	動詞状名詞|動名詞	wnjpn
 fleshly	官能的|感覚的|動物的|肉的	wnjpn
 nonionic	非イオンの|非イオン性の|イオン化していない	wnjpn
 shimmery	ちらちら光る|かすかに光る	wnjpn
@@ -29885,7 +29777,6 @@ ectoderm	外胚葉	wnjpn
 bended	曲がった	ejdict
 confidante	a female confidant	wneng
 habitus	体質|背格好|身なり|筋骨|からだ付き|体つき|スタイル|柄|体格|体形|造り	wnjpn
-porc	ポーク|豚肉|豚	wnjpn
 watchband	リストバンド|腕輪	wnjpn
 scarey	おっかない|怖い|恐い|悍ましげ	wnjpn
 poignantly	感動的	wnjpn
@@ -32711,7 +32602,6 @@ antitank	designed for defense against armored vehicles	wneng
 tieback	タイバック	wnjpn
 iodinate	ヨウ素化	wnjpn
 rivulet	いささ川|細流|小川	wnjpn
-aeronaut	飛行家	wnjpn
 subagent	A person employed by an agent to transact the whole, or a part,of the business intrusted to the latter. Bouvier. Chitty.	websters
 oarsman	漕ぎ手	wnjpn
 proselytize	convert to another faith or religion	wneng
@@ -32959,7 +32849,6 @@ sulindac	スリンダク	wnjpn
 conurbation	スプロール|都市スプロール|連接都市|集合都市|アーバンスプロール|コナーベーション|コナベーション|スプロール現象|連担都市	wnjpn
 musicological	of or relating to musicology	wneng
 lahar	ラハール	wnjpn
-cytol	細胞質	wnjpn
 epiphytic	of or relating to epiphytes	wneng
 voicing	ヴォイシング	wnjpn
 infanta	A title borne by every one of the daughters of the kings ofSpain and Portugal, except the eldest.	websters

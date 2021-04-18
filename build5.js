@@ -86,6 +86,14 @@ readEachLineSync('world-cities/data/world-cities.csv', 'utf8', (line) => {
 delete cities['name'];
 delete cities['country'];
 
+// 省略形は複数の原形を持つため、lemmatization と同様に扱うと統計値がずれる
+// oct, nov など頻度の高いものも削除されるので注意は必要
+const abbrevs = {};
+readEachLineSync('Abbreviations/sources.txt', 'utf8', (line) => {
+  const lemma = line.split(' ')[1].toLowerCase();
+  abbrevs[lemma] = true;
+});
+
 const wneng = {};
 readEachLineSync('wneng.txt', 'utf8', (line) => {
   const [en, ja] = line.split('\t');
@@ -111,6 +119,8 @@ readEachLineSync('4/mGSL.lst', 'utf8', (line) => {
     } else if (lemma in names) {
       // console.log(line);
     } else if (lemma in cities) {
+      // console.log(line);
+    } else if (lemma in abbrevs) {
       // console.log(line);
     } else if (lemma in wnjpn) {
       console.log(lemma + '\t' + wnjpn[lemma] + '\t' + 'wnjpn');
