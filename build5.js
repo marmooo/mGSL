@@ -46,6 +46,9 @@ readEachLineSync('anc.tsv', 'utf8', (line) => {
   const ja = row[4].replace(/2\. /g, '').split('. ').join('|');
   anc[en] = ja;
 });
+delete anc['x'];
+delete anc['p'];
+delete anc['j'];
 
 const wnjpn = {};
 readEachLineSync('wnjpn.txt', 'utf8', (line) => {
