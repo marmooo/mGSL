@@ -42,7 +42,7 @@ booqsFilepaths.forEach(filepath => {
 const anc = {};
 readEachLineSync('anc.tsv', 'utf8', (line) => {
   const row = line.split('\t');
-  const en = row[0];
+  const en = row[0].toLowerCase();
   const ja = row[4].replace(/2\. /g, '').split('. ').join('|');
   anc[en] = ja;
 });
