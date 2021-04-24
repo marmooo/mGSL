@@ -34,7 +34,7 @@ time	時間（という概念）	booqs
 search	捜す|捜索	booqs
 other	もう一方の|別の|他の|もう一方の人・物|別の人・物|その他	booqs
 he	彼	booqs
-site	"【名】(特別な目的を持って使用される)土地	booqs
+site	【名】(特別な目的を持って使用される)土地,敷地|(重大な出来事が起こった)場所,跡地【動|他】配置される, 場所が決まる	booqs
 one	一つ|人・もの	booqs
 free	無料の	booqs
 but	でも	booqs
@@ -45,7 +45,7 @@ make	作る	booqs
 post	郵送する	booqs
 get	得る|受ける	booqs
 up	上へ|立って|起こって	booqs
-see	"見る	booqs
+see	見る,見える,気づく|会う|調べる|理解する|想像する|経験する|送り届ける	booqs
 list	表|リスト	booqs
 may	〜してもよい|～かもしれない|～であろう	booqs
 what	なに	original
@@ -58,14 +58,14 @@ news	知らせ	booqs
 state	州	booqs
 day	日	booqs
 out	外に|外に出て|外れて	booqs
-view	"【名】見ること【U】視界【C】考え方	booqs
+view	【名】見ること【U】視界【C】考え方,見方|風景画	booqs
 go	行く	booqs
 any	（疑問文で）何か|いくらか|（否定文で）どれも|少しも|（肯定文で）どれでも	booqs
 work	仕事	booqs
 there	そこ|あそこ|そこで|そこに	booqs
 contact	接触する|連絡する	booqs
 help	助ける	booqs
-business	"【名|U】商売	booqs
+business	【名|U】商売,事業,業務|取引|業績|務め【C】会社,工場	booqs
 review	批評|批評する	booqs
 so	その理由で	booqs
 only	唯一の|最良の|ただ～だけ|つい～|ただし|～だがしかし	booqs
@@ -128,19 +128,19 @@ change	変える|変わる	booqs
 most	最も多くの|たいていの|最も	booqs
 music	音楽	booqs
 forum	フォーラム|公開討論会	booqs
-file	"【名】公的情報	booqs
+file	【名】公的情報,記録【動|他】を提出する|ファイルに入れる【動|自】申請をする	booqs
 set	セット|一揃え	booqs
 datum	資料|データ	wnjpn
 part	一部|部分	booqs
 rate	速度|割合|比率	booqs
 they	彼ら|彼女ら|それら	booqs
 should	～べきである	booqs
-look	"【動|自】〖at A〗Aを見る	booqs
+look	【動|自】〖at A〗Aを見る,を考える|〖for A〗Aを捜す|〖 (to be) C〗Cに見える【名】見ること	booqs
 product	製品	booqs
 map	地図	booqs
 please	どうぞ|どうか|ぜひ	booqs
 photo	写真	booqs
-give	"与える|渡す|伝える|...する|もたらす|許し与える|弾力性|柔軟性	booqs
+give	与える|渡す|伝える|...する|もたらす|許し与える|弾力性|柔軟性, 順応性	booqs
 design	図案|設計図|計画|デザインする|考案する	booqs
 include	含む	booqs
 great	すばらしい	booqs
@@ -162,7 +162,7 @@ way	方法|やり方	booqs
 plan	計画|段取り	booqs
 man	男	booqs
 want	～が欲しい|望んでいる|～したいと思う	booqs
-come	"【動|自】来る	booqs
+come	【動|自】来る,行く,やってくる	booqs
 where	どこ	booqs
 type	型|種類|タイプ	booqs
 book	本	booqs
@@ -173,7 +173,7 @@ think	考える|思う	booqs
 public	公の|公的な	booqs
 through	〜を通じて	booqs
 each	各|1つ1つの	booqs
-download	"【動|他】をダウンロードする	booqs
+download	【動|他】をダウンロードする,取り込む【名|U|C】ダウンロード	booqs
 computer	コンピュータ	booqs
 she	彼女	booqs
 project	計画|事業|プロジェクト	booqs
@@ -198,16 +198,16 @@ return	戻す|返す|帰宅|返却|復帰|お返し	booqs
 many	多くの|多数	booqs
 research	研究|研究する	booqs
 place	置く|設置する	booqs
-address	"【名|U】宛名	booqs
+address	【名|U】宛名,住所|演説【名|U】話しぶり|手際の良さ【動|他】に宛てて手紙を出す|に話しかける|に演説する	booqs
 full	いっぱいの|満ちた	booqs
-long	"【形】長い|長く続く|長さが…の|長々しい	booqs
+long	【形】長い|長く続く|長さが…の|長々しい,あきあきする|多い|やせてひょろ長い|久しく|…じゅう|ずっと【名|U】長い間	booqs
 general	一般的な|全般的な	booqs
 under	以下の	booqs
 open	開放された	booqs
 subject	主語	booqs
 low	低い	booqs
 life	生命|人生|生活	booqs
-check	"【動|他】調べる	booqs
+check	【動|他】調べる,検査する|確認する|阻止する,抑える【名】検査,点検|抑制	booqs
 community	地域社会	booqs
 management	管理|経営	booqs
 card	カード	booqs
@@ -229,10 +229,10 @@ guide	案内する|指導する|案内者|指導者	booqs
 process	製造過程|手順|一連のプロセス|処理する	booqs
 off	～から離れて|休みの|停止して	booqs
 study	勉強する	booqs
-website	"【名|C】ウェブサイト	booqs
+website	【名|C】ウェブサイト,ホームページ	booqs
 point	指し示す	booqs
-note	"【名|C】覚え書き	booqs
-even	"【副】でさえ	booqs
+note	【名|C】覚え書き,メモ|注釈|短い手紙【名|U】注目|重要性|兆候《of》|紙幣【動|他】を書き留める|に注意する|と気づく	booqs
+even	【副】でさえ,でも|（比較級を強調して）さらに,ずっと【形】平らな|同じ高さの|同じの|偶数の【動|他】を平らにする【動|自】等しくなる	booqs
 index	索引|目録|指針	booqs
 before	以前に	booqs
 control	支配する|管理する|抑制する|照査する	booqs
@@ -259,7 +259,7 @@ friend	友だち	booqs
 internet	【名】インターネット	booqs
 old	古い|年とった|昔の|～歳の	booqs
 cost	費用	booqs
-register	"【名|C】登録|登録簿	booqs
+register	【名|C】登録|登録簿,名簿【動|他】を登録する|を記録する【動|自】に記録する≪with,at,in≫	booqs
 problem	問題	booqs
 law	法律|法則	booqs
 within	～中に|～以内	booqs
@@ -289,7 +289,7 @@ love	愛する|愛	booqs
 much	たくさんの|非常に|だいたい	booqs
 room	部屋	booqs
 today	今日	booqs
-select	"【動|自|他】選ぶ	booqs
+select	【動|自|他】選ぶ,精選する【形】えり抜きの	booqs
 visit	訪ねる|訪問する	booqs
 week	週|週間	booqs
 class	階級|ランク	booqs
@@ -301,7 +301,7 @@ access	アクセス|接近	booqs
 reply	【動|自】答える【動|他】と答える【名|C】返信	booqs
 profile	紹介|プロフィール|概略を書く|人物評を書く	booqs
 same	同じ	booqs
-month	"月	booqs
+month	月,1ヶ月	booqs
 total	合計	booqs
 water	水	booqs
 sell	売る	booqs
@@ -326,7 +326,7 @@ without	～なしで	booqs
 history	歴史	booqs
 pay	払う|支払い	booqs
 science	科学	booqs
-archive	"【名|C】古記録	booqs
+archive	【名|C】古記録,公文書|古記録保管所【動|他】を保管する【形】古記録の	booqs
 complete	完全にする|完成させる	booqs
 since	～以来|～なので	booqs
 try	試す|やってみる	booqs
@@ -335,13 +335,13 @@ description	記述|説明|描写	booqs
 credit	クレジット|信用	booqs
 gallery	画廊	booqs
 offer	提供する|申し出る	booqs
-ask	"【動|他】について質問する|を尋ねる|≪...について≫に質問する≪about≫|を頼む|≪...を≫に頼む≪for≫|を招待する【動|自】≪...について≫質問する≪about≫|頼む	booqs
+ask	【動|他】について質問する|を尋ねる|≪...について≫に質問する≪about≫|を頼む|≪...を≫に頼む≪for≫|を招待する【動|自】≪...について≫質問する≪about≫|頼む,求める	booqs
 box	箱|ボックス	booqs
 team	チーム	booqs
 share	【名|U】分け前|分担【名|C】株|株券【名|U】市場占有率【動|他】を共にする【動|自】《...の》分配にあずかる《 in ...》	booqs
 become	～になる	booqs
 market	市場|マーケット	booqs
-during	"（特定の期間･出来事･行為など）の間じゅう	booqs
+during	（特定の期間･出来事･行為など）の間じゅう,の間を通して, …の間に	booqs
 park	駐車場|駐車させる	booqs
 action	行動	booqs
 college	大学|（米）単科大学	booqs
@@ -355,13 +355,13 @@ light	軽い	booqs
 previous	前の	booqs
 food	食物	booqs
 quote	引用する|引用	booqs
-thread	"【名】糸|筋	booqs
+thread	【名】糸|筋, 脈絡【動|他】（糸を）通す【自】 縫うように通る	booqs
 drive	運転する	booqs
 seller	売り手	booqs
 party	パーティー	booqs
 tell	伝える	booqs
 non	【接頭辞】…しない|...でない|…のない|非…|不…|無…	booqs
-quality	"【名|C】≪...の≫特質	booqs
+quality	【名|C】≪...の≫特質,特性≪of≫【名|U】≪...の≫本質≪of≫|質,品質|優秀性|高い身分	booqs
 shall	～すべきである|当然～だろう|～しなければならない|～しましょうか	booqs
 close	近い	booqs
 insurance	保険	booqs
@@ -428,7 +428,7 @@ street	道|通り	booqs
 however	しかしながら|どんなに～でも|一体どうやって	booqs
 enter	入る	booqs
 staff	職員|職員を配置する	booqs
-really	"【副】〖強調〗実は	booqs
+really	【副】〖強調〗実は,本当は|本当に,実に|とても,非常に|〖緩和〗あまり	booqs
 key	かぎ|重要な	booqs
 march	行進する|進軍する|堂々と歩く|さっさと歩く	basic
 series	連続	booqs
@@ -439,7 +439,7 @@ talk	話す	booqs
 movie	映画	booqs
 update	更新|更新する	booqs
 comment	論評|コメント	booqs
-cell	"【名】細胞|独房	booqs
+cell	【名】細胞|独房,監房|電池|通話可能区域|携帯電話|(大組織内の)小グループ	booqs
 easy	簡単な|ゆったりした	booqs
 body	体|人	booqs
 professional	専門職の|プロの	booqs
@@ -475,7 +475,7 @@ financial	財政の|金融の	booqs
 turn	曲がる|向きを変える	booqs
 against	～に反対して	booqs
 court	(テニスなどの)コート	booqs
-road	"【名】道路|…通り	booqs
+road	【名】道路|…通り,…街,…街道	booqs
 notice	気づく	booqs
 few	少ない|ほとんどない	booqs
 equipment	装置|設備	booqs
@@ -499,7 +499,7 @@ individual	個人|個人の	booqs
 license	免許	booqs
 committee	【名】委員会|委員全体	booqs
 social	社会的な	booqs
-browse	"【動|自|他】漫然とながめる	booqs
+browse	【動|自|他】漫然とながめる,ざっと目を通す|食べる【名|C】拾い読み	booqs
 million	百万	booqs
 early	早い|初期の	booqs
 break	壊す|折る	booqs
@@ -581,7 +581,7 @@ artist	芸術家|アーティスト	booqs
 newsletter	広報|社報|会報	booqs
 copy	写す|コピーする|まねる	booqs
 face	顔	booqs
-figure	"【名|C】数字	booqs
+figure	【名|C】数字,数量,価格|計算|姿|...の人|肖像|形|図|典型【動|他】を計算する|を考える|を図形に表す【動|自】現れる|目立つ|計算する	booqs
 delivery	配達|話し方|出産	booqs
 animal	動物	booqs
 energy	精力|エネルギー	booqs
@@ -591,7 +591,7 @@ society	社会	booqs
 charge	請求する	booqs
 vote	投票する	booqs
 child	子ども	booqs
-tour	"【名】旅行|巡業|見学	booqs
+tour	【名】旅行|巡業|見学,視察|【動|自|他】旅行する|遠征に行く	booqs
 entry	入場	booqs
 similar	よく似た	booqs
 radio	ラジオ	booqs
@@ -603,7 +603,7 @@ career	経歴|職業	booqs
 term	学期	booqs
 feed	食べ物を与える	booqs
 popular	人気のある	booqs
-mar	"【動|他】を汚す	booqs
+mar	【動|他】を汚す,傷つける|を損なう【名|C】傷	booqs
 original	最初の|原始的な|独創的な|原物	booqs
 purpose	目的	booqs
 environment	環境	booqs
@@ -659,7 +659,7 @@ several	いくつかの|それぞれの	booqs
 hold	持つ|抱く	booqs
 schedule	予定|スケジュール	booqs
 agent	代理人	booqs
-kind	"1	booqs
+kind	1,【形】親切な|2【名】種類	booqs
 daily	日々	booqs
 dog	犬	booqs
 appear	現れる	booqs
@@ -672,7 +672,7 @@ stay	滞在する	booqs
 screen	画面|上映する|検査する|選抜する|隠す	booqs
 clear	はっきりした	booqs
 whether	～かどうか|～であろうとなかろうと	booqs
-object	"【名】物体	booqs
+object	【名】物体,個体|対象|目的【動|自】〖to A|doing〗 Aに反対する【他】〖～ that節〗…だと言って反対する	booqs
 weather	天気|天候	booqs
 weight	重さ	booqs
 five	5	booqs
@@ -726,7 +726,7 @@ cable	電線	booqs
 else	その他に|さもないと	booqs
 tech	【名|U】技術【C】技術者|工科大学【形】技術系の	booqs
 degree	度	booqs
-grant	"【動|他】（願いなど）をかなえる|を与える|を認める【名】補助金|授与	booqs
+grant	【動|他】（願いなど）をかなえる|を与える|を認める【名】補助金|授与,交付,承認,許可	booqs
 remember	【動|自|他】覚えている|思い出す|【to do】忘れずに…する	booqs
 leave	去る	booqs
 plus	正数	booqs
@@ -754,7 +754,7 @@ manufacturer	製造業者|メーカー	booqs
 clean	きれいな|清潔な	booqs
 feel	感じる	booqs
 though	～だけれども	booqs
-condition	"【名|U】状態	booqs
+condition	【名|U】状態,健康状態【C】状況|条件【動|他】の調子を整える|を慣らす|を左右する	booqs
 simple	簡単な|単純な	booqs
 die	死ぬ	booqs
 season	季節	booqs
@@ -766,7 +766,7 @@ mortgage	抵当|住宅ローン	booqs
 band	バンド|楽団	booqs
 various	様々な	booqs
 express	表す|述べる	booqs
-channel	"チャンネル|周波数帯|(伝達)経路	booqs
+channel	チャンネル|周波数帯|(伝達)経路,道筋|方法|海峡|溝|を向ける,送る, 集中させる|溝を掘る	booqs
 frame	枠組み|骨組み|組み立てる	booqs
 linux	Linux|リナックス	wnjpn
 character	性格	booqs
@@ -795,13 +795,13 @@ golf	ゴルフ	booqs
 editor	編集者	booqs
 fine	すばらしい|上等[上品]な|元気な|都合がいい|十分な|晴天	booqs
 investment	投資	booqs
-logo	"【名】ロゴ	booqs
+logo	【名】ロゴ,シンボルマーク	booqs
 connect	つなぐ|接続する	booqs
 choice	選択	booqs
 ring	ベルやアラームの音が鳴る|響く	booqs
-aid	"【名|U】助力	booqs
+aid	【名|U】助力,援助|手当て【C】助けとなるもの【動|他】を援助する,支援する【動|自】助けとなる	booqs
 identify	確認する|同一視する	booqs
-deal	"【動|他】を分配する	booqs
+deal	【動|他】を分配する,を分ける《to|out》|《…に》（打撃・仕打ちなど）を加える《to》【名|U】取引き【名|C】妥協,協定|カードゲームの札の配分|政策|《話》取扱い,待遇	booqs
 survey	調査する	booqs
 sport	スポーツ	booqs
 perform	行う|成し遂げる	booqs
@@ -813,7 +813,7 @@ install	導入する|設置する|インストールする	booqs
 advertise	宣伝する	booqs
 agree	同意する|一致する|合う	booqs
 half	半分	booqs
-host	"【名|C】主人	booqs
+host	【名|C】主人,主人役|《…の》主人（役）《to》|寄生動（植）物の宿主|【動|他】の主人役を務める|を主催する	booqs
 summary	要約	booqs
 reader	読者	booqs
 annual	毎年の	booqs
@@ -822,10 +822,10 @@ speak	話す	booqs
 double	二倍|二倍の	booqs
 wireless	無線	booqs
 whole	全部の	booqs
-institute	"【名|C】機関	booqs
+institute	【名|C】機関,協会,大学 【動|他】設立する,制定する	booqs
 corporate	法人組織の|団体の	booqs
 enable	可能にする	booqs
-affiliate	"系列組織|加入させる	booqs
+affiliate	系列組織|加入させる, 提携させる	booqs
 feature	【名|C】特徴|容貌|呼びもの【動|他】の特色をなす【動|自】重要な役割を演じる	booqs
 corporation	法人|会社	booqs
 addition	【名|U】付け加えること|追加|足し算【名|C】加えられた物	booqs
@@ -853,7 +853,7 @@ guy	男|やつ	booqs
 suggest	提案する	booqs
 walk	歩く	booqs
 yellow	黄色	booqs
-base	"基; 基礎	booqs
+base	基; 基礎, 基づく	booqs
 menu	メニュー	booqs
 publisher	出版社	booqs
 protect	保護する	booqs
@@ -874,7 +874,7 @@ mode	【名|U】≪...の≫方法≪of≫|流行	booqs
 executive	幹部	booqs
 secure	安全な|確保する|固定する	booqs
 command	指揮する	booqs
-master	"上達な	booqs
+master	上達な,熟練な	booqs
 availability	可用性	booqs
 authority	権限	booqs
 outdoor	アウトドア	booqs
@@ -899,7 +899,7 @@ ensure	【動|他】を保証する|を確実にする|≪...から≫を安全�
 regional	地域の	booqs
 custom	習慣	booqs
 load	重荷|負荷|積み込む	booqs
-relationship	"【名|C】関係	booqs
+relationship	【名|C】関係,間柄,仲|親密な関係,交際|【U】親戚関係	booqs
 effect	効果	booqs
 voice	声	booqs
 grade	学年	booqs
@@ -914,7 +914,7 @@ electronic	電子の	booqs
 session	開催|時間|集会|セッション	booqs
 poster	ポスター	booqs
 across	横切って|交差して	booqs
-someone	"【代】｟かたく｠誰か	booqs
+someone	【代】｟かたく｠誰か,ある人	booqs
 mature	成熟した	booqs
 airport	空港	booqs
 classic	一流作品|古典	booqs
@@ -948,11 +948,11 @@ strong	強い|力強い	booqs
 nothing	何も～ない	booqs
 population	人口	booqs
 extra	余分の|余分なもの	booqs
-pick	"【動|他】を選ぶ|を摘む	booqs
-distribution	"【名|U】《Aへの》配分	booqs
+pick	【動|他】を選ぶ|を摘む,もぎ取る|つまみとる【自】つつく|精選する	booqs
+distribution	【名|U】《Aへの》配分,分配,配布,配達《to A》|分布|分布区域【名|C】配分されたもの,配給品【名|U】（商品の）流通組織,流通機構	booqs
 challenge	挑戦	booqs
-certain	"【形】確信している|必ず～する|明白である|若干の:ある	booqs
-necessary	"【形】必要な	booqs
+certain	【形】確信している|必ず～する|明白である|若干の:ある,ある一定の	booqs
+necessary	【形】必要な,不可欠な,なくてはならない|必然的な,避けられない【名|C】必需品,必要なもの|必要なこと（金）	booqs
 bear	熊	booqs
 jewelry	宝石	booqs
 browser	【名|C】ブラウザ|拾い読みをする人	booqs
@@ -982,9 +982,9 @@ registration	【名|U】≪...に≫登録すること|≪...の≫登録≪of�
 flight	飛行	booqs
 capital	主要な	booqs
 drink	飲む	booqs
-pre	"【接頭辞】前の	booqs
+pre	【接頭辞】前の,以前の|前もって,あらかじめ|…の前部にある	booqs
 piece	一かけら|破片	booqs
-huge	"【形】巨大な	booqs
+huge	【形】巨大な,莫大な	booqs
 firm	堅い|安定した	booqs
 safe	安全な	booqs
 woman	女性	booqs
@@ -1027,14 +1027,14 @@ furniture	家具	booqs
 finish	終わり	booqs
 police	警察	booqs
 mother	母|実母|母親|生みの親|母親代わりの人|第一次大戦時に使用された英国の小銃（英俗）	basic
-trip	"【名】旅行	booqs
+trip	【名】旅行,出張|外出|つまづき|【動|自】つまづく|【他】つまずかせる	booqs
 super	素晴らしい	booqs
-sea	"【名|U】海	booqs
+sea	【名|U】海,海洋|〖形容詞的に〗海の|...海|波|海岸	booqs
 kill	殺す	booqs
 almost	ほとんど	booqs
 tool	道具	booqs
 farm	農場	booqs
-limit	"【名|C】限界|境界|許容量	booqs
+limit	【名|C】限界|境界|許容量,制限【動|他】を制限する	booqs
 occur	発生する	booqs
 thank	感謝する	booqs
 string	糸|ひも	booqs
@@ -1042,10 +1042,10 @@ studio	スタジオ	booqs
 happy	【形】幸せ|嬉しい	booqs
 industrial	産業の	booqs
 hall	ホール|会場	booqs
-wood	"【名|U】木材	booqs
+wood	【名|U】木材,(材料としての)木|薪（C）森|林	booqs
 primary	主要な|第一位の	booqs
 demand	要求する|要求	booqs
-desktop	"【名|U|C】デスクトップ|机の表面【形】机上の	booqs
+desktop	【名|U|C】デスクトップ|机の表面【形】机上の,卓上の	booqs
 affect	影響する	booqs
 late	遅い	booqs
 tue	The parson bird.	websters
@@ -1103,7 +1103,7 @@ output	生産|出力	booqs
 therefore	それゆえに	booqs
 scale	目盛り|基準|尺度|縮尺比|規模	booqs
 simply	簡単に|単純に	booqs
-academic	"学問の	booqs
+academic	学問の, 教育[研究]に関する;学校の|教養科目の|研究者|大学教授|学業	booqs
 option	【名】選択(肢)|選択権|売買選択権|付加的機能|付属品	booqs
 sector	部門	booqs
 recently	最近|近年	booqs
@@ -1159,12 +1159,12 @@ assume	仮定する|推測する	booqs
 brother	兄弟|仲間	booqs
 beautiful	美しい	booqs
 seat	座席|着席させる	booqs
-implement	"【動|他】を実行する	booqs
+implement	【動|他】を実行する,履行する【名|C】道具	booqs
 significant	重要な	booqs
 seem	～のように見える|思われる	booqs
 museum	博物館	booqs
 owner	持ち主|オーナー	booqs
-useful	"【形】役に立つ	booqs
+useful	【形】役に立つ,有益な,助けとなる|〖it is ～(for A) to do〗 Aが…するのは役に立つ	booqs
 directly	直接に	booqs
 lady	女性|婦人	booqs
 doctor	医者|先生|博士|修理屋	basic
@@ -1206,7 +1206,7 @@ cook	料理する	booqs
 fitness	適合|健康	booqs
 partner	パートナー|相棒	booqs
 stone	石	booqs
-gain	"【動|他】手に入れる	booqs
+gain	【動|他】手に入れる,身につける|〈利益など〉を得る【自】増す【名】増加,得ること	booqs
 republic	共和国	booqs
 improvement	改善	booqs
 jump	跳ぶ|跳ね上がる	booqs
@@ -1222,10 +1222,10 @@ publication	発表|出版	booqs
 pas	(バレエのステップの)踏み足 / 優先権	ejdict
 photography	写真術	booqs
 multi	【接頭辞】多くの…|種々の…：多数（倍）の...	booqs
-achieve	"【動|他】を達成する|に到達する|を獲得する	booqs
+achieve	【動|他】を達成する|に到達する|を獲得する,を勝ち取る	booqs
 variety	多様性|種類	booqs
 election	選挙	booqs
-assistance	"【名|U】手伝い	booqs
+assistance	【名|U】手伝い,助力,援助	booqs
 rape	レイプ	booqs
 father	父	booqs
 path	小道|通り道	booqs
@@ -1236,10 +1236,10 @@ fair	公正な|公平な	booqs
 cup	カップ	booqs
 pacific	太平洋	wnjpn
 miss	逃す|～し損なう	booqs
-motor	"自動車の	booqs
+motor	自動車の,動力を起こす	booqs
 winter	冬	booqs
 mini	極小の|小型の	booqs
-laptop	"【名|C】ラップトップ型コンピュータ	booqs
+laptop	【名|C】ラップトップ型コンピュータ,ノートパソコン	booqs
 northern	北の	booqs
 aim	目指す	booqs
 dark	暗い	booqs
@@ -1294,7 +1294,7 @@ throughout	至る所に|～の間中ずっと	booqs
 platform	プラットフォーム|台	booqs
 itself	それ自体	booqs
 waste	むだに使う|浪費する	booqs
-fee	"【名|C】料金	booqs
+fee	【名|C】料金,報酬,手数料《for》【名|U】領地【動|他】に料金を払う,に謝礼する	booqs
 crime	犯罪	booqs
 virtual	実質上の|仮想の	booqs
 remote	遠い	booqs
@@ -1302,11 +1302,11 @@ wire	針金|ワイヤー	booqs
 external	外部の	booqs
 gear	車のギア	booqs
 ten	10	booqs
-implementation	"【名|U】履行	booqs
+implementation	【名|U】履行,実行,実施|実装	booqs
 minimum	最小限	booqs
 delete	削除	booqs
 rise	上がる|起立する|上昇	booqs
-installation	"【名|U】（装置などの）取り付け|任命	booqs
+installation	【名|U】（装置などの）取り付け|任命,就任【名|C】（取り付けた）装置,設備|軍事施設	booqs
 complex	複雑な	booqs
 diet	食事|ダイエットする	booqs
 steel	鋼	booqs
@@ -1314,11 +1314,11 @@ separate	離す|分ける|分かれた	booqs
 import	輸入する|輸入	booqs
 sub	補欠|補充員|補助的|次位の	booqs
 fashion	【名|U】流行|やり方|様式【C】流行しているもの|社交界【動|他】を形作る|影響を受ける	booqs
-chief	"【形】最高位の	booqs
+chief	【形】最高位の,長の|主要な,第一の【名】長,責任者,長官	booqs
 diamond	ダイヤモンド	booqs
 wrong	間違った|間違って	booqs
 cycle	周期|循環|循環する	booqs
-sequence	"順序	booqs
+sequence	順序, 配列|連続|結果	booqs
 launch	始める|発射する	booqs
 enhance	高める|強化する	booqs
 permission	許可	booqs
@@ -1328,7 +1328,7 @@ secretary	秘書|大臣|長官	booqs
 civil	市民の	booqs
 duty	【名】義務|仕事|関税|従順さ	booqs
 branch	枝	booqs
-truck	"【名|C】運搬車	booqs
+truck	【名|C】運搬車,トロッコ|トラック,貨物自動車【動|他】をトラックで運ぶ（に積む）【動|自】トラックを運転する	booqs
 electric	電気の	booqs
 village	村	booqs
 flag	旗	booqs
@@ -1347,7 +1347,7 @@ fail	失敗する|目標に達成しない	booqs
 unknown	知られていない	booqs
 participate	参加する	booqs
 spend	使う|過ごす	booqs
-phase	"【名】段階	booqs
+phase	【名】段階,局面,様相	booqs
 musical	ミュージカル	booqs
 concern	心配|懸念|配慮|関心の対象|関係|関係する	booqs
 skip	スキップ|飛ばす	booqs
@@ -1372,7 +1372,7 @@ traditional	伝統的な	booqs
 fiction	架空|フィクション	booqs
 competition	競争	booqs
 motion	動き	booqs
-vision	"【名|U】視力	booqs
+vision	【名|U】視力,視覚|（将来への）見通し【C】心に描くもの|考え|幻	booqs
 avoid	避ける	booqs
 bottom	底	booqs
 proposal	提案	booqs
@@ -1382,7 +1382,7 @@ campaign	運動|キャンペーン	booqs
 replace	取り替える	booqs
 contribute	寄付する	booqs
 spirit	精神|気分|気力	booqs
-destination	"目的地	booqs
+destination	目的地, 到達地, 行き先|最終目標	booqs
 sometimes	ときどき	booqs
 injury	傷害	booqs
 query	質問	booqs
@@ -1424,16 +1424,16 @@ appeal	訴える、〔人に〕〔助力・同情などを〕懇願する|哀願
 religion	宗教	booqs
 height	高さ	booqs
 bridge	橋	booqs
-advantage	"【名】利点	booqs
+advantage	【名】利点,長所,強み|有利,優位,好都合【動|他】に利益を与える,役立つ	booqs
 mouse	ネズミ	booqs
 employee	従業員	booqs
-revenue	"【名|U】(企業などの)総収入	booqs
+revenue	【名|U】(企業などの)総収入,収益|(国･地方自治体の)税収入,歳入【C】国税局|税務署	booqs
 satellite	衛星	booqs
 tag	鬼ごっこ	booqs
 quantity	量	booqs
-movement	"【名】 (政治･社会的な)運動	booqs
+movement	【名】 (政治･社会的な)運動,活動|動くこと,動き|進展,変化|楽章	booqs
 league	同盟|リーグ	booqs
-relevant	"【形】関連がある|適切な	booqs
+relevant	【形】関連がある|適切な, 妥当な≪to≫	booqs
 weekend	週末	booqs
 weekly	毎週	booqs
 professor	教授|教師	basic
@@ -1457,7 +1457,7 @@ guitar	ギター	booqs
 context	文脈|状況	booqs
 engineer	エンジニア|技師	booqs
 draft	下書き|草案|原稿を書く|下書きをする	booqs
-coverage	"報道	booqs
+coverage	報道, 取材; 報道[取材]規模|受信地域|補償額|取り扱い範囲.	booqs
 priority	優先順位	booqs
 species	種	booqs
 volunteer	ボランティア	booqs
@@ -1479,7 +1479,7 @@ leather	革|革製品	booqs
 template	型板|ひな型|定型書式	booqs
 confirm	確認する	booqs
 abuse	乱用する	booqs
-automotive	"【形】自動の	booqs
+automotive	【形】自動の,自動推進の|自動車の	booqs
 corner	コーナー|角|地域|窮地	booqs
 cast	配役	booqs
 naked	裸の	booqs
@@ -1519,7 +1519,7 @@ particularly	特に	booqs
 oral	口伝えの|口に関する|経口の	booqs
 setting	場面	wnjpn
 functional	機能的な	booqs
-advertisement	"【名|C】広告	booqs
+advertisement	【名|C】広告,宣伝	booqs
 cultural	文化的な	booqs
 forecast	予報	booqs
 easily	簡単に	booqs
@@ -1540,7 +1540,7 @@ freedom	自由	booqs
 cent	セント	booqs
 minute	分|	booqs
 surgery	手術	booqs
-route	"【名】道	booqs
+route	【名】道,道筋,経路|路線【動|他】を送る,配送する|配信する|…の経路を定める	booqs
 laboratory	研究室	booqs
 bus	バス	booqs
 administrator	管理者	booqs
@@ -1555,7 +1555,7 @@ influence	影響を与える|影響	booqs
 teach	教える	booqs
 lose	失う	booqs
 wonder	【名|C】驚くべきもの【名|U】驚異の念【動|自】≪に≫驚く≪at≫|≪について≫疑う≪about≫【動|他】を不思議に思う	booqs
-contractor	"【名|C】契約人	booqs
+contractor	【名|C】契約人,請負人|建設業者|収縮する物|収縮筋	booqs
 investor	投資家	booqs
 cap	帽子	booqs
 stick	棒	booqs
@@ -1612,11 +1612,11 @@ eastern	東方の	booqs
 regard	注視する|注意を払う	booqs
 desire	望む|強く欲する|欲望|願望	booqs
 ray	光線|熱線	booqs
-administrative	"【形】管理[運営]の	booqs
+administrative	【形】管理[運営]の,経営の|行政の	booqs
 serious	深刻な|真剣な|まじめな	booqs
 labor	労働|働く|詳細に論じる	booqs
 recovery	回復	booqs
-preview	"【名|C】試写会	booqs
+preview	【名|C】試写会,試演会,内見|予習|予告編,予告番組【動|他】の試写（試演）を見る,見せる|の事前説明をする	booqs
 battle	戦い|戦闘	booqs
 thought	考え	wnjpn
 origin	起源	booqs
@@ -1636,7 +1636,7 @@ speech	話|スピーチ	booqs
 fear	恐れ	booqs
 universal	全世界の|普遍的な	booqs
 theatre	芝居小屋|演劇空間|戯場|演舞場|常設館|テアトル|能楽堂|劇場|シアター|定小屋	wnjpn
-comprehensive	"【形】包括的な	booqs
+comprehensive	【形】包括的な,網羅的な,広範囲にわたる|総合的な|はっきりした|完全な|（理解力が）幅広い,理解力のある【名|C】総合制中等学校|総合試験	booqs
 assembly	議会|立法府|集会|組み立てキット	booqs
 avenue	(門から家に向かう)『並木道』 / (都市の)『大通り』|『街路』|…街 / (…に)近づく道(手段)《+『to』+『名』》	ejdict
 specialist	専門家	booqs
@@ -1647,17 +1647,17 @@ brain	脳|頭脳	booqs
 laser	レーザー|レーザー装置	booqs
 criminal	犯罪の|犯人	booqs
 atom	原子	booqs
-behavior	"【名|C】ふるまい	booqs
+behavior	【名|C】ふるまい,態度|（機械などの）調子	booqs
 acceptance	受け入れ	booqs
 native	ネイティブ|母語話者	booqs
 antique	骨董の|古代の|骨董品|古代美術様式	booqs
 translation	翻訳	booqs
-prepare	"【動|他】を準備する	booqs
+prepare	【動|他】を準備する,を用意する|《AにBに備えて》心構えをさせる《A for B》【動|自】準備する《for》|心構えをする	booqs
 wave	手を振る	booqs
 ipod	ｉＰｏｄ	wnjpn
 tie	結ぶ|縛る	booqs
 faith	信仰|信頼	booqs
-editorial	"【名|C】社説	booqs
+editorial	【名|C】社説,論説【形】編集者の|編集上の|社説の,論説の	booqs
 winner	勝者|受賞者	booqs
 spa	鉱泉|温泉|健康センター	booqs
 ministry	省	booqs
@@ -1673,14 +1673,14 @@ portion	【名|C】部分|一人前≪of≫|運命【動|他】≪...に≫を�
 snow	雪|雪が降る	booqs
 element	要素	booqs
 slow	遅い|遅くなる	booqs
-interactive	"【形】相互に作用し合う|相互作用の|対話型の	booqs
+interactive	【形】相互に作用し合う|相互作用の|対話型の,双方向の	booqs
 bath	浴槽	booqs
 leadership	リーダーシップ	booqs
 procedure	手順	booqs
 enlarge	拡大する|大きくする|引き伸ばす	booqs
 religious	宗教的な	booqs
 clock	時計	booqs
-conflict	"【名】衝突	booqs
+conflict	【名】衝突,争い|矛盾,不一致【動|自】対立する,矛盾する|同時に起きる	booqs
 flower	花	booqs
 airline	航空会社	booqs
 domestic	国内の	booqs
@@ -1695,11 +1695,11 @@ desk	机	booqs
 wallpaper	壁紙	wnjpn
 sorry	すまないと思う|後悔している|気の毒に思う	booqs
 framework	構成|構想	booqs
-chip	"【名】薄切り	booqs
+chip	【名】薄切り,欠け目,傷,かけら【動|他】を欠く,削る,削り取る|薄く切る【自】欠ける	booqs
 gamma	ガンマ	wnjpn
 scan	詳しく調べる|ざっと目を通す|スキャンする	booqs
-attribute	"【動|他】《BにA》の原因があるとする《A to B》|《BにA》が備わっていると考える《A to B》|《BはA》の作だと考えられている《B be ~ed to A》【名|C】属性	booqs
-ocean	"【名|U】海【名|U】海洋	booqs
+attribute	【動|他】《BにA》の原因があるとする《A to B》|《BにA》が備わっていると考える《A to B》|《BはA》の作だと考えられている《B be ~ed to A》【名|C】属性,特性,特質|付帯しているもの,象徴となる物	booqs
+ocean	【名|U】海【名|U】海洋,大洋|…洋, …海|膨大な量[広がり]	booqs
 baseball	野球	booqs
 strength	力|強さ	booqs
 dollar	ドル	booqs
@@ -1720,7 +1720,7 @@ portable	携帯用の|移動式の	booqs
 instance	例|実例	booqs
 cartoon	戯絵|戯れ絵|カートゥーン|ポンチ絵|戯画	wnjpn
 pin	ピン|ピンで留める|組み伏せる|なすりつける|期待をかける	booqs
-electrical	"【形】電気の	booqs
+electrical	【形】電気の,電気と関係のある|電気を扱う,電気で動く,電動の|電撃的な【名|C】電気設備（回路）|電気メーカー株	booqs
 slide	滑る|そっと動く|下がる|悪化する|滑ること|滑り台	booqs
 depth	深さ	booqs
 combination	組み合わせ	booqs
@@ -1734,7 +1734,7 @@ completely	完全に	booqs
 patent	特許	booqs
 crystal	結晶	booqs
 marriage	結婚	booqs
-warm	"【形】暖かい|思いやりのある|興奮した|暖色の|生々しい【動|他】を暖める|を活気づける【動|自】暖まる|活気づく|優しくなる【名】《a~》暖まること	booqs
+warm	【形】暖かい|思いやりのある|興奮した|暖色の|生々しい【動|他】を暖める|を活気づける【動|自】暖まる|活気づく|優しくなる【名】《a~》暖まること,《the~》暖かい場所【副】暖かく	booqs
 examine	試験をする|調べる	booqs
 spread	広げる|広がり	booqs
 applicable	適用できる|応用できる|効力がある	booqs
@@ -1744,7 +1744,7 @@ basketball	バスケットボール	booqs
 notify	知らせる|通知する	booqs
 birthday	お誕生日	booqs
 direction	方向	booqs
-replacement	"【名|U】置き換わること	booqs
+replacement	【名|U】置き換わること,取り替えること,置換【C】代理	booqs
 daughter	娘	booqs
 border	境界|国境	booqs
 tab	お愛想|あいそ|勘定|勘定書|計算書|愛想|勘定書き|伝票|御愛想|イエロージャーナリズム|タブキー|タブ|ピル|タブレット|丸薬|トローチ|錠|経口避妊薬	wnjpn
@@ -1766,7 +1766,7 @@ wing	翼	booqs
 false	『正しくない』|誤った / 『本物でない』|作りものの(artificial) / 人を誤らせるような|人を惑わせる(deceptive) / 信頼を裏切る|不実な / うそを言う|正直でない / だまして	ejdict
 portfolio	書類入れ|自作の作品集|ポートフォリオ	booqs
 pump	ポンプ|ポンプでくみ上げる	booqs
-relative	"【形】比較上の	booqs
+relative	【形】比較上の,(他と)比べての|相対的で|関係のある|対応した【名】親戚|関係詞	booqs
 void	無効な|空虚な|あいた|効果のない|虚空|喪失感|欠如|無効にする|からにする	booqs
 celebrity	有名人	booqs
 finger	指	booqs
@@ -1781,7 +1781,7 @@ iv	四分子|四物|四つ物|フォー|フォア|四つ	wnjpn
 signature	署名	booqs
 mirror	鏡	booqs
 planet	惑星	booqs
-guess	"【動|他】〖~ (that)節|wh節〗…ということを推測する|(何となく)…と思う【名】推測	booqs
+guess	【動|他】〖~ (that)節|wh節〗…ということを推測する|(何となく)…と思う【名】推測,推量	booqs
 tourism	観光	booqs
 straight	まっすぐな	booqs
 webmaster	a technician who designs or maintains a website	wneng
@@ -1828,8 +1828,8 @@ checkout	出る|チェックアウトする|正しいと判明する	booqs
 junior	後輩の|経験の浅い|若い方の|年少者	booqs
 exactly	正確に	booqs
 concert	コンサート	booqs
-tone	"口調	booqs
-nearly	" ほとんど	booqs
+tone	口調,語調,話し方|調子,音質|傾向|を引き締める|音調[色調]を変える	booqs
+nearly	 ほとんど, だいたい; 危うく|密接に, 親密に	booqs
 eligible	適格	booqs
 applicant	申請者	booqs
 gaming	博奕|博打|手なぐさみ|手あそび|手遊|ギャンブル|手慰み|賭け|手遊び|博戯	wnjpn
@@ -1849,7 +1849,7 @@ burn	燃える|焼く	booqs
 academy	『学士院』|芸術院 / 《米》私立中等(高等)学校 / (特殊教育の)専門学校	ejdict
 seed	種子	booqs
 matrix	マトリックス|配列|細胞間質|基盤	booqs
-principal	"【形】最も重要な	booqs
+principal	【形】最も重要な,主要な,主な【名|C】校長,組織の長|元金|主役	booqs
 sing	歌う	booqs
 identity	アイデンティティ|独自性|身元	booqs
 spam	クズメール|多数の人に送りつける	booqs
@@ -1868,19 +1868,19 @@ certification	認証	booqs
 economics	ポリティカルエコノミー|理財学|エコノミックス|エコノミクス|政治経済学|経済学|経済科学	wnjpn
 landscape	風景	booqs
 deposit	保証金	booqs
-apartment	"【名】アパート	booqs
+apartment	【名】アパート,マンション|豪華な居室|部屋|貸し室	booqs
 comfort	快適さ|安楽	booqs
 peak	頂点に達する	booqs
 debate	討論	booqs
 exclusive	排他的	booqs
 tank	タンク	booqs
 rain	雨	booqs
-perspective	"【名】視点|観点	booqs
+perspective	【名】視点|観点,物事の見方|距離感|遠近法|眺め|(将来の)見通し,予想,展望	booqs
 lib	(…)解放(liberation)	ejdict
-prescription	"【名|U】指示（規定）すること【名|C】規定	booqs
+prescription	【名|U】指示（規定）すること【名|C】規定,指示|（薬などの）処方|処方せん|処方【名|U】時効|長期間の使用による権利|貫行	booqs
 decide	決める	booqs
 infrastructure	インフラ|社会基盤施設	booqs
-manner	"【名】方法|様式|態度	booqs
+manner	【名】方法|様式|態度,物腰|行儀,礼儀|風習	booqs
 beta	ベータ	booqs
 paragraph	段落	booqs
 rare	珍しい	booqs
@@ -1908,7 +1908,7 @@ slightly	わずかに	booqs
 ultimate	究極	booqs
 conversion	変換	booqs
 maker	作る人|メーカー	booqs
-postal	"郵便(局)の	booqs
+postal	郵便(局)の, 郵便による	booqs
 interior	内部|室内|インテリア	booqs
 oz	ounce	ejdict
 yard	庭	booqs
@@ -1947,7 +1947,7 @@ configure	設定	wnjpn
 originally	もともと	booqs
 keyboard	キーボード	booqs
 producer	生産者|製造者	booqs
-provision	"【名|U】供給|援助|用意|【C】食糧|規定	booqs
+provision	【名|U】供給|援助|用意|【C】食糧|規定,条項|【動|他】に食糧を供給する	booqs
 regulation	規制	booqs
 secondary	二番目の|二次的な	booqs
 entity	実在物|実体|存在	booqs
@@ -1962,7 +1962,7 @@ proceed	【動|自】取りかかる|≪...を≫続ける≪with≫	booqs
 prevention	防止	booqs
 commitment	約束|誓約	booqs
 instant	インスタント|即座の|即席の|瞬間	booqs
-presence	"【名|U】居ること	booqs
+presence	【名|U】居ること,あること|出席	booqs
 automatic	自動の|無意識の	booqs
 whom	誰を|誰に|～する人	booqs
 soccer	サッカー	booqs
@@ -1973,16 +1973,16 @@ resume	履歴書	booqs
 decrease	減る|減少する	booqs
 lift	持ち上げる	booqs
 specialty	専門	booqs
-healthcare	"【名】健康管理	booqs
+healthcare	【名】健康管理,医療|健康保険【形】健康管理の	booqs
 participation	参加	booqs
 pad	当て布|緩衝材|詰め物|詰め物をする	booqs
 coat	【名|C】上着	booqs
 ideal	理想	booqs
 broad	広範囲の	booqs
-removal	"【名|U】除去：《...を》移動すること《of》|《...の》解任《of》【名|C】移転	booqs
+removal	【名|U】除去：《...を》移動すること《of》|《...の》解任《of》【名|C】移転,引っ越し 	booqs
 actor	俳優	booqs
 toy	おもちゃ	booqs
-threat	"【名|C|U】脅し	booqs
+threat	【名|C|U】脅し,脅迫 【名|C】≪...の≫(悪い)きざし,前兆≪of≫|≪...にとっての≫危険なもの≪to≫	booqs
 twin	双子	booqs
 ahead	前方に|先に	booqs
 genetic	遺伝の	booqs
@@ -1997,7 +1997,7 @@ proper	適切な	booqs
 contemporary	現代の|同時期に起こる	booqs
 cartridge	交換用容器|弾薬筒|実包	booqs
 blonde	ブロンド|金髪|金髪の|ブロンドの	wnjpn
-mill	"製粉場|工場|製粉機	booqs
+mill	製粉場|工場|製粉機,ひきうす|粉砕器|製粉する|粉砕する	booqs
 alpha	アルファ|初めのもの	booqs
 cream	クリーム	booqs
 exit	出口	booqs
@@ -2034,8 +2034,8 @@ complaint	苦情	booqs
 nine	9	booqs
 certainly	確かに	booqs
 muscle	筋肉	booqs
-outlet	"【名|C】《水・煙などの》出口《for》|《感情・精力などの》はけ口《for》|《特定の商品の》販売口	booqs
-indeed	"【副】〖強調〗本当に	booqs
+outlet	【名|C】《水・煙などの》出口《for》|《感情・精力などの》はけ口《for》|《特定の商品の》販売口,販路《for》	booqs
+indeed	【副】〖強調〗本当に,確かに|実はむしろ|｟話｠まったくだ	booqs
 examination	試験	booqs
 virgin	処女|手入らず|乙女|未通女|童貞|おぼこ|生息子|生娘|バージン|ヴァージン	wnjpn
 reaction	反応	booqs
@@ -2084,7 +2084,7 @@ generic	属の|一般的な|商標登録されていない	booqs
 fourth	第4|四番目|第四番目|第四|４番	wnjpn
 rapid	急速な	booqs
 charter	憲章|認可書|契約使用	booqs
-specifically	"【副】特に	booqs
+specifically	【副】特に,特別に,とりわけ|明確に,はっきりと|明確に言うと,具体的に	booqs
 lifestyle	生活様式|暮らしぶり|ライフスタイル	booqs
 honor	名誉	booqs
 converter	電炉|変換器|コンバータ|コンバーター	wnjpn
@@ -2117,26 +2117,26 @@ banner	吹流し|吹流|吹き流し|懸垂幕|幟|垂れ幕|旗|幟旗	wnjpn
 wet	濡れている|濡らす	booqs
 alcohol	アルコール飲料	booqs
 legend	伝説	booqs
-estimate	"【動|他】を見積る	booqs
+estimate	【動|他】を見積る,概算する|を評価する【名|C】見積もり|見積書|評価	booqs
 shell	貝殻	booqs
 organic	有機体の|オーガニック	booqs
 scope	範囲|詳しく調べる	booqs
 sharp	鋭い|とがった	booqs
 interracial	異人種間の / 人種の違った人人の[ための]	ejdict
 competitive	競争の|競争心の強い	booqs
-poetry	" 【名】〖集合的に〗詩	booqs
+poetry	 【名】〖集合的に〗詩,詩歌|(ジャンルとしての)詩,詩歌|韻文|詩的な美しさ	booqs
 pipe	管|パイプ	booqs
 pan	鍋|酷評|酷評される	booqs
 bone	骨	booqs
 representation	表現、代表（権）、肖像	booqs
 extent	範囲|広がり	booqs
 glossary	用語集	wnjpn
-possibility	"【名|C】可能性|可能なこと	booqs
+possibility	【名|C】可能性|可能なこと,ありうること|実現可能な事柄|（勝利・指名などの）見込みのある人|将来性,見込み	booqs
 accordance	一致	booqs
 controller	コントローラー|管理する人|監査役	booqs
 accurate	正確な	booqs
 inventory	在庫	booqs
-convert	"【動|他】〖~ A into [to] B〗AをBに変える	booqs
+convert	【動|他】〖~ A into [to] B〗AをBに変える,転換する【動|自】変わる,転換する【名】改宗者|転向者	booqs
 announce	知らせる|公表する	booqs
 instruction	指示|教育	booqs
 raw	生の|未加工の	booqs
@@ -2169,7 +2169,7 @@ builder	建築業者|〜を形成するもの	booqs
 comedy	コメディー	booqs
 consultation	相談	booqs
 mesh	メッシュ|噛みあわせる|かみ合う|かみ合わす|噛み合う|噛み合わせる|噛合わせる|噛み合せる|噛合せる	wnjpn
-coordinate	"【動|他】を調和させる【動|自】調和して動く【名|C】同等の人|（数学の）座標|《複数形で》コーディネート【形】対等の	booqs
+coordinate	【動|他】を調和させる【動|自】調和して動く【名|C】同等の人|（数学の）座標|《複数形で》コーディネート【形】対等の,等位の|《Aと》同等の,同位の《with A》	booqs
 florist	花屋|花屋|フロリスト|フローリスト	wnjpn
 prize	賞品	booqs
 immediate	即時の|直近の	booqs
@@ -2183,10 +2183,10 @@ institution	【名|U】設立|慣例|公共機関	booqs
 analyst	分析家|アナリスト	booqs
 rear	育てる	booqs
 cluster	房|群れ|房になる|群がる	booqs
-yield	"【動|他】を産出する|を明け渡す【動|自】《...に》屈する《to》|降伏する	booqs
+yield	【動|他】を産出する|を明け渡す【動|自】《...に》屈する《to》|降伏する,譲る【名|C|U】産出（高）,収穫（高）	booqs
 classroom	教室	booqs
 totally	全く	booqs
-doubt	"【名|U】疑い	booqs
+doubt	【名|U】疑い,疑惑【動|他】を疑う【動|自】疑う	booqs
 inquiry	問い合わせ|質問|調査	booqs
 setup	セットアップ|準備	booqs
 proceedings	(law) the institution of a sequence of steps by which legal judgments are invoked|the institution of a sequence of steps by which legal judgments are invoked	wneng
@@ -2194,13 +2194,13 @@ identification	識別	booqs
 chemistry	化学	booqs
 moderator	議長	wnjpn
 utc	Greenwich Mean Time updated with leap seconds	wneng
-pregnancy	"妊娠|内容豊富	booqs
+pregnancy	妊娠|内容豊富, 意味深長.	booqs
 extremely	極めて	booqs
 costa	あばら骨|肋|あばら|肋骨	wnjpn
 console	コンソール|コンソール|キャビネット|労る|慰める|慰藉|慰撫|慰謝|宥める|和める|慰する|慰安|慰む	wnjpn
 charm	魅力|魅了	booqs
 psychology	心理学	booqs
-peer	"【名|C】同等の人	booqs
+peer	【名|C】同等の人,同輩|貴族【動|他】と肩を並べる,に匹摘する	booqs
 crash	衝突する	booqs
 witness	目撃者|目撃する	booqs
 anywhere	（疑問文で）どこかへ|（否定文で）どこにも|（肯定文で）どこでも	booqs
@@ -2211,7 +2211,7 @@ wildlife	野生動物	booqs
 elementary	初等の	booqs
 giant	巨大な	booqs
 sugar	砂糖	booqs
-angle	"【名|C】かど	booqs
+angle	【名|C】かど,すみ|角度|観点【動|他】をある角度に動かす|をある角度から見る【動|自】ある角度に曲がる	booqs
 packet	パケット|パッケージ|包装|袋	booqs
 unlimited	無制限	booqs
 hardcover	堅表紙の本 / (本が)堅表紙の	ejdict
@@ -2219,7 +2219,7 @@ empire	帝国	booqs
 guidance	案内|指導|手引き	booqs
 egg	卵	booqs
 printable	印刷できる;出版に適した	ejdict
-enforcement	"【名|U】施工	booqs
+enforcement	【名|U】施工,執行,強制	booqs
 medication	薬	booqs
 skill	熟練|技術	booqs
 alarm	警報|アラーム	booqs
@@ -2258,9 +2258,9 @@ leisure	【名|U】余暇|暇|自由な時間【形】暇な|有閑な	booqs
 fabric	布|布製の|基本構造|基礎	booqs
 beer	ビール	booqs
 kernel	種|穀粒|主意|中枢|核心|眼目|エッセンス|本質|ポイント|核|要領|エキス	wnjpn
-historic	"【形】歴史に残る	booqs
+historic	【形】歴史に残る,歴史的,歴史上有名な,歴史上重要な|記録のある,歴史時代の	booqs
 appreciate	ありがたく思う|感謝する	booqs
-upcoming	"【形】近く起こる	booqs
+upcoming	【形】近く起こる,やがて起こる|まもなく公開される	booqs
 instructor	指導者|先生|専任講師	booqs
 echo	こだま|模倣|共感|反響する|真似る	booqs
 exact	正確な	booqs
@@ -2294,18 +2294,18 @@ neither	どちらも～ない	booqs
 championship	選手権	booqs
 rail	鉄道|レール	booqs
 translate	翻訳する	booqs
-micro	"【複合要素】小	booqs
+micro	【複合要素】小,微少	booqs
 offline	(コンピューターが)オフラインの(親コンピューターから独立して作動する)	ejdict
 consistent	一貫した|一致した	booqs
 boundary	境界	booqs
 bright	明るい	booqs
 gateway	木戸|ゲート	wnjpn
-prefer	"【動|他】〖A(to B)〗 (Bより)Aの方を好む	booqs
+prefer	【動|他】〖A(to B)〗 (Bより)Aの方を好む,選ぶ 	booqs
 babe	孩児|緑児|幼児|嬰児|やや|稚児|赤ん坊|ベビー|ベイビー|ねんね	wnjpn
 recognize	認識する	booqs
 equation	方程式	booqs
 traveler	旅行者	booqs
-objective	"【名|C】目標	booqs
+objective	【名|C】目標,目的|目的格【形】客観的な|実在の|目的格の	booqs
 merchandise	商品	booqs
 laugh	笑う|笑い	booqs
 investigate	調査する	booqs
@@ -2315,14 +2315,14 @@ classification	【名|U|C】分類|分類法|分類結果	booqs
 craft	工芸品	booqs
 journey	旅	booqs
 dragon	ドラゴン|龍|火竜|竜	wnjpn
-relation	"【名】関係	booqs
+relation	【名】関係,関連|親戚(関係)|話すこと|犯罪通報	booqs
 recognition	認識	booqs
 prayer	祈り|祷り|心願|祈念|願|祈願|祈祷|祈請|祈とう	wnjpn
 milk	乳	booqs
 democratic	民主的な	booqs
 parameter	パラメーター	booqs
 hockey	フィールドホッケー|ホッケー|アイスホッケー	wnjpn
-segment	"【名】(容易に区別できる)部分	booqs
+segment	【名】(容易に区別できる)部分,区分【動|他】を分割する【自】分かれる	booqs
 belong	【動|自】≪...の≫所有である|≪...の≫一部である|≪...に≫属する≪to≫	booqs
 cake	ケーキ	booqs
 ear	耳	booqs
@@ -2339,10 +2339,10 @@ premier	首相	booqs
 expansion	拡大	booqs
 supreme	『最高位(権威)の』 / (程度・質が)『最高の』|最大の / できり限りの	ejdict
 decade	【名】10年間	booqs
-rely	"〖on [upon] A〗 Aを頼りにする	booqs
+rely	〖on [upon] A〗 Aを頼りにする, 信頼する	booqs
 dose	用量	booqs
 wage	賃金|報い	booqs
-regulatory	"【形】取り締まる|調節する	booqs
+regulatory	【形】取り締まる|調節する,調整する	booqs
 tend	～する傾向がある	booqs
 smooth	なめらかな|なめらかにする	booqs
 transaction	取引|交流|やりとり|処理|議事録	booqs
@@ -2350,7 +2350,7 @@ sensor	センサー	booqs
 pulse	脈拍	booqs
 sand	砂	booqs
 memorial	記念|メモリ|メモリー	wnjpn
-venture	"【名|C|U】危険な企て	booqs
+venture	【名|C|U】危険な企て,冒険【C】冒険に賭けた物【動|他】をあえて言う|を危険にさらす【動|自】思い切って進む	booqs
 scanner	イメージスキャナー|デジタルスキャナー|イメージスキャナ|スキャナー|デジタルスキャナ|スキャナ|走査装置	wnjpn
 fold	折りたたむ	booqs
 subscriber	加入者	booqs
@@ -2361,12 +2361,12 @@ twenty	20	booqs
 labour	プロレタリア階級|第四階級|無産階級|労働者|労働階級|プロレタリヤ階級|プロ|プロレタリヤート|労働者階級|プロレタリアート|粒々辛苦|働き詰める|粒粒辛苦|辛苦|労作|力作|汗する|労|辛労|働詰める|努める|前進|気張る|推しすすめる	wnjpn
 spell	つづり|スペル|つづる	booqs
 occasion	時|出来事|機会	booqs
-dear	"【形】親愛な	booqs
+dear	【形】親愛な,かわいい|（手紙の書き出しのあいさつの）親愛なる,尊敬する|《...にとって》大事な《to》【副】高価に【名|C】かわいい人【間】おや,まあ	booqs
 mistake	間違い	booqs
 flood	洪水	booqs
-escape	"【動|自】《Aから》逃げ出す	booqs
+escape	【動|自】《Aから》逃げ出す,脱走する《from, out of A》|《Aから》免れる《from A(doing)》|《Aから》流出する,漏れる《from, out of A》 【動|他】（未然に）をうまくかわす|を免れる,を逃れる|に忘れられる,の注意を引かない|（言葉・ため息などが）（人）から思わず出る|【名|C|U】《Aから》逃げ出すこと,脱走|《Aを》免れること《from, out of A》【名|C】《Aから》逃げる手段,逃げ道《from, out of A》|《Aからの》《Bの》漏れ《of B from(out of) A》	booqs
 truly	本当に	booqs
-extensive	"広い|広範囲の	booqs
+extensive	広い|広範囲の, 多方面にわたる|大規模な	booqs
 affordable	【形】手ごろな価格の|入手可能な	booqs
 insight	洞察	booqs
 settlement	移住|入植地|落ち着くこと	booqs
@@ -2411,7 +2411,7 @@ analyze	分析する	booqs
 downtown	中心部へ|繁華街|商業地区の|	booqs
 occupation	職業	booqs
 cinema	映画館|映画	booqs
-restore	"〈物･人〉を戻す|復帰[復職]させる|取り戻す|修復する	booqs
+restore	〈物･人〉を戻す|復帰[復職]させる|取り戻す|修復する, 復元する|回復[復活]させる|返還される|復旧する	booqs
 castle	城	booqs
 belief	信念	booqs
 celebrate	祝う	booqs
@@ -2441,7 +2441,7 @@ revolution	革命|回転数	booqs
 sufficient	十分な	booqs
 murder	殺人|殺す	booqs
 fellow	仲間	booqs
-refine	"【動|他】精製する	booqs
+refine	【動|他】精製する,洗練する	booqs
 hurricane	ハリケーン	booqs
 awareness	認識	booqs
 spyware	スパイウェア	wnjpn
@@ -2449,7 +2449,7 @@ senator	上院議員	booqs
 communicate	伝える	booqs
 blank	無表情な|空白の	booqs
 smoke	喫煙	booqs
-contribution	"【名|C】寄与	booqs
+contribution	【名|C】寄与,貢献	booqs
 resistance	抵抗|耐性	booqs
 phrase	言い回し|語句	booqs
 solar	【形】太陽の	booqs
@@ -2501,13 +2501,13 @@ normally	普通は|正常に	booqs
 charger	軍馬	wnjpn
 lo	見よ|そら	ejdict
 explanation	説明	booqs
-refund	"【名|C】払い戻し金	booqs
+refund	【名|C】払い戻し金,返金|【U】払い戻すこと|【動|他】返金する	booqs
 retailer	小売店	booqs
 diabetes	糖尿|糖尿病	wnjpn
 tissue	ティッシュ	booqs
 meat	肉|	booqs
 recorder	リコーダー|レコーダー|レコーダ	wnjpn
-compound	"【動|他】混ぜ合わせる 【動|自】混合する 【形】混合の	booqs
+compound	【動|他】混ぜ合わせる 【動|自】混合する 【形】混合の,複合の 【名|C】混合物,合成物,化合物	booqs
 incident	事件	booqs
 satisfaction	満足	booqs
 container	容器	booqs
@@ -2519,11 +2519,11 @@ mall	ショッピングモール|木陰のある散歩道	booqs
 infant	幼児	booqs
 completion	完了	booqs
 float	浮く	booqs
-shot	"【名】発砲	booqs
+shot	【名】発砲,発射|射撃手|銃弾|当てこすり|試み|一撃,一打	booqs
 parallel	平行な|平行線	booqs
 consolidation	合併	booqs
 bet	賭ける	booqs
-cosmetic	"化粧用の	booqs
+cosmetic	化粧用の, 美容の; 化粧品|ごまかし.	booqs
 preserve	保存する	booqs
 surf	寄せる波|サーフィンをする	booqs
 hook	フック|フックで吊るす	booqs
@@ -2532,7 +2532,7 @@ distributor	販売会社|分配する人|配電機	booqs
 pleasure	【名】楽しさ|愉快|満足	booqs
 comfortable	快適な|心地よい	booqs
 exclude	除外する	booqs
-effectively	"【副】効果的に	booqs
+effectively	【副】効果的に,有効に	booqs
 diary	日記	booqs
 stable	安定した	booqs
 massive	巨大な|大量の	booqs
@@ -2549,11 +2549,11 @@ swing	ブランコ	booqs
 receipt	領収書	booqs
 webcam	ウェブカメラ|webカメラ	wnjpn
 rat	ネズミ	booqs
-mechanical	"【形】機械の	booqs
+mechanical	【形】機械の,道具の|機械仕掛けの|機械向きの|機械的な,自動的な【名|C】（機械･車の）可動部分	booqs
 earnings	所得|プラス|益金|利|純利益|利益|得分|純利|得利|利潤	wnjpn
 cooperation	協力	booqs
 slip	滑る|滑ること	booqs
-collaboration	"【名】共同	booqs
+collaboration	【名】共同,協力|共作,合作,共著	booqs
 suffer	苦しむ|耐える	booqs
 interpretation	解釈	booqs
 knife	ナイフ|刀	booqs
@@ -2569,7 +2569,7 @@ concrete	コンクリート|コンクリートで固める	booqs
 diversity	多様性	booqs
 discipline	規律|訓練|分野|律する	booqs
 pension	年金	booqs
-adjustment	"調整	booqs
+adjustment	調整,調節|修正,補正|適応|調停|(保険金の)清算	booqs
 hairy	毛の生えた	wnjpn
 captain	キャプテン	booqs
 uniform	制服|統一の	booqs
@@ -2585,7 +2585,7 @@ spray	噴射	booqs
 fiber	繊維|食物繊維|糸|ファイバー	booqs
 women	woman の複数形	ejdict
 massage	あんま|刷り込む|改竄する|マッサージする	booqs
-adoption	"【名】養子縁組【U】(新しい方式などの)採用	booqs
+adoption	【名】養子縁組【U】(新しい方式などの)採用,採択; (外国語の)借用	booqs
 technique	技術	booqs
 prison	刑務所	booqs
 charity	慈善団体	booqs
@@ -2661,7 +2661,7 @@ tablet	錠剤|メモ帳|銘板	booqs
 projector	映写機|投影機	booqs
 successfully	成功するかたちで	booqs
 bend	曲げる	booqs
-pursuant	"【形】準ずる	booqs
+pursuant	【形】準ずる, 従った, 拠った 《to》|追跡する,追う|…に従って,準じて《to》	booqs
 valuable	値段が高い	booqs
 recruitment	募集	booqs
 primarily	主に	booqs
@@ -2674,16 +2674,16 @@ python	ニシキヘビ(アフリカ・アジア・オーストラリア産の無
 quiet	静かな	booqs
 expensive	値段が高い	booqs
 terrorist	テロリスト	booqs
-expertise	"【名】専門的意見[技術]	booqs
+expertise	【名】専門的意見[技術],専門知識	booqs
 survive	耐える|生き残る	booqs
 horror	恐怖|うろたえ	booqs
 detection	検出	booqs
 pot	鍋|容器	booqs
 rescue	救助する|救助	booqs
-optimization	"【名】最適化	booqs
+optimization	【名】最適化,適正化	booqs
 jewellery	アンティーク・ジュエリー|ジュエリー|宝飾品	wnjpn
 welfare	幸福|福祉	booqs
-eventually	"【副】結局	booqs
+eventually	【副】結局,ついに|最後には,ゆくゆくは	booqs
 transform	変換する	booqs
 innovative	【形】革新的な|創造力に富んだ	booqs
 excess	過剰|過度の	booqs
@@ -2694,8 +2694,8 @@ thousand	1000	booqs
 mat	マット|無光沢|マット|艶消し	wnjpn
 hurt	痛む|傷つける	booqs
 ghost	幽霊	booqs
-era	"【名】(重要な出来事や人物により特徴づけられる)時代	booqs
-joy	"【名|U】(幸福感に満ちた大きな)喜び	booqs
+era	【名】(重要な出来事や人物により特徴づけられる)時代,時期,年代|(歴史上の)…時代|紀元,紀年法	booqs
+joy	【名|U】(幸福感に満ちた大きな)喜び,うれしさ,歓喜【C】喜びの種【動|自】喜ぶ,幸せである	booqs
 tiny	とても小さい	booqs
 crowd	群衆|群がる|押す	booqs
 glance	ちらりと見ること	booqs
@@ -2704,9 +2704,9 @@ compete	競争する	booqs
 inner	内側の	booqs
 dry	乾いた	booqs
 jr	二世	wnjpn
-disclosure	"【名|U】露見	booqs
+disclosure	【名|U】露見,暴露【名|C】打ち明け話,暴露されたもの	booqs
 danger	危険	booqs
-calculation	"【名|U|C】計算	booqs
+calculation	【名|U|C】計算,見積もり,算定|予想,推定|意図,熟慮	booqs
 locate	捜し出す|置く|位置する	booqs
 navigate	〈人が〉〈船・航空機など〉‘を'『操縦する』 / 〈船・飛行機が〉…‘を'『航行する』|〈人が〉…‘を'船(飛行機)で行く / 〈物事〉‘を'うまくやっていく / (飛行機)を操縦する|航行する	ejdict
 oracle	予言者|託宣|神託|オラクル|神託	wnjpn
@@ -2720,7 +2720,7 @@ gross	キモい	booqs
 boost	後押し|促進する|引き上げる	booqs
 placement	配置	booqs
 utilize	利用する|活用する	booqs
-operational	"【形】操作可能な	booqs
+operational	【形】操作可能な,作戦の	booqs
 handbook	手引書|入門書|旅行案内書	booqs
 cache	隠し場所	wnjpn
 par	同等|同位|等価|パーで上回る	booqs
@@ -2729,14 +2729,14 @@ vinyl	ビニル基|ビニル	wnjpn
 statute	法令	booqs
 discharge	流出	booqs
 fetish	呪物|お守り|咒物|物神	wnjpn
-intervention	"【名|U】（…が）間に入ること|（…の）干渉;調停	booqs
+intervention	【名|U】（…が）間に入ること|（…の）干渉;調停,仲裁《of》	booqs
 asp	アスプ鎖蛇|エジプトコブラ	wnjpn
 rep	横うね織物(いすのカバー.カーテンなどに使われるじょうぶな織物)	ejdict
 qualify	資格を取る	booqs
-aviation	"航空|飛行術	booqs
+aviation	航空|飛行術,航空学|航空機産業	booqs
 strap	縛る|括る	wnjpn
 brush	磨いたり払うためのハケ	booqs
-subsection	"【名|C】小節	booqs
+subsection	【名|C】小節,下位区分|款|小区分	booqs
 stack	積み重ね|積み重ねる	booqs
 pine	松|マツ科|マツ	wnjpn
 defendant	【名】被告【形】被告の	booqs
@@ -2753,15 +2753,15 @@ devil	魔王|デヴィル|魔神|デビル|ベルゼブル|サタン|逆撫で�
 dangerous	危険な	booqs
 citation	引用	booqs
 mad	怒った	booqs
-alter	"【動|他】（形・性質などの点で）を変える	booqs
+alter	【動|他】（形・性質などの点で）を変える,改める【動|自】変わる,改まる	booqs
 divorce	離婚する	booqs
 unfortunately	不運にも	booqs
 grill	グリル|焼き網|あみ焼きにする|詰問する	booqs
 respectively	それぞれ	booqs
-parliament	"議会	booqs
+parliament	議会,国会,英国議会,(議会の)会期	booqs
 dad	お父さん|パパ|父さん|お父ちゃん|父ちゃん	basic
 blend	混ぜ合わせる|組み合わせる	booqs
-semi	"【接頭辞】半…|やや…	booqs
+semi	【接頭辞】半…|やや…,いくぶん…,不十分な	booqs
 luck	運	booqs
 beast	四つ脚|毛の荒物|獣畜|4つ脚|アニマル|4つ足|生物|動物|生き物|獣	wnjpn
 postage	送料	booqs
@@ -2785,19 +2785,19 @@ talent	才能	booqs
 globe	地球儀|地球	booqs
 digest	編纂|編集|要訳|ダイジェスト|要約|編修|編輯|消化|消化	wnjpn
 probe	【動|自|他】徹底的に調べる【名】徹底的な調査	booqs
-differ	"【動|自】違う	booqs
+differ	【動|自】違う,異なる|意見を異にする	booqs
 combat	戦闘	booqs
 tall	背の高い	booqs
 grove	林|木立|木立ち	wnjpn
 sleeve	袖|たもと	booqs
 assess	評価する|査定する	booqs
 weak	弱い	booqs
-vessel	"【名|C】船舶|容器|管	booqs
+vessel	【名|C】船舶|容器|管,血管	booqs
 reviewer	評論家|校閲家|審査員	booqs
 brake	制動器|抑制|ブレーキをかける	booqs
 adopt	採用する|取り入れる	booqs
 apart	離れて|別々に	booqs
-workplace	"【名|C】仕事場	booqs
+workplace	【名|C】仕事場,職場,作業場	booqs
 cottage	田舎家|在家|平家|平屋|小屋|宿小屋	wnjpn
 prompt	【動|他】刺激する|促す【形】俊敏な|即座の【副】きっかり	booqs
 illustration	挿絵|図解	booqs
@@ -2824,12 +2824,12 @@ trap	わな|わなで捕える	booqs
 sick	病気の	booqs
 sink	流し	booqs
 municipal	市立	booqs
-jurisdiction	"【名|U】司法権	booqs
+jurisdiction	【名|U】司法権,裁判権|支配権,管轄権【名|C】管轄区域	booqs
 indoor	屋内	booqs
 integrate	統合する	booqs
 citizen	市民	booqs
 skirt	スカート	booqs
-acknowledge	"【動|他】認める	booqs
+acknowledge	【動|他】認める,認知する|正当に認識[評価]する,承認する|に気づいたことを示す	booqs
 structural	構造の	booqs
 tough	丈夫な|骨の折れる	booqs
 telecom	【名|U|C】遠距離通信|電気通信技術（ = telecommunication）	booqs
@@ -2872,7 +2872,7 @@ hack	打ちきる|ぶっ切る|打切る|打っ切る|打ち切る|打ち割る|
 quest	探究|探求|探求|探求|探求|探求|要求|要望|頼む|求める|願う|リクエスト|求む|所望	wnjpn
 habitat	生息地	booqs
 fraud	詐欺	booqs
-necessarily	"【副】必ず	booqs
+necessarily	【副】必ず,必然的に|《not ~ A》必ずしもAでない	booqs
 depression	不景気|うつ病|衰弱	booqs
 architect	建築家	booqs
 everyday	毎日|日常の	booqs
@@ -2880,7 +2880,7 @@ projection	【名|C】見積もり	booqs
 apparently	【副】明白に|見かけは	booqs
 popularity	人気	booqs
 dozen	1ダース	booqs
-satisfy	"【動|他】を満足させる	booqs
+satisfy	【動|他】を満足させる,を喜ばせる|を満たす|納得する【自】満足させる	booqs
 headset	ヘッドセット	wnjpn
 absence	不在|欠席|不足	booqs
 firewall	(colloquial) the application of maximum thrust; "he moved the throttle to the firewall"|the application of maximum thrust	wneng
@@ -2892,7 +2892,7 @@ obviously	【副】当然ながら|明らかに	booqs
 moderate	【形】適度の|中くらいの|穏やかな【動|他】を適度にする|の司会をする【動|自】穏やかになる|司会をつとめる	booqs
 mercury	水銀	booqs
 perfume	薫香|フレーグランス|芳しさ|芳芬|蘭麝|馨しさ|芳ばしさ|薫り|フレグランス|香気|香水|精油|エッセンス|パフューム|香料	wnjpn
-arise	"【動|自】起こる	booqs
+arise	【動|自】起こる,現れる|《Aから》生じる《from A》|《古・詩》起き上がる,立ち上がる|（霧・煙などが）立ちのぼる,湧きあがる	booqs
 privilege	特権|特典	booqs
 reproduction	再生|生殖作用	booqs
 shake	振る|震える|動揺させる|振動|震え	booqs
@@ -2920,11 +2920,11 @@ illness	病気	booqs
 inform	知らせる	booqs
 atmosphere	大気|空気	booqs
 carpet	カーペット	booqs
-jam	"【動|他】を押し込む	booqs
+jam	【動|他】を押し込む,を詰め込む《into|in|between》|をぎっしりふさぐ《with》|をぐいっと押す《on》|を一部がつかえて動かなくする|〈放送・通信〉を妨害する【動|自】詰まる|動かなくなる【名|C】混雑,雑踏|故障|窮地	booqs
 alternate	代わりの	booqs
 tee	ティー|ティーグラウンド|ティーインググラウンド|ティーアップ|しっくり	wnjpn
 memorabilia	記憶すべきこと	wnjpn
-pitch	"【動|他】を投げる|を設営する|を傾ける|の音程をきめる|をペラペラしゃべる【動|自】落ちる	booqs
+pitch	【動|他】を投げる|を設営する|を傾ける|の音程をきめる|をペラペラしゃべる【動|自】落ちる,倒れる|投球する【名|U|C】度合い,程度|投球：勾配【名|C】執拗な弁舌	booqs
 shield	盾	booqs
 strain	痛める|酷使する|全力を出す|ろ過する|強く引っ張る	booqs
 behaviour	挙動|ビヘイビア|振る舞い|振舞い|振舞|身持|行儀|行ない|身性|仕打ち|振る舞い|身持ち|素行|行い|所作|行動パターン|行動|行儀|行ない|振る舞い|品行|素行|行動|行い|振舞い|態度|行為	wnjpn
@@ -2944,7 +2944,7 @@ consult	相談する|調べる	booqs
 torture	拷問	booqs
 passion	情熱	booqs
 tile	かわら|工管|タイル張りにする	booqs
-prospect	"【名|C】(高い位置からの)光景	booqs
+prospect	【名|C】(高い位置からの)光景,眺め【名|U】予想|見込み|可能性【動|他】を探査する	booqs
 advocate	提唱する|主張する|提唱者|擁護者	booqs
 involvement	関与	booqs
 incorporate	合併する|組み込む|法人組織化する	booqs
@@ -2977,7 +2977,7 @@ receptor	受容体	booqs
 powder	粉末	booqs
 hence	それ故	booqs
 tap	軽くたたく|コツコツと音を立てる	booqs
-entirely	"【副】完全に|まったく|もっぱら	booqs
+entirely	【副】完全に|まったく|もっぱら,ひたすら	booqs
 throat	喉	booqs
 rider	乗る人|添書き|付加条件	booqs
 cure	治す	booqs
@@ -3010,7 +3010,7 @@ relate	関係づける|関連する	booqs
 vista	見晴らし|展望|眺望|景趣|見渡|情景|パノラマ|光景|眺め|状景	wnjpn
 tribe	部族	booqs
 spare	予備|スペア	booqs
-partial	"【形】一部分の	booqs
+partial	【形】一部分の,部分的な|不完全な|不公平な,偏った|《Aが》特に好きで《be ~ to A》	booqs
 beverage	飲み物	booqs
 yoga	ヨガ	booqs
 whereas	～である一方で	booqs
@@ -3067,7 +3067,7 @@ attendance	出席	booqs
 diagram	図|図式|運行計画表|図で示す	booqs
 offset	埋め合わせする|相殺する|よりよく見せる|（壁面に）段をつくる	booqs
 whenever	～するときはいつでも|いつであれ|一体いつ～	booqs
-resolve	"【動|他|自】決心する	booqs
+resolve	【動|他|自】決心する,解決する,議決する,分解する 	booqs
 duke	公爵|デューク	wnjpn
 booty	分捕り物|腐り金|分捕り|腐れ金|獲物|強奪物|分捕り品|盗品|悪銭|分捕品	wnjpn
 necklace	ネックレス	booqs
@@ -3080,7 +3080,7 @@ casual	無頓着の|普段着の|臨時の|偶然の	booqs
 methodology	【名|U|C】方法論	booqs
 rebate	払い戻し|割引金	booqs
 nest	巣	booqs
-fairly	"【副】〖形容詞副詞を修飾して〗まあまあ|かなり|〖動詞を修飾して〗公正に	booqs
+fairly	【副】〖形容詞副詞を修飾して〗まあまあ|かなり|〖動詞を修飾して〗公正に,公平に|〖動詞前置詞を修飾して〗すっかり|実際に	booqs
 coastal	海岸の|沿岸の	ejdict
 intelligent	知的な	booqs
 regardless	【形】無頓着な|不注意な【副】～にかかわらず≪of≫|とにかく	booqs
@@ -3088,10 +3088,10 @@ aluminum	アルミニウム	booqs
 approve	賛成する|是認する	booqs
 deserve	値する	booqs
 latter	後の|後者	booqs
-transformation	"【名|U】変形	booqs
+transformation	【名|U】変形,変身,変換	booqs
 advise	忠告する	booqs
-triple	"【形】3倍の|3重の	booqs
-intermediate	"【形】中級の	booqs
+triple	【形】3倍の|3重の,3部から成る【名|C】3倍の数|三塁打【動|他】を3倍(3重)にする【自】3倍になる|三塁打を打つ	booqs
+intermediate	【形】中級の,中間の 【名】中間体,仲裁者	booqs
 suspension	懸濁液	wnjpn
 debug	デバッグ	wnjpn
 stamp	切手	booqs
@@ -3100,9 +3100,9 @@ defence	防衛機制|ディフェンス|守備|守備側チーム|デフェン�
 den	栖|巣|巣穴|ねぐら|巣窟|アジト|住み処|住みか|栖|巣|住み家|潜窟	wnjpn
 announcement	お知らせ	booqs
 observer	観察者	booqs
-outcome	"【名|C】（会議や活動などの）最終的な結果	booqs
+outcome	【名|C】（会議や活動などの）最終的な結果,結論,成果	booqs
 damn	ちくしょう|すごく	booqs
-passage	"【名|C】節	booqs
+passage	【名|C】節,句|通路【U】通過すること|通行の許可【動|自】通過すること	booqs
 cassette	カセット|テープ	wnjpn
 ah	『ああ』(悲しみ・嘆き・驚き・同情・喜び・得意・哀れみ・軽べつなどを表す声)	ejdict
 gulf	湾|隔たり|ディスコネクト	wnjpn
@@ -3118,7 +3118,7 @@ killer	殺人犯|とても難しいもの|とても魅力的な人	booqs
 opt	選択する|決める	booqs
 shopper	【名|C】買い物客|ちらし	booqs
 entrance	入り口|入場	booqs
-bull	"【名|C】雄牛【形】雄牛の|上向きの	booqs
+bull	【名|C】雄牛【形】雄牛の|上向きの,強気の【動|他】を強行する【動|自】押し進む	booqs
 functionality	機能性	wnjpn
 partly	一部分は|少しは	booqs
 steal	盗む	booqs
@@ -3139,7 +3139,7 @@ execute	【動|他】を実行する|《Bの罪でAの》死刑を執行する�
 governance	ガバナンス|統治|運営	booqs
 loose	ゆるい|自由な	booqs
 defeat	敗北|負かす	booqs
-chronic	"【形】（病気が）長期にわたる	booqs
+chronic	【形】（病気が）長期にわたる,慢性の|常習の,癖になった	booqs
 bachelor	独者|無妻|一人者|バチェラー|チョンガー|独身|独り者|バチェラ|未婚男性|独身者	wnjpn
 trek	長くつらい旅をする / 長くつらい旅	ejdict
 distribute	分配する	booqs
@@ -3147,7 +3147,7 @@ preliminary	予備的	booqs
 elite	エリート|選ばれた人たち	booqs
 bikini	ビキニ|ビキニ	wnjpn
 geography	地理学|地理|地形|間取り	booqs
-optimize	"【動|他】を能率的に利用できるようにする	booqs
+optimize	【動|他】を能率的に利用できるようにする,最適なものにする|を最大限に活用する|を最適化する	booqs
 rose	バラ|バラ色	booqs
 ourselves	私たち自身	booqs
 wooden	木でできた	booqs
@@ -3159,13 +3159,13 @@ precision	精度	booqs
 silk	地絹|絹地|シルク|絹布|帛|絹	wnjpn
 gospel	福音書	wnjpn
 afford	～する余裕がある	booqs
-capability	"【名|U|C】能力	booqs
+capability	【名|U|C】能力,才能,手腕|素質,可能性	booqs
 reflection	反射|反響	booqs
 herself	彼女自身	booqs
 sad	悲しい	booqs
 soundtrack	サウンドトラック|サントラ	wnjpn
 diesel	ディーゼル|ディーゼルエンジン	wnjpn
-diverse	"【形】別種の	booqs
+diverse	【形】別種の,違った《from》|いろいろの,多様な	booqs
 salon	店|客間|現代美術展	booqs
 arc	円弧|弧を描く|弓状に動く	booqs
 compile	編集する|まとめる|機械語に翻訳する	booqs
@@ -3183,9 +3183,9 @@ ace	１|一|ワン|壱|走る	wnjpn
 noble	気高い	booqs
 assurance	保証	booqs
 shelter	避難所|保護施設	booqs
-macro	"【複合要素】長い	booqs
+macro	【複合要素】長い,大きい,大規模な	booqs
 bundle	バンドル|束|包み	booqs
-saver	"【名|C】節約するもの|貯蓄家	booqs
+saver	【名|C】節約するもの|貯蓄家,倹約家|格安のもの|救済者,救助者	booqs
 amd	macular degeneration that is age-related	wneng
 mood	気分|ムード	booqs
 crap	うんち|屎|糞|汚穢|ばば|くそ|大便|うんこ	wnjpn
@@ -3196,7 +3196,7 @@ theft	盗難	booqs
 pray	祈る|祈願する	booqs
 overnight	【副】一晩じゅう|一夜のうちに【形】夜通しの|突然の【動|自】一泊する	booqs
 drag	引っ張る	booqs
-integrity	"【名|U】完全	booqs
+integrity	【名|U】完全,無欠|高潔さ,清廉,誠実さ	booqs
 fence	フェンス|囲い	booqs
 detect	見つける|検出する	booqs
 widely	【副】広く|広範囲に|大いに	booqs
@@ -3209,8 +3209,8 @@ pendant	ペンダント|ペンダント|シャンデリヤ|シャンデリア	wn
 bandwidth	帯域幅	wnjpn
 versus	～に対して	booqs
 lung	肺	booqs
-refuse	"【動|他|自】断る|辞退する|〖to do〗…するのを断る	booqs
-coalition	"【名|C】（政党などの	booqs
+refuse	【動|他|自】断る|辞退する|〖to do〗…するのを断る,…しようとしない〖AB|B to A〗AにBを与える[認める]のを拒む	booqs
+coalition	【名|C】（政党などの,特に一時的な）《...の間の》連立,提携《between》|一体化,合体融合 	booqs
 geographic	地理的な|地勢の|地理学上の	booqs
 migration	移動	booqs
 negotiate	交渉する	booqs
@@ -3229,24 +3229,24 @@ correction	補正	booqs
 slowly	ゆっくりと	booqs
 gnome	侏儒|朱儒|小びと|ドワーフ|ノーム|小人	wnjpn
 demonstration	証明|実証	booqs
-admit	"【動|他】を認める|を入れる	booqs
+admit	【動|他】を認める|を入れる,に入ることを許す|を収容できる	booqs
 propose	提案する	booqs
 trunk	樹幹|幹|トランク	wnjpn
 rip	破れ目|裂け目|破れ|破れ目|劈く|引き破く|引裂く|引き破る|引き裂く|打っ裂く|破る|打裂く	wnjpn
 unlike	似ていない|〜と違って	booqs
 technician	技術者|専門家|技巧家	booqs
-regime	"【名|C】政権	booqs
+regime	【名|C】政権,政府|政治体制|制度	booqs
 pi	パイ	booqs
 praise	称賛|称賛する	booqs
-quarterly	"【形】年4回の	booqs
+quarterly	【形】年4回の,3か月ごとの 【副】年4回に,3か月ごとに 【名|C】年4回の刊行物,季刊誌	booqs
 convenience	便利さ|利便性|便利なもの	booqs
 enrollment	入会	booqs
 continental	アメリカ本土の|大陸の	booqs
 proportion	割合	booqs
 herald	伝令者|先駆|先駆者|ヘラルド|予告|予言|前触れ|称賛	wnjpn
-directive	"【名|C】《...に関する》指令	booqs
+directive	【名|C】《...に関する》指令,命令,訓令《on ...》【形】指導的な,指示的な|《...を》指令する《of ...》	booqs
 punk	あばれん坊|不良|暴れん坊|不良少年|ちんぴら|チンピラ|けち|しみったれ|安手|安価|低級|ちゃち|けち臭い|チープ	wnjpn
-tender	"【動|他】を提出する	booqs
+tender	【動|他】を提出する,を提供する,を申し出る《to》|を差し出す,を支払う【名|C】入札,請負見積書|弁償金	booqs
 dialogue	対談|ダイアローグ|会話|ダイアログ|対話|ダイヤローグ	wnjpn
 flexibility	柔軟性	booqs
 dive	飛び込む	booqs
@@ -3281,7 +3281,7 @@ impression	印象	booqs
 broadway	ブロードウェイ	wnjpn
 investigator	【名|C】調査者、捜査員	booqs
 automation	自動化|機械化	wnjpn
-harm	"【名|U】害	booqs
+harm	【名|U】害,損害|悪意|不都合【動|他】を傷つける,害する|に悪影響を与える	booqs
 cooperative	協同組合	booqs
 bibliography	ビブリオグラフィー|参考書目|書誌学|参考文献|著書目録	wnjpn
 median	中央値	booqs
@@ -3308,7 +3308,7 @@ bubble	バブル|泡|泡立つ	booqs
 decor	内装|インテリア装飾|インテリアデコレーション|インテリア|室内装飾	wnjpn
 unusual	【形】普通でない|異常な|独特の	booqs
 spouse	配偶者	booqs
-commodity	"産物	booqs
+commodity	産物,商品;日用品|役に立つ[便利な]物	booqs
 increasingly	ますます	booqs
 subsidiary	子会社	booqs
 basically	基本的には	booqs
@@ -3322,7 +3322,7 @@ herein	ここに	wnjpn
 occupational	職業性|職業的	wnjpn
 programmer	プログラマー	booqs
 judicial	裁判上	booqs
-dump	"【動|他】（重い荷物など）をどさっと落とす|をどさっと捨てる|を投げ売りする	booqs
+dump	【動|他】（重い荷物など）をどさっと落とす|をどさっと捨てる|を投げ売りする,ダンピングする【名|C】ごみの山|（弾薬・軍需品などの）臨時集積場	booqs
 opposition	反対	booqs
 duck	アヒル|カモ|ダック|家鴨|間鴨|鴨|合鴨|竦める	wnjpn
 montreal	モントリオール	wnjpn
@@ -3331,7 +3331,7 @@ toilet	手洗|御手洗い|手洗い場|洗面所|手洗場|ご不浄|手水場|
 shipment	出荷	booqs
 rough	大ざっぱな|おおよその	booqs
 manufacture	製造|製造する	booqs
-artwork	"【名|U】挿し絵	booqs
+artwork	【名|U】挿し絵,図版【C】芸術作品|工芸品【U】工芸品の製作	booqs
 basin	たらい|盆地	booqs
 besides	～のほか|～を除いて|その上	booqs
 township	ポリス	wnjpn
@@ -3377,17 +3377,17 @@ fork	フォーク|分岐点|支流|分岐する	booqs
 employ	雇う	booqs
 redeem	改善する|名誉挽回する|救済する|履行する|返済する|償還する|現金[商品]に換える|買い戻す	booqs
 fry	稚魚	booqs
-attraction	"【名|U】魅力|引きつける力[性質]|【C】人を引きつける物[人]|吸引	booqs
-bore	"【動|他】《…で》をうんざりさせる	booqs
+attraction	【名|U】魅力|引きつける力[性質]|【C】人を引きつける物[人]|吸引, 誘引; 引力	booqs
+bore	【動|他】《…で》をうんざりさせる,退屈させる《with,by ...》|【名|C】退屈な人（事）	booqs
 blame	【動|他】を非難する|とがめる《for》|（罪など）をなすりつける《on》【名|U】責任|非難	booqs
 balloon	風船|気球|吹き出し|ふくらむ|太る	booqs
 nose	鼻	booqs
-involve	"【動|他】を伴う|を巻き込む≪in≫|≪ Aに≫を夢中にさせる≪be ~ in	booqs
+involve	【動|他】を伴う|を巻き込む≪in≫|≪ Aに≫を夢中にさせる≪be ~ in,with A≫	booqs
 chef	料理長|料理人|料理をする人	booqs
 vast	広大な	booqs
 rapidly	急速に	booqs
 scout	『斥候』(せっこう)|偵察(ていさつ)機|偵察艦 / (また 『talent scout』)(スポーツ・芸能関係などの新人を捜す)スカウト / 《おもに米》ボーイ(ガール)スカウト / 『偵察する』 / (…を)『捜す』|捜し求める《+『for』+『名』》 / …‘を'偵察する / …‘を'偵察して突き止める《+『out』+『名|』+『名』+『out』》	ejdict
-weird	"【形】変な	booqs
+weird	【形】変な,奇妙な	booqs
 disclose	開示する|明らかにする	booqs
 metropolitan	都市の	wnjpn
 interact	相互作用する	booqs
@@ -3405,9 +3405,9 @@ benchmark	基準	booqs
 mx	マクスウェル	wnjpn
 textile	繊維	booqs
 membrane	膜	booqs
-ceremony	"【名|C】儀式	booqs
+ceremony	【名|C】儀式,式典,式【U】(社交上の)礼儀,礼式,作法|形式ばること|うわべだけの行為	booqs
 attractive	魅力的な	booqs
-aggregate	"集合(体)	booqs
+aggregate	集合(体), 集団|総計|集成岩|総計の, 総合の; 集合した|総計でC〈数量〉となる|集まる	booqs
 electron	電子	booqs
 recording	〈C〉録音したもの;レコード|テープ / 〈U〉録音された音	ejdict
 victim	被害者|犠牲者	booqs
@@ -3423,7 +3423,7 @@ sword	剣	booqs
 treaty	条約	booqs
 burden	荷物|負担	booqs
 beef	牛肉	booqs
-moreover	"【副】その上	booqs
+moreover	【副】その上,さらに	booqs
 amend	修正する	booqs
 minimal	最小の	booqs
 essay	小論文	booqs
@@ -3450,7 +3450,7 @@ partition	衝立|分離|衝立で仕切る	booqs
 potato	じゃがいも	booqs
 compatibility	コンパチビリティー|コンパチビリティ|合い性|合性|両立|柔軟性|相い性|互換性|適合性|相性	wnjpn
 commonly	一般に	booqs
-pleasant	"【形】楽しい	booqs
+pleasant	【形】楽しい,気持ちのよい	booqs
 syndicate	企業連合|犯罪組織|理事会|通信社を通じて同時に流れる	booqs
 exhaust	【動|他】を疲れ果てさせる|を使い果たす【名|U】排気【名|C】排気管	booqs
 roommate	ルームメイト	wnjpn
@@ -3481,7 +3481,7 @@ netscape	ネットスケープ	wnjpn
 ranking	ランキング	wnjpn
 puppy	犬児|犬ころ|仔犬|子犬|犬子|狆ころ|小犬	wnjpn
 tongue	舌	booqs
-headquarters	"【名】本部	booqs
+headquarters	【名】本部,司令部,本署|《会社の》本社	booqs
 tumor	腫瘍	booqs
 invoice	請求書	booqs
 roulette	ルーレット|ルーレット|ルーレット	wnjpn
@@ -3489,7 +3489,7 @@ bench	長いす|裁判官|作業台|ベンチに下げる	booqs
 possess	所有する|取り憑く	booqs
 nomination	指名	booqs
 justify	正当化する	booqs
-depend	"〖on [upon] A〗A 次第である	booqs
+depend	〖on [upon] A〗A 次第である, Aによって決まる,依存する, 頼る	booqs
 minimize	最小限にする|見くびる|軽視する	booqs
 medicare	老人医療保険	wnjpn
 workforce	労働力	booqs
@@ -3509,7 +3509,7 @@ runner	走る人|運び屋|逃亡者	booqs
 outer	外側の|中心から遠くにある	booqs
 shelf	棚	booqs
 weigh	重さを量る	booqs
-legislature	"【名|C】《the ~》立法府	booqs
+legislature	【名|C】《the ~》立法府,立法機関  《米》州議会	booqs
 commonwealth	連邦|国家|ネーション|国|聯邦	wnjpn
 incredible	信じられない	booqs
 cabin	小屋|船室|小屋に泊める	booqs
@@ -3518,19 +3518,19 @@ donation	寄付	booqs
 tent	テント	booqs
 hormone	ホルモン	booqs
 slim	ほっそりとした|わずかな	booqs
-inclusion	"【名|U】中に含めること	booqs
-composite	"【形】合成の	booqs
+inclusion	【名|U】中に含めること,包含【C】中に含まれた物	booqs
+composite	【形】合成の,複合の|キク科の【名|C】合成物,複合物|キク科植物	booqs
 accent	特徴的な発音|なまり|強勢|強調点|強調する	booqs
 twelve	12	booqs
 fellowship	一門|仲間|ファミリー	wnjpn
-organizational	"【形】組織の	booqs
+organizational	【形】組織の,組織的な,組織上の,構成上の|組織化する（能力など）	booqs
 canvas	キャンバス|カンヴァス|ズック|キャンヴァス|帆布|カンバス|世論調査をする|鑑定|吟味|検分|査問|解析|検する|研修|調査|討究|講究	wnjpn
 trader	商売をする人|貿易業者|商船|	booqs
-adverse	"不都合な	booqs
+adverse	不都合な,不利な|有害な|敵対的な|反対の	booqs
 everywhere	どこでも|どこで～しても	booqs
 acute	鋭い|深刻な|急性の	booqs
-somebody	"【代】｟くだけて｠ 誰か	booqs
-jury	"【名|C】陪審	booqs
+somebody	【代】｟くだけて｠ 誰か, ある人【名|C|U】ひとかどの人物【U】（名前不詳の）誰か	booqs
+jury	【名|C】陪審,陪審員団|（コンテストなどの）審査員	booqs
 digit	桁	booqs
 verse	ポエトリー|賦|韻文|詠|詩句|詩歌|ポエジー|律文|詩|韻文|詩句|篇什|詩歌|バース|詩|作詩	wnjpn
 envelope	封筒	booqs
@@ -3554,14 +3554,14 @@ companion	常連|仲間|侶伴|同士|定連|付添う|付く|付き添う	wnjpn
 grave	墓	booqs
 survivor	生存者|生残り|生残者|生き残り|生還者	wnjpn
 coin	硬貨	booqs
-possession	"【名|U】所有	booqs
+possession	【名|U】所有,所持【C】所有物,財産|領地【U】取り憑かれること	booqs
 logical	論理的	booqs
-retrieve	"取り戻す	booqs
+retrieve	取り戻す, 回収する, 検索する	booqs
 phenomenon	現象	booqs
 mathematical	数学の	booqs
-authorization	"【名|U】権限を与えること	booqs
+authorization	【名|U】権限を与えること,委任|許可すること【名|C】委任状	booqs
 frequent	頻繁な	booqs
-diagnostic	"【形】診断の|兆候を示す|【名】診断	booqs
+diagnostic	【形】診断の|兆候を示す|【名】診断,診察|兆候	booqs
 offense	犯罪|攻撃	booqs
 horizon	地平線	booqs
 butterfly	バタフライ|蝶々|蝴蝶|蝶蝶|胡蝶|夢見鳥|蝶|チョウ|バタフライ|蝶々|蝴蝶|蝶蝶|蝶|不山戯る|巫山戯る|戯れる	wnjpn
@@ -3573,7 +3573,7 @@ nissan	ニッサン	wnjpn
 filename	ファイル名|ファイルネーム	wnjpn
 metric	メートル法の	booqs
 painting	彩画|丹青|ペイント|色絵	wnjpn
-assign	"【動|他】〖A to B|BA〗AをBに割り当てる	booqs
+assign	【動|他】〖A to B|BA〗AをBに割り当てる,課す,配分する|指定する|譲渡する【名】譲り受け人	booqs
 cloth	布	booqs
 smell	におい|においを嗅ぐ|においがする	booqs
 testimony	証言	booqs
@@ -3581,12 +3581,12 @@ deployment	配備	booqs
 termination	終了|中絶|解雇	booqs
 hawk	タカ	booqs
 neutral	中性	booqs
-protective	"保護する	booqs
-slope	"傾斜する|坂になる|を傾斜させる【名】坂	booqs
+protective	保護する, 防護用の	booqs
+slope	傾斜する|坂になる|を傾斜させる【名】坂,斜面【名|U】勾配	booqs
 tattoo	入れ墨|刺青	wnjpn
 afraid	怖がって	booqs
 royalty	皇族	booqs
-initially	"【副】当初	booqs
+initially	【副】当初,初め,もともと|初めは	booqs
 indicator	指示する人|尺度|表示計器	booqs
 dos	国務省|ディスクオペレーティングシステム	wnjpn
 queue	行列|順番を待つ人々|待ち行列に入れる	booqs
@@ -3620,7 +3620,7 @@ farmer	農家の人	booqs
 junction	接点|接合点|接合部	wnjpn
 constitutional	憲法の	booqs
 comp	an intensive examination testing a student's proficiency in some special field of knowledge; "she took her comps in English literature"|an intensive examination testing a student's proficiency in some special field of knowledge	wneng
-mobility	"【名|U】可動性	booqs
+mobility	【名|U】可動性,流動性,変わりやすさ|（軍隊の）機動力	booqs
 perfectly	完璧に	booqs
 borrow	借りる	booqs
 instantly	早速|時を移さず|直ぐと|立ち所に|即|ただちに|たちまち|さっそく|直ぐ|忽ち	wnjpn
@@ -3640,10 +3640,10 @@ coordination	同調|調整|同調関係	booqs
 pickup	ピックアップ|ピックアップトラック	wnjpn
 bunch	束	booqs
 freeze	凍る	booqs
-ultimately	"【副】最後に	booqs
+ultimately	【副】最後に,ついに,結局|根源的に,根本的に《文修飾》最終的には,究極的には	booqs
 predict	予測する	booqs
 tackle	取り組む	booqs
-procurement	"【名|U】≪...の≫入手	booqs
+procurement	【名|U】≪...の≫入手,獲得,調達≪of≫	booqs
 equally	同様に|等しく	booqs
 artificial	人工的な	booqs
 intend	～するつもりである	booqs
@@ -3654,7 +3654,7 @@ guilty	有罪の	booqs
 passport	旅券|通行許可証|確実な手段	booqs
 scream	悲鳴|悲鳴を上げる	booqs
 naturally	自然に	booqs
-strand	"【名|C】こより|（より合わせた）糸	booqs
+strand	【名|C】こより|（より合わせた）糸,ひも|頭髪の房|ひもに通したもの|（理論などの）要素	booqs
 underwear	下着類|襯衣|インナー|はだ着|アンダーウエア|襦袢|肌付き|下着|下穿|アンダーウェア	wnjpn
 overcome	克服する	booqs
 cod	殻|さや|鱈|タラ|タラ|掛ける|填める|喰わせる|担ぐ|喰わす|食せる|嵌める|填込む|喰せる|嵌め込む|小衝く|小突回す|小突き回す|小突く|揶揄う|おちょくる|小突きまわす|揶揄|こづき回す|からかう	wnjpn
@@ -3663,7 +3663,7 @@ bracket	ブラケット|かっこ類|ひとくくりにする	booqs
 joke	冗談|冗談を言う	booqs
 violent	暴力的な	booqs
 potentially	潜在的に	booqs
-mold	"型|型に入れて作ったもの|性格	booqs
+mold	型|型に入れて作ったもの|性格, 性質|型に入れて作る|形作る|ぴったり合わせる	booqs
 inclusive	包含的	booqs
 dimensional	次元の	booqs
 considerable	【形】考慮に値する|かなりの	booqs
@@ -3689,7 +3689,7 @@ sculpture	彫刻	booqs
 addiction	習慣|耽溺|依存癖|嗜癖|耽溺性|習慣性|依存性|中毒|依存症|常用癖|耽溺	wnjpn
 constantly	絶えず	booqs
 nursery	育児室|ナーサリー|赤ちゃん部屋	wnjpn
-microwave	"【名|C】電子レンジ|（無線電信・電話の）極超短波	booqs
+microwave	【名|C】電子レンジ|（無線電信・電話の）極超短波,マイクロウェーブ【動|他】を電子レンジで調理する	booqs
 presidential	大統領・社長の	booqs
 dock	船渠|港湾施設|波止場|ドックに入れる	booqs
 authentic	真正の|本物の|確実な|信頼できる|本物そっくりの	booqs
@@ -3716,7 +3716,7 @@ tray	盆|盛り皿	booqs
 exotic	異国風な|外来の|外国の	booqs
 optimal	最適な	booqs
 oo	One. [Obs.] Chaucer.	websters
-distinct	"別個の	booqs
+distinct	別個の,独特な;まったく異なった|はっきりした|明白な	booqs
 brilliant	才気ある	booqs
 arrange	きちんと並べる	booqs
 brick	煉瓦	booqs
@@ -3734,7 +3734,7 @@ dialog	対話	booqs
 punch	殴る|パンチ	booqs
 thereof	それの	wnjpn
 pillow	枕	booqs
-rebel	"【名|C】反逆者	booqs
+rebel	【名|C】反逆者,反抗者【形】反逆の,反抗の【動|自】《...に》反逆する,反抗する《aganinst》|《...を》ひどく嫌う《aganinst at》	booqs
 consist	～から成り立つ	booqs
 intensity	強烈さ|激しさ|熱心さ|強度	booqs
 ment	of Menge.	websters
@@ -3760,12 +3760,12 @@ indie	インディー|インディー	wnjpn
 microphone	マイクロフォン	booqs
 correlation	相関	booqs
 soldier	兵士	booqs
-illustrate	"【動|他】説明する	booqs
+illustrate	【動|他】説明する,例解する,解説する|の例証として役立つ|図解を入れる	booqs
 depart	出発する|それる|辞任する|逝く	booqs
 allergy	アレルギー	booqs
 similarly	同様に	booqs
 solely	単に	booqs
-radical	"【形】根本的な	booqs
+radical	【形】根本的な,徹底的な|急進的な,過激な【名|C】急進派,過激派	booqs
 cab	タクシー	booqs
 backpack	バックパックを背負って旅行する	booqs
 reminder	思い出させるもの|通知|督促状	booqs
@@ -3773,7 +3773,7 @@ cargo	貨物	booqs
 collaborative	共同研究	wnjpn
 fda	食品医薬品局	wnjpn
 atomic	原子の	booqs
-declare	"宣言する	booqs
+declare	宣言する, 公表する, 布告する|明言する|はっきり言う	booqs
 cancellation	取り消し	booqs
 mandate	【名】権限|（公式）命令|委任統治(領)|任期【動|他】〖～ that節|to do〗…であることを義務づける|権限を与える|統治を委任する	booqs
 demographic	【名】特定の人口集団【形】人口統計学の	booqs
@@ -3794,10 +3794,10 @@ identifier	a symbol that establishes the identity of the one bearing it	wneng
 cedar	ヒマラヤスギ|セイヨウスギ;〈U〉杉材	ejdict
 anxiety	【名|U】≪...について≫心配≪about|for≫【名|C】心配事【名|U】切望【名|C】切望する事	booqs
 drawing	挿し絵	wnjpn
-duplicate	"【形】重複の 【名|C】写し	booqs
+duplicate	【形】重複の 【名|C】写し,複製 【動|他】複製する	booqs
 sixth	六日|六日|六日	wnjpn
 blanket	毛布	booqs
-supervision	"【名|U】監督	booqs
+supervision	【名|U】監督,管理,指揮	booqs
 foam	水の泡|泡沫|沫|水泡|気泡|水沫|泡|あぶく|発泡|泡立つ	wnjpn
 performer	役者|芸人|遂行する人|選手	booqs
 noon	正午	booqs
@@ -3809,7 +3809,7 @@ rope	ロープ	booqs
 disable	障害を負わせる|作動しないようにする	booqs
 crucial	決定的な	booqs
 cop	サツ|取抑える|検挙|取り押さえる|捕まえる|取っ捕まえる|取り押える|搦め捕る|搦め取る|挙げる|捕縛	wnjpn
-adjacent	"【形】近接の	booqs
+adjacent	【形】近接の,隣接している	booqs
 indication	表示|兆候	booqs
 tuition	学費	booqs
 lemon	檸檬|レモン	wnjpn
@@ -3856,9 +3856,9 @@ gig	ギグ	wnjpn
 integral	【形】不可欠な|完全な|整数の|積分の【名|C】積分	booqs
 parade	記念行列|行進|行進する|見せびらかす	booqs
 exterior	外の方|外方|外|外側|アウトサイド|外部|外装|外面|外づら|表|外方|外|表面|上側|面|外側	wnjpn
-shed	"【動|他】（血・液など）を流す	booqs
+shed	【動|他】（血・液など）を流す,こぼす|（葉・毛・外皮など）を自然に落とす|（服）を脱ぐ|（光・香りなど）を放つ,を当てる	booqs
 canal	堀り割り|掘り割り|堀割り|堀江|堀|水路|掘割|運河|掘割り|堀割|堀り割り|掘り割り|堀割り|堀江|導管|堀|仲介物|水路|掘割|チャネル|堀り割り|掘り割り|堀割り|堀江|堀|水路|掘割|運河|掘割り|堀割|疎通	wnjpn
-excuse	"【動|他】を許す|を免除する|の言い訳をする|の弁明となる【名|U|C】言い訳	booqs
+excuse	【動|他】を許す|を免除する|の言い訳をする|の弁明となる【名|U|C】言い訳,口実【C】届出|許可証	booqs
 fraction	分数	booqs
 sandwich	サンドイッチ	booqs
 sunny	日のよく照る|日のよく当たる|明るい	booqs
@@ -3887,18 +3887,18 @@ spatial	空間的な	booqs
 uv	紫外線	wnjpn
 unto	…に|の方へ|まで(to)	ejdict
 snapshot	スナップショット|スナップ	wnjpn
-precious	"【形】貴重な	booqs
+precious	【形】貴重な,いとしい,気取った	booqs
 annually	毎年	booqs
 chapel	チャペル|教会|会堂|礼拝堂|教会堂	wnjpn
 xanax	アルプラゾラム	wnjpn
-lawsuit	"【名|C】《...に関する》（民事）訴訟	booqs
+lawsuit	【名|C】《...に関する》（民事）訴訟,訴訟事件《 against|over ...》	booqs
 synthesis	合成	booqs
 heater	発熱器|ヒーター	booqs
 mug	阿呆垂れ|阿呆者|好い鴨|阿房者|与太郎|好い鳥|馬鹿垂|好いかも|愚婦|あほんだら|しゃっ面|面|マグ|コップ|マグカップ|マッグ|カップ|強盗	wnjpn
 replica	模造|偽物|写し|贋|リプリケーション|複製品|贋物|レプリカ|摸写|摸造	wnjpn
 unavailable	【形】入手できない|利用できない|手があいていない	booqs
 footwear	履物	booqs
-withdrawal	"【名|U】引っ込めること	booqs
+withdrawal	【名|U】引っ込めること,引っ込むこと|退くこと,撤退|引き上げ,回収|取り消し,撤回	booqs
 theorem	定理	booqs
 advocacy	代言|提唱|唱道	wnjpn
 prairie	プレーリー|広野|曠野	wnjpn
@@ -3913,7 +3913,7 @@ preservation	保存|人助け|保護すること|保護|救済|保全|救助|管
 whale	鯨	booqs
 synopsis	略筆|一通り|要覧|略叙|ひと通|大抵|ひと通り|概論|荒筋|概略	wnjpn
 surname	名字|姓|氏|苗字	wnjpn
-reprint	"【動|他】再版する	booqs
+reprint	【動|他】再版する,増刷する,転載する 【名|C】再版	booqs
 nickname	渾名|仇名|ニックネーム|あだ名|愛称|綽名|通称	wnjpn
 millennium	千年紀|千年期|ミレニアム	wnjpn
 melt	解凍|溶解|融雪|融解|溶ける|鎔ける|溶かす|融ける|熔ける	wnjpn
@@ -3924,16 +3924,16 @@ flyer	チラシ	booqs
 alias	作り名|仮名|別名|別称|偽名|筆名|雅号|異称|通称|またの名を|別名は	wnjpn
 remix	To mix again or repeatedly.	websters
 ecology	生態学	booqs
-treasury	"財務省	booqs
+treasury	財務省,大蔵省|宝庫,宝物殿,貴重品室|国庫,歳入;公庫,基金,資金	booqs
 inspiration	霊感	booqs
-wellness	"【名|U】健康	booqs
+wellness	【名|U】健康,健康な状態	booqs
 calcium	カルシウム	booqs
 onion	玉ねぎ|タマネギ|オニオン|玉葱|タマネギ|玉葱|玉ねぎ|球茎|タマネギ|オニオン|玉葱	wnjpn
 pathway	経路	booqs
 angry	腹を立てている	booqs
 stake	賭け金|賞金|利害関係|賭ける	booqs
 oasis	オアシス|オアシス	wnjpn
-differential	"【形】微分の	booqs
+differential	【形】微分の,差別的な 【名|C】差異	booqs
 locally	場所の上から|局所的に	booqs
 registrar	戸籍吏|戸籍吏|記録係	wnjpn
 annex	別館|アネックス|拡張部分	wnjpn
@@ -3959,7 +3959,7 @@ unemployment	失業	booqs
 petroleum	重油|石油|原油	wnjpn
 shuttle	折り返し運転|頻繁に往復する|往復させる	booqs
 silicon	シリコン	wnjpn
-identical	"【形】同一の	booqs
+identical	【形】同一の,全く同じの|等しい,同様な	booqs
 ton	トン	booqs
 lace	紐|レース|レイス|縒る|縒り合す|織交ぜる|撚り合わせる|縒り合わせる|撚合せる|縒り合わす|縒合わせる|縒りあわす|縒り合せる	wnjpn
 strict	厳格な	booqs
@@ -3987,7 +3987,7 @@ sacrifice	犠牲	booqs
 sunshine	日光	booqs
 dairy	酪農場|乳製品農場	wnjpn
 batch	バッチ|一群	booqs
-accountability	"【名|U】説明責任	booqs
+accountability	【名|U】説明責任,報告義務|責任のあること	booqs
 somehow	どういうわけか|なんらかの方法で	booqs
 diploma	卒業証書|免許証|課程|公文書	booqs
 encryption	暗号化|符号化	wnjpn
@@ -4003,7 +4003,7 @@ intake	取り込み|取り入れること|摂取すること|経口摂取|摂取
 toddler	坊	wnjpn
 owe	借りがある|義務がある|おかげである	booqs
 equality	平等	booqs
-complement	"補うもの|総数|補語|補色|補う	booqs
+complement	補うもの|総数|補語|補色|補う,補完する|引き立てる	booqs
 needle	針|指針|ちくちくと言う	wnjpn
 darkness	暗さ|黒さ	booqs
 wallet	財布	booqs
@@ -4030,12 +4030,12 @@ discretion	自由裁量|思慮分別	booqs
 ash	灰|アッシュ|灰分|灰殻|木灰|死灰	wnjpn
 newbie	新来|新参者|新来者|フレッシュマン|フレッシャー|今入|新前|今入り|ニューカマー|一年生	wnjpn
 interpret	通訳する	booqs
-poem	"【名】(1編の)詩	booqs
+poem	【名】(1編の)詩,詩歌|詩的な文,美文|詩情豊かな物	booqs
 jeep	ジープ	wnjpn
 eclipse	掩蔽|エクリプス|星食|食する	wnjpn
 allowance	手当	booqs
 unsigned	lacking a signature; "the message was typewritten and unsigned"|lacking a signature	wneng
-veteran	"【名|C】老練者	booqs
+veteran	【名|C】老練者,古つわもの,ベテラン|古参兵,老兵|退役軍人,在郷軍人兵|使い古したもの,中古品【形】経験豊かな,老練な|熟達した,経験の多い|使い古した,中古の	booqs
 gather	集会を開く	booqs
 gentleman	紳士	booqs
 semantic	意味の	booqs
@@ -4067,7 +4067,7 @@ witch	鬼女|鬼ばば|ウィッチ|魔法つかい|魔法使い|妖婆|妖女|�
 buzz	ブンブンという音|ざわめき|ブンブンいう	wnjpn
 wheat	小麦	booqs
 dramatic	劇的な	booqs
-bother	"【動|他】を悩ませる|迷惑をかける【動|自】思い悩む	booqs
+bother	【動|他】を悩ませる|迷惑をかける【動|自】思い悩む,心配する【名】やっかい	booqs
 rage	激怒	booqs
 corruption	汚職	booqs
 additionally	さらに	booqs
@@ -4077,7 +4077,7 @@ circular	ちらし|散広告|ビラ|散らし|散らし広告|びら|真ん丸�
 therapist	ヒーラー|セラピスト|療法士	wnjpn
 undergo	経験する|(治療などを)受ける	booqs
 martial	マルシャル	wnjpn
-unity	"単一(性)	booqs
+unity	単一(性),統一,統合|団結|一貫性|一致|調和	booqs
 payroll	給与計算	booqs
 climb	登る	booqs
 deviation	偏差	booqs
@@ -4136,7 +4136,7 @@ sprint	疾駆|スプリント|急駛|駛走|ダッシ|疾走|ダッシュ	wnjpn
 deficit	赤字|不足	booqs
 warning	警報|注意報|警告|注意|警戒的|模範的	wnjpn
 parcel	小包	booqs
-sponsorship	"【名|U|C】 後援	booqs
+sponsorship	【名|U|C】 後援,援助,経済的な支援|保証人であること|発起|スポンサーであること	booqs
 sofa	ソファー	booqs
 motivation	動機|モチベーション	booqs
 geometry	幾何|幾何学|ジオメトリー	wnjpn
@@ -4151,7 +4151,7 @@ patrol	斥候|哨戒隊|偵察隊|巡警|見巡る|巡視|廻る|見廻る|警�
 steady	【形】むらのない|ぐらつかない|変わらない【動|他】を安定させる【自】安定する【名|C】決まった恋人【副】しっかりと【間】気をつけろ	booqs
 penguin	ペンギン	wnjpn
 coefficient	係数	booqs
-oppose	"【動|他】に反対する	booqs
+oppose	【動|他】に反対する,抵抗する,を阻止しようとする|と敵対する,に挑む【自】反対する	booqs
 brave	勇敢な|勇者	booqs
 circulation	循環|流通|広まり|発行部数	booqs
 techno	テクノ	wnjpn
@@ -4172,13 +4172,13 @@ caution	注意	booqs
 thereby	それによって	booqs
 fade	しぼむ|色あせる	booqs
 particle	粒子	booqs
-strive	"【動|自】努力する	booqs
+strive	【動|自】努力する,抵抗する	booqs
 harbour	湊|築港|ハーバー|海港|港津|港湾|港|津|懐く|持つ|懐抱|抱く|宿す|抱懐	wnjpn
 renaissance	ルネッサンス|文芸復興|ルネサンス	wnjpn
 breach	違反	booqs
 enclosure	囲み|囲|囲い	wnjpn
 expo	エキシビション|博覧会|見本市|エキジビション|エクスポ|展示会|品評会|展覧会|エキスポ	wnjpn
-restrict	"【動|他】を制限する|妨げる|〖～ A from doing〗 Aが…するのを制限[規制	booqs
+restrict	【動|他】を制限する|妨げる|〖～ A from doing〗 Aが…するのを制限[規制,禁止]する	booqs
 debut	the act of beginning something new; "they looked forward to the debut of their new product line"|the act of beginning something new|present for the first time to the public; "The band debuts a new song or two each month"|present for the first time to the public	wneng
 dye	染料|染める	booqs
 fist	拳|握りこぶし|握こぶし|拳骨|メリケン|ぐう|握拳|栄螺殻|拳固|ゲンコツ	wnjpn
@@ -4196,7 +4196,7 @@ vest	ベスト|チョッキ	booqs
 manitoba	マニトバ	wnjpn
 validate	【動|他】を法的に有効とする|を正当であると証明する|を公式に認可する	booqs
 transmit	【動|他】を送る|送信する|伝える|放送する	booqs
-interrupt	"【動|他】中断する	booqs
+interrupt	【動|他】中断する,割り込む,遮る	booqs
 insist	主張する	booqs
 approximate	【形】近似の　【動|他】近づける、概算する	booqs
 hypothesis	仮説	booqs
@@ -4209,7 +4209,7 @@ helicopter	ヘリコプター	booqs
 distinction	区別|差異	booqs
 enquiry	問い|クエスチョン|うかがい|問掛け|問い合わせ|質問|問掛|問いかけ|問い掛け|調査|問い合わせ|リサーチ|照会|質問	wnjpn
 subcommittee	小委員会	wnjpn
-regulator	"【名|C】 調整装置|取り締まり人	booqs
+regulator	【名|C】 調整装置|取り締まり人,規制者,調整者	booqs
 intense	激しい	booqs
 librarian	司書	booqs
 valuation	【名|C】査定額 【名|U】評価	booqs
@@ -4248,11 +4248,11 @@ missile	ミサイル	booqs
 meanwhile	その間に|一方では	booqs
 proprietary	【形】所有主の|個人所有の|資産のある|専売特許の【名|C】所有者|所有権	booqs
 children	childの複数形	ejdict
-inquire	"【動|他】を尋ねる	booqs
+inquire	【動|他】を尋ねる,問う【動|自】尋ねる,問い合わせる	booqs
 mixer	ミキサー|ミクサー|ミキサー	wnjpn
 medieval	中世的	wnjpn
 shaft	矢柄|酷評|当て擦り|当てこすり|耳こすり|刺|耳擦り|当擦|穿鑿|痛烈な言葉|あて擦|まやかす|ごまかす|いかさま|騙くらかす|食わす|欺瞞|騙かす|騙る|引っ懸ける|だます	wnjpn
-decent	"満足できる	booqs
+decent	満足できる,立派な|相当な|まずまずの|親切な,上品な|きちんとした,まともな	booqs
 essence	本質|もっとも重要なところ|真髄|根本	booqs
 shortly	まもなく	booqs
 valium	ジアゼパム	wnjpn
@@ -4265,19 +4265,19 @@ cordless	コードのない	booqs
 rotation	回転	booqs
 prefix	接頭辞|冠する	wnjpn
 pencil	鉛筆|木筆|ペンシル	wnjpn
-conviction	"【名|U|C】確信	booqs
+conviction	【名|U|C】確信,自信【名|U】《文》説得力,確信を抱かせること【名|U】有罪宣告【C】有罪判決	booqs
 pile	積み重ねる|積み重ね	booqs
 trivia	些事|仮初め|瑣事	wnjpn
 rant	獅子吼|豪語|がなる|まくしたてる	wnjpn
 statewide	occurring or extending throughout a state; "the statewide recycling program"|occurring or extending throughout a state	wneng
 memo	連絡票|連絡メモ|メモ用紙	booqs
 telescope	望遠鏡	wnjpn
-conform	"【動|自】従う【動|他】を従わせる	booqs
+conform	【動|自】従う【動|他】を従わせる, 適合させる; 一致させる	booqs
 mainland	本土	booqs
 handy	扱いやすい|便利な|すぐ手が届く	booqs
 tier	座席|段|階層	booqs
 happiness	幸福|喜び|適切さ	booqs
-substantially	"【副】実質的に	booqs
+substantially	【副】実質的に,十分に	booqs
 jaguar	ジャガー	wnjpn
 timeline	【名|C】スケジュール表|予定表|歴史年表	booqs
 invasion	侵入	booqs
@@ -4289,7 +4289,7 @@ lip	唇	booqs
 doe	(シカ・カモシカ・ヤギ・ウサギなどの)雌	ejdict
 tuner	調律師|チューナ|チューナー|ラディオ|ラジオ受信機|受信装置|ラジオ	wnjpn
 gorgeous	晴れ晴れしい|華美|煌びやか|素敵|美美しい|素晴らしい|艶|晴晴しい|はなやか|花やか	wnjpn
-realm	"【名|C】（学問などの）分野	booqs
+realm	【名|C】（学問などの）分野,領域|《文》王国	booqs
 oriental	オリエンタル	wnjpn
 sonic	音の(に関する) / 音速の	ejdict
 marble	大理石	booqs
@@ -4298,17 +4298,17 @@ nervous	神経質な|緊張して	booqs
 vault	納骨堂|骨堂|地下納骨所|飛ぶ|飛ぶ	wnjpn
 transcription	転写	booqs
 regulate	規制する	booqs
-superb	"【形】見事な	booqs
+superb	【形】見事な,すばらしい|上質の|豪華な|壮麗な,堂々とした|雄大な	booqs
 transparent	透明な|見えすいた|わかりやすい|公正明大な	booqs
 purse	財布	booqs
 doom	運命	booqs
 turtle	タートルネック|カメ|覆る|転覆|引っ繰り返る|引っくり返る	wnjpn
-cease	"【動|自】やむ	booqs
+cease	【動|自】やむ,終わる【動|他】をやめる,を中止する【名|U】終止	booqs
 continent	大陸	booqs
 freak	異類異形|奇形|変怪|化け物|怪異|化物|変わり種|変り種|変種|モンスター	wnjpn
 counselor	助言者|相談者	booqs
-inappropriate	"【形】《...に|...するのに》不適当な	booqs
-levy	"【動|他】《...に》を強制的に課する《on》|を取り立てる【名|C】強制課税|取り立てた税金|召集	booqs
+inappropriate	【形】《...に|...するのに》不適当な,ふさわしくない《for|to|to do》	booqs
+levy	【動|他】《...に》を強制的に課する《on》|を取り立てる【名|C】強制課税|取り立てた税金|召集,召集兵	booqs
 ugly	醜い	booqs
 hydrogen	水素	booqs
 vocational	職業的	wnjpn
@@ -4318,7 +4318,7 @@ nasty	不快な	booqs
 girlfriend	女友達|ガールフレンド|意中の女|女友達|恋人|恋びと|彼女|アミ|ガールフレンド|意中の女	wnjpn
 disco	ディスコ|ディスコテック|ディスコティック|ディスコテーク|ディスコ|ディスコ	wnjpn
 alloy	合金|アロイ|落す	wnjpn
-remark	"【名|C】感想	booqs
+remark	【名|C】感想,意見,発言|注記【U】注目【動|他】...だと述べる[言う]|に気づく	booqs
 transsexual	トランス系|トランス系|トランス系	wnjpn
 fin	魚のひれ	booqs
 resist	抵抗する	booqs
@@ -4326,10 +4326,10 @@ asthma	気管支喘息|喘息	wnjpn
 developmental	発達上の	booqs
 bound	限界|境界|はずむ	booqs
 refrigerator	冷蔵庫	booqs
-surplus	"【名|U|C】余剰	booqs
+surplus	【名|U|C】余剰,余分【名|C】余剰金,黒字【形】余分な,余剰の	booqs
 parse	〈文〉‘を'文法的に説明する;〈文〉‘を'構成要素に分折する	ejdict
 algebra	代数学	booqs
-breakdown	"【名|C】故障	booqs
+breakdown	【名|C】故障,衰弱,分析	booqs
 lower	下段|押し下ろす|降ろす|取り下ろす|取下す|押下ろす|下げる|取下ろす|取りおろす|降す|下す	wnjpn
 trash	ごみ|壊す|ボロクソに言う|捨てる	booqs
 neglect	無視する|怠る	booqs
@@ -4352,7 +4352,7 @@ spike	スパイク|スパイク|スパイク|スパイク|スパイク	wnjpn
 overhead	頭上を|上空を|間接費	booqs
 vertex	頂点	wnjpn
 mistress	色女|御手掛け|情婦|御手掛|女|隠し女|思い者|隠妻|囲い者|囲	wnjpn
-vulnerable	"【形】傷つきやすい	booqs
+vulnerable	【形】傷つきやすい,もろい,脆弱な|攻撃を受けやすい	booqs
 washer	ワッシャー|洗濯機|ウォッシャー|ワッシャー|ワッシャ	wnjpn
 artistic	芸術的	booqs
 maritime	海の;海事の;沿海の;海岸に住む	ejdict
@@ -4401,7 +4401,7 @@ variant	変異	booqs
 offence	攻|攻撃|攻め|オフェンス	wnjpn
 karaoke	singing popular songs accompanied by a recording of an orchestra (usually in bars or nightclubs)	wneng
 mentor	師匠	booqs
-hereby	"【副】これをもって	booqs
+hereby	【副】これをもって,ここに,これによって	booqs
 dude	ダンディー|伊達者|伊達衆|ダンディ|粧屋|伊達男|洒落者|粧し屋|洒落男	wnjpn
 simultaneously	同時に	booqs
 racial	人種の	booqs
@@ -4411,7 +4411,7 @@ treasurer	副寺|収入役|出納係|財務役|勘定係|出納係り|出納官|
 sociology	社会学|ソシオロジイ|ソシオロジー	wnjpn
 confident	自信のある	booqs
 visibility	目路|可視|可視性|視程|眼界|眼路|視界|視野	wnjpn
-officially	"【副】公式に	booqs
+officially	【副】公式に,正式に|形式的には,表面上は	booqs
 battlefield	戦地|戦の庭|軍場|征野|闘いの庭|闘の庭|軍の庭|戦いの庭|戦場|戦陣	wnjpn
 mighty	とても|ずばり|ひどく|非常に|強力|強大|強い	wnjpn
 cheerleader	チアリーダー|チアリーダー	wnjpn
@@ -4420,7 +4420,7 @@ ought	～するべきである|～するはずである	booqs
 delicious	おいしい	booqs
 borough	自治町村|区	wnjpn
 burst	破裂する|爆発する	booqs
-reconstruction	"【名|U】再建築	booqs
+reconstruction	【名|U】再建築,改築,整形|復興|再構築|【C】復元[再現]した物	booqs
 safely	安全に	booqs
 finite	有限の	booqs
 periodically	【副】定期的に|周期的に	booqs
@@ -4431,13 +4431,13 @@ rub	こする	booqs
 neo	【複合要素】新…|復活…|近代の…	booqs
 nasdaq	ナスダック	wnjpn
 rename	改名	wnjpn
-synthetic	"【形】合成の|作りものの	booqs
+synthetic	【形】合成の|作りものの,人工の|総合の,統合的な【名|C】合成品,人造物	booqs
 explosion	爆発	booqs
 occurrence	発生	booqs
 vegetable	野菜	booqs
 dispatch	ディスパッチ|公文書|派遣する|発送する	booqs
 thumb	親指	booqs
-independently	"【副】独立して	booqs
+independently	【副】独立して,単独で	booqs
 consciousness	意識	booqs
 groove	堀切り|作条|溝|壕|水尾|導水渠|澪|堀切|溝を掘る	wnjpn
 distinguish	区別する	booqs
@@ -4472,19 +4472,19 @@ ladder	はしご	booqs
 seventh	七日|七日|七日	wnjpn
 arctic	北極地方|北寒帯|北極|北極帯	wnjpn
 ambassador	大使	booqs
-beneath	"【前】...の下に|...の圧力下に	booqs
+beneath	【前】...の下に|...の圧力下に,...に支配されて|...より劣って|...に値しない	booqs
 tract	器官系|土地	booqs
 monument	記念碑	booqs
 terminate	終わらせる|中絶する|解雇する|暗殺する	booqs
-accomplish	"【動|他】（仕事・目的など）を成し遂げる	booqs
+accomplish	【動|他】（仕事・目的など）を成し遂げる,仕上げる|（旅などを）終える|（年齢など）に達する	booqs
 medicaid	国民医療保障	wnjpn
 thunder	轟|地響き|唸り|轟き|爆音	wnjpn
 infrared	赤外|赤外	wnjpn
 appreciation	感謝	booqs
-oval	"【形】卵形の	booqs
+oval	【形】卵形の,楕円形の 【名|C】卵形	booqs
 aggressive	積極的な	booqs
 leverage	影響力|支配力|てこの力|レバレッジ	booqs
-swear	"【動|自】(神などにかけて)誓う≪to	booqs
+swear	【動|自】(神などにかけて)誓う≪to,by,on≫|≪...を≫証言する≪to≫|≪...を≫ののしる≪at≫【動|他】を誓う|だと断言する≪that≫|≪...を≫に誓わせる≪to≫	booqs
 caption	見出し|見出し|サブタイトル|副題|字幕|説明文|キャプション	wnjpn
 vent	通気孔|風窓|通風孔|洩らす	wnjpn
 chorus	口をそろえて言う|声をそろえて言う	wnjpn
@@ -4498,13 +4498,13 @@ petersburg	ピーターズバーグ|ピーターズバーグ	wnjpn
 consistently	一貫して	booqs
 manor	領主邸	wnjpn
 administer	管理する|運営する|統治する	booqs
-elect	"を選ぶ	booqs
+elect	を選ぶ, 選出する,〖～ A to B〗 AをBに選ぶ;	booqs
 mild	軽い|まろやかな|寛大な|穏やかな	booqs
 initiate	【動|他】始める、入会させる、教える	booqs
-subsequently	"後で	booqs
+subsequently	後で, 後に; (前の記述を受けて)その後	booqs
 ensemble	アンサンブル|合奏団	wnjpn
 zoning	ゾーニング	wnjpn
-restriction	"【名|U】≪...を≫制限すること≪of≫|制限されていること【名|C】≪...に対する≫制限事項	booqs
+restriction	【名|U】≪...を≫制限すること≪of≫|制限されていること【名|C】≪...に対する≫制限事項,制約≪on|against≫	booqs
 wilderness	原野|未開地|曠野|荒蕪地|荒れ野|荒原|荒野	wnjpn
 leap	飛び跳ねる|跳躍	booqs
 protector	保護者	wnjpn
@@ -4532,7 +4532,7 @@ anatomy	解剖学	wnjpn
 scam	詐欺|軟派|まやかす|謀る|巻上げる|謀つ|鴨る|誑かす|担ぐ|騙る|誑す|誑る	wnjpn
 watershed	流域	booqs
 cocktail	カクテル|カクテル	wnjpn
-clarity	"【名|U】明快さ	booqs
+clarity	【名|U】明快さ,明瞭|（音色の）清澄	booqs
 exclusion	除外	booqs
 bulgarian	a native or inhabitant of Bulgaria|a Slavic language spoken in Bulgaria|of or relating to or characteristic of Bulgaria or its people; "the Bulgarian capital is Sofia"|of or relating to or characteristic of Bulgaria or its people	wneng
 aerial	フォワードパス	wnjpn
@@ -4546,7 +4546,7 @@ beneficial	有益	booqs
 stain	染み|汚点|染める|汚す	booqs
 boutique	ブティック|ブチック	wnjpn
 necessity	必要性	booqs
-robust	"強靭な	booqs
+robust	強靭な, 壮健な;頑丈な	booqs
 booking	出演契約	wnjpn
 catalyst	触媒|触媒	wnjpn
 cult	崇拝者	wnjpn
@@ -4560,7 +4560,7 @@ literally	文字通り	booqs
 ecological	生態学的な	booqs
 thickness	厚さ	booqs
 accreditation	公認	wnjpn
-periodic	"【形】定期的な	booqs
+periodic	【形】定期的な,周期的な|ときぎき起こる	booqs
 convince	〔…を〕確信させる|納得させる.	booqs
 duo	二人組|ペヤ|ペア|対|ペアー|二重奏|デュエット|デュオ|カップル|二人組|ドゥオ|アベック|番い|一対|デュオ|ペヤ|アヴェック|ペア|二重奏|デュエット|デュオ	wnjpn
 tar	ピッチ|タール	wnjpn
@@ -4569,7 +4569,7 @@ geographical	地理的	booqs
 flesh	肉	booqs
 scripture	聖書	booqs
 wifi	Wi-Fi|ワイファイ|ワイヤレスLAN|無線LAN|WiFi|ワイヤレスフィデリティ|WLAN	wnjpn
-regression	"【名|C|U】後戻り	booqs
+regression	【名|C|U】後戻り,後退|退化,退歩|回帰	booqs
 dice	ダイス|骰子|采|さいころ|賽|賽子|サイコロ|撲つ	wnjpn
 enthusiast	熱狂者	booqs
 incoming	入ってくる|後任の|次に来る|次期	booqs
@@ -4581,7 +4581,7 @@ spank	折檻	wnjpn
 cushion	緩衝材|備え|緩和する|和らげる	booqs
 remarkable	顕著な、注目すべき、非凡な	booqs
 fossil	化石	booqs
-productive	"【形】生産的な	booqs
+productive	【形】生産的な,好ましい結果を生み出す|たくさん産出(生産)する,多産の	booqs
 expose	さらす|暴く	booqs
 floppy	フロッピ|フロッピィ|ディスケット|フレキシブルディスク|フロッピーディスク|フロッピー	wnjpn
 ix	９|九つ|ナイン|エジプト九柱の神々|玖|9個の|9人の|9の|九の	wnjpn
@@ -4589,7 +4589,7 @@ blink	目弾き|瞬ぎ|目弾|まばたき|瞬き|転瞬|瞬|瞬く|瞬き	wnjpn
 compliant	従順な|素直な	ejdict
 minus	マイナス	booqs
 rational	合理的な	booqs
-legitimate	"【形】合法的な	booqs
+legitimate	【形】合法的な,法律の認める|論理的な,筋道の立った|正当な|嫡出の|正統の【動|他】を合法化する|を嫡出子とする	booqs
 isolation	隔離	booqs
 carnival	カーニバル	wnjpn
 worthy	ふさわしい	booqs
@@ -4609,7 +4609,7 @@ footage	(映画フィルム・木材などの)フィート数|全長 / (映画�
 lyric	詞|歌詞|リリカル	wnjpn
 pause	休止|休止する	booqs
 adhesive	セメント|接着剤|接合剤|付着性|接着性|粘着性	wnjpn
-renewable	"再生可能な|〈契約などが〉更新できる	booqs
+renewable	再生可能な|〈契約などが〉更新できる, 継続できる|再生可能エネルギー	booqs
 inspect	調べる|検査する|検閲する|視察する	booqs
 silly	ばかな	booqs
 workout	エクササイズ|運動|運動すること|エキササイズ	wnjpn
@@ -4617,7 +4617,7 @@ conspiracy	陰謀	booqs
 foul	汚らわしい|苦々しい|醜穢|苦苦しい|キモイ|ぐろい|穢らわしい|いやらしい|忌忌しい|穢わしい|臭い|悪臭い|後ろぎたない|穢らしい|汚い|後穢い|穢い|穢ならしい|後ろ穢い|ダーティ|不正|穢ない|ファウル|ファウルを打つ|汚染|汚す|汚毒	wnjpn
 revelation	ディスクロージャー|曝露|他言|公開|暴露|開示|口外|透破抜|素破抜|摘発|曝露|透っ破抜き|素破抜き|暴露|透破抜き|素っ破抜き	wnjpn
 liner	ラインドライブ|ラインドライヴ|ライナー	wnjpn
-convey	"【動|他】《...に》を伝達する	booqs
+convey	【動|他】《...に》を伝達する,伝える|を運ぶ,運搬する|を正式に譲渡する《to》	booqs
 wrist	橈骨手根骨関節|手頸|手関節|リスト|手頚|腕首|手首	wnjpn
 greeting	会釈|挨拶|敬礼|頭語|ご挨拶|目礼|辞儀|式礼|御辞儀|お辞儀	wnjpn
 render	(~ A B)AをBにする|伝える	booqs
@@ -4630,7 +4630,7 @@ epic	エピック|叙事詩|譚歌|壮大|大きい|大規模	wnjpn
 hash	ハッシュ|ハシーシ|ハッシュ|ハシシ|切り刻む	wnjpn
 gentle	優しい|穏やかな	booqs
 nightlife	夜遊び|夜遊び	wnjpn
-excessive	"【形】過大な	booqs
+excessive	【形】過大な,度を越した	booqs
 naughty	エロい	wnjpn
 drawer	引き出し	booqs
 endorsement	裏書	booqs
@@ -4669,7 +4669,7 @@ invisible	インヴィジブル|インビジブル	wnjpn
 legally	合法的に	booqs
 satisfactory	満足のいく|納得のいく	booqs
 telephony	電話通信|電話	wnjpn
-pursuit	"追求|実行|追跡|追求するもの（娯楽	booqs
+pursuit	追求|実行|追跡|追求するもの（娯楽,学業,仕事）	booqs
 fatal	致命的	wnjpn
 briefly	簡潔に	booqs
 graphical	=graphic	ejdict
@@ -4677,7 +4677,7 @@ detective	目明かし|デカ|刑事|岡引き|岡っ引|ご用聞|岡引|御用
 genius	穎才|俊傑|秀才|俊邁|ジーニアス|俊豪|鬼才|俊英|英才|儁才|輝かしい才能|冴え|穎才|秀才|鬼才|才|英才|儁才|賢才|才華	wnjpn
 aerospace	航宇	wnjpn
 fighter	戦士	booqs
-meaningful	"【形】《...にとって》有意義な	booqs
+meaningful	【形】《...にとって》有意義な,意義のある《to|for》|《人に》理解しやすい《to》	booqs
 barely	かろうじて	booqs
 wherever	どこへ～しても	booqs
 rug	敷物|絨毯|膝掛け|かつら	booqs
@@ -4709,14 +4709,14 @@ adaptation	適応	booqs
 kinase	キナーゼ	wnjpn
 acrylic	アクリル繊維|アクリル|アクリル樹脂|アクリル|アクリル絵の具|アクリル|アクリル	wnjpn
 variance	分散	booqs
-urgent	"【形】急を要する	booqs
+urgent	【形】急を要する,緊急の|しつこい|うるさく頼む	booqs
 sake	為|目的|利益	booqs
 freshman	フレッシュマン|フレッシャー|一年生|新入生	wnjpn
 gothic	黒字|ゴシック建築|野蛮|古めかしい	wnjpn
 cue	合図|合図を送る	booqs
 satin	繻子|サテン|サティン	wnjpn
 sailor	乗組み員|船乗|船員|マドロス|乗り組み員|舟人|乗組み|水夫|船手|水主	wnjpn
-acre	"エーカー|土地	booqs
+acre	エーカー|土地, 所有地	booqs
 adapt	適応する	booqs
 aqua	コバルトブルー|藍緑色|コバルト・ブルー|ターコイズ|ターコワーズ|アクアマリーン|青緑色|タコワーズ|アクアマリン|コバルト	wnjpn
 pavilion	大テント|大天幕	wnjpn
@@ -4737,10 +4737,10 @@ cos	余弦|ローメインレタス	wnjpn
 franc	フラン	booqs
 critique	批評	booqs
 extraction	抽出|祖|素姓|元祖|血統|ソース|家筋|ルーツ|血筋|発祥|系|抽出	wnjpn
-outfit	"【名|C】装備一式|服装一式|活動団体【動|他】を装備する	booqs
+outfit	【名|C】装備一式|服装一式|活動団体【動|他】を装備する,を支給する	booqs
 expedition	軍事遠征|征戦|遠征	wnjpn
 reynolds	レノルズ	wnjpn
-accurately	"【副】正確に	booqs
+accurately	【副】正確に,精密に	booqs
 knot	結びこぶ|結い目|括目|縛目|結玉|結び瘤|結び|くくり目|括り目|結目|結び目を作る|結ぶ	wnjpn
 nightmare	悪夢|悪夢|夢魔|ナイトメア	wnjpn
 upset	動揺した	booqs
@@ -4758,16 +4758,16 @@ viii	八つ|８|エイト	wnjpn
 mushroom	キノコ|マッシュルーム|茸|きのこ雲|茸雲|マッシュルーム|茸|簇出|簇出	wnjpn
 metadata	メタデータ	wnjpn
 makeup	化粧	wnjpn
-thoroughly	"【副】徹底的に	booqs
+thoroughly	【副】徹底的に,完ぺきに,全く	booqs
 canoe	カヌー	wnjpn
 intimate	懐刀|仲睦まじい|近い|匂わす|暗示|ほのめかす|仄めかす|匂わせる	wnjpn
 qualification	資格	booqs
 namely	つまり	booqs
-consequence	"結果	booqs
+consequence	結果, 結末, 成り行き, 影響	booqs
 marathon	(また『marathon race』)《しばしばM-》マラソン競走(標準距離は42.195km) / (一般に)長距離競争;耐久競争	ejdict
-tribunal	"【名|C】裁判所	booqs
+tribunal	【名|C】裁判所,法廷,裁決機関|裁き	booqs
 tobago	トバゴ島	wnjpn
-disposition	"性質	booqs
+disposition	性質,性格|傾向|気持ち,意向|配置,配列|譲渡,売却,処分	booqs
 tsunami	津浪|海嘯|津波	wnjpn
 mutant	突然変異体|変異体|ミュータント|変種	wnjpn
 aquarium	海洋博物館|アクアリューム|アクアリウム|水族館|水槽	wnjpn
@@ -4785,13 +4785,13 @@ greenhouse	温室	booqs
 dub	（as）あだ名をつける|吹き替えをする	booqs
 decimal	小数	booqs
 waterproof	レインコート|雨着|ウォータープルーフ|レーンコート|防水|雨合羽|合羽|防滴|防水	wnjpn
-passive	"受動的な	booqs
+passive	受動的な,受け身の,消極的な|無抵抗の|受動態	booqs
 reggae	レゲエ	wnjpn
 sweater	セーター|汗をかく人|発汗剤|搾取する雇い主	booqs
 wagon	ワゴン|荷馬車|馬力|荷車|馬車|車力	wnjpn
-interpreter	"【名|C】通訳	booqs
-formulation	"策定	booqs
-evident	"【形】（証拠に基づいて）明白な	booqs
+interpreter	【名|C】通訳,通訳者|（音楽・劇などの）解説者|インタープリタ	booqs
+formulation	策定, 案出; 公式化, 体系化|明確な表現|調合,成分|薬剤	booqs
+evident	【形】（証拠に基づいて）明白な,はっきりした,明らかな	booqs
 cousin	いとこ|親類|よく似たもの	basic
 sweat	汗水|流汗|スエット|汗|スウェット|汗する|発汗	wnjpn
 wipe	拭く	booqs
@@ -4799,7 +4799,7 @@ painter	画家	booqs
 cumulative	累積的な	booqs
 crane	起重機|（首・頭）を伸ばす|身を乗り出す	booqs
 arbitrary	【形】任意の|恣意的な|独断的な|専制的な	booqs
-prominent	"【形】突き出た	booqs
+prominent	【形】突き出た,隆起した|目立った|著名な|卓越した,傑出した	booqs
 titanium	チタニウム	wnjpn
 cio		wnjpn
 caravan	隊商|キャラバン	wnjpn
@@ -4818,22 +4818,22 @@ primer	入門書	booqs
 cascade	雨|滾る	wnjpn
 ramp	ランプウエー|ランプウェイ|ランプウェー|ランプ|猛りくるう|猛り狂う|荒れくるう|暴れる|荒れ狂う|荒狂う|暴れ狂う|怒り狂う|たけり狂う|猛る	wnjpn
 sediment	堆積物	booqs
-explicitly	"【副】明示的に|明白に	booqs
+explicitly	【副】明示的に|明白に,はっきりと,あからさまに.	booqs
 idle	仕事をしていない|動いていない	booqs
-triumph	"【名】 (苦労･努力などの末の)勝利	booqs
+triumph	【名】 (苦労･努力などの末の)勝利,成功,偉業【U】勝ち誇ること【動|自】勝利[成功]を収める|勝ち誇る	booqs
 relieve	取り除く|安心させる|交代させる	booqs
 informative	【形】有益な|知識（情報）を与える	booqs
 scuba	スキューバ|アクアラング	wnjpn
 utilization	利用	booqs
 induction	誘導	booqs
-estimation	"【名】判断	booqs
+estimation	【名】判断,評価|見積り,概算	booqs
 dosage	服用量|適用量|用量	wnjpn
-yeast	"【名|U】酵母	booqs
+yeast	【名|U】酵母,イースト	booqs
 chromosome	染色体	booqs
 fleece	羊皮|羊毛|吹掛ける|吹きかける|打たくる|ぼる|吹っ掛ける|吹っかける|打ったくる|ぶったくる|吹き掛ける|ふんだくる|刈る	wnjpn
 consistency	一貫性	booqs
 hearing	聴聞会|問注|審問|聴聞	wnjpn
-efficiently	"【副】効率的に	booqs
+efficiently	【副】効率的に,能率的に	booqs
 textbook	教科書	booqs
 metallic	メタリック|金属的	wnjpn
 crossword	クロスワード|クロスワードパズル	wnjpn
@@ -4855,29 +4855,29 @@ insure	保険をかける|確実にする	booqs
 talented	腕っ扱|敏腕|達者|腕きき|多力|有能|上手|腕っ扱き|腕利き|腕っこき	wnjpn
 atmospheric	relating to or located in the atmosphere; "atmospheric tests"|relating to or located in the atmosphere	wneng
 feather	羽毛|羽根|フェザー|鳥毛	wnjpn
-precisely	"【副】正確に	booqs
-appoint	"【動|他】〖A(to do)〗 (正式に)(…するよう)Aを任命する|〖A to B〗 AをBに任命する|を指定する	booqs
+precisely	【副】正確に,きちんと|まさに,ちょうど|その通りです	booqs
+appoint	【動|他】〖A(to do)〗 (正式に)(…するよう)Aを任命する|〖A to B〗 AをBに任命する|を指定する,定める	booqs
 emperor	皇帝	booqs
 acne	面皰|吹き出物|吹出物|ざ瘡	wnjpn
 ballet	コンサートダンス|バレエ|バレー	wnjpn
-drift	"漂う	booqs
+drift	漂う,流れる,漂流する|ゆっくり動く|放浪する|いつの間にかなる|漂流（物）|ゆるやかな変化	booqs
 fifteen	15	booqs
-widespread	"【形】広範囲にわたる	booqs
+widespread	【形】広範囲にわたる,行き渡った,普及している|（翼など）広げた	booqs
 sapphire	サファイア|サファイヤ|空色|瑠璃色	wnjpn
 disappear	消える	booqs
 shrink	縮む|減少する|縮ませる	booqs
-optimum	"【形】最適の	booqs
+optimum	【形】最適の,最高の【名|C】最適の条件	booqs
 pasta	パスタ	booqs
 handset	受話器	booqs
-alike	" 似ている	booqs
+alike	 似ている, 同様である,同じように	booqs
 homeless	ホームレス	booqs
 horrible	恐ろしい	booqs
 insurer	保険会社	booqs
 drainage	水抜き|駆水|排水|除水	wnjpn
 cement	コンクリート|セメント|セメン	wnjpn
 collision	衝突	wnjpn
-delegate	"【名|C】代表 【動|他】代表に指名する	booqs
-abide	"【動|他】（否定文・疑問文で）を我慢する【動|自】とどまる	booqs
+delegate	【名|C】代表 【動|他】代表に指名する,委譲する	booqs
+abide	【動|他】（否定文・疑問文で）を我慢する【動|自】とどまる,残る|住む	booqs
 gasoline	ガソリン	booqs
 mud	泥|泥んこ|泥土|汚泥	wnjpn
 penetration	侵冦|来襲|来冦|侵入|侵掠|入冦|入寇|襲来|来攻|侵攻	wnjpn
@@ -4894,12 +4894,12 @@ cooker	料理用電気(ガス)器具 / 《英》(焼いたり煮たりする)料
 deadly	狂的|殺人的	wnjpn
 restart	遣り直す|再開|続開|仕直す|やり直す	wnjpn
 cove	小さな入江|小湾 / (山や森の)隠れたくぼみ|奥まった所	ejdict
-momentum	"【名|U|C】運動量 【名|U】勢い	booqs
+momentum	【名|U|C】運動量 【名|U】勢い,はずみ	booqs
 lm	ルーメン	wnjpn
 picnic	遠足|楽な仕事|屋外で食事をする	booqs
 sixty	六十	booqs
 footnote	脚注	booqs
-keen	"【形】鋭敏な	booqs
+keen	【形】鋭敏な,激しい,熱心な	booqs
 electro	An electrotype.	websters
 criterion	基準	booqs
 walnut	胡桃|クルミ	wnjpn
@@ -4908,9 +4908,9 @@ cursor	カーソル|ポインター|ポインタ	wnjpn
 vietnamese	a native or inhabitant of Vietnam|the Mon-Khmer language spoken in Vietnam|of or relating to or characteristic of Vietnam or its people or its language ; "the Vietnamese countryside"; the Vietnamese tones"; "Vietnamese boat people"|of or relating to or characteristic of Vietnam or its people or its language 	wneng
 tremendous	物凄い|すばらしい|恐ろしい	booqs
 convertible	変換できる|同義の|転換社債	booqs
-continuity	"【名|U】連続	booqs
-validity	"【名|U】《理論・理由などの》妥当性	booqs
-trustee	"(他人の財産管理などの)受託者	booqs
+continuity	【名|U】連続,断続,継続性|一貫性|コンテ,撮影（録音）用台本【名|C】コンテに書かれた個々の指示	booqs
+validity	【名|U】《理論・理由などの》妥当性,正当性《of》|《契約などの》有効性,合法性《of》	booqs
+trustee	(他人の財産管理などの)受託者, 被信託人,管財人|評議員,理事|委託する.	booqs
 psi	プシー(ギリシア語アルファベットの第23字Ψ|ψ;英語のpsに相当)	ejdict
 gossip	うわさ話|陰口|雑談|うわさ話をする	booqs
 postcard	葉書	booqs
@@ -4931,14 +4931,14 @@ crow	鴉|かあかあ|カラス|烏|クロウ|勝ち誇る|悦に入る|勝誇�
 insulin	インシュリン|インスリン	wnjpn
 compute	計算する	booqs
 mileage	総マイル数|走行距離	booqs
-specially	"【副】特に	booqs
-covenant	"【名|C】契約	booqs
+specially	【副】特に,わざわざ|特別に|並外れて	booqs
+covenant	【名|C】契約,誓約,盟約|契約条項【動|他】を(文書で)契約する	booqs
 feat	功績|功|手柄|偉勲|業績|功業|偉烈|偉業|功勲|事績	wnjpn
 xerox	コピー|ゼロックス|コピー	wnjpn
 steak	ステーキ	booqs
 being	存在	wnjpn
 plaque	(金属・陶器などの)飾り額|飾り板	ejdict
-reliance	"【名|U】（…への）依存|（…に対する）信頼《on ...》【名|C】信頼できる人（物）	booqs
+reliance	【名|U】（…への）依存|（…に対する）信頼《on ...》【名|C】信頼できる人（物）,頼みの綱	booqs
 eleven	11	booqs
 whisper	ささやく	booqs
 simplify	簡素化する	booqs
@@ -4954,7 +4954,7 @@ explosive	爆発的	booqs
 economist	経済学者	booqs
 biblical	of or pertaining to or contained in or in accordance with the Bible; "biblical names"; "biblical Hebrew"|of or pertaining to or contained in or in accordance with the Bible	wneng
 conscious	意識して	booqs
-substrate	"【名|C】基層|基板|基質|回路基盤|隠れた特質|基礎	booqs
+substrate	【名|C】基層|基板|基質|回路基盤|隠れた特質|基礎,土台	booqs
 nitrogen	窒素	booqs
 saddle	乗鞍|鞍|乗り鞍|負わせる|託する|嘱託|属託|委任|担当させる|負わせる	wnjpn
 referee	審判	booqs
@@ -4962,12 +4962,12 @@ ambient	周囲の|周りの|取り巻いている	ejdict
 predator	捕食者	booqs
 navigator	航海士|楫取り|ナビゲーター|舵取り|ナヴィゲーター|楫取|ナヴィゲイター|航海長|舵取|ナビゲイター	wnjpn
 widget	ウィジェット|発明|有用な機器|機巧|利器	wnjpn
-differently	"【副】異なって	booqs
+differently	【副】異なって,違って|さまざまに	booqs
 assay	試験|検定|調査|チェック|試金|点検|分析|検見	wnjpn
-garment	"衣類|覆い;外観	booqs
+garment	衣類|覆い;外観,外見|〖be ～ed〗 服を着る,装う.	booqs
 musician	音楽家|ミュージシャン	booqs
 override	逆転|引っくり返す|引っ繰り返す|覆らす|ひっくりかえす|覆す|引繰返す|ひっくり返す|引繰り返す	wnjpn
-operative	"【形】（機械などが）働く	booqs
+operative	【形】（機械などが）働く,運転する|（法律などが）有効な|作業の：手術の【名|C】工員|刑事|スパイ	booqs
 retrieval	検索|回復|取り戻すこと|恢復|回復	wnjpn
 scary	おっかない|怖い|恐い|悍ましげ	wnjpn
 tendency	傾向	booqs
@@ -4997,13 +4997,13 @@ pediatric	of or relating to the medical care of children; "pediatric dentist"|of
 subset	少派	booqs
 corpus	集成|コーパス|体	booqs
 dependence	頼ること|依存	booqs
-unauthorized	"【形】認可されていない	booqs
-competent	"【形】有能な|能力のある|適任の|満足のいく|法的権限のある|【副】有能に	booqs
+unauthorized	【形】認可されていない,権限のない.	booqs
+competent	【形】有能な|能力のある|適任の|満足のいく|法的権限のある|【副】有能に, 効果的に	booqs
 lazy	怠惰な	booqs
 lick	パンチ|一撃|強打|打撃|スラッグ|痛打|ワンツー|大破|破る	wnjpn
 apparatus	器械|器具|機械	wnjpn
 spine	脊椎|脊梁|バックボーン|背骨|脊柱	wnjpn
-contributor	"【名|C】寄付者|貢献者	booqs
+contributor	【名|C】寄付者|貢献者,寄与者|一助,一因|寄稿家《to》	booqs
 grateful	【形】感謝している|感謝を表す|快い	booqs
 gradually	徐々に	booqs
 desirable	望ましい	booqs
@@ -5017,7 +5017,7 @@ afterwards	のちほど|後で|逐って|後程|後ほど|おって|あと|追�
 garlic	ニンニク|ガーリック|蒜|葫|ニンニク	wnjpn
 interfere	干渉する	booqs
 advancement	昇進|昇給|出世|進歩|向上|促進	booqs
-confront	"【動|他】に立ち向かう	booqs
+confront	【動|他】に立ち向かう,ぶつかっていく|の前に立ちはだかる,に向かい合って立つ|《AとB》を直面させる, 対決させる《A with B》	booqs
 marry	結婚する	booqs
 sewer	下水道	booqs
 bark	木皮|木肌|木膚|樹皮|皮|啼く|吠る|吠える|鳴く|吼える	wnjpn
@@ -5052,8 +5052,8 @@ numeric	数値的|数的|数値的|数的	wnjpn
 manipulate	操る|操作する|改竄する	booqs
 hollow	窪み|凹地|空っぽ|真空|窪地|空洞|空虚|虚しい|うつろ|空しい|空疎|掘る|抉る|凹める|刳る|剔る|くり抜く	wnjpn
 writing	文筆|作文|著作|執筆|撰述|物書き|物書|著述	wnjpn
-characterization	"【名|U】(小説や劇中の)人物[性格]描写	booqs
-discrete	"【形】別個の	booqs
+characterization	【名|U】(小説や劇中の)人物[性格]描写,人物表現|特性,特性評価|特徴の説明	booqs
+discrete	【形】別個の,離散的な	booqs
 yen	日本円	booqs
 usher	玄関番|守衛|手引|先達|案内人|道標|栞|案内書|手引き|ガイド|案内	wnjpn
 mpg	miles per gallon 1ガロンあたりの走行マイル数	ejdict
@@ -5071,7 +5071,7 @@ deaf	聾|耳の不自由|聾する	wnjpn
 beg	頼む|懇請|哀訴|願う|嘆願|歎願|愁訴|哀願|哀求|拝み倒す	wnjpn
 ritual	儀式	booqs
 distortion	ねじれ	booqs
-rig	"艤装する|備える|用具一式|〈投票･価格･市場など〉を不正に操作する	booqs
+rig	艤装する|備える|用具一式|〈投票･価格･市場など〉を不正に操作する, 操る	booqs
 fuse	フューズ|ヒューズ|電気ヒューズ|綯い交じる|入混る|入り混じる|溶ける|交会|混ざり合う|混じる|綯交じる|交雑|入交る	wnjpn
 workflow	ワークフロー|作業の流れ	wnjpn
 rewrite	書き直す|改正する	booqs
@@ -5099,7 +5099,7 @@ malpractice	医療過誤	wnjpn
 generous	寛容な	booqs
 madness	風癲|気違い|気狂い|瘋癲|癲狂|気違	wnjpn
 monk	山僧|修道僧|釈家|修道士	wnjpn
-selective	"【形】選択の	booqs
+selective	【形】選択の,選択する|注意して選ばれた|淘汰の	booqs
 primitive	原始的な	booqs
 cardiovascular	心臓と血管の(に影響する)	ejdict
 binoculars	双眼鏡|オペラグラス	wnjpn
@@ -5140,9 +5140,9 @@ sic	原文のまま	wnjpn
 hayes	ヘレン・ヘイズ|ラザフォード・ヘイズ	wnjpn
 trauma	外傷|トラウマ	booqs
 surrender	降伏	booqs
-impairment	"【名|U|C】損傷|障害|悪化	booqs
+impairment	【名|U|C】損傷|障害|悪化,低下|減少	booqs
 bacterial	細菌の	booqs
-continuously	"【副】絶え間なく	booqs
+continuously	【副】絶え間なく,連続して	booqs
 strawberry	オランダイチゴ|ストロベリー|苺|莓|オランダ苺|イチゴ	wnjpn
 liaison	色事|あだ事|密通|不義|情事|情交|連絡役|渉外係	wnjpn
 gage	ウイード|草|ドープ|ウィード|ゲージ	wnjpn
@@ -5164,7 +5164,7 @@ introductory	【形】入門の、紹介の	booqs
 councillor	参事官|議士|参議	wnjpn
 viewpoint	立場|見方|スタンドポイント|ポイントオブビュー|目|ビューポイント|眼|見|視点|観点	wnjpn
 gum	チューインガム|ゴム|ゴムのりでくっつける|ゴムで覆う	booqs
-likelihood	"【名|U】≪...が≫ありそうなこと|≪...の≫見込み	booqs
+likelihood	【名|U】≪...が≫ありそうなこと|≪...の≫見込み,可能性ある≪of≫	booqs
 denote	【動|他】を示す|を意味する|の記号である	booqs
 tooth	歯	booqs
 disciplinary	訓練の|規律の / 懲戒の	ejdict
@@ -5179,7 +5179,7 @@ complimentary	【形】無料の、称賛の	booqs
 bisexual	雌雄両性の;雌雄同体の / 両性愛の / 両性具有者(男女いずれにも性的反応を示す人)	ejdict
 contamination	汚染|汚濁	wnjpn
 reimbursement	弁償	booqs
-pretend	"【動|他】のふりをする	booqs
+pretend	【動|他】のふりをする,に見せかける|《話》《...》すると言い張る,主張する《~ to do》|のまねごとをする【動|自】見せかける,取り繕う,まねごとをする|《Aと》自負する,自任する,主張する《to A》【形】おもちゃの,空想上の	booqs
 hl	a metric unit of volume or capacity equal to 100 liters	wneng
 unnecessary	【形】不要な	booqs
 dramatically	劇的に	booqs
@@ -5205,7 +5205,7 @@ regret	後悔する|後悔	booqs
 confidentiality	内密|機密性|禁秘|秘|秘密|機密	wnjpn
 electoral	選挙の	booqs
 infringement	侵害|違令|違背|違犯|違反|違犯行為|干犯|背反行為|軽科|非行|軽罪|軽犯罪|微罪	wnjpn
-alternatively	"【副】あるいは	booqs
+alternatively	【副】あるいは,または|そうではなくて,その代わりに|いずれかで	booqs
 hunger	飢え	booqs
 dinosaur	恐竜	wnjpn
 hatch	孵化|暈おう式|孵化|ふ卵|ふ化|孵卵|孵る	wnjpn
@@ -5220,7 +5220,7 @@ feeder	肥育用家畜	wnjpn
 skull	頭骨|野晒し|野晒|しゃれこうべ|頭顱|頭蓋|髑髏|鉢|頭蓋骨|野ざらし	wnjpn
 knob	(幹などの)『節』|こぶ / (戸・引き出しなどの)『取っ手』|つまみ|握り / 小高い丘;(バター・石炭などの)丸い小さな塊	ejdict
 voyage	舟路|船旅|航走|楫枕|海航|航行|航海	wnjpn
-notable	"注目に値する	booqs
+notable	注目に値する, 興味を引く|著名な,重要な,優秀な|著名人,名士,重要人物	booqs
 petitioner	哀願者|請願者|嘆願者	wnjpn
 sedan	セダン	booqs
 checker	チェッカー|チェッカー	wnjpn
@@ -5240,7 +5240,7 @@ securely	聢と|犇と|聢り|確り|ひしと|しかと|確と|犇犇	wnjpn
 commence	開始する	booqs
 keeper	キーパー	wnjpn
 trout	マス|鱒|マス|鱒	wnjpn
-derive	"【動|他】≪...から≫ を引き出す	booqs
+derive	【動|他】≪...から≫ を引き出す,を得る≪from≫【動|自】≪...から≫派生する|≪...に≫由来する	booqs
 slate	石板|予定	wnjpn
 endless	終わりのない|果てしない|絶え間ない	booqs
 conditional	条件付きの	booqs
@@ -5260,17 +5260,17 @@ sack	袋	booqs
 manipulation	操作	booqs
 nod	頷き|点頭|肯く|首肯く|頷く	wnjpn
 getaway	逃げる	booqs
-temporarily	"【副】一時的に|仮に	booqs
+temporarily	【副】一時的に|仮に,臨時に	booqs
 orchid	幽客|蘭|ラン	wnjpn
 replication	複製	booqs
-endorse	"支持する	booqs
+endorse	支持する,承認する|ほめる,推奨する|署名する|を裏書き[保証]する.	booqs
 tenure	任期	booqs
 boyfriend	彼氏|ボーイフレンド|彼	wnjpn
 fuzzy	うぶ毛のある|綿毛に覆われた|うぶ毛のあるような	wnjpn
 spokesman	代弁者	booqs
 crib	《おもに米》わく付きの)小児用寝台《英》cot) / (横木のついた)かいばおけ / 《米》(穀物・塩などの)貯蔵箱|貯蔵小屋 / (鉄や木の)わく / 《話》(他人の言葉・アイデアの)盗用|無断借用《+『from』+『名』》 / 《話》(学生の)とらの巻(pony) / 《英》=creche2 / (狭いところに)'を'押し込む / 《話》…'を'盗用する / カンニングする	ejdict
 carriage	客車|馬車	wnjpn
-notation	"【名|U】表記（法）【C】記号	booqs
+notation	【名|U】表記（法）【C】記号,符号|注釈|覚え書き	booqs
 encompass	包含する	booqs
 breeze	小風|軽風|微風|そよ風|薫風|軟風|光風	wnjpn
 conductor	指揮者|導体|導線|指導者|管理者	booqs
@@ -5284,32 +5284,32 @@ helper	お手伝い|補佐人|助っと|輔佐|御手伝|ヘルパー|補佐|御
 banquet	晩餐会|大宴会|晩餐会を催す|御馳走を食べる	booqs
 manifest	積荷目録|端的|昭然たる|歴然たる|判然たる|章々たる|著明|瞭然たる|明白|現然たる|照照たる|立証|証明|証す|示す|証する|実証	wnjpn
 inventor	開祖|創案者|発見者|ディスカバラー|発明者	wnjpn
-subtle	"微妙な	booqs
+subtle	微妙な,目立たない,わずかな|かすかな,淡い|希薄な|巧妙な|狡猾な|鋭敏な,敏感な	booqs
 magnificent	雄大|素晴しい|素晴らしい|堂堂たる|宏壮|壮観|壮大|荘厳|壮麗|堂々たる	wnjpn
 colleague	同僚	booqs
 promptly	即時	booqs
 courtyard	コートヤード|坪庭|内庭|中庭	wnjpn
 harmful	有害	booqs
 prozac	フルオキセチン	wnjpn
-inhibit	"【動|他】抑制する	booqs
+inhibit	【動|他】抑制する,妨げる,阻害する	booqs
 reign	君臨	wnjpn
 solicitor	ソリシター|事務弁護士	wnjpn
 neon	ネオン	wnjpn
 glucose	ブドウ糖|グルコース	wnjpn
 squeeze	圧搾する|強く握る|絞る|割り込む|詰め込む	booqs
-competence	"【名|U】能力	booqs
+competence	【名|U】能力,適性|(法律上の)権限・力量|《まれ》《a~》相当の資産	booqs
 neural	神経の	booqs
 compass	羅針儀|コンパス|磁石|羅針盤|周航|呑込む|解る|了解|諒解|掴みとる|分る|納得|領会|解する|解せる	wnjpn
 inequality	不平等	booqs
 badly	悪く	booqs
 excitement	興奮|刺激	booqs
 honeymoon	結婚休暇	wnjpn
-continually	"【副】絶え間なく	booqs
+continually	【副】絶え間なく,連続して|｟非難して｠しばしば, 頻繁に,四六時中	booqs
 collectible	things considered to be worth collecting (not necessarily valuable or antique)|subject to or requiring payment especially as specified; "a collectible bill"; "a note payable on demand"; "a check payable to John Doe"|subject to or requiring payment especially as specified	wneng
 handmade	手製の|手で作った	ejdict
 champ	チャンピョン|王者|覇者|名人|チャンピォン|チャンピオン|チャンピヨン	wnjpn
 reuse	再利用|リサイクル	wnjpn
-compensate	"埋め合わせる	booqs
+compensate	埋め合わせる, 補う|補償をする	booqs
 keno	キーノー|ビンゴ	wnjpn
 mailman	郵便配達人|郵便配達|郵便集配人|飛脚|郵便脚夫|郵便屋	wnjpn
 biodiversity	【名|U】生物多様性	booqs
@@ -5321,9 +5321,9 @@ verbal	【形】言葉の、口頭の	booqs
 terminology	用語	booqs
 presently	ただ今|何れ|近いうちに|今にも|直ぐ|やがて|日ならず|今や|今に|只今	wnjpn
 mysterious	不思議|不可思議|不可解|ミステーリアス|ミステリアス	wnjpn
-suppress	"【動|他】を鎮圧する	booqs
+suppress	【動|他】を鎮圧する,制圧する|抑制する	booqs
 skateboard	スケートボード	booqs
-correspondent	"特派員	booqs
+correspondent	特派員,通信員,記者|手紙を書く人|取引先|対応[一致]するもの|〖be～〗一致[対応]して	booqs
 detention	留置き|拘禁|勾留|拘置|検束|身柄拘束|留置|抑留|留め置き|拘留|居残り	wnjpn
 liquor	焼酎|火酒|酒|スピリッツ|スピリツ|リカー|蒸留酒|ジョン・バーレーコーン|アルコール|強い酒	wnjpn
 revise	改訂する|復習する	booqs
@@ -5346,15 +5346,15 @@ awful	恐ろしい|ひどい	booqs
 coupe	クーペ	wnjpn
 defender	保護者	wnjpn
 asbestos	石綿|アスベスト	wnjpn
-crude	"粗削りな	booqs
+crude	粗削りな,雑な;大ざっぱな|無礼な|みだらな|天然のままの|ありのままの|原油	booqs
 costly	高価な	booqs
 harassment	嫌がらせ	wnjpn
-spreadsheet	"【名|C】スプレッドシート	booqs
+spreadsheet	【名|C】スプレッドシート,表計算ソフト	booqs
 longitude	『経度』(《略》long.)	ejdict
 aunt	おば|おばさん	basic
 asterisk	星印|アステリスク|アスタリスク|アステリ|主演	wnjpn
 gu	グアム島|尿生殖器	wnjpn
-thorough	"【形】完全な	booqs
+thorough	【形】完全な,完ぺきな|全くの,根っからの|徹底的な,手落ちのない【名】徹底的政策	booqs
 inexpensive	安価な	booqs
 bakery	製パン所|パン屋	booqs
 certify	証明する	booqs
@@ -5364,12 +5364,12 @@ aluminium	アルミ|Ａｌ|アルミニウム|軽銀|ニューム|ニウム|ニ�
 evanescence	エヴァネッセンス	wnjpn
 cheer	歓声	booqs
 bitter	苦い	booqs
-debit	"引き落とし額	booqs
+debit	引き落とし額,借り方;＜金額を＞引き落とす	booqs
 applet	アプレット	wnjpn
 mambo	マンボ|マンボ	wnjpn
-designate	"【動|他】指名する	booqs
+designate	【動|他】指名する,呼称する	booqs
 legendary	伝説的	wnjpn
-asylum	"【名|C】保護収容所	booqs
+asylum	【名|C】保護収容所,養育院【名|U】避難|保護	booqs
 beautifully	美しく	wnjpn
 hygiene	衛生学	booqs
 illusion	幻想	booqs
@@ -5377,10 +5377,10 @@ pyramid	金字塔|角錐|ピラミット|ピラミッド|ピラミド|ピラミ�
 eb	電子ブック|電子ブック	wnjpn
 poultry	《集合的に》《複数扱い》『家禽』(かきん)|飼い鳥(鶏・アヒルなど) / 《単数扱い》家禽の肉	ejdict
 immunology	免疫学	wnjpn
-departmental	"【形】部門（別）の|各部（局	booqs
+departmental	【形】部門（別）の|各部（局,省）の	booqs
 diagnose	【動|他】（病気）を診断する	booqs
 capri	カプリ	wnjpn
-cooperate	"【動|自】《Aと》《Bについて》協力する	booqs
+cooperate	【動|自】《Aと》《Bについて》協力する,共同する|応じる《with A》 《on,in B(doing)》|（状況などが）うまく運ぶ	booqs
 sauna	サウナ	booqs
 embroidery	装飾|刺しゅう|エンブロイダリー|縫い|刺繍	wnjpn
 groundwater	地下水	ejdict
@@ -5436,10 +5436,10 @@ warfare	師旅|軍立|軍旅|兵甲|戦争|攻戦|弓箭|戦い|矢石|戦	wnjpn
 inland	『内陸の』|奥地の / 《おもに英》『国内の』|内地の / 内陸(奥地)へ(に) / 内陸|奥地|国内	ejdict
 granite	花崗岩	wnjpn
 nonfiction	ノンフィクション	wnjpn
-discourse	"【名|U】対話	booqs
+discourse	【名|U】対話,会談,談話【C】講演,講義【動|自】 (かたい調子で長々と)論ずる,講演する	booqs
 racism	人種主義|レイシズム|民族差別|レーシズム|レイシャリズム|人種差別|レイシズム	wnjpn
 oversight	見落とし	booqs
-modest	"【形】謙虚な	booqs
+modest	【形】謙虚な,控えめな,遠慮がちな|品のいい|じみな,質素な|中ぐらいの|並の	booqs
 occupy	占める	booqs
 kinetic	動力学的|動態学的	wnjpn
 unused	未使用	booqs
@@ -5477,7 +5477,7 @@ distinctive	【形】独特の	booqs
 postcode	郵便番号|ジップコード	wnjpn
 sensation	感覚	booqs
 unofficial	非公式|インフォーマル	wnjpn
-privately	"【副】ひそかに	booqs
+privately	【副】ひそかに,秘密に|個人的に,個人として	booqs
 clash	衝突	booqs
 stall	失速	booqs
 tripod	五徳|鉄輪|金輪|三脚架|3脚|三脚	wnjpn
@@ -5492,7 +5492,7 @@ rave	レイブ|大荒|がなる|まくしたてる	wnjpn
 jaw	顎|齶|頤|顎骨|閑談|談笑|語らう|駄弁る|雑談|歓談|雑話|囀る|語りあう|語う	wnjpn
 summarize	要約する	booqs
 kitten	子猫|小猫|仔猫|子ネコ	wnjpn
-probable	"【形】ありそうな	booqs
+probable	【形】ありそうな, 起こりそうな【名|C】起こりそうなこと|何かしそうな人|予想される勝利者	booqs
 burial	葬斂|葬り|野辺送り|野葬|土葬|葬|埋葬	wnjpn
 erosion	浸蝕|浸食|侵蝕|侵食	wnjpn
 supportive	支持的|支持性	wnjpn
@@ -5510,7 +5510,7 @@ gemstone	ジェム|宝玉|宝石|ジェムストーン|宝珠	wnjpn
 pumpkin	ペポカボチャ|西洋カボチャ|パンプキン|唐茄子|セイヨウカボチャ|カボチャ|ペポカボチャ|西洋かぼちゃ|南瓜|西洋南瓜	wnjpn
 imagery	イマジネイション|イマジネーション|想像力	wnjpn
 colorful	色彩に富んだ|華やかな	booqs
-inadequate	"【形】不十分な	booqs
+inadequate	【形】不十分な,不適切な	booqs
 toxicity	毒性	wnjpn
 socialist	社会主義者	booqs
 considerably	かなり	booqs
@@ -5528,14 +5528,14 @@ northwestern	ノースウェスタン|ノースウェスタン	wnjpn
 insufficient	不十分	booqs
 occupancy	占有	booqs
 fertility	肥沃|繁殖力	booqs
-incorporation	"【名|U】編入	booqs
-issuance	"【名|U】発行	booqs
+incorporation	【名|U】編入,合併【C】法人設立	booqs
+issuance	【名|U】発行,発布|配給	booqs
 enjoyable	楽しい	booqs
 repayment	返済|報酬	booqs
 handbag	ハンドバック|ハンドバッグ	wnjpn
 compressor	圧縮機	wnjpn
 permanently	永久に	booqs
-adhere	"【動|自】《規則・法律・主義などに》執着する	booqs
+adhere	【動|自】《規則・法律・主義などに》執着する,固守する《to》|《考えなどを》支持する《to》|《...に》くっつく,粘着する《to》	booqs
 judgement	裁き|鑑定|決議|裁決|ジャッジメント|判定|判決|裁断|裁定|意見|識見|判断|オピニオン|見識|判定|所見|ジャッジ|見解|判断|ジャッジメント|ジャッジ|聰明|裁き|審判|判断力|分別|鑑識|判断|捌き|明敏|裁決|裁き|審判|判断力|分別|鑑識|判断|捌き|裁決|ジャッジメント|裁判|判決|公裁|鑑定|審判|査定|判断|アセスメント|評価|審査|価値判断|判定	wnjpn
 ninja	忍者|忍びの者|忍の者|忍者|忍びの者|忍の者	wnjpn
 patience	根気	booqs
@@ -5547,7 +5547,7 @@ vanity	心驕り|己惚れ|思い上がり|思上がり|思上り|己惚|うぬ�
 ingredient	【名|C】成分|原料|構成要素	booqs
 fetch	フェッチ|持って来る|取って来る|持来す|持ってくる|持ち来す|取って参る|持ち来たす|取ってくる|持ちきたす	wnjpn
 tactical	戦術的な	booqs
-equip	"備え付ける	booqs
+equip	備え付ける, 装備する	booqs
 analyzer	アナライザー|アナライザ|分析機器|分析計|分析器	wnjpn
 mansion	大所|レジデンス|御屋敷|お屋敷|邸|御亭|シャトー|屋敷|邸宅	wnjpn
 het	made warm or hot (`het' is a dialectal variant of `heated'); "a heated swimming pool"; "wiped his heated-up face with a large bandana"; "he was all het up and sweaty"|made warm or hot	wneng
@@ -5561,7 +5561,7 @@ anthology	アンソロジー|歌集	wnjpn
 neat	【形】きちんと整った|小ぎれいな|きれい好きな|さっぱりした	booqs
 differentiate	【動|自】分化する 【動|他】を識別する、を差別化する	booqs
 poorly	【副】貧しく、不完全に　【形】健康がすぐれない	booqs
-erase	"【動|他】消す	booqs
+erase	【動|他】消す,削除する|忘れる	booqs
 denim	デニム|ジーンズ|デニム|ジーンズ	wnjpn
 hotline	ホットライン（国家首脳間の直通電話）	booqs
 sermon	教誨|説法|法話|法施|説教|教戒|法談|道話	wnjpn
@@ -5589,7 +5589,7 @@ followup	フォローアップ|追跡検査	wnjpn
 fitting	自然調整|応化|整合|修整|順応|調整|調節|適応|備付け|備付|備えつけ|備え付け|備品|設備|ふさわしい|打って付け|相応しい|似つかわしい|似あわしい|恰好|似合しい|似合わしい|好適	wnjpn
 backyard	裏庭|後庭|バックヤード	wnjpn
 trainee	研修生	booqs
-haul	"引っぱる|引きずる|運ぶ|盗品	booqs
+haul	引っぱる|引きずる|運ぶ|盗品,違法品|(移動)距離|大量得点|一網分の漁獲量|引っぱること	booqs
 quotation	引用	booqs
 anticipate	【動|他】を予想する|前もって対処する|期待する	booqs
 quota	分け前|割り当て|定員	booqs
@@ -5611,7 +5611,7 @@ resemble	【動|他】に似ている|と共通点がある《in》|（人が）
 newborn	新生児	wnjpn
 glove	手袋|手袋をはめる|グローブで捕る	booqs
 grasp	把握	booqs
-comb	"くし	booqs
+comb	くし, コーム; 梳き道具|くしでとかす	booqs
 evolutionary	進化の	booqs
 niche	適所|すきま市場|壁龕	booqs
 spinal	脊椎麻酔	wnjpn
@@ -5675,7 +5675,7 @@ shrimp	禿び|ちび|鰕|蛯|蝦|シュリンプ|海老	wnjpn
 hyperlink	ハイパーリンク	wnjpn
 stroller	乳母車|バギー|ベビーバギー|ベビーカー|うば車	wnjpn
 buckle	バックル|留め金で留める|くずれる|くずおれる	wnjpn
-gradient	"【名|C】(道路･線路などの)傾斜(の角度)	booqs
+gradient	【名|C】(道路･線路などの)傾斜(の角度),勾配|(気温･気圧などの)勾配,変化量[率]	booqs
 auf	A changeling or elf child, -- that is, one left by fairies|adeformed or foolish child|a simpleton|an oaf. [Obs.] Drayton.	websters
 dolby	ドルビー	wnjpn
 dew	露	wnjpn
@@ -5704,7 +5704,7 @@ renowned	隠れ無い|知名|隠れない|著名|有名|名高い|高名	wnjpn
 philosophical	哲学的な	booqs
 vacant	空いている|使われていない|ぼんやりとした	booqs
 gram	グラム	booqs
-inherent	"【形】内在する	booqs
+inherent	【形】内在する,切り離せない,固有の,生まれつきの	booqs
 audition	試演|聴力|聴取|オーディションを受ける	booqs
 dedication	献身	booqs
 optic	眼球|アイ|目玉|目|眼|視覚性|ヴィジュアル|ビジュアル|視覚的	wnjpn
@@ -5715,7 +5715,7 @@ lavender	ラベンダー|ライラック色の|薄紫の|薄紫色の	wnjpn
 insect	昆虫	booqs
 steep	急勾配の	booqs
 ventilation	風通し|換気|通風|排気	wnjpn
-decree	"法令	booqs
+decree	法令, 命令, 布告|判決|神意|法令で定める|命じる|判決を下す	booqs
 usability	ユーザビリティ	wnjpn
 wedge	楔型|楔部|さし立てる|突刺す|突きさす|刺す|差したてる|差し立てる|差込む|突き刺す|さし込む|差立てる	wnjpn
 isolate	隔離する|孤立させる	booqs
@@ -5735,8 +5735,8 @@ rite	典礼|宗教行事|宗教上の儀式|聖祭|祭り|定式|儀|儀典|典|
 compartment	区画	booqs
 shy	気弱い|小気|心弱い|内気|小胆|憶病|気よわい|弱気|気が小さい|シャイ	wnjpn
 doctoral	博士[号]の	ejdict
-outbreak	"【名|C】（戦争・暴動・病気などの）突発	booqs
-elaborate	"【形】入念な	booqs
+outbreak	【名|C】（戦争・暴動・病気などの）突発,ぼっ発|（怒りなどの）爆発《of》	booqs
+elaborate	【形】入念な,手の込んだ【動|他】を念入りに仕上げる【自】詳細に述べる	booqs
 breakthrough	突破口	booqs
 presenter	発表者|賞の授与を行う人|司会者	booqs
 ruler	定規	booqs
@@ -5758,7 +5758,7 @@ accelerator	アクセル|アクセレレーター|アクセラレーター	wnjpn
 wholly	全く	booqs
 elbow	肱|肘関節|臂|エルボー|肘|押し分けて進む	wnjpn
 duct	堀り割り|掘り割り|堀割り|堀江|導管|堀|仲介物|水路|掘割|チャネル	wnjpn
-accumulation	"【名|U】蓄積	booqs
+accumulation	【名|U】蓄積,積み重ね|利殖【C】蓄積物,たまった物	booqs
 purely	純粋に	booqs
 mob	暴徒|野次馬連|烏合の衆|犇めく|ひしめき合う|犇めき合う	wnjpn
 fisherman	蜑|漁業者|漁師|漁船員|白水郎|海人|漁船乗組員|漁父|やん衆|漁夫	wnjpn
@@ -5780,7 +5780,7 @@ upstream	上流で|上流に|川上へ|上流へ|流れをさかのぼって|川
 cereal	穀類|グレイン|穀物|禾穀|禾穀類|飯米|米麦|穀類|グレーン|雑穀|米穀|シリアル	wnjpn
 auditorium	講堂	booqs
 spawn	生じる|産む|産み出す|生む|生み出す|生ずる|作り出す	wnjpn
-jointly	"共同で	booqs
+jointly	共同で,合同で;連合して,連帯的に	booqs
 pagan	異教徒|異邦人	wnjpn
 bookshop	本屋|書店|ブックストア|書房	wnjpn
 duff	ダフ|ダフ諸島	wnjpn
@@ -5803,8 +5803,8 @@ visualization	視覚イメージ	wnjpn
 odor	薫香|臭味|馨|匂い|アロマ|薫り|臭い|におい|香気|馨香	wnjpn
 redesign	【動|他】を再設計する【名|U|C】再設計	booqs
 disturbance	騒乱|妨害	booqs
-epidemiology	"【名|U】疫学	booqs
-adequately	"十分に	booqs
+epidemiology	【名|U】疫学,流行疫学	booqs
+adequately	十分に,適切に;そこそこに	booqs
 spectral	幽霊の|お化けのような(ghostly) / スペクトルの(による)	ejdict
 compliment	お世辞	booqs
 closeout	蔵払い|投げ売り	ejdict
@@ -5816,7 +5816,7 @@ motif	モチーフ	booqs
 colonel	大佐|一佐|空佐	wnjpn
 conquer	押さえ付ける|押さえ込む|抑え付ける|封じる|抑制|押え付ける|押え込む|抑圧|押えつける	wnjpn
 chairperson	会長	booqs
-marginal	"【形】取るに足りない	booqs
+marginal	【形】取るに足りない,小さな|限界の,ぎりぎりの|限界収益点の：欄外の|縁の,へりの 	booqs
 ew	電子戦	wnjpn
 opener	皮切り|オープナー|手始め|開幕戦	wnjpn
 apo	A prefix from a Greek preposition. It usually signifies from,away from, off, or asunder, separate|as, in apocope (a cutting off),apostate, apostle (one sent away), apocarpous.	websters
@@ -5846,7 +5846,7 @@ clown	ばか者|道化|戯れる	wnjpn
 practically	ほとんど|殆	wnjpn
 efficacy	効目|実効|効|利き目|効き目|効果|利き|効力|効き|功能	wnjpn
 brigade	旅団|旅団	wnjpn
-redemption	"救済	booqs
+redemption	救済,解放,救い|《株式・債券などの》償還,買い戻し|質受け	booqs
 fond	温か|暖かい|優しい|温和|暖か|温かい|暖い	wnjpn
 molecule	分子	booqs
 wreck	ボロボロにされたもの|廃虚|残骸|打っ毀す|打ち壊す|打っ壊す|ぶち壊す|破壊|ぶっ壊す|壊す|ぶっ毀す|損壊	wnjpn
@@ -5862,7 +5862,7 @@ surveyor	測量技師|測量士	wnjpn
 supra	前に|前段に|前述の|上に|さきに|上記に	wnjpn
 dent	凹み	booqs
 proximity	間近|真近|側|傍	wnjpn
-homemade	"【形】自家製の	booqs
+homemade	【形】自家製の,手製の|国産の	booqs
 cdc		wnjpn
 swell	うねり	booqs
 strait	海門|瀬戸|海峡|狭い	wnjpn
@@ -5878,7 +5878,7 @@ responsive	よく反応する	wnjpn
 limb	肢	booqs
 mitigation	仮借	wnjpn
 keynote	主音|本調子|基調|主要点|キーノート|主調|基調	wnjpn
-expire	"【動|自】期限が切れる	booqs
+expire	【動|自】期限が切れる,満了する,息を吐く	booqs
 unbiased	無関心|公平	wnjpn
 coconut	ココナッツの果肉	wnjpn
 supplementary	副次的|補助的	wnjpn
@@ -5911,15 +5911,15 @@ bail	【名|U】保釈|保釈金【C】保釈保証人【動|他】を保釈出�
 dioxide	二酸化物	booqs
 avail	お手伝い|補助|輔佐|世話|ヘルプ|応援|救い|補佐|御手伝い|力添え|利する	wnjpn
 govern	統治する|影響を与える	booqs
-diffusion	"【名|U】発散	booqs
-motive	"【名|C】《Aの》動機	booqs
+diffusion	【名|U】発散,拡散（作用）|普及|（文体などの）散漫	booqs
+motive	【名|C】《Aの》動機,誘因,目的《for|of A（doing）》 【形】運動の|運動を起こす|動機となる|行動を促す	booqs
 cruel	極悪|兇悪|無情|無慈悲|残酷|無道|残忍|非道|むごたらしい|陰惨	wnjpn
 prom	《米話》(特に高校・大学などで公式に行う)ダンスパーティー / 《英話》=promenade concert / 《英話》=promenade2	ejdict
 albanian	a native or inhabitant of Albania|the Indo-European language spoken by the people of Albania|of or relating to Albania or its people or language or culture	wneng
 stimulation	刺衝|刺激	wnjpn
 issuer	【名】発行者|振出人	booqs
 hath	=has	ejdict
-concession	"譲歩	booqs
+concession	譲歩,許容|売店|許可,認可,特権|考慮,配慮|居留地	booqs
 assertion	主張|明言	booqs
 beetle	甲虫	wnjpn
 wavelength	波長	booqs
@@ -5932,10 +5932,10 @@ correspond	対応する	booqs
 suspend	一時停止する|停職・停学にする	booqs
 sup	一すすり|一飲み	wnjpn
 freestyle	自由形	wnjpn
-migrant	"【名|C】移住者|渡り鳥【形】移住性の	booqs
+migrant	【名|C】移住者|渡り鳥【形】移住性の,渡り歩く	booqs
 lipitor	an oral drug (trade name Lipitor) that is effective in lowering triglycerides; potent in reducing LDL cholesterol because higher doses can be given|an oral drug (trade name Lipitor) that is effective in lowering triglycerides|potent in reducing LDL cholesterol because higher doses can be given	wneng
 intuitive	直観的|直感的|直覚的	wnjpn
-rigid	"【形】固い	booqs
+rigid	【形】固い, 厳格な	booqs
 awake	覚醒している|覚める|寝醒める|寝ざめる|起きる|目覚める|覚醒|醒める|目ざめる|寝覚める	wnjpn
 regiment	連隊|聯隊	wnjpn
 nucleotide	ヌクレオチド	wnjpn
@@ -5943,7 +5943,7 @@ orthodox	オーソドクス|オーソドックス	wnjpn
 disposable	使い捨て	booqs
 holistic	emphasizing the organic or functional relation between parts and the whole	wneng
 comma	コンマ	booqs
-qualitative	"【形】(量でなく)質的な	booqs
+qualitative	【形】(量でなく)質的な,性質上の,質にかかわる,定性的な	booqs
 childcare	保育|託児|チャイルドケア	wnjpn
 commencement	滑出し|幕開き|取付|出出し|発足|出々し|幕開|始り|打っ付け|初っ切り|経始|開始|着手|始動|スタート|発動	wnjpn
 fest	The fist. [Obs.] Chaucer.	websters
@@ -5959,8 +5959,8 @@ slavery	奴隷制度	booqs
 lumber	材|材木|用木|木材|用材|榑|ドスンドスンと歩く|重々しく動く	wnjpn
 notwithstanding	なおかつ|それにもかかわらず|にもかかわらず|なお且つ	wnjpn
 evite	To shun. [Obs.] Dryton.	websters
-feasible	"【形】実現[実行]可能な;うまくいきそうな	booqs
-credibility	"【名|U】信頼性	booqs
+feasible	【形】実現[実行]可能な;うまくいきそうな,見込みのある	booqs
+credibility	【名|U】信頼性,信用性	booqs
 notch	切痕|刻む	wnjpn
 thrust	押|推進力|推力|押し	wnjpn
 tease	試情牡|いびる|甚振る|苛める	wnjpn
@@ -5976,9 +5976,9 @@ dissemination	公表	wnjpn
 shareholder	株主	booqs
 provisional	暫定的|一時的|仮の|試験的	wnjpn
 trumpet	喇叭|唐人笛|トランペット|コルネット|ホルン|ペット|ホーン|らっぱ|ラッパ	wnjpn
-politically	"【副】政治上	booqs
+politically	【副】政治上,政略上|政治的に	booqs
 lieutenant	尉官	wnjpn
-rationale	"【名|C】根本原理	booqs
+rationale	【名|C】根本原理,理論的根拠	booqs
 jelly	ジェリー|ゼリー|ジェリィ|ゼラチン|ジェリー|ゼリー|ジェリィ|ゼリー化	wnjpn
 microscope	顕微鏡	booqs
 suspense	不安|不安心|宙ぶらり|中ぶらり|不定	wnjpn
@@ -6003,9 +6003,9 @@ canopy	傘体|天蓋	wnjpn
 gland	腺	wnjpn
 radiator	ラジエータ|放熱器|冷却器|ラジェーター|放射体|ラディエーター|ラジエーター	wnjpn
 hut	仮兵舎	wnjpn
-restraint	"【名|U】抑制	booqs
+restraint	【名|U】抑制,拘束,束縛|監禁【名|C】抑制するも【名|U】自制,慎み,遠慮	booqs
 historically	歴史上	booqs
-thrive	"【動|自】よく成長する	booqs
+thrive	【動|自】よく成長する,健康である|成功する,栄える,繁栄する|《Aを》生きがいとする《on A》|《Aで》うまくやる	booqs
 scare	怖がらせる	booqs
 assemble	組み立てる	booqs
 almanac	暦|年鑑	wnjpn
@@ -6019,7 +6019,7 @@ insane	狂的	wnjpn
 weaver	織工|機織鳥	wnjpn
 proton	陽子	booqs
 een	The old plural of Eye.And eke with fatness swollen were his een. Spenser.	websters
-overtime	"【名|U】超過勤務（時間）|超過勤務手当|延長（時間）【形】時間外の	booqs
+overtime	【名|U】超過勤務（時間）|超過勤務手当|延長（時間）【形】時間外の,超過勤務の【副】時間外で|時間を超過して【動|他】に時間をかけすぎる	booqs
 transitional	過渡的	wnjpn
 changer	オートチェンジャー	wnjpn
 lister	リスター	wnjpn
@@ -6037,7 +6037,7 @@ nationality	国籍	wnjpn
 articulate	考えをはっきり言う	booqs
 superman	半神|スーパーマン|超人|エルヴィス	wnjpn
 carat	カラット|カラット	wnjpn
-novice	"【名】新参者	booqs
+novice	【名】新参者,初心者,未熟者|修練士|新信者|未勝利馬	booqs
 rhodes	セシル・ローズ|ロドス	wnjpn
 invoke	唆る|喚び出す|喚起|呼び出す	wnjpn
 filing	とじ込み|書類整理	ejdict
@@ -6049,7 +6049,7 @@ apprentice	見習い	booqs
 flare	フレア|フレアー|彩光弾|照明弾|燃立つ|燃上る|燃える|燃え立つ|燃え上がる|燃えたつ|燃上がる|燃えあがる|燃え上る|発赤	wnjpn
 furnace	(スチームの)暖房炉 / 溶鉱炉|かまど	ejdict
 sting	刺すような痛み|焦がす|焼く|焼け焦がす|焼けこがす|刺す|焼け焦す|ちくちく|刺す|針で刺す|張る|貼る|刺さる|着ける|付ける	wnjpn
-aboard	"乗って; 船[機	booqs
+aboard	乗って; 船[機, 車]内に,新しく加わって	booqs
 mvp	最高殊勲選手|最優秀選手	wnjpn
 stimulus	刺激	booqs
 roundup	家畜の駆り集め	wnjpn
@@ -6080,7 +6080,7 @@ remover	除去剤|除去剤	wnjpn
 rebound	はね返る|再び上昇する	booqs
 presidency	【名】大統領職|会長の職|大統領在任期間|会長の任期	booqs
 reconciliation	和解	booqs
-compulsory	"義務的な	booqs
+compulsory	義務的な, 強制的な|必修の|規定演技.	booqs
 favorable	好ましい	booqs
 sovereign	主権者	booqs
 lisp	リスプ|LISP|リスプ	wnjpn
@@ -6094,7 +6094,7 @@ tasmania	タスマニア島|タスマニア島	wnjpn
 silicone	シリコン|ケイ素樹脂|シリコン重合体|珪素樹脂|シリコーン	wnjpn
 cha	Tea|-- the Chinese (Mandarin) name, used generally in earlyworks of travel, and now for a kind of rolled tea used in CentralAsia.	websters
 lx	六十|ルクス	wnjpn
-initiation	"【名|U】（組織などへの）加入	booqs
+initiation	【名|U】（組織などへの）加入,入会,仲間入り|(手続き･計画などの)開始,着手【C】入会[入社]式	booqs
 overload	過負荷	wnjpn
 dwarf	侏儒|ちんちくりん|こびと|矮人|一寸法師|ちび|朱儒|小びと|侏繻|矮躯	wnjpn
 landfill	〈C〉ごみ埋め立て地 / 〈U〉埋め立てごみ	ejdict
@@ -6115,7 +6115,7 @@ proportional	比例した|釣り合った|文字幅を調整した	booqs
 nonetheless	【副】それにもかかわらず|それでもなお	booqs
 mystic	ミスティック川|奇奇怪怪|神妙|不思議|きっかい|神秘的|霊妙|霊び|不可思議|怪奇|幻怪	wnjpn
 expectation	予想|期待	booqs
-severely	"【形】厳しく	booqs
+severely	【形】厳しく,ひどく,重く	booqs
 loft	ロフト|屋根裏|ロフトアチック|アチック|アティック|ロフト|ロフトアティック|屋根裏部屋	wnjpn
 wont	決り|因習|習慣|決まり|習わし|風習|因襲|慣習|古例|俗習	wnjpn
 liberation	解放	wnjpn
@@ -6125,9 +6125,9 @@ diagnostics	診断学|疾病分類学	wnjpn
 ancestry	一族|家世	wnjpn
 luxurious	デラックス|豪華|豪勢|贅沢|豪奢	wnjpn
 squid	イカ|いか|イカ	wnjpn
-indirectly	"【副】間接に	booqs
+indirectly	【副】間接に,遠回しに	booqs
 ark	聖櫃|聖櫃	wnjpn
-variability	"【名|U】変わりやすいこと	booqs
+variability	【名|U】変わりやすいこと,可変性,変動性	booqs
 gardener	植木屋	booqs
 litre	立方デシメートル|リッター|l|ｌ|リットル|L	wnjpn
 asleep	【形】眠って|永眠して|しびれて	booqs
@@ -6143,7 +6143,7 @@ bake	焼く	booqs
 wrapper	ネグリジェ|化粧着	wnjpn
 preventive	予防薬|足手纏|差し合い|害|差し障り|妨害|邪魔立て|手足まとい|さし支え|荷厄介|足手まとい|避妊装置|避妊器具|予防装置|予防手段|出産制限装置|避妊薬|予防的	wnjpn
 mankind	人類|ヒト|人|人間	wnjpn
-uncertain	"【形】不確かな	booqs
+uncertain	【形】不確かな,不安定な	booqs
 persuade	説得する	booqs
 citrus	柑橘類|カンキツ類|蜜柑|シトラス	wnjpn
 samurai	侍|武家|武士|武者|士人|侍|武家|武士|武者|士	wnjpn
@@ -6153,7 +6153,7 @@ plague	ペスト	booqs
 sentinel	歩哨(ほしょう)|番人	ejdict
 markup	マークアップ	wnjpn
 glacier	氷河	wnjpn
-tolerate	"【動|他】に寛大な態度をとる|を黙認する|をがまんする	booqs
+tolerate	【動|他】に寛大な態度をとる|を黙認する|をがまんする,を耐える|（薬品・毒物など）に耐性がある	booqs
 suede	スエード|スエードクロス|スエード	wnjpn
 append	(…に)〈付録・署名など〉'を'添える|つけ加える《+『名』+『to』+『名』》	ejdict
 calculus	結石|微積分（数学）	booqs
@@ -6175,16 +6175,16 @@ trouser	(usually in the plural) a garment extending from the waist to the knee o
 discourage	落胆させる	booqs
 transient	はかない|刹那的|果敢ない|一時的|果敢無い|短命|果ない|儚い|果無い	wnjpn
 nutrient	栄養素	booqs
-underway	"【形】進行中で|始まっている|運転中で	booqs
+underway	【形】進行中で|始まっている|運転中で,航行中で	booqs
 scenery	風景	booqs
 receivable	【形】受け取れる	booqs
 theatrical	芝居|上演|演劇|芝居掛かり|芝居掛り|芝居掛|演劇的	wnjpn
 preferably	寧|寧ろ	wnjpn
-collateral	"【名|U】担保【C】傍系親族【形】付随する	booqs
+collateral	【名|U】担保【C】傍系親族【形】付随する, 副次[二次]的な|並行した|見返りの.	booqs
 sadly	悲しげに	booqs
 flock	一群|群鳥|一群れ|群れ|群|群がり	wnjpn
 cavity	窪み|縦穴|竪穴|窪溜|くぼみ|ピット|窪溜まり|坑|窪溜り|たて穴	wnjpn
-prestigious	"【形】誉れの高い	booqs
+prestigious	【形】誉れの高い,高名な|尊敬されている|権威のある	booqs
 etiquette	礼典|折屈み|エチケット|おり屈み|折屈|礼式|行儀作法|礼儀作法|礼|折りかがみ	wnjpn
 diner	安レストラン|食事をする人	booqs
 deposition	堆積|敷金|入金|デポジット|仮納|預託|仮納金|保証金|預金|廃位	wnjpn
@@ -6201,7 +6201,7 @@ consume	消費する	booqs
 enjoyment	快事|娯しみ|楽しみ|慶び|御楽|佚楽|愉快|喜び|楽しび|悦び	wnjpn
 vaginal	膣の(に関する)	ejdict
 cohort	年齢層|コホート|コーホート|年齢集団	wnjpn
-inevitable	"【形】必然的な	booqs
+inevitable	【形】必然的な,免れられない	booqs
 ape	猿|カリカチュアライズ|戯画化	wnjpn
 creep	クリープ|匍匐|はいずる|匍匐|這い這い|匍う|這う|這いずる	wnjpn
 trilogy	三部作	wnjpn
@@ -6216,7 +6216,7 @@ abandon	(人を)見捨てる	booqs
 chic	偉がる|粋|決定版|小粋|きりっとした|格好良い|かっこ良い|シック|粋|おつ|瀟洒|格好いい|スマート	wnjpn
 grease	グリース|差し油|差油|潤滑油|グリス	wnjpn
 taxonomy	分類学|分類学|分類学	wnjpn
-proliferation	"急増	booqs
+proliferation	急増, 激増; (核兵器の)拡散|(細胞などの急激な)増殖	booqs
 shutdown	操業中止|閉鎖|閉店	wnjpn
 sentiment	感情	booqs
 autonomous	【形】自治の|自治権のある	booqs
@@ -6255,7 +6255,7 @@ gaze	凝視	booqs
 amplitude	振幅	booqs
 rainfall	降雨	booqs
 shear	翦断|剪断|せん断|翦断|剪む|鋏む|剪断|せん断	wnjpn
-straightforward	"【形】わかりやすい	booqs
+straightforward	【形】わかりやすい,簡単な|正直な,率直な|まっすぐに進む	booqs
 simultaneous	同時的|同時発生的	wnjpn
 evolve	【動|他】を徐々に発展させる|を進化させる【動|自】徐々に発展する|進化する	booqs
 debris	破片|屑物|砕片|瓦礫|屑|ごみ|がらくた|くず|くず物	wnjpn
@@ -6279,7 +6279,7 @@ disseminate	触れちらす|触れまわる|広める|流布|触れ回る|触散
 interchange	インターチェンジ|入換える|掏替える|入れ換える|釣替え|釣換え|釣り換え|繰換える|すげ替える|換える|挿替る|交わす|とり交わす|とり交す|遣取|交す|やり取り|遣り取り|交える|取交す|遣取り|換える|取り換える|引き換える|代える|交換|替える	wnjpn
 tec	目明かし|デカ|刑事|岡引き|岡っ引|ご用聞|岡引|御用聞|目明し|ご用聞き	wnjpn
 dysfunction	機能障害|機能不全	wnjpn
-bilateral	"【形】相互[双方]の|左右相称の	booqs
+bilateral	【形】相互[双方]の|左右相称の,両側性の|双務的な	booqs
 conscience	道徳感覚|道心|善心|道義心|良心|モラルセンス|道徳心|道徳意識|徳義心|道念	wnjpn
 humiliation	汚辱|屈辱|辱|辱しめ|恥|面恥|羞|恥辱|辱め|無念さ|屈辱|無念|口惜しさ|悔しさ	wnjpn
 charcoal	チャコール|木炭|枝炭|炭	wnjpn
@@ -6291,7 +6291,7 @@ prosperity	繁栄	booqs
 lantern	ランタン|カンテラ|提燈|提灯	wnjpn
 rodeo	ロデオ	wnjpn
 inconsistent	【形】一貫性のない、矛盾する	booqs
-seemingly	"【副】うわべは	booqs
+seemingly	【副】うわべは,表面は|一見したところ,なるほど	booqs
 epidemic	流行性の|伝染病	booqs
 espresso	エスプレッソ	wnjpn
 passionate	熱っぽい|熱情的|ホット|熱烈|熱い|激情的|情熱的	wnjpn
@@ -6317,18 +6317,18 @@ ax	斧斤|斧鉞|斧	wnjpn
 coke	コークス|コーク|コカコーラ	wnjpn
 prevail	普及している|勝つ|説得する	booqs
 fn	footnote	ejdict
-prey	"【名】餌食	booqs
+prey	【名】餌食,獲物|捕食|【動|自】捕食する	booqs
 bliss	幸い|クラウド・ナイン	wnjpn
 movable	部|伝達性	wnjpn
 grin	【動|自】《…に》ニヤリと笑う《at ...》|（苦痛・敵意・怒りなどで）《…に》歯をむき出す《at ...》【名|C】にやりとすること	booqs
 verdict	評決	booqs
-homeowner	"【名|C】マイホーム所有者	booqs
+homeowner	【名|C】マイホーム所有者,持ち家の住人	booqs
 vale	谷間|渓谷|渓|峡間|谿|谷地形|谿間|渓間|谷あい|山峡	wnjpn
 geometric	ジオメトリック|幾何的|幾何学的	wnjpn
 subsystem	サブシステム	wnjpn
 submarine	潜水艦|潜航艇|ユーボート|サブマリン|潜水艇	wnjpn
 intrusion	攻略|侵襲|蚕食|乱入|来襲|闖入|侵入|侵掠|入寇|侵蝕	wnjpn
-nonlinear	"【形】直線的でない|突然変化する|非線形の	booqs
+nonlinear	【形】直線的でない|突然変化する|非線形の,非1次の	booqs
 batter	バッター|巨砲|打者|スラッガー|強打者	wnjpn
 ghetto	ゲットー	wnjpn
 radioactive	放射性	wnjpn
@@ -6392,18 +6392,18 @@ electrode	電極	wnjpn
 faucet	蛇口|飲み口|水道栓|コック|栓	wnjpn
 racist	人種差別主義者|人種差別主義者|人種差別主義者	wnjpn
 willingness	意欲	booqs
-implicit	"【形】暗黙の	booqs
+implicit	【形】暗黙の,絶対的な	booqs
 patriotic	忠義	wnjpn
 terrific	ものすごくいい|大変な|恐ろしい	booqs
-definite	"明確な	booqs
+definite	明確な, はっきりとした; 正確な	booqs
 flavour	フィーリング|感じ|雰囲気|気分|匂い|様子|匂|風情|匂い|味|フレイバー|味覚|口当たり|風味|味い|味わい|こく|風味付け	wnjpn
-differentiation	"【名|U】区別	booqs
+differentiation	【名|U】区別,識別|差別化|分化|微分法	booqs
 whereby	【副】《関係副詞》…によって…するところの(according to which)	booqs
 entitlement	命題	wnjpn
 jigsaw	糸のこ|糸鋸	wnjpn
 waterfall	飛泉|落水|飛瀑|瀧|水簾|垂水|滝|瀑布	wnjpn
 capitalism	資本主義	booqs
-tow	"【動|他】を引っぱる	booqs
+tow	【動|他】を引っぱる,牽引する,撤去する|引き連れる【名】引っぱる[られる]こと|引かれる船[車]	booqs
 leukemia	白血病	wnjpn
 oyster	カキ	wnjpn
 millionaire	『百万長者』|大金持ち	ejdict
@@ -6439,7 +6439,7 @@ toggle	トグル|トグルスイッチ|オンオフスイッチ|トグル|トグ
 sle		wnjpn
 ultrasound	超音波|超音波検査法|超音波	wnjpn
 sausage	ソーセージ|腸詰め|腸詰|フランクフルトソーセージ|フランクフルター	wnjpn
-payout	"【名|C】支出金	booqs
+payout	【名|C】支出金,支払金	booqs
 moose	ヘラジカ	wnjpn
 bury	埋める	booqs
 grinder	爆撃機|大臼歯|臼歯|ミル|圧砕機|製粉機|粉砕機|グラインダー|研磨機	wnjpn
@@ -6450,7 +6450,7 @@ tarot	タロットカード	wnjpn
 synchronization	同期|同調|同時発生|同期性|同時性|同期式|同期化|同期調整|同期式|同期|同期調整	wnjpn
 diazepam	ジアゼパム	wnjpn
 clerical	事務的	wnjpn
-mitigate	"を和らげる	booqs
+mitigate	を和らげる,静める,緩和する|〈刑罰など〉を軽減する	booqs
 kart	(競走・娯楽用)ゴーカート	ejdict
 paw	鈎爪のある足|手荒くさわる|不器用にさわる|なれなれしくさわる	wnjpn
 heck	ちぇ|ちくしょう / (強意語として)hellの遠回しの語	ejdict
@@ -6503,7 +6503,7 @@ sidewalk	歩道	booqs
 beard	髭|頬髭|顎髭|頬髯|顎髯|あご鬚|顎ひげ|ひげ|鬚|顎鬚	wnjpn
 thunderbird	サンダーバード	wnjpn
 lust	獣欲|獣慾|情欲|性慾|欲情|淫欲|愛欲|肉慾|色情|婬情|獣欲|愛慾|欲する|渇求|希求|念願|焦がれる	wnjpn
-emergence	"発生	booqs
+emergence	発生,出現|台頭|(困難からの)脱却,抜け出すこと	booqs
 stunt	芸当|放れ技|放技|放れ業|スタント|離業|離れ技|離技|離れわざ|離れ業|成長を妨げる|発育を阻止する	wnjpn
 crimson	深紅|真っ赤|紅い|赤い|真赤|赤らめる|染める|ぽっとする|赤む|火照る|熱る|赤らびる|赤面|紅潮|赤らむ	wnjpn
 compassion	同情|恕|思遣り|哀れみ|哀み|惻隠|思い遣|不愍|哀れ|憐愍	wnjpn
@@ -6522,7 +6522,7 @@ glimpse	一目|打見|ひと目|ちょっと見|一瞥|グリンプス|打ち見
 jockey	ジョッキー|乗尻|乗り尻|騎手|まやかす|ごまかす|いかさま|騙くらかす|食わす|欺瞞|騙かす|騙る|引っ懸ける|だます	wnjpn
 trivial	ささいな	booqs
 deco	デコ・ソウザ|アールデコ	wnjpn
-sensible	"分別がある	booqs
+sensible	分別がある,思慮深い|実用的な,実用本位の|顕著な,目立つ|認識している	booqs
 unlawful	不正	wnjpn
 accountable	【形】説明のつく|説明できる|（説明する）責任がある	booqs
 procedural	手続き的	wnjpn
@@ -6664,7 +6664,7 @@ taboo	禁忌|タブー|忌み|禁物|禁忌|タブー|忌み|禁物|禁じられ
 hummer	豪球|スピードボール|速球|剛球	wnjpn
 appraiser	鑑査員|鑑定家|評価者|鑑定人|鑑定官	wnjpn
 chestnut	クリ	wnjpn
-wrinkle	"しわ	booqs
+wrinkle	しわ,ひだ|しわをつくる|名案	booqs
 discriminate	差別する	booqs
 perceive	知覚する|気づく	booqs
 sanction	認可|制裁	booqs
@@ -6687,13 +6687,13 @@ choke	チョークコイル|噎せ返る	wnjpn
 sunlight	陽射し|陽光|太陽光|陽の目|日光|日影|天日|日射し|日の目|太陽の光	wnjpn
 endure	耐える	booqs
 hog	猪の子|ホッグ|豕|ブタ|飼い豚|豚|がっつく	wnjpn
-profitability	"【名|U】収益性	booqs
+profitability	【名|U】収益性,利益率,採算性	booqs
 wee	ちっぽけ|小っちゃい|立小便|放尿|立ち小便|排尿|おしっこ|小便	wnjpn
 ang	a civilian reserve component of the United States Air Force that provides prompt mobilization during war and assistance during national emergencies	wneng
-globally	"【副】世界的に	booqs
+globally	【副】世界的に,地球規模で	booqs
 inflatable	ふくらませて使う	ejdict
 bearing	関係|関連|押出し|押し出し|押出	wnjpn
-tumble	"【動|自】転がる	booqs
+tumble	【動|自】転がる,倒れる|転げ回る≪about≫|崩れ落ちる≪down≫【動|他】を放り投げる|をめちゃくちゃにする【名|C】転倒,転落【名|U】混雑	booqs
 mesothelioma	中皮腫	wnjpn
 resurrection	再誕|回生|甦生|復活|蘇生|甦|蘇り	wnjpn
 eternity	エターニティ|未来永劫|終古|永久|久遠|万古|万世|生生世世|常世|終天	wnjpn
@@ -6720,7 +6720,7 @@ jackpot	ジャックポット	wnjpn
 dislike	【動|他】を嫌う【名|U】嫌いなこと|嫌悪	booqs
 archer	アーチャー|弓道家|射手|弓取り|弓矢取り|弓取|弓矢取	wnjpn
 kindly	情け深い|情けぶかい|温か|親身|暖かい|良い|寛大|優渥|暖か|温かい	wnjpn
-dissent	"【動|自】《…と》意見が違う	booqs
+dissent	【動|自】《…と》意見が違う,《…に》異議を唱える,従わない《from ...》 （英国国教会の）教義に従わない 【名|U】《…との》意見の相違,異議,不同意《from ...》|英国国教会からの分離	booqs
 weekday	平日	booqs
 capacitor	コンデンサ	wnjpn
 butcher	肉屋|槌の子|下手|屠殺|畜殺|潰す|屠る	wnjpn
@@ -6732,7 +6732,7 @@ veil	ヴェール|ベール|ヴェイル|頭を覆う物|押し被せる|覆う|
 columnist	論説委員	wnjpn
 throughput	処理量|スループット	wnjpn
 tuberculosis	TB|テーベー|結核症|ルンゲ|肺結核|結核	wnjpn
-referendum	"【名|C】国民投票	booqs
+referendum	【名|C】国民投票,住民投票|国民投票制度,住民投票制度	booqs
 daytime	昼間	booqs
 ambitious	野心的な	booqs
 loom	織機	booqs
@@ -6757,8 +6757,8 @@ exquisite	シャープ|鋭利|鋭敏|鋭い	wnjpn
 leaflet	小葉	wnjpn
 herpes	ヘルペス|疱疹	wnjpn
 upward	上向きに	booqs
-contractual	"【形】契約の	booqs
-unchanged	"【形】変化のない	booqs
+contractual	【形】契約の,契約上の|契約で保証された	booqs
+unchanged	【形】変化のない,もとのままの	booqs
 hatred	毛ぎらい|毛嫌い|憎悪|憎み|厭忌|厭悪|憎しみ|唾棄|嫌忌|毛嫌	wnjpn
 squadron	飛行大隊|中隊	wnjpn
 ounce	オンス	booqs
@@ -6770,7 +6770,7 @@ guidebook	手引|入門|必携|道標|枝折|手びき|栞|案内書|便覧|手�
 mommy	マミー|お母|母|おっ母|ママ|お袋|母さん|御っ母|御母|母ちゃん	wnjpn
 enquire	問いただす|訊ねる|問い掛ける|問合せる|訊く|聞く|問合わせる|問う|問い合せる|聴く	wnjpn
 rhetoric	レトリック	booqs
-irrelevant	"【形】無関係の	booqs
+irrelevant	【形】無関係の,重要でない	booqs
 professionally	専門的に	booqs
 guitarist	ギタリスト	wnjpn
 incense	薫香|末香|インセンス|抹香|香|香を焚く|激怒させる|憤慨させる	wnjpn
@@ -6785,9 +6785,9 @@ incidental	付随して起こる|付随した / 臨時の;予定外の / 付随�
 exodus	《時にan exodus》(多数の人々が)国を出て行くこと / 《the E-》(モーセ(Moses)に率いられたイスラエル民族の)エジプト脱出 / 《E-》出エジプト記(イスラエル民族のエジプト脱出を記述した旧約聖書中の一書)	ejdict
 cunningham	カニングハム	wnjpn
 supervisory	監督上の|監督者の	booqs
-disrupt	"混乱させる|存続不可能にする	booqs
+disrupt	混乱させる|存続不可能にする, 崩壊させる.	booqs
 chiropractic	カイロプラクティック	wnjpn
-synergy	"【名|U】相乗効果	booqs
+synergy	【名|U】相乗効果,シナジー|共同（共働）作用	booqs
 placebo	プラシーボ	wnjpn
 donkey	ロバ|兎馬|驢馬|ロバ	wnjpn
 fairness	公正	booqs
@@ -6800,14 +6800,14 @@ whichever	どちらの～でも	booqs
 hostage	人質	wnjpn
 attribution	〈U〉(…に物事の)原因(特質|起源)があるとすること;(…が…に)備わっていること;(…は…の)作とされること《+『of』+『名』+『to』+『名』》 / 〈C〉=attribute{名}1	ejdict
 tuscany	トスカナ	wnjpn
-disruption	" 混乱	booqs
+disruption	 混乱, 中断, 遮断, 分裂	booqs
 unspecified	【形】明示されていない|特定されていない|不特定の	booqs
 unreal	非現実的な	booqs
 physiological	生理学的な	booqs
 zeppelin	ツェッペリン	wnjpn
-unprecedented	"【形】先例のない	booqs
+unprecedented	【形】先例のない,みぞうの|史上最大の,空前の	booqs
 dummy	石仏|頓痴気|空砲	wnjpn
-financially	"【副】財政的に	booqs
+financially	【副】財政的に,経済的に,金銭的に|財政的にいうと	booqs
 sanitation	公衆衛生|衛生化	wnjpn
 nurture	養育|躾|教育|養育|育成|育ち|養育てる|保育|培養|哺育|育くむ|やしない育てる|涵養|育み育てる|育みそだてる|育種	wnjpn
 ornament	デコレーション|飾りつけ|外装|修飾|居物|模様|装飾物|置物|据物|飾|美化|飾付ける|色取る|修飾|扮飾|飾る|綾なす|飾りつける|粉飾|飾り付ける	wnjpn
@@ -6828,14 +6828,14 @@ congressman	議員	booqs
 incubus	インキュバス	wnjpn
 corvette	コルベット	wnjpn
 lad	若者|兄ちゃん|若い衆|やつ|若男|野郎|ガイ|少年|奴|奴さん	wnjpn
-contingent	"【名|C】派遣団	booqs
+contingent	【名|C】派遣団,代表団|不慮の出来事【形】依存する,...次第の|不測の|偶然の|起こり得る	booqs
 coop	禽舎|塒|鶏舎|鳥屋|鶏小屋|鳥小屋	wnjpn
-irregular	"【形】不規則な	booqs
+irregular	【形】不規則な,不定期の,でこぼこな	booqs
 coherent	まとまった|理解しやすい	booqs
 majestic	堂堂たる|荘重|尊厳|荘厳|壮重|堂々たる|厳威|威風堂々たる|いかめしい|堂々|高遠|堂堂たる|昂然たる|厳しい|壮大|荘重|荘厳|壮重|堂々たる|厳威	wnjpn
 inhibitor	抑制剤	wnjpn
 knowledgeable	精通している|熟知した|博識な	booqs
-critically	"【副】非常に	booqs
+critically	【副】非常に,決定的に|危険なほどに|批評的に|注意深く	booqs
 carte	品書き|菜単|献立て表|メニュー|メニュ|品書|メヌー|献立|献立表	wnjpn
 spicy	辛い|辛い|ぴりっとくる|エロい	wnjpn
 neutron	中性子|ニュートロン	wnjpn
@@ -6852,10 +6852,10 @@ evangelical	relating to or being a Christian church believing in personal conver
 riviera	リビエラ	wnjpn
 scalar	スカラー	wnjpn
 turf	ターフ|芝生|芝|芝草	wnjpn
-unsure	"確信がない	booqs
+unsure	確信がない, 不確かな; 信頼できない.	booqs
 destructive	破壊的	wnjpn
 peek	のぞき見|一目|一覧|ひと目|一瞥|一見	wnjpn
-ample	" 十分すぎるほどの	booqs
+ample	 十分すぎるほどの, 豊富な	booqs
 countless	数知れない|おびただしい|数え切れない|夥しい	wnjpn
 abusive	口汚ない|口汚い|口穢ない|口穢い|口ぎたない|口汚|口悪	wnjpn
 warehousing	蔵置|整復|格納|蓄積|蔵置き|入庫|蔵入|倉入れ|蔵入り|庫入れ	wnjpn
@@ -6880,7 +6880,7 @@ volcano	噴火口|火口	wnjpn
 oath	悪罵|罰当たりな言葉|罵り|下品な言葉|ののしりの言葉|ののしり|悪態|冒涜的な間投詞	wnjpn
 zebra	縞馬|シマウマ	wnjpn
 crossover	交差|クロスオーバー|横断歩道|横断が可能な場所	wnjpn
-economical	"【形】経済的な	booqs
+economical	【形】経済的な,徳用の,むだのない|節約する,倹約家の	booqs
 fowler	鳥撃ち	wnjpn
 asphalt	アスファルト	wnjpn
 immunization	予防接種|予防注射|免疫	wnjpn
@@ -6893,7 +6893,7 @@ assortment	寄せ集め	wnjpn
 savvy	解り|飲込み|理解|把握|飲み込み|呑込む|解る|了解|諒解|掴みとる|分る|納得|領会|解する|解せる	wnjpn
 equestrian	馬騎り|乗馬者|ライダー|乗り手|馬乗り|騎手|馬のり	wnjpn
 instinct	本能	booqs
-tangible	"【形】触れられる	booqs
+tangible	【形】触れられる,明らかな,有形の	booqs
 organisational	構造的|組織的	wnjpn
 veterinarian	獣医|獣医師	wnjpn
 reactive	反応の	booqs
@@ -6920,7 +6920,7 @@ workbook	練習帳|取扱説明書|作業手引書	booqs
 analogue	類似体|類似物|類い|類縁体|比倫|比類	wnjpn
 urinary	尿の;泌尿(ひにょう)[器]の	ejdict
 cinnamon	ニッキ|シナモン|肉桂|桂皮	wnjpn
-corrective	"【形】訂正（調整	booqs
+corrective	【形】訂正（調整,修正,矯正）する,正しくする|訂正（調整,修正,矯正）するための【名|C】《...に対する》修正《to》|矯正手段	booqs
 icc	州際通商委員会|ICC	wnjpn
 underworld	暗黒街|冥府|冥土|幽冥界|夜見の国|異界|冥道|九泉|冥界|黄泉|幽界	wnjpn
 fetal	【形】胎児の	booqs
@@ -6982,7 +6982,7 @@ wetland	a low area where the land is saturated with water	wneng
 malicious	悪意のある|意地悪|悪意ある|底意地悪い	wnjpn
 fourteen	14	booqs
 predecessor	前任者	booqs
-exporter	"【名|C】輸出業者	booqs
+exporter	【名|C】輸出業者,輸出国	booqs
 honesty	信|真っ直ぐさ|誠信|真率さ|真っ直さ|真直さ|真面目さ|忠直|誠|実直さ	wnjpn
 diagonal	筋交い|固相線	wnjpn
 instability	不安定	booqs
@@ -7003,7 +7003,7 @@ natl	national	ejdict
 imperative	命令	booqs
 brewery	醸造所|酒造場|酒蔵	wnjpn
 mule	ラバ|騾馬	wnjpn
-formulate	"【動|他】（考え・理論・計画など）を明確に（系統立てて）述べる|を公式で表す	booqs
+formulate	【動|他】（考え・理論・計画など）を明確に（系統立てて）述べる|を公式で表す,を公式化する	booqs
 haired	毛の生えた	wnjpn
 matte	マット|つや消し|無光沢|マット|無光沢|マット|艶消し	wnjpn
 directional	方向上の|方向を示す / (無線の電波が)指向性の	ejdict
@@ -7026,7 +7026,7 @@ maroon	茶褐色の|くり色の|えび茶の	wnjpn
 abstraction	観念	wnjpn
 turquoise	トルコ石|コバルトブルー|藍緑色|コバルト・ブルー|ターコイズ|ターコワーズ|アクアマリーン|青緑色|タコワーズ|アクアマリン|コバルト	wnjpn
 archival	アーカイバルな	wnjpn
-coincide	"【動|自】《Aと》同時に起こる《with A》|《Aと》一致する	booqs
+coincide	【動|自】《Aと》同時に起こる《with A》|《Aと》一致する,ぴったり合う《with,in A》	booqs
 seismic	地震の|地震によって生ずる	ejdict
 liar	与太郎|嘘吐き|偽者|嘘つき|偽り者|贋者	wnjpn
 baccarat	バカラ	wnjpn
@@ -7038,7 +7038,7 @@ requisite	必需品|必需|不可欠|必要|必須|要用|入用|須要|入り�
 intercept	途中で奪う|傍受する|迎撃する	booqs
 purity	純一無雑|単純|生一本|無雑|生粋|精粋	wnjpn
 orphan	遺児|みなし子|親無し子|親なし子|みなし児|孤児|親無子|親なし|孤|親無し	wnjpn
-rigorous	"【形】厳密な	booqs
+rigorous	【形】厳密な,厳しい,正確な	booqs
 poke	ヨウシュヤマゴボウ|買物袋|レジ袋|ジャブ|突き|パンチ|一撃|強打|打撃|スラッグ|痛打|ワンツー|突っつく|小衝く|突ったてる|小突く|突く|さし立てる|突きたてる|突刺す|突つく|衝く	wnjpn
 aftermath	余波|結果|余波|結果|因果関係	wnjpn
 demolition	壊滅|打毀し|撃滅|絶滅|取り潰し|粉砕|打毀|毀し|取潰し|打壊し	wnjpn
@@ -7168,7 +7168,7 @@ obsession	強迫衝動|強迫|強迫観念|強迫観念	wnjpn
 intrinsic	【形】本来備わった、内在的な	booqs
 depict	表現する|描写する	booqs
 cranberry	クランベリー|クランベリー	wnjpn
-reckon	"【動|他】《Aを》を数える	booqs
+reckon	【動|他】《Aを》を数える,計算する《up A, A up》|…をみなす,考える|《話》《A》であると思う(suppose)《~ that節 A》【動|自】数える,計算する|《話》思う	booqs
 sponge	スポンジ|海綿体|海綿質|海綿	wnjpn
 unrelated	【形】無関係の|語られていない	booqs
 condemn	【動|他】を非難する|を有罪と決定する	booqs
@@ -7189,21 +7189,21 @@ allergic	過敏	wnjpn
 resize	リサイズ	wnjpn
 unanimously	満場一致で|挙って	wnjpn
 popcorn	ポップコーン	booqs
-comprehension	"【名|U】理解	booqs
+comprehension	【名|U】理解,理解力|包含,包括,包容力	booqs
 fraternity	友愛会	wnjpn
 schematic	概要の;図解の|図表の	ejdict
 uncommon	異色|異常|並みはずれ|風変わり|非凡|稀|並み外れ|奇矯|徒ならぬ|希有	wnjpn
 dread	虞|鬼胎|懸念|心配|不安|不安心|怖|恐れ|畏れ|憂慮|物すごい|凄い|すさまじい|凄まじい|非道い|おどろおどろしい|凄じい|物凄い|おっかない|怖い|怖恐れる|怖じ恐れる|憂虞|憂懼|惧れる|恐がる|憂惧|懼れる|畏れる|怖れる	wnjpn
 ov		wnjpn
 subgroup	サブグループ|下位集団|小群|下位群	wnjpn
-sovereignty	"【名|U】主権	booqs
+sovereignty	【名|U】主権,統治権|【C】独立国,主権国家.	booqs
 endpoint	終点	wnjpn
 unpublished	未発表の|未刊の	wnjpn
 embark	搭乗|乗りこむ|乗る|上船|乗船|乗り込む	wnjpn
 enlightenment	開明|開眼|啓発|開化	wnjpn
 conquest	征討|討伐|征伐|制覇|征服	wnjpn
 renter	借家人	booqs
-genetically	"【副】遺伝（子）的に	booqs
+genetically	【副】遺伝（子）的に,遺伝学的に	booqs
 supposedly	たぶん	booqs
 chimney	チムニー|烟突|煙り出し|煙出し|煙突|煙筒|烟筒|煙管	wnjpn
 saw	名言|俚諺|諺|里諺|金言|格言|箴|俗諺|成句|諺語|のこぎり|鋸|電動のこぎり|鋸盤|動力鋸|切る	wnjpn
@@ -7236,12 +7236,12 @@ palette	独特の色彩|独特の色調|パレット|調色板|絵皿	wnjpn
 quark	クオーク|クォーク	wnjpn
 lymphoma	リンパ腫	wnjpn
 flee	逃げる	booqs
-ordinate	"【名】縦座標	booqs
+ordinate	【名】縦座標,縦軸	booqs
 amortization	【名】償却	booqs
 sy	Saw. Chaucer.	websters
 bleach	漂白剤|漂白|脱色	wnjpn
 sect	宗門|末派|教派|一宗|分派|宗派|一派|支派	wnjpn
-discard	"【動|他】を処分する	booqs
+discard	【動|他】を処分する,廃棄する,捨てる【名|C】捨て札【U】処分,放棄.	booqs
 foundry	ファウンダリー	wnjpn
 credible	信頼できる	booqs
 sportswear	スポーツウエア	wnjpn
@@ -7257,14 +7257,14 @@ binding	束縛	wnjpn
 artisan	細工師|クラフトマン|技工|名工|工人|匠|アーチザン|職人|工匠|匠人	wnjpn
 freeway	高速道路|高速自動車道路|フリーウェー|高速|弾丸道路|エクスプレスウエー|スーパーハイウェー	wnjpn
 latch	繋き金|掛け金|ラッチ	wnjpn
-carton	"【名|C】カートン	booqs
+carton	【名|C】カートン,段ボールの箱|カートン1杯《のA》《of A》	booqs
 fema	アメリカ合衆国連邦緊急事態管理庁	wnjpn
 craftsman	俳優|職人|クラフトマン|名工|職人|細工師|クラフトマン|技工|名工|工人|匠|アーチザン|職人|工匠|匠人	wnjpn
 instruct	指示を与える|命じる|教える	booqs
 neurology	神経学	wnjpn
 resign	辞任する	booqs
 commodore	准将	wnjpn
-classify	"【動|他】を分類する	booqs
+classify	【動|他】を分類する,類別する|を等級に分ける|を機密扱いにする	booqs
 fragile	脆い|壊れやすい|脆弱な|虚弱な	booqs
 boycott	ボイコット	booqs
 gypsy	ジプシー|ジプシー	wnjpn
@@ -7276,7 +7276,7 @@ graft	黄白|汚職|贈収賄|贈賄|収賄|汚濁|移植|接ぐ|挿す	wnjpn
 rotor	ロータ|ローター|回転子	wnjpn
 bluegrass	ブルーグラス|ブルーグラス	wnjpn
 pinch	ピンチ|窮地|少量|小量|１つまみ|一撮|微塵|一つまみ|一撮み|一摘み|一点|微量|変事|急場|変局|ピンチ|緊急事態|急変|緊急|エマージェンシー|非常|緊急時|逮捕|抓む|抓る|摘まむ	wnjpn
-accumulate	"【動|他】を蓄積する	booqs
+accumulate	【動|他】を蓄積する,ためる【自】蓄積する,たまる	booqs
 sleek	滑っこい	wnjpn
 reissue	別刷|リプリント|重版|翻印|再版|翻刻|重刻|重刷|増し刷り|再刊|刷り直す|復刻|リプリント|重版|翻印|再版|覆刻|翻刻|重刻|重刷	wnjpn
 bravo	凶手|刺客|兇手|殺し屋|暗殺者|アサシン|ブラボー	wnjpn
@@ -7309,9 +7309,10 @@ rainforest	雨林|熱帯雨林	wnjpn
 driveway	私有車道|ドライブウエー|私道	wnjpn
 envision	思い描く|想描く|想い描く|イメージ|想見|思いえがく|想像|思描く|想い浮かべる	wnjpn
 deem	みなす	booqs
+os	骨	wnjpn
 excavation	採掘|掘鑿|穴掘り|掘削|発掘|穴掘|発掘作業	wnjpn
 emblem	象徴|エンブレム|表号|旗幟|表象	wnjpn
-routinely	"【副】日常的に	booqs
+routinely	【副】日常的に,いつものように|規定通りに	booqs
 managerial	経営者の	booqs
 kappa	カッパ(ギリシア語アルファベットの第10字Κ|κ;英語の『K|k』に相当)	ejdict
 ontology	オントロジー|存在論	wnjpn
@@ -7356,7 +7357,7 @@ epilepsy	癲癇	wnjpn
 longhorn	ロングホーン	wnjpn
 pharma	ファルマ|薬品会社	wnjpn
 quarry	かっこうの的|標的|的|えじき|食い物|狙|餌食|好餌|獲物|いいカモ|採石場|被食者|仕留められた獲物|餌食|獲物|切り出す|採石	wnjpn
-stochastic	"【形】確率的な	booqs
+stochastic	【形】確率的な,確率論的な|推測の,推計学的な	booqs
 magistrate	(行政・司法を兼ねる)『行政長官』 / (下級裁判所における限定された権限の)治安判事	ejdict
 shrine	大宮|神殿|御廟|聖堂|神祠|霊堂|社|御宮|霊殿|殿堂|奉安	wnjpn
 recycle	再利用する	booqs
@@ -7390,10 +7391,10 @@ marrow	骨髄	booqs
 lengthy	長い	booqs
 rinse	リンス|すすぎ|リンス|漱ぐ|雪ぐ|濯ぐ|水洗|リンス|洗滌|洗う|ゆすぐ|洗浄|洗濯|雪ぐ	wnjpn
 redefine	再定義する	wnjpn
-unhappy	"【形】悲しい	booqs
+unhappy	【形】悲しい,気の滅入る|不幸な,不運な,みじめな|適切でない,まずい	booqs
 seether	A pot for boiling things|a boiler.Like burnished gold the little seether shone. Dryden.	websters
 micron	ミクロン	wnjpn
-impress	"【動|他】《…で》…を感銘させる	booqs
+impress	【動|他】《…で》…を感銘させる,に印象づける《with》|を銘記させる|《…に》をつける,刻み込む《on》|（印などを）…につける《with》【名|U|C】押印,刻印|影響,こん跡	booqs
 tally	打点|調和|マッチ|合う|相応う|フィット|対応|一致|得点|通算|合計|総計|累算|集計|通計|累計|合算|トータル	wnjpn
 grim	厳しい|残酷な|不快な	booqs
 mandarin	マンダリン|マンダリン|マンダリン|マンダリン|蜜柑|マンダリン|マンダリンオレンジ|北京語	wnjpn
@@ -7405,7 +7406,7 @@ reversal	逆転	booqs
 subpart	サブパート|下位区分	wnjpn
 transformer	変圧器|変流器	wnjpn
 preclude	押しとどめる|防ぐ|差止める|押止める|押さえる|阻碍|押える|禁じる|防遏|封じる	wnjpn
-fierce	"激しい|荒れ狂う	booqs
+fierce	激しい|荒れ狂う,激高した|凶暴な|ひどい|すばらしい	booqs
 envy	羨望|うらやましさ|羨慕|羨ましさ|物羨み|物羨|嫉む|羨望|うらやましがる|妬む|妬く|嫉視|やっかむ|艶羨|嫉妬|羨ましがる	wnjpn
 sis	姉妹	wnjpn
 magnum	マグナム	wnjpn
@@ -7413,7 +7414,7 @@ seize	つかむ	booqs
 osteoporosis	abnormal loss of bony tissue resulting in fragile porous bones attributable to a lack of calcium; most common in postmenopausal women|abnormal loss of bony tissue resulting in fragile porous bones attributable to a lack of calcium|most common in postmenopausal women	wneng
 antarctic	南極帯	wnjpn
 pup	ウェルプ|イヌ科動物の子供	wnjpn
-successive	"【形】連続した	booqs
+successive	【形】連続した,継続的な	booqs
 illumination	〈U〉照明 / 〈U〉照度 / 〈C〉《複数形で》《おもに英》電飾|イルミネーション / 〈C〉《複数形で》(写本などの)彩飾 / 〈U〉解明|啓示	ejdict
 ow	(突然の激痛を表して)ウウッ	ejdict
 deliberate	意図的	booqs
@@ -7467,15 +7468,15 @@ bipolar	(地球の北極と南極のように)二極がある / 両極の(にあ
 communicator	コミュニケーター	wnjpn
 susceptible	影響を受けやすい	booqs
 preacher	伝道師|説教者|説教師|伝道者	wnjpn
-outrage	"【名|C|U】《…に対する》暴行	booqs
+outrage	【名|C|U】《…に対する》暴行,乱暴（残虐）な行為《against|on|upon ...》【名|U】激怒 【動|他】を激怒させる|に乱暴を働く,を踏みにじる	booqs
 amethyst	アメジスト	wnjpn
 lush	ヘビードリンカー|蓊々たる|鬱葱たる|蓊鬱たる|鬱蒼たる|房房|うっそうたる|蓊蓊たる|房々|蓊欝たる	wnjpn
-undoubtedly	"【副】疑いなく	booqs
+undoubtedly	【副】疑いなく,確かに	booqs
 menopause	更年期|閉経|更生期|閉経期	wnjpn
 inbound	内向き|インバウンド	wnjpn
 plaster	白土|漆喰|しっくい|漆食|プラスター|塗る	wnjpn
 eclectic	取捨選択して作られた|折衷(せっちゅう)の / (学問・芸術上の)折衷主義者	ejdict
-reluctant	"【形】いやいやながらの	booqs
+reluctant	【形】いやいやながらの,しぶしぶの,乗り気のしない|〖be ~ to do〗…したがらない,いやいや…している	booqs
 headphone	ヘッドホン	booqs
 graphite	黒鉛|グラファイト|石墨	wnjpn
 flourish	活躍する|栄える|はびこる|見せびらかす|振り回す	booqs
@@ -7503,7 +7504,7 @@ predictable	予測可能な	booqs
 personalize	に名を入れる|個々にあったものにする|個人の問題に引き付けて扱う|擬人化する	booqs
 sulfur	イオウ|硫黄|Ｓ|サルファ|S	wnjpn
 spruce	エゾマツ|エゾマツ|洒落	wnjpn
-volatility	"【名|U】揮発性|移り気	booqs
+volatility	【名|U】揮発性|移り気,気まぐれ	booqs
 diocese	司教区	wnjpn
 ritz	リッツ|リッツ	wnjpn
 deception	欺騙|ぺてん|瞞着|誤魔化し|ごまかし|胡魔化|虚偽|欺瞞|誤魔化|詐欺|欺騙|虚偽|欺瞞|詐欺|イリュージョン|奇術|幻術|手品|イルージョン|魔術|トリック|マジック	wnjpn
@@ -7552,7 +7553,7 @@ clover	クローバー	wnjpn
 stakeholder	利害関係者	booqs
 sincere	真正直|篤実|篤厚|実体|摯実|正直|実らしい|実直|誠実	wnjpn
 crusade	組織的運動|ムーヴメント|キャンペーン|社会的運動|カンパ|運動|ムーブメント|闘う|争闘|戦う|頑ばる|闘争|頑張る|運動	wnjpn
-reinforcement	"【名|U】増強	booqs
+reinforcement	【名|U】増強,補強【C】補強材|《複数形で》援軍,増援隊	booqs
 blush	赤らめる|染める|ぽっとする|赤む|火照る|熱る|赤らびる|赤面|紅潮|赤らむ	wnjpn
 prelude	《通例単数形で》(事件などの)前兆|前触れ《+『to』+『名』》 / プレリュード|前奏曲|序曲 / …‘の'前触れとなる;…‘の'前置きにする / …‘の'前奏曲を奏する / (…の)前触れ(前兆)となる《+『to』+『名』》 / 序曲を奏する	ejdict
 canine	犬歯|イヌ科動物	wnjpn
@@ -7575,7 +7576,7 @@ sucker	阿呆垂れ|阿呆者|好い鴨|阿房者|与太郎|好い鳥|馬鹿垂|
 laborer	人夫|肉体労働者|土工|土方|労務者|工夫|役夫|人足	wnjpn
 holster	ホルスター	wnjpn
 rubbish	塵あくた|ぼろ|瓦落多|廃物|ぼろ切れ|襤褸切|襤褸|屑物|襤褸切れ|スクラップ	wnjpn
-analytic	"【形】分析的な	booqs
+analytic	【形】分析的な,分解的な,解析的	booqs
 risky	危険な|危険を伴った	booqs
 luncheon	昼食会|午餐会|昼食|軽食	booqs
 splitter	a worker who splits fish and removes the backbone|a taxonomist who classifies organisms into many groups on the basis of relatively minor characteristics|a laborer who splits logs to build split-rail fences	wneng
@@ -7607,7 +7608,7 @@ galway	a port city in western Ireland on Galway Bay	wneng
 artillery	大砲|砲|火砲|重砲|大筒	wnjpn
 applicability	適応性|適用性	wnjpn
 disneyland	ディズニーランド	wnjpn
-upstairs	"【副】階上へ（で）|２階へ（で）【形】階上の	booqs
+upstairs	【副】階上へ（で）|２階へ（で）【形】階上の,2階の【名】階上,上の階	booqs
 cond	To con, as a ship.	websters
 utilise	役だてる|役する|働かせる|使う|使用|利する|運用|働かす|利用|用いる	wnjpn
 separator	遠心機|遠心分離機	wnjpn
@@ -7622,7 +7623,7 @@ kindness	温かさ|深切み|深切味|温か味|深切さ|親切味|暖か味|�
 hunk	塊|固り|塊|一丸|塊まり|かたまり|固まり|一朶	wnjpn
 lob	ロブ|ロブ|ロブで返す|ロビングする|ロブ|ロブで上げる	wnjpn
 nasal	鼻音|鼻骨	wnjpn
-inevitably	"【副】必然的に	booqs
+inevitably	【副】必然的に,避けられないで	booqs
 privatization	【名】民営化|公開会社の非公開化	booqs
 tandem	タンデム自転車	wnjpn
 glare	輝き|眩しい光|耀き|眩耀|強い輝き|ふくれっ面	wnjpn
@@ -7652,7 +7653,7 @@ upholstery	内装|内装	wnjpn
 sudoku	a number puzzle in which the numbers 1 through 9 must be placed into a grid of cells so that each row or column contains only one of each number	wneng
 viper	マムシ|毒蛇 / 意地の悪い人	ejdict
 sars	新型肺炎	wnjpn
-restrictive	"【形】限定的	booqs
+restrictive	【形】限定的,制限する	booqs
 infusion	抽出エキス|エッセンス|エッキス|エキス|抽出物|抽出液|エクス	wnjpn
 predictive	予言的	wnjpn
 aquaculture	養殖業	wnjpn
@@ -7745,7 +7746,7 @@ intentionally	わざと|態態|殊更|態々|態と|意図的	wnjpn
 blitz	ブリッツ|速戦即決	wnjpn
 censorship	検閲|検閲制度 / 検閲官の職	ejdict
 bloodhound	ブラッドハウンド|警察犬|ブラッドハウンド犬	wnjpn
-maneuver	"【名|C】操作;策略	booqs
+maneuver	【名|C】操作;策略,工作|作戦行動【動|他】巧みに動かす|を策略で動かす【自】巧みに進む	booqs
 fiberglass	ファイバーグラス|ファイバーガラス	wnjpn
 waive	放棄する|撤回する|無効にする|見送る	booqs
 apron	前掛|前垂れ|前垂|前掛け|エプロン	wnjpn
@@ -7802,7 +7803,7 @@ watermark	喫水線|載貨喫水線|水位線	wnjpn
 minimise	最小化|極小化	wnjpn
 callback	欠陥製品の回収	ejdict
 soften	和める|和らげる|軟化させる	wnjpn
-exert	"【動|他】用いる	booqs
+exert	【動|他】用いる,行使する,努力する,尽力する	booqs
 assassination	名誉毀損|中傷|暗殺	wnjpn
 pelican	伽藍鳥|ペリカン	wnjpn
 gorilla	大猩々|大猩猩|ゴリラ	wnjpn
@@ -7913,7 +7914,7 @@ segmentation	分解|分割	booqs
 finale	フィナーレ|フイナレ|コーダ|フィナル|終曲	wnjpn
 morse	モールス符号|モーズ	wnjpn
 mortar	榴弾砲|臼砲|曲射砲|迫撃砲	wnjpn
-dominance	"優勢	booqs
+dominance	優勢,優越|支配(力)|優性	booqs
 sorority	女子学生クラブ	wnjpn
 octave	(音程・音階の)オクターブ / (詩)8行連句(特にsonnetの最初の8行) / 8個一組	ejdict
 imitation	〈U〉(…を)『見習うこと;』(…の)『まねをすること』|模倣;(…を)模写(模造)すること《+of+名》 / 〈C〉(…の)物まね|人まね(+of+名) / 〈C〉模造品|にせ物|まがい物 / 模造の|人造の	ejdict
@@ -7923,7 +7924,7 @@ consulate	領事館	wnjpn
 obstruction	妨害|差支え|阻止|障害|邪魔|支障|妨碍|差し支え	wnjpn
 cucumber	キュウリ|キュウリ|胡瓜|黄瓜	wnjpn
 overly	余りと言えば|滅法|過剰|やたら|さんざっぱら|余りといえば|余りに|あんまり|無性に|あまり	wnjpn
-intermediary	"【形】中間の	booqs
+intermediary	【形】中間の,中継の,仲介の,媒介の 【名|C】仲裁人,仲介者	booqs
 manpower	人手|稼働人口|人|マンパワー|人員|労働力人口|労働力|有効労働力|労働人口	wnjpn
 staple	主食	booqs
 slug	鉄砲玉|弾|てっぽう弾|てっぽう玉|鉄砲だま|鉄砲弾|銃丸|銃弾|弾丸|強打|ぶん殴る|猛打	wnjpn
@@ -7983,7 +7984,7 @@ regimen	養生法	wnjpn
 wolverine	ウルバリン|健啖家	wnjpn
 episcopal	監督(主教・司教)の / 監督制度の / 《E-》監督派の	ejdict
 humane	『人道的な』|人情味のある|思いやりのある / 《まれ》(学問が)人文の|教養の	ejdict
-reorganization	"【名|U|C】再編成	booqs
+reorganization	【名|U|C】再編成,再組織|再建	booqs
 detox	デトックス|解毒	wnjpn
 unfinished	未完成|未完成	wnjpn
 casserole	キャセロール	wnjpn
@@ -8054,7 +8055,7 @@ drupal	Drupaceous.	websters
 cling	くっつき|付着|引っ付く|張り付く|貼り付く|こびりつく|引付く|しがみ付く|絡み付く|糊着|引っつく	wnjpn
 caterpillar	青虫|芋虫|毛虫	wnjpn
 persecution	迫害	wnjpn
-flaw	"【名|C】傷	booqs
+flaw	【名|C】傷,欠点,欠陥 【動|他】傷をつける,ひびを入れる	booqs
 microbial	of or involving or caused by or being microbes; "microbial warfare"|of or involving or caused by or being microbes	wneng
 cloak	マスク|恍ける|着る	wnjpn
 containment	封じ込め|封じ込め|封じ込め	wnjpn
@@ -8091,7 +8092,7 @@ tidal	潮の;潮の作用を受ける;潮の干満のある	ejdict
 despatch	公式発表|コミュニケ|公報|急送公文書|探検|エクスペディション|発信|探険|出兵|出師|出軍|発送|さし出し|差出し|出荷|積み出し|差出|積み送り|発信|荷送り|急送|積だし|送り込む|差し遣わす|送出す|さし出す|差遣|仕向ける|さし立てる|さし遣わす|向ける|送りだす	wnjpn
 vitality	生気|ヴァイタリティ|気迫|気力|バイタリティ|ヴァイタリティー|英気|生彩|生命力|活気	wnjpn
 vengeance	祟|たたり|祟り	wnjpn
-inherit	"を相続する	booqs
+inherit	を相続する,受け継ぐ|のあとを継ぐ|を引き継ぐ	booqs
 miner	鉱員|山師|坑夫|鉱山労働者|鉱夫	wnjpn
 inorganic	無機的	wnjpn
 insomnia	不眠症|不眠	wnjpn
@@ -8120,7 +8121,7 @@ gong	ゴング|タムタム|チャイム|ベル|ゴング|鐘	wnjpn
 locomotive	機関車|歩行運動	wnjpn
 axiom	公理	booqs
 signage	ポップ	wnjpn
-excursion	"【名|C】（特定の目的をもった団体の）小旅行	booqs
+excursion	【名|C】（特定の目的をもった団体の）小旅行,遠足|（特別割引料金の）周遊旅行|出かけること|挑戦,試み	booqs
 inverness	インバネス(とりはずしのできる長いケープのついた外とう)	ejdict
 junkie	麻薬患者|ジャンキー|中毒者|ナット	wnjpn
 stabilize	安定させる	booqs
@@ -8131,7 +8132,7 @@ xiii	１３|十三|13個の|13人の|13の|十三の	wnjpn
 revolt	逆乱|謀反|造反|謀叛|乱逆|御謀叛|反逆|ご謀叛|反乱|叛乱|反乱|吐き気を催させる|胸を悪くさせる|悽惨	wnjpn
 mainframe	汎用コンピューター|汎用型コンピューター|メインフレーム|汎用コンピュータ|汎用型コンピュータ|プロセッサ|中央演算処理装置|プロセッサー|中央処理装置|CPU	wnjpn
 guesthouse	ゲストハウス	wnjpn
-antitrust	"【形】トラスト反対の	booqs
+antitrust	【形】トラスト反対の,独占禁止の	booqs
 contradict	否定する|矛盾する	booqs
 inject	注入する	booqs
 addendum	後がき|跋|後書き|後序|後書|跋語|後記|跋文|あと書き	wnjpn
@@ -8167,7 +8168,7 @@ tek	A Siberian ibex.	websters
 isotope	同位体	wnjpn
 sham	テンプラ|天麩羅|如何様|偽造品|紛い|いかさま|偽作|インチキ|偽物|如何様物|決込む|決め込む|装う|極め込む|偽る	wnjpn
 bangle	ブレスレット|腕輪|安ピカ物	wnjpn
-widen	"【動|他】を広くする|（目）を見開く【動|自】《...まで》広くなる	booqs
+widen	【動|他】を広くする|（目）を見開く【動|自】《...まで》広くなる,広がる《to》|《...などで》（目が）見開かれる《in,with》	booqs
 apocalypse	黙示録	wnjpn
 dermatology	皮膚科学|皮フ科|皮膚科|ヒフ科|皮ふ科	wnjpn
 jubilee	(特に25年または50年の)記念祭 / (一般に)祝祭|祝賀の時期	ejdict
@@ -8184,7 +8185,7 @@ archbishop	大司教|大主教	wnjpn
 fife	歌笛|横笛	wnjpn
 climax	絶頂|頂上|真盛|最高潮|山場|ピーク|高潮|真っ盛り|盛時|山|最高潮|山場|佳境|クライマックス|ヤマ|見せ場|佳局|絶頂になる	wnjpn
 breadth	考えの幅|知識の広範さ|視野の広さ|横幅|幅|幅員	wnjpn
-predictor	"【名|C】予測者|予測因子|予言するもの	booqs
+predictor	【名|C】予測者|予測因子|予言するもの,徴候を示すもの	booqs
 liquidity	流動性	booqs
 foliage	樹葉|葉っぱ|木の葉|葉|木ノ葉	wnjpn
 orthopaedic	of or relating to orthopedics; "orthopedic shoes"|of or relating to orthopedics	wneng
@@ -8255,7 +8256,7 @@ modifier	限定詞|修飾子|修飾語	wnjpn
 biologist	生物学者	booqs
 psychotherapy	精神療法|心理療法|精神治療学|サイコセラピー|精神衛生学|精神衛生	wnjpn
 sniff	匂いを嗅ぐ	booqs
-polite	"【形】礼儀正しい	booqs
+polite	【形】礼儀正しい,ていねいな|先練された,教養のある,上品な	booqs
 sith	Since|afterwards|seeing that. [Obs.]We need not fear them, sith Christ is with us. Latimer.Sith thou art rightful judge. Chaucer.	websters
 moist	湿っぽい|湿った|湿潤|しめっぽい|湿気のある	wnjpn
 asynchronous	(digital communication) pertaining to a transmission technique that does not require a common clock between the communicating devices; timing signals are derived from special characters in the data stream itself|pertaining to a transmission technique that does not require a common clock between the communicating devices|timing signals are derived from special characters in the data stream itself|not synchronous; not occurring or existing at the same time or having the same period or phase|not synchronous|not occurring or existing at the same time or having the same period or phase	wneng
@@ -8285,7 +8286,7 @@ confession	自白|白状|告白|自供	wnjpn
 stallion	種馬	wnjpn
 communism	共産主義	booqs
 splinter	砕片|木片|分離	wnjpn
-veto	"【名】拒否権|拒否権の行使|拒否|禁止【動|他】を拒否する	booqs
+veto	【名】拒否権|拒否権の行使|拒否|禁止【動|他】を拒否する,否認する	booqs
 wig	かつら	wnjpn
 pebble	玉石	wnjpn
 estimator	計算する人	wnjpn
@@ -8333,7 +8334,7 @@ pollen	花粉	wnjpn
 unconscious	無意識|無意識|前後不覚|不覚	wnjpn
 acronym	略語|頭字語	wnjpn
 householder	住宅所有者|家持|家もち|家持ち	wnjpn
-faulty	"【形】欠陥のある	booqs
+faulty	【形】欠陥のある,不完全な	booqs
 leakage	漏出|流出|漏れ	wnjpn
 breathtaking	すさまじい	wnjpn
 infamous	悪名高い	wnjpn
@@ -8355,7 +8356,7 @@ freshly	つい最近|ほやほや|新しく	wnjpn
 cafeteria	カフェテリア|学食|社員食堂	booqs
 arterial	動脈性	wnjpn
 toxicology	毒物学	wnjpn
-tidy	"【形】整然とした	booqs
+tidy	【形】整然とした,きれい好きな 【動|自|他】整頓する	booqs
 bison	バイソン|アメリカヤギュウ	wnjpn
 lax	緩い|底ぬけ|不精|底抜け|粗略|だらしない|放漫|疎略|底抜|だらし無い	wnjpn
 mobilize	呼出す|呼び寄せる|呼びよせる|狩り集める|駆り集める|動員|駆集める|狩集める|呼び付ける|招きよせる	wnjpn
@@ -8406,9 +8407,9 @@ abound	富む	wnjpn
 spectacle	眺望|壮観|情景|眺|光景|場景	wnjpn
 putin	プーチン	wnjpn
 jig	ジグ|ジッグ|ジグ|分粒	wnjpn
-provoke	"〈人の反応など〉を引き起こす	booqs
+provoke	〈人の反応など〉を引き起こす, 誘発する|怒らせる, 挑発する|駆り立てる	booqs
 duet	二人組|ペヤ|ペア|対|ペアー|二重奏|デュエット|デュオ|カップル|二人組|ドゥオ|アベック|番い|一対|デュオ|ペヤ|アヴェック|ペア|二重奏|デュエット|デュオ|デュエット	wnjpn
-confrontation	"【名|U】≪…との≫対決	booqs
+confrontation	【名|U】≪…との≫対決,対面,直面≪with≫	booqs
 runaway	楽勝|急騰する|手に負えない	wnjpn
 pathfinder	案内者|スカウト	wnjpn
 fudge	曲筆|細工|佯る|偽造|捏ち上げる|改竄|操作|歪める|枉げる|逃げる|回避|逃れる|遁げる|逃がれる|避ける	wnjpn
@@ -8462,7 +8463,7 @@ unrestricted	無制限	wnjpn
 happening	出来事|でき事	wnjpn
 socialism	ソシアリズム|社会主義|ソーシャリズム	wnjpn
 anarchy	無法|無政府状態|乱世|無政府|無法状態|無警察	wnjpn
-ineffective	"効果のない	booqs
+ineffective	効果のない,無益な|役に立たない	booqs
 covert	暗暗裏|掩護|被せ|カヴァー|上覆|包み隠し|蔽|掩蔽|屏障|目かくし|包隠	wnjpn
 bog	泥沼|泥炭地|沼地|湿地|停頓	wnjpn
 outpost	前哨地|分営	wnjpn
@@ -8487,8 +8488,8 @@ pneumonia	肺炎	wnjpn
 drunken	酒に酔った / 酒の上での|酔ったあげくの	ejdict
 spoiler	略奪者|強奪者	wnjpn
 slit	割目|細長い切口|破れ目|透き間|隙間|スリット|細長い孔|破間|寸隙|破れ間|掻き切る|掻ききる|掻切る|かき切る	wnjpn
-distraction	"【名|U】気を散らすこと|狂気【C】気を散らすもの	booqs
-rein	"【名|C】手綱|制御手段|制御	booqs
+distraction	【名|U】気を散らすこと|狂気【C】気を散らすもの,気晴らし	booqs
+rein	【名|C】手綱|制御手段|制御,統率【動|他】を御する|を抑制する	booqs
 baroque	バロック|バロック	wnjpn
 madam	レディー|レディ|奥様|御家様|レイディー|ジェントルウーマン|貴女|御内儀|貴婦人|お嬢様	wnjpn
 entropy	エントロピー|情報	wnjpn
@@ -8528,7 +8529,7 @@ sinus	瘻孔|洞|静脈洞	wnjpn
 injunction	命令|禁止命令	wnjpn
 hush	静かさ|静寂|しじま|静けさ	wnjpn
 unicef	an agency of the United Nations responsible for programs to aid education and the health of children and mothers in developing countries	wneng
-devise	"【動|他】を工夫する	booqs
+devise	【動|他】を工夫する,を考案する|を遺贈する【動|自】計画の立案をする,考案する; 工夫する【名|U】遺贈【名|C】遺贈文言	booqs
 ammonia	アンモニア水|アンモニア|水酸化アンモニウム|アンモニア	wnjpn
 licensure	A licensing. [R.]	websters
 bpm		wnjpn
@@ -8566,7 +8567,7 @@ wreath	花冠|レイ|花輪|花環|花の冠	wnjpn
 mystical	秘法の|秘儀の / 神秘的な|不可解な	ejdict
 smoky	煙たい	wnjpn
 recurrence	再来	wnjpn
-drawback	"【名|C】不利	booqs
+drawback	【名|C】不利,欠点,短所|障害,妨げ【名|U|C】払い戻し金	booqs
 visionary	空想家|夢想家	wnjpn
 warden	(防火・猟区などの)管理人 / 《米》刑務所長 / 《英》学長	ejdict
 authenticate	〈物〉'を'確か〈本物〉であると証明する	ejdict
@@ -8576,7 +8577,7 @@ longevity	永年勤続|年功	wnjpn
 lux	ルクス	wnjpn
 sterile	繁殖不能|生殖不能	wnjpn
 chatroom	チャットルーム	wnjpn
-importer	"【名|C】輸入者	booqs
+importer	【名|C】輸入者,輸入業者,輸入国	booqs
 botany	フロラ|フローラ|植生|植物相|植物学	wnjpn
 vocalist	ボーカリスト|歌い手|歌手|シンガー|ヴォーカリスト|歌うたい|歌歌い|声楽家	wnjpn
 venom	毒|毒液|賊心|犯意|遺恨|害意|意地悪|物恨|悪念|怨念|意趣遺恨|意地悪さ	wnjpn
@@ -8605,7 +8606,7 @@ herring	ニシン|鰊|鯡	wnjpn
 firearm	拳銃|短銃|小銃|ピストル	wnjpn
 quorum	定足数	wnjpn
 quaker	フレンド会の会員|クエーカー教徒|フレンド派の人	wnjpn
-expectancy	"【名|U】予期（期待）すること	booqs
+expectancy	【名|U】予期（期待）すること,見込み【名|C】予期されること,期待されるもの	booqs
 coffin	霊柩|棺箱|辛櫃|坐棺|柩|座棺|棺桶|棺|寝棺|龕	wnjpn
 plow	すき|すきで耕す|投資する	booqs
 participatory	affording the opportunity for individual participation; "participatory democracy"|affording the opportunity for individual participation	wneng
@@ -8795,7 +8796,7 @@ unforgettable	忘れがたい|忘れ難い	wnjpn
 elemental	『自然の力による』|自然の / (感情などが)自然の|抑制されない / 『基本的成分の』|要素の / 《古》四大(element)の	ejdict
 scalability	スケーラビリティ	wnjpn
 creatine	クレアチン	wnjpn
-genuinely	"【副】純粋に	booqs
+genuinely	【副】純粋に,心から,誠実に|本当に,実に	booqs
 subcontract	外註|外注	wnjpn
 songbook	歌集|賛美歌集	ejdict
 slant	傾斜|勾配|傾|傾き|傾斜度|斜めになる|歪む	wnjpn
@@ -8823,12 +8824,12 @@ bunk	倒す|出奔|逃げ走る|脱出|逃げ出す|免れる|脱出る|遁げ�
 dusk	逢魔が時|暮れ|日の暮れ|日の暮|昏黄|夕やみ|たそがれ|入り方|片夕暮れ|夕まぐれ	wnjpn
 customary	慣例的|慣習の|慣例的|習慣性|習慣的	wnjpn
 vertically	垂直的	wnjpn
-cautious	"注意深い	booqs
+cautious	注意深い,用心深い|慎重な	booqs
 malt	モルト|麦芽|萌やす|萌やす|萌やす|萌やす	wnjpn
-spokesperson	"【名|C】代弁者	booqs
+spokesperson	【名|C】代弁者,代表者,スポークスマン	booqs
 jive	スイング|ジャイブ|ジャイブ	wnjpn
 inhalation	野望|希望|願望|憧れ|覇気|志願|吸入|冀望|向上心|憧憬	wnjpn
-counterpart	"【名|C】対応する物（人）|よく似た物（人）|副本	booqs
+counterpart	【名|C】対応する物（人）|よく似た物（人）|副本,写し 	booqs
 extender	One who, or that which, extends or stretches anything.	websters
 downtime	ダウンタイム	wnjpn
 secretly	こっそり|そっと|心密かに|忍に|ひっそり|暗々のうちに|闇闇のうちに|秘かに|忍びに|内内	wnjpn
@@ -8866,7 +8867,7 @@ ulster	アルスター	wnjpn
 yogurt	発酵乳|ヨーグルト	wnjpn
 tanker	タンカー|給油船|給油艦|油送船|油槽船	wnjpn
 salesman	男性店員|男性販売員|男性外交官|営業マン	booqs
-equate	"【動|他】が等しいと見なす	booqs
+equate	【動|他】が等しいと見なす,を等しく扱う|を等しくする|を等式化する【動|自】等しい|一致する	booqs
 brownie	ブラウニー|小悪魔|ホブ|インプ|グレムリン|ピクシー|エルフ|小妖精|子鬼|ブラウニー	wnjpn
 destroyer	駆逐艦|誘導ミサイル駆逐艦	wnjpn
 chit	お愛想|あいそ|勘定|勘定書|計算書|愛想|勘定書き|伝票|御愛想	wnjpn
@@ -8888,7 +8889,7 @@ bonsai	盆栽	wnjpn
 spf		wnjpn
 croydon	A kind of carriage like a gig, orig. of wicker-work.	websters
 convection	対流	wnjpn
-outright	"【形】完全な	booqs
+outright	【形】完全な, 徹底した|はっきりした,あからさまな,直接的な|【副】ずばりと|完全に, 完璧に|即座に	booqs
 paragon	極致|典型	wnjpn
 derivation	導出|派生|由来|導出	wnjpn
 feminism	フェミニズム|フェミニズム|女性解放運動	wnjpn
@@ -8906,10 +8907,10 @@ unpack	取り出す|取出す	wnjpn
 persuasion	勧説|説得|説諭|切言|主観|存意|考え|意見|所感|主張|所論|所見|見解|確信	wnjpn
 kiln	(れんが・陶器などを焼く)かま|炉	ejdict
 novelist	作家|ノベリスト|小説家	wnjpn
-arguably	"【副】まず間違いなく	booqs
+arguably	【副】まず間違いなく,十分論証できることだが|議論の余地はあるかもしれないが	booqs
 keepsake	忘れ形見|忘がたみ|形見|忘形見|忘れがたみ	wnjpn
 steamer	オオノガイ|蒸気船|汽艇|蒸気|蒸汽船|汽船|オオノガイ|蒸気の力で動く|蒸気の力で進む	wnjpn
-bureaucracy	"【名|U|C】官僚政治	booqs
+bureaucracy	【名|U|C】官僚政治,官僚制度|《the ~》官吏,官僚|お役所式の繁雑な手続	booqs
 truss	トラス|脱腸帯|持ち出し|束縛|結わえる|絆す|縛る|結い付ける|結び付ける|括上げる|括しあげる|引括る|搦める|締め括る|束縛	wnjpn
 grassland	牧草地|草原	wnjpn
 interviewer	面接する人	booqs
@@ -8941,7 +8942,7 @@ naive	すれてない|ナイーヴ|うぶ|純樸|淳樸|醇朴|ナイーブ|淳�
 skeptical	懐疑的な|疑い深い	booqs
 transceiver	トランシーバー	ejdict
 dependable	信頼できる|頼みになる	booqs
-prudent	"【形】（かたく）慎重な|用心深い	booqs
+prudent	【形】（かたく）慎重な|用心深い,分別のある|〖it is ～(for A) to do〗A…することは賢明である	booqs
 alchemy	相性	wnjpn
 stalk	籾糠|外殻|粗皮|外皮|茎|殻|もみがら|粗糠|もみ殻|籾殻|茎|柄|幹|ストーキング|ストーキング|闊歩する|いばった足どりで歩く	wnjpn
 submitter	someone who yields to the will of another person or force|someone who submits something (as an application for a job or a manuscript for publication etc.) for the judgment of others; "he was a prolific submitter of proposals"|someone who submits something (as an application for a job or a manuscript for publication etc.) for the judgment of others	wneng
@@ -8982,7 +8983,7 @@ annoy	いらいらさせます	booqs
 playhouse	劇場 / (中で遊べるようになった)子供の家 / おもちゃの家	ejdict
 emule	To emulate. [Obs.] "Emuled of many." Spenser.	websters
 excitation	熱血|気勢|興奮|高ぶり|亢奮|昂奮|昂ぶり|神経支配|刺戟|興奮させるもの|刺激	wnjpn
-multiplier	"【名|C】増加させる人	booqs
+multiplier	【名|C】増加させる人,増殖させる物|乗数	booqs
 overwrite	上書き	wnjpn
 scientology	サイエントロジー	wnjpn
 hoist	エレベーター|吊り上げる|舁上げる|引上げる|捲き上げる|吊し上げる|巻き揚げる|釣り上げる|舁きあげる|舁き上げる|引き上げる	wnjpn
@@ -9186,14 +9187,14 @@ lobe	葉	wnjpn
 naturalist	ナチュラリスト|自然科学者	wnjpn
 voicemail	音声メール	wnjpn
 knowingly	十分に承知の上で|殊更	wnjpn
-capitalize	"【動|他】大文字にする	booqs
+capitalize	【動|他】大文字にする,資本化する,投資する,資本価値を算出する	booqs
 horseshoe	蹄鉄|蹄鉄|馬沓|鉄蹄|ホースシュー|鉄沓	wnjpn
 transverse	横の|横断の;(線など)交わる / (幾何で)横軸の / 横断するもの(特に道路など) / (幾何で)横軸	ejdict
 layup	レイアップ	wnjpn
 meteor	婚星|夜這い星|流星|夜這星|流星物質|流れ星|流星体	wnjpn
 trampoline	トランポリン	wnjpn
 uniformly	まんべんなく|満遍なく|均一に|満遍無く|均一|万遍無く|万遍なく	wnjpn
-salesperson	"【名|C】店員	booqs
+salesperson	【名|C】店員,販売員,外交員《単数》	booqs
 piedmont	山麓帯	wnjpn
 outlying	僻遠	wnjpn
 filthy	汚らわしい|醜穢|穢らわしい|泥泥|穢わしい|汚わしい|泥々	wnjpn
@@ -9386,7 +9387,7 @@ sind	a region of southeastern Pakistan	wneng
 fha	ＦＨＡ|連邦住宅局	wnjpn
 pancreatic	膵臓の	ejdict
 receptacle	器物|器|入物|入れ物|容器	wnjpn
-fiduciary	"【形】信用上の	booqs
+fiduciary	【形】信用上の,信託に基づいた【名|C】他人の財産を委託された人,受託者,被信託者 	booqs
 digger	パワーショベル	wnjpn
 collectable	things considered to be worth collecting (not necessarily valuable or antique)|subject to or requiring payment especially as specified; "a collectible bill"; "a note payable on demand"; "a check payable to John Doe"|subject to or requiring payment especially as specified	wneng
 shortfall	不足額	booqs
@@ -9395,10 +9396,10 @@ sse		wnjpn
 bulge	隆起|突出物|盛り上がり|こぶ|突出|突出し|膨らみ|脹み|出張り|突き出し|脹れる|出ばる|出張る|ぶくぶくする|出っ張る|張り出す|出っぱる|膨れる	wnjpn
 straighten	…‘を'『まっすぐにする』《+『out』+『名|』+『名』+out》 / …‘を'『きちんとする』|整理する《+『out(up)』+『名|』+『名』+『out(up)』》 / まっすぐになる|きちんとなる《+『out(up)』》	ejdict
 imposition	課すること	wnjpn
-demise	"終了	booqs
-tactic	"【名|C】作戦|かけひき|戦術【形】配列の	booqs
+demise	終了,停止|終結|死去|不動産権の移転|譲位|譲渡する|譲る	booqs
+tactic	【名|C】作戦|かけひき|戦術【形】配列の,順序の	booqs
 handwriting	筆蹟|手|筆致|手跡|肉筆|手書き|書|筆跡|墨蹟|手蹟	wnjpn
-snowy	"雪に覆われた	booqs
+snowy	雪に覆われた, 雪の降る,雪のように白い	booqs
 contextual	文脈上の|前後関係で決まる	ejdict
 wisely	賢く	booqs
 neutrino	ニュートリノ|中性微子	wnjpn
@@ -9598,7 +9599,7 @@ metaphysical	形而上的|メタフィジカル	wnjpn
 looney	someone deranged and possibly dangerous	wneng
 insignificant	仕様もない|詰まらない|取るに足りない|ささい|些細|末梢的|微々たる|詰らない|眇たる|無意義	wnjpn
 screenwriter	映画脚本家	wnjpn
-turbulent	"【形】荒れ狂う	booqs
+turbulent	【形】荒れ狂う,混乱した|不穏な,騒がしい,動乱の	booqs
 parlor	サロン|ラウンジ|パーラー	wnjpn
 medic	軍医|医官	wnjpn
 ovary	子房|卵巣	wnjpn
@@ -9701,7 +9702,7 @@ sine	正弦	wnjpn
 vertigo	立暗み|立ち暗み|眩暈症|眩瞑|目眩|眩暈|めまい|浮動性めまい|目眩い|立ち眩み	wnjpn
 unsatisfactory	物足りない	wnjpn
 filament	ファイバー|細糸|繊維|フィラメント|花糸|フィラメント	wnjpn
-fluent	"【形】（人が）流ちょうにしゃべれる	booqs
+fluent	【形】（人が）流ちょうにしゃべれる,すらすら書くことができる|流ちょうに話された,すらすら書かれた|（言葉が）流ちょうな	booqs
 rhyme	脚韻|韻|ライム|韻文|詩句|篇什|詩歌|バース|詩	wnjpn
 coulter	すきの先の鋭い草切り刃	ejdict
 minivan	ワンボックスカー	wnjpn
@@ -9711,7 +9712,7 @@ chunky	(人・動物が)ずんぐりした / (切り取った物が)ぶ厚い	ej
 restructure	【動|自|他】再構築する	booqs
 annoyance	焦燥|むしゃくしゃ|苛立ち|煩さ|苛苛|煩わしさ|苛立たしさ|わずらわしいこと|苛だたしさ|苛立	wnjpn
 accrue	（利益・権利などが）増加する|生じる	booqs
-diversification	"【名|U|C】多様にすること|多様化	booqs
+diversification	【名|U|C】多様にすること|多様化,多角化,多角経営|多様であること	booqs
 gravy	垂れ|グレービー	wnjpn
 descend	落ちる|落ち込む|低落|下る|落る|低下|落っこちる|下がる	wnjpn
 logically	論理的に言えば|論理的	wnjpn
@@ -9793,7 +9794,7 @@ indefinitely	無期限に|何時迄も|いつ迄も|いつまでも|何時まで
 kindred	一門|親族|キンドレッド|血縁集団|族親|一族|クラン|親族グループ|眷族|眷属|近い|類同	wnjpn
 wildly	むやみやたらに	wnjpn
 epithelial	of or belonging to the epithelium; "epithelial layer"|of or belonging to the epithelium	wneng
-drastically	"思い切って	booqs
+drastically	思い切って, 抜本的に.	booqs
 neatly	きちんと|きりっと|こざっぱり	wnjpn
 manic	躁病(そうびょう)の|躁病にかかっている	ejdict
 telegram	電文|電報	wnjpn
@@ -9951,7 +9952,7 @@ simplification	簡略化|短縮|切り詰め|減少|減反|縮小|値下げ|減�
 sherlock	探偵|私立探偵	wnjpn
 punitive	処罰(刑罰)のための|懲罰的な	ejdict
 handyman	便利屋|何でも屋|よろず屋	wnjpn
-outsource	"【動|他】を外部発注する	booqs
+outsource	【動|他】を外部発注する,委託する【動|自】外部発注する,委託する	booqs
 clipper	クリッパー|クリッパー|クリッパー	wnjpn
 remittance	送金	wnjpn
 priceless	尊い|貴い	wnjpn
@@ -10022,7 +10023,7 @@ cambodian	a native or inhabitant of Cambodia|of or relating to or characteristic
 infra	下に|以下に	wnjpn
 gaap	a collection of rules and procedures and conventions that define accepted accounting practice; includes broad guidelines as well as detailed procedures|a collection of rules and procedures and conventions that define accepted accounting practice|includes broad guidelines as well as detailed procedures	wneng
 implicitly	without doubting or questioning; "I implicitly trust him"|without doubting or questioning|without ever expressing so clearly; "he implicitly assumes that you know the answer"|without ever expressing so clearly	wneng
-elevate	"【動|他】《AからBに》（人）を昇進させる《from A to B》|《Aに》...を上げる	booqs
+elevate	【動|他】《AからBに》（人）を昇進させる《from A to B》|《Aに》...を上げる,の程度を高める《to A》|を向上させる,高める	booqs
 seaman	舟手|船乗|マドロス|舟人|水夫|船手|水主|船乗り|海員|水兵	wnjpn
 coax	同軸ケーブル|取り込む|丸め込む|たらし込む|煽てる|誑かす|丸めこむ|とり込む|宥め賺す|取込む|持ち上げる	wnjpn
 zap	ザップ|蒸発|ザップ|微粒化|ザップ	wnjpn
@@ -10080,7 +10081,7 @@ divergence	発散|分岐	wnjpn
 persuasive	説得力のある	wnjpn
 cine	=cinematography	ejdict
 cog	歯車|歯|スプロケット	wnjpn
-convict	"【動|他】に有罪を宣告する|《AにBの》有罪判決を下す《A of B》|（罪・誤りなどを）...に悟らせる《of》【名|C】罪人	booqs
+convict	【動|他】に有罪を宣告する|《AにBの》有罪判決を下す《A of B》|（罪・誤りなどを）...に悟らせる《of》【名|C】罪人,囚人	booqs
 nutshell	殻	wnjpn
 dizziness	立暗み|立ち暗み|眩暈症|眩瞑|目眩|眩暈|めまい|浮動性めまい|目眩い|立ち眩み	wnjpn
 fad	ブーム|カルト	wnjpn
@@ -10128,7 +10129,7 @@ bacillus	バチルス桿菌(かんきん) / (一般に)細菌	ejdict
 spooky	ナーバス|ナーヴァス|神経質|過敏	wnjpn
 blob	輪郭のはっきりしない形|滲む	wnjpn
 zephyr	小風|軽風|微風|そよ風|薫風|軟風|光風|風伯	wnjpn
-expedite	"【動|他】の進行を早める	booqs
+expedite	【動|他】の進行を早める,促進する|手早くかたづける	booqs
 sideways	横に|横に|横に|横様	wnjpn
 octopus	タコ	wnjpn
 devious	遠回りの|曲がりくねった(winding) / すなおでない	ejdict
@@ -10216,7 +10217,7 @@ conformation	遵行|遵守|順守|即応|コンプライアンス|適応|遵奉	
 teeny	ちっぽけ|小っちゃい	wnjpn
 starship	宇宙船|恒星船	wnjpn
 werewolf	ワーウルフ	wnjpn
-electorate	"【名】(選挙区･国全体の)有権者	booqs
+electorate	【名】(選挙区･国全体の)有権者,選挙民	booqs
 paladin	烈士|闘士|義侠の士	wnjpn
 collie	コリー	wnjpn
 electrolyte	電解質|電解液	wnjpn
@@ -10246,7 +10247,7 @@ vastly	いとも|思い切り|ひとかたならず|甚|大いに|はなはだ|�
 darkroom	暗室	wnjpn
 stardust	星くず;小星団;宇宙塵(じん) / 《話》うっとりする魅力(glamour)|夢見心地	ejdict
 radiological	放射線[医]学の	ejdict
-lucrative	"利益が得られる	booqs
+lucrative	利益が得られる,もうかる	booqs
 porous	多孔性の|穴の多い / 透過性の	ejdict
 urdu	ウルドゥー語	wnjpn
 hippo	筆甫|カバ|河馬	wnjpn
@@ -10270,7 +10271,7 @@ raceway	レースウェイ|レースコース|競走場|レーストラック|�
 hatchery	養魚場	wnjpn
 supplementation	補|足前|付けたし|付たり|填補|補給|追録|たし前|添加|付加|補足	wnjpn
 radiance	輝き|きらめき / (目・顔の)輝き	ejdict
-memorize	"【動|他】を記憶する	booqs
+memorize	【動|他】を記憶する,暗記する|覚える	booqs
 verbose	冗長	wnjpn
 heir	後継者	booqs
 adventurer	冒険者|冒険家	wnjpn
@@ -10368,7 +10369,7 @@ chevron	棒縞|ストライプ|山型	wnjpn
 broadcaster	ブロードキャスター	wnjpn
 migratory	(定期的に)移動する|移住する / 転々とする|放浪性の	ejdict
 animator	動画家|漫画映画の作画家	ejdict
-unveil	"を初公開する	booqs
+unveil	を初公開する, 明らかにする|の除幕(式)を行う|ベール（覆い）を取る|正体を現す	booqs
 cheetah	チータ	wnjpn
 musculus	筋|筋肉	wnjpn
 roundabout	ロータリー交差点|円形交差点|ラウンドアバウト|ロータリ|ロータリー|回りくどい|遠回し	wnjpn
@@ -10384,7 +10385,7 @@ hobo	浮浪労働者|ルンペン(tramp)	ejdict
 psoriasis	乾癬	wnjpn
 crystalline	澄み切った|透徹した|透明	wnjpn
 famed	隠れ無い|知名|隠れない|著名|有名|名高い|高名	wnjpn
-constrain	"【動|他】強いる	booqs
+constrain	【動|他】強いる,抑制する	booqs
 respite	小康|休み|小憩|ひと休み|お休み|たんま|ポーズ|休息|少憩|中休|業間	wnjpn
 readership	《単数形で》(特定の新聞・本などの)読者[層] / 《単数形で》読者数|購売数 / (特に英国の大学の)講師の地位(職)	ejdict
 sharpen	尖らす|尖んがらす|尖らかす|尖んがらかす|研ぎ澄ます|研ぎ澄す|磨ぎ澄ます|研澄ます|磨澄ます|鋭化|焦点を合わせる	wnjpn
@@ -10447,7 +10448,7 @@ uterine	子宮の / 同母異父の	ejdict
 spree	ばか騒き|浮かれ;酒宴	ejdict
 patchwork	ごたまぜ|煮込み|寄せ集め	wnjpn
 apartheid	(特に南アフリカにおける)人種隔離政策	ejdict
-morphological	"【形】形態学的な	booqs
+morphological	【形】形態学的な,形態学の|形態上の,形態的な	booqs
 reorder	再順序付け	wnjpn
 polio	小児マヒ|急性灰白髄炎|小児麻痺|ポリオ|急性脊髄前角炎|小児まひ	wnjpn
 mitt	ハンド|御手手|手|お手て|お手手|お手々|御手々|グローヴ|グローブ|グラブ|グラヴ|ミット	wnjpn
@@ -10548,7 +10549,7 @@ insensitive	(精神的・感情的に)鈍感な|感受性の鈍い;(…に)鈍�
 greenpeace	an international organization that works for environmental conservation and the preservation of endangered species	wneng
 contaminant	汚染|汚染物質	wnjpn
 booze	焼酎|火酒|酒|スピリッツ|スピリツ|リカー|蒸留酒|ジョン・バーレーコーン|アルコール|強い酒|呑む|飲む|飲酒	wnjpn
-disastrous	"【形】災害の	booqs
+disastrous	【形】災害の,悲惨な	booqs
 slay	害す|害う|害する|弑する|叩殺す|殺す|討ち果す|危める|ばらす|討ち果たす	wnjpn
 dur	Major|in the major mode|as, C dur, that is, C major.	websters
 constipation	秘結|便秘|便秘症	wnjpn
@@ -10637,7 +10638,7 @@ retaliation	報復|御返し|復仇|お返し|復讐|会稽|仕返し|復讎|意
 sleepwear	寝巻き|ナイトウエア|寝間着|寝巻	wnjpn
 sikh	シーク|シーク	wnjpn
 lullaby	ララバイ|子守唄|子守歌|ベルスーズ|揺籃歌|子守り歌	wnjpn
-enforceable	"【形】実施できる	booqs
+enforceable	【形】実施できる,強制できる	booqs
 bouncy	弾力のある|ルンルン|元気	wnjpn
 retinal	either of two yellow to red retinal pigments formed from rhodopsin by the action of light|in or relating to the retina of the eye; "retinal cells"|in or relating to the retina of the eye	wneng
 dubious	疑しげ|覚束無い|疑わしげ|訝しい|不審|怪しげ|如何わしい|うろん|おぼつかない|覚束ない	wnjpn
@@ -10690,7 +10691,7 @@ disciple	門弟|弟子|門生|弟々子|門人|小子|門徒|門下生|徒弟|�
 adjudication	判断|裁決	wnjpn
 tortilla	トルティーヤ	wnjpn
 steakhouse	ステーキハウス	wnjpn
-contemplate	"【動|他】をよく考える	booqs
+contemplate	【動|他】をよく考える,熟考する|をじっと見つめる|を予想する【動|自】熟考する	booqs
 deviate	変質者|倒錯者|異常|逸れる	wnjpn
 calligraphy	表意文字|習字|入木|能書|書道|カリグラフィー	wnjpn
 tyrant	専制君主|独裁者|暴君|圧制者|タイラント	wnjpn
@@ -10715,7 +10716,7 @@ giraffe	ジラフ|キリン|麒麟	wnjpn
 observational	観察の|観察上の	ejdict
 angst	厭世|苦悩	wnjpn
 slowdown	速度を落とす	booqs
-deregulation	"【名|U】規制緩和	booqs
+deregulation	【名|U】規制緩和,自由化	booqs
 tranquil	静か|静やか|閑やか|穏やか|静穏|閑か	wnjpn
 carpentry	木工業|木工|番匠|ウッドクラフト|大工仕事	wnjpn
 thwart	スオート|スォート|阻む	wnjpn
@@ -10743,7 +10744,7 @@ psyche	知力|知性|頭|精神|おつむ|心|ブレイン|頭脳|ブレーン	w
 retract	…‘を'引っ込ませる / 〈宣言・約束など〉‘を'撤回する|取り消す / 引っ込む|縮む / (約束などを)取り消す《+『from』+『名』》	ejdict
 newsflash	a short news announcement concerning some on-going news story	wneng
 inhabit	住する|棲む|住む|住う|栖息|生息|占住|棲息|住まう|居住	wnjpn
-syntactic	"【形】統語論の	booqs
+syntactic	【形】統語論の,構文の	booqs
 plumber	配管工	booqs
 backdoor	裏口|裏口	wnjpn
 womb	子袋|胎|子宮|母胎|子壷	wnjpn
@@ -10761,7 +10762,7 @@ airman	飛行家	wnjpn
 adoptive	養子関係の	ejdict
 cadre	基幹人員|幹部	wnjpn
 uprising	逆乱|謀反|造反|謀叛|乱逆|御謀叛|反逆|ご謀叛|反乱|叛乱	wnjpn
-facet	"【名】一面	booqs
+facet	【名】一面,側面,様相|（宝石の）小面|【動|他】（宝石）に小面を刻む.	booqs
 planter	農園主	wnjpn
 minimally	to a minimal degree; "the cells minimally responsive to lines in this orientation will not fire"|to a minimal degree	wneng
 tendon	腱	wnjpn
@@ -10963,7 +10964,7 @@ alderman	《英》(ある区・地域を代表する)市参事会員|市助役 /
 initiator	開祖|発起人|イニシエータ	wnjpn
 guaranty	裏付|ギャラティー|保障|担保|裏付け|保証金|保証	wnjpn
 interleukin	インターロイキン	wnjpn
-insurgency	"【名|U|C】暴動	booqs
+insurgency	【名|U|C】暴動,反乱	booqs
 distal	末端の|末梢の|遠位性	wnjpn
 babysitter	ベビーシッター	wnjpn
 aptitude	筋|才能|才|手筋|タレント	wnjpn
@@ -10980,7 +10981,7 @@ khi	χ	wnjpn
 espionage	スパイ行為|スパイ活動	ejdict
 jog	ゆっくりと走る|どうにかやっていく|軽く突く	booqs
 meditate	思い見る|熟考|思巡らす|考え抜く|思い回す|熟思|思索|思見る|按ずる|三思	wnjpn
-acidic	"【形】酸味のある	booqs
+acidic	【形】酸味のある,すっぱい|酸性の	booqs
 chauffeur	運転手	wnjpn
 peppermint	ペパーミント|ストロフルス|ペパーミント|ミント|ペパーミント	wnjpn
 rumour	取りざた|取沙汰|取ざた|世評|蜚語|浮き名|取り沙汰|浮評|人言|風説	wnjpn
@@ -11115,7 +11116,7 @@ thermodynamics	熱力学	wnjpn
 uncontrolled	抑制されない|抑えられない|自由な	ejdict
 seton	シートン	wnjpn
 synaptic	(neuroscience) of or involving synapses|of or involving synapses	wneng
-hugely	"【副】大いに	booqs
+hugely	【副】大いに,とても,非常に	booqs
 phonetic	音声の;音声学の / 音声記号で表した / (言語について)発音がつづり字に一致した	ejdict
 gauntlet	(よろいの)こて / (乗馬用の)長手袋	ejdict
 lager	貯蔵ビール|(低温で数か月貯蔵したもので|日本の普通のビールもこの種類)	ejdict
@@ -11149,7 +11150,7 @@ spline	スプライン|鎧板|へぎ板	wnjpn
 unlisted	未収載|未収載	wnjpn
 philippian	a native or inhabitant of Philippi in ancient Macedonia	wneng
 conductive	(熱・電気などを伝える)伝導性の	ejdict
-renovate	"【動|他】を元どおりに新しくする	booqs
+renovate	【動|他】を元どおりに新しくする,修復する	booqs
 foresight	先見の明|知慮|遠慮|見越し|智慮|深慮遠謀	wnjpn
 flake	雪片|偏物|変人|変物|変り者|酔狂人|変わり者|変わり種|変り種|畸人|奇人|薄片|破片|削片|砕片|小片|かけら|剥片|断片|端くれ|一片	wnjpn
 cottonwood	(種子に房状の綿毛のついた)米国産ポプラ	ejdict
@@ -11192,7 +11193,7 @@ cuckoo	カッコウ	wnjpn
 rapture	心の高まり|有頂天|我を忘れること|エクスタシー|法悦|忘我|歓天喜地|恍惚	wnjpn
 emulsion	乳剤|乳濁液|写真乳剤	wnjpn
 criminology	犯罪学	wnjpn
-dissident	"【名】異議を唱える人;反体制派の人|【形】異論を持つ	booqs
+dissident	【名】異議を唱える人;反体制派の人|【形】異論を持つ, 反体制(派)の.	booqs
 dup	duplicate	ejdict
 permittee	One to whom a permission or permit is given.	websters
 lockout	ロックアウト	wnjpn
@@ -11384,7 +11385,7 @@ inflict	課す|賦する|科する|与える|加える|賦課|課する|下す	w
 glutamine	グルタミン	wnjpn
 putty	パテ	wnjpn
 drool	涎|益体もない|涎|唾する|涎	wnjpn
-revolutionize	"大変革をもたらす	booqs
+revolutionize	大変革をもたらす, 革命を起こす; 革命思想を吹き込む.	booqs
 adjourn	閉会|閉廷	wnjpn
 bumble	駄目にする|ふらふら歩く|口籠る|どもる|口篭もる|口篭る|口ごもる|吃る	wnjpn
 wannabe	an ambitious and aspiring young person; "a lofty aspirant"; "two executive hopefuls joined the firm"; "the audience was full of Madonna wannabes"|an ambitious and aspiring young person	wneng
@@ -11521,7 +11522,7 @@ musk	麝香	wnjpn
 playable	(競技場が)競技に適した / (クリケットで投球したボールが)打てる	ejdict
 midday	午の時|真昼|お昼|午|日盛り|亭午|午刻|午時|昼なか|正午	wnjpn
 innate	生まれつきの	booqs
-incline	"【動|自】心が傾く	booqs
+incline	【動|自】心が傾く,気が向く|《...する》傾向がある《to do》|《...に》傾く《to》【動|他】《...に》を傾ける|の心を向けさせる《to》【名|C】傾斜,こう配;斜面	booqs
 prominently	一入|一段|一きわ|優れて|顕著|ひときわ|一際	wnjpn
 lexis	語彙	wnjpn
 virology	ウイルス学	wnjpn
@@ -11568,7 +11569,7 @@ wearable	衣装|衣料|着類|洋服|ウエア|ウェア|衣服|被服|衣裳|�
 giver	呉れ手|寄贈者	wnjpn
 recursion	(mathematics) an expression such that each term is generated by repeating a particular mathematical operation|an expression such that each term is generated by repeating a particular mathematical operation	wneng
 lavish	惜しみ無い|振りまく|振り撒く	wnjpn
-paraphrase	"【名|C】言い換え	booqs
+paraphrase	【名|C】言い換え,意訳【動|自】言い換える【動|他】を言い換える	booqs
 azure	空色|瑠璃色	wnjpn
 ensign	少尉|旗幟|少尉|軍旗|少慰|国旗	wnjpn
 ashtray	灰皿	wnjpn
@@ -11598,7 +11599,7 @@ unset	Not set|not fixed or appointed.	websters
 glycol	エチレングリコール|ジオール|グリコール	wnjpn
 sinner	悪漢|悪党|罪人|奸|悪人	wnjpn
 ergo	それ故に|したがって	ejdict
-payback	"【名|C】元金回収期間|《投資への》払戻金|報酬	booqs
+payback	【名|C】元金回収期間|《投資への》払戻金|報酬,見返り【U】仕返し,報復	booqs
 conduction	伝導	booqs
 countess	伯夫人	wnjpn
 crafty	狡猾|老獪|ずるい|ちゃくい|怜悧狡猾|邪知深い|ずる賢い|狡辛い|邪智深い|狡悪	wnjpn
@@ -11626,7 +11627,7 @@ saucepan	ソースパン	wnjpn
 suitably	適正|然る可く|然るべく|適切|しかるべく|よしなに|適宜	wnjpn
 amphetamine	シャブ|アンフェタミン|覚醒剤	wnjpn
 recliner	リクライニングチェア|凭れ椅子	wnjpn
-enormously	"【副】非常に|ものすごく	booqs
+enormously	【副】非常に|ものすごく,途方もなく	booqs
 crockett	クロケット	wnjpn
 swish	太刀風	wnjpn
 haut	Haughty. [Obs.] "Nations proud and haut." Milton.	websters
@@ -11682,7 +11683,7 @@ disclaim	〈責任・関係など〉‘を'否認する(deny) / 〈法律上の�
 snapper	センター|センタ|スナッパー|落|落|爆竹|クラッカー|落|落|落	wnjpn
 sealer	〈C〉アザラシ猟師(猟船) / 〈U〉密封材(パテ・防水・ペンキなど)	ejdict
 sideline	アウトオブバウンズ|サイドライン|道楽|業余|ホビー|趣味|余暇活動	wnjpn
-diversify	"【動|他】を多様化する	booqs
+diversify	【動|他】を多様化する,いろいろ変化させる|を多角経営する|を分散させる【動|自】活動分野を広げる|多様化する,多角化する《in》	booqs
 horrific	凄惨|醜悪|悽惨|物すごい|凄い|すさまじい|凄まじい|非道い|おどろおどろしい|凄じい|物凄い|おっかない|怖い	wnjpn
 abacus	算盤|十露盤	wnjpn
 richly	たくさん|ふんだんに|沢山	wnjpn
@@ -11755,7 +11756,7 @@ telemetry	遠隔計測[法](テレメーターによる情報収集)	ejdict
 fodder	まぐさ	wnjpn
 consumable	消費できる|消耗しうる	ejdict
 precondition	条件|前提条件|コンディション|仮定|想定|前提条件|仮設|仮説|前提|前提条件	wnjpn
-boardroom	"【名|C】重役会議室|《The ~》 重役	booqs
+boardroom	【名|C】重役会議室|《The ~》 重役,理事|理事会	booqs
 veal	子牛	wnjpn
 delve	(…を)探究する|せんさくする《+『into』(『among』)+『名』》	ejdict
 creatively	独創的に	wnjpn
@@ -11808,7 +11809,7 @@ toothpaste	煉歯磨|練歯磨|煉歯磨き|練歯磨き|練り歯磨き|煉り�
 skit	スキット|ショートコント|寸劇	wnjpn
 posh	すばらしい|りっぱな / 高級な|豪華な	ejdict
 mastermind	発案者|発起人|穎才|俊傑|秀才|俊邁|ジーニアス|俊豪|鬼才|俊英|英才|儁才|指揮	wnjpn
-forecaster	"【名|C】予測をする人	booqs
+forecaster	【名|C】予測をする人,予測者|気象予報士	booqs
 brine	塩水|海水|塩水	wnjpn
 mano	The muller, or crushing and grinding stone, used in grindingcorn on a metate. [Mexico & Local U. S.]	websters
 insulator	誘電体|絶縁体	wnjpn
@@ -12042,7 +12043,7 @@ lifespan	畢生|一代|一生涯|生存期間|耐久年数|耐用年数|一世|�
 unconventional	奇抜|奇警|型やぶり|一風変った|一風変わった|型破り	wnjpn
 titre	力価|滴定量	wnjpn
 dor	A large European scaraboid beetle (Geotrupes stercorarius),which makes a droning noise while flying. The name is also applied toallied American species, as the June bug. Called also dorr,dorbeetle, or dorrbeetle, dorbug, dorrfly, and buzzard clock.	websters
-determinant	"【名】決定要因|行列式|【形】決定的な	booqs
+determinant	【名】決定要因|行列式|【形】決定的な, 決定力のある.	booqs
 solubility	溶解性|溶解性	wnjpn
 hangar	格納庫	wnjpn
 heartfelt	切実|敬虔	wnjpn
@@ -12248,7 +12249,7 @@ vicar	教皇代理|代理牧師|司教代理	wnjpn
 hideaway	巣窟|アジト|住み処|住みか|栖|巣|住み家|潜窟	wnjpn
 clove	丁字|クローブ|クローヴ|チョウジ|チョウジノキ|丁子|丁字|丁香|クローブ|クローヴ|チョウジ|丁子	wnjpn
 tweeter	ツイーター	wnjpn
-marketable	"【形】市場性のある	booqs
+marketable	【形】市場性のある,需要がある	booqs
 periphery	周囲|周縁|境界線の外側|表面|周辺|外周|外縁	wnjpn
 grasshopper	はたはた|バッタ|飛蝗|蝗虫	wnjpn
 presto	たちまち|すぐに|速く	wnjpn
@@ -12386,7 +12387,7 @@ sou	スー(フランスの5サンチームまたは10サンチーム銅貨) / �
 epitope	エピトープ	wnjpn
 fright	怖じけ|虞|もの恐ろしさ|怖さ|怖気|恐さ|おじ気|脅威|怖|恐れ|恐怖させる	wnjpn
 authorise	授権|認可|認許	wnjpn
-confine	"【動|他】を制限する|を閉じ込める≪to≫【名|C】境界	booqs
+confine	【動|他】を制限する|を閉じ込める≪to≫【名|C】境界,範囲,限界	booqs
 physiotherapy	物理療法	wnjpn
 libel	讒言|讒謗|中傷|中傷	wnjpn
 parka	パーカ|ウインドブレーカー|アノラック	wnjpn
@@ -12413,7 +12414,7 @@ avenger	報復者	ejdict
 sequencer	(chemistry) an apparatus that can determine the sequence of monomers in a polymer|an apparatus that can determine the sequence of monomers in a polymer|computer hardware that sorts data or programs into a predetermined sequence	wneng
 undocumented	lacking necessary documents (as for e.g. permission to live or work in a country); "undocumented aliens"; "undocumented tax deductions"|lacking necessary documents (as for e.g. permission to live or work in a country)	wneng
 pricey	高額|高い|高価	wnjpn
-gloomy	"【形】暗い	booqs
+gloomy	【形】暗い,薄暗い|気をめいらせる,陰気な|憂うつな：悲観的な	booqs
 encapsulate	…‘を'カプセルに入れる / 〈事実など〉‘を'矮(わい)小化する	ejdict
 evacuate	【動|他】を避難させる|から避難させる|を（から）撤退させる|排出する	booqs
 wordnet	ワードネット|ワードネット|プリンストン・ワードネット|英語ワードネット	wnjpn
@@ -12513,7 +12514,7 @@ absorbent	吸収剤|吸収性のある	wnjpn
 prelim	予選|予審|下検分|予備試験	wnjpn
 hiatus	中断|中止|孔	wnjpn
 enrol	入れる	wnjpn
-publicize	"【動|他】を公表する|を広告する	booqs
+publicize	【動|他】を公表する|を広告する,宣伝する	booqs
 spurious	有りもしない	wnjpn
 gloom	冥暗|暗黒|冥闇|真っ暗さ|薄暗さ|暗がり	wnjpn
 aikido	合気道	wnjpn
@@ -12580,7 +12581,7 @@ predatory	捕食性	wnjpn
 descendant	末々|後胤|苗裔|裔|余胤|子孫|葉末|末ずえ|後昆|後葉	wnjpn
 instalment	一回分|一回分|取付け|据置|据え置き|据え付け|設置|装置|取り付け	wnjpn
 dupe	掛ける|填める|喰わせる|担ぐ|喰わす|食せる|嵌める|填込む|喰せる|嵌め込む	wnjpn
-dismal	"【形】陰気な	booqs
+dismal	【形】陰気な,憂鬱な,うっとうしい|もの寂しい|惨めな【名】憂鬱	booqs
 cirrus	巻雲	wnjpn
 kilometer	キロメートル	booqs
 topple	倒れる|仆れる	wnjpn
@@ -12639,7 +12640,7 @@ horribly	恐ろしく|はなはだ|酷く|ひどく|ものすごく	wnjpn
 pry	のぞきこむ;せんさくする	ejdict
 tylenol	アセトアミノフェン	wnjpn
 gaseous	ガス状	wnjpn
-displace	"【動|他】にとって代わる|《Aから》を強制的に退去させる	booqs
+displace	【動|他】にとって代わる|《Aから》を強制的に退去させる,移動させる,やめさせる《from A》|の排水量を持つ	booqs
 tremble	身震|身振|寒気|寒け|悪寒|震え|身震い|震い|身振い|身ぶるい|びくびくする|震い戦く|身震|ぴくぴく|ガタガタ|戦慄|震わす|身振|打震わす|顫動	wnjpn
 frisbee	フリスビー	wnjpn
 zephaniah	a Hebrew minor prophet of the late 7th century BC|an Old Testament book telling the prophecies of Zephaniah which are concerned mainly with the approaching judgment by God upon the sinners of Judah	wneng
@@ -13104,7 +13105,7 @@ multiculturalism	多元文化論	wnjpn
 keats	キーツ	wnjpn
 cuddly	抱き締めたいような	ejdict
 bookworm	衒学者|本の虫	wnjpn
-detach	"【動|他】を引き離す	booqs
+detach	【動|他】を引き離す,分離する,取り外す|派遣する【動|自】離れる	booqs
 unmarked	印(傷跡)のついていない / 注目されていない / 未評価の;未修正の|未添削の	ejdict
 underside	尻|ボトム|底面|下面|下側|お尻|底	wnjpn
 joyous	喜ばしい	wnjpn
@@ -13195,7 +13196,7 @@ grumble	ゴロゴロいう音|愚痴る|怨ずる|ぼやく|零す	wnjpn
 colossus	大男|巨像|巨人|怪物|巨漢|偉人|重鎮|重要人物|巨人|大立て者|大物	wnjpn
 hyphen	ハイフン|ダッシュ|ハイフン	wnjpn
 tarp	タール塗り防水布|防水帆布|防水キャンバス	wnjpn
-paramilitary	"【形】準軍事的な	booqs
+paramilitary	【形】準軍事的な,予備軍の役目をする|非合法の軍事組織の【名|C】非合法な軍隊の兵士|軍補助的な団体のメンバー	booqs
 frivolous	浮いた|浅短|浮泛|浮薄|不まじめ|軽々しい|軽佻浮薄|安手|上っ調子|軽佻	wnjpn
 indecent	似気ない|似げない|似気無い|そぐわない	wnjpn
 dishonesty	不誠意|不正直|横着|不誠実|不義理|不誠意|横着|不誠実|不義理	wnjpn
@@ -13299,7 +13300,7 @@ prophylaxis	予防	wnjpn
 alkali	塩基|アルカリ	wnjpn
 hangout	リゾート|立て場|立場|建場|たまり場|溜場|行きつけの場所|盛り場|建て場|溜り場	wnjpn
 unstructured	非構造制約集合	wnjpn
-habitual	"【形】常習的な	booqs
+habitual	【形】常習的な,習慣的な 	booqs
 draught	ひと口|ドラフト|一口	wnjpn
 extradition	引き渡し|引渡し	wnjpn
 jerky	干し肉|乾肉|ジャーキー	wnjpn
@@ -13619,7 +13620,7 @@ android	アンドロイド|ヒューマノイド	wnjpn
 canola	菜種油|アブラナ	wnjpn
 reincarnation	生まれ変わり|生まれ変わり|再現|再来|転生|再生	wnjpn
 reproducible	複製(複写)できる / 再生(再現)できる / ふやせる / 繁殖できる	ejdict
-mislead	"【動|他】（人）を誤って道案内する|（人）を誤らせる	booqs
+mislead	【動|他】（人）を誤って道案内する|（人）を誤らせる,誤解させる	booqs
 bogota	ボゴタ	wnjpn
 housekeeper	お手伝いさん	booqs
 hysterical	ヒステリー[性]の;ヒステリー症にかかった(かかりやすい) / 病的に興奮した / 《話》爆笑を引き起こすような|非常におかしい	ejdict
@@ -14032,7 +14033,7 @@ culmination	絶頂|最高潮|最高点|クライマックス|頂点|極点	wnjpn
 lense	レンズ	wnjpn
 theoretic	理論的	wnjpn
 sleazy	けち|しみったれ|安手|安価|低級|ちゃち|けち臭い|チープ|賎しい|下劣|卑しい	wnjpn
-transcribe	"【動|他】を文字に起こす	booqs
+transcribe	【動|他】を文字に起こす,発音記号で書き表す|書き写す|翻訳する|編曲する	booqs
 seashore	シーサイド|浦|海岸地帯|コースト|海沿い|沿岸部|海辺|海沿|湾岸|海浜	wnjpn
 onstage	オンステージ	wnjpn
 pinky	子指|小指|ピンキー	wnjpn
@@ -14312,7 +14313,7 @@ fiance	婚約者|フィアンセ	wnjpn
 ventral	腹側の|向軸性	wnjpn
 commendation	感状|表彰|賞状|表彰状|可決|賛成|嘉賞|裁可|表彰|賛同|決裁|容認|裁許|称賛	wnjpn
 repeatable	able or fit to be repeated or quoted; "what he said was not repeatable in polite company"; "he comes up with so many quotable phrases"|able or fit to be repeated or quoted	wneng
-flotation	"【名|U】浮揚	booqs
+flotation	【名|U】浮揚,浮力,浮選	booqs
 manoeuvre	戦術|タクティック|戦略|作戦|タクティックス|策戦|演技|立ち廻り|立回り|プレー|立廻り|作戦|マヌーバー|機動|工作|劃策|画策|暗躍|進路を取る|暗躍	wnjpn
 falsehood	〈C〉偽りの陳述;うそ(lie) / 〈U〉虚偽 / 〈C〉誤った考え(信念)	ejdict
 cavendish	ヘンリー・キャヴェンディッシュ	wnjpn
@@ -14338,7 +14339,7 @@ schooner	スクーナー|スクーナー	wnjpn
 consummate	凄い|鮮やか|鮮か|充実した|完備した|完ぺき|コンプリート|十全|満足|円満|完璧|精到|完壁|完ぺき|完璧|完壁|完全|完全無欠	wnjpn
 criticality	a state of critical urgency|a critical state; especially the point at which a nuclear reaction is self-sustaining|a critical state|especially the point at which a nuclear reaction is self-sustaining	wneng
 remorse	後悔|悔い|悔悟|悔恨	wnjpn
-clout	"【名|C】《話》手でなぐること【名|U】《米話》政治的景響力	booqs
+clout	【名|C】《話》手でなぐること【名|U】《米話》政治的景響力,実力【動|他】 を手でなぐる	booqs
 chimera	キマイラ|キメラ|キメラ	wnjpn
 feces	排泄物|糞便|大便	wnjpn
 subvert	転ぷく|顛倒|引っくり返す|引っ繰り返す|傾覆|転覆|顛覆|覆らす|ひっくりかえす|打倒	wnjpn
@@ -15227,7 +15228,7 @@ huckleberry	ハックルベリー|ハックルベリー|ハックルベリー	wn
 reminisce	(…について)思い出話をする《+『about』(『over』)+『名』(do『ing』)》	ejdict
 girth	腹帯|周回	wnjpn
 colonic	腸内洗浄	wnjpn
-restatement	"【名|U|C】言い換え	booqs
+restatement	【名|U|C】言い換え,言い直し	booqs
 grouper	ハタ|ハタ	wnjpn
 planting	the act of fixing firmly in place; "he ordered the planting of policemen outside every doorway"|the act of fixing firmly in place	wneng
 purposeful	意義深い	wnjpn
@@ -15543,7 +15544,7 @@ fistula	瘻孔	wnjpn
 quantitatively	量的|定量的	wnjpn
 abundantly	山山|うんと|たくさん|聢り|豊富|確り|ふんだんに|沢山|大量|多く	wnjpn
 currant	スグリ|酸塊	wnjpn
-checkup	"【名|C】照合	booqs
+checkup	【名|C】照合,試験,検査|健康診断	booqs
 peepshow	ピープショー(のぞき穴を通して見せる見せ物)	ejdict
 doer	俳優|行為者	wnjpn
 divest	取り上げる|取上げる	wnjpn
@@ -17120,7 +17121,7 @@ cesarean	帝王切開	wnjpn
 gouge	刻み目|丸のみ|刳りだす|抉り出す|抉出す|抉る|刳る|刳出す|抉りだす|刳り出す|剔る	wnjpn
 adrift	当てのない|無目的|当ても無い	wnjpn
 servitude	地役権	wnjpn
-centralize	"【動|他】中心に集める	booqs
+centralize	【動|他】中心に集める,中央集権化する	booqs
 ilk	家族|同種	ejdict
 tenge	100 tenge equal 1 manat in Turkmenistan|the basic unit of money in Kazakhstan	wneng
 malformed	いびつ|歪	wnjpn
@@ -17374,7 +17375,7 @@ pica	全角|パイカ|ピカ	wnjpn
 pinscher	any of three breeds of dogs whose ears and tail are usually cropped	wneng
 quell	取鎮める|鎮定|取り鎮める|静める	wnjpn
 sportfishing	魚釣り|沖釣り|フィッシング|釣|釣魚|魚つり|釣り	wnjpn
-pollute	"【動|他】を汚染する	booqs
+pollute	【動|他】を汚染する,汚す	booqs
 equivalently	In an equal manner.	websters
 incase	梱包|包む	wnjpn
 evasive	生煮え|回避的	wnjpn
@@ -17433,7 +17434,7 @@ hypothermia	低体温	wnjpn
 playbook	脚本	wnjpn
 expeditious	速い	wnjpn
 timberline	森林限界	wnjpn
-intently	"一心に	booqs
+intently	一心に, 熱心に	booqs
 chrysalis	蛹虫|幼虫|蛹	wnjpn
 lamisil	テルビナフィン|ラミシール	wnjpn
 raincoat	レインコート	booqs
@@ -17777,7 +17778,7 @@ argonaut	葵貝	wnjpn
 avenge	報復|御返し|竹蓖返し|返礼|しっぺい返し|復仇|竹蓖返|お返し|復讐|仕返し	wnjpn
 smokeless	(石炭・炉)などが)[ほとんど]煙の出ない|無煙の	ejdict
 stanhope	a light open horse-drawn carriage with two or four wheels and one seat	wneng
-volition	"【名|U】｟かたく｠ 意志の働き	booqs
+volition	【名|U】｟かたく｠ 意志の働き,意志作用|決断,決意|決断[意志]力	booqs
 scrimmage	練習試合|乱闘|練習試合をする	wnjpn
 thorax	胸部|胸元|胸先|胸板|胸|チェスト|胸糞|胸座|胸部|胸郭|胸間|胸部	wnjpn
 placental	有胎盤類|有胎盤哺乳類	wnjpn
@@ -18220,7 +18221,7 @@ deplore	嘆じる|悲憤|悲憤慷慨|嘆ずる|歎ずる|慨嘆|歎じる|嘆�
 hydroponic	of or relating to aquiculture; "aquacultural methods"; "hydroponic lettuce"|of or relating to aquiculture	wneng
 maltreatment	虐遇|虐待	wnjpn
 formate	A salt of formic acid. [Written also formiate.]	websters
-reinvest	"【動|他】を再び投資する	booqs
+reinvest	【動|他】を再び投資する,再投資する	booqs
 malaise	不調	wnjpn
 darrow	United States lawyer famous for his defense of lost causes (1857-1938)	wneng
 tinderbox	火口箱(火打ち石など点火用の品を入れた箱)	ejdict
@@ -18279,7 +18280,7 @@ unranked	not arranged in order hierarchically	wneng
 anaemia	貧血症|貧血|貧血	wnjpn
 unaffiliated	ノンセクション	wnjpn
 blather	ばか話|たわごと / たわごとを並べたてる|むだ口をたたく / 〈くだらないこと〉'を'ぺらぺらしゃべる	ejdict
-mass	"【名|C】《…の》かたまり	booqs
+mass	【名|C】《…の》かたまり,集まり《of》|多数《の…》《of》|《the ~》大部分《の…》【名|U】一般大衆|質量【動|他】を集める【動|自】かたまりになる【形】大衆の,一般に付及した|大規模な	booqs
 violator	違法者	wnjpn
 refit	艤装|直す	wnjpn
 wobbly	がたがた	wnjpn
@@ -18433,7 +18434,7 @@ errand	遣い|使い|使い走り|お使い	wnjpn
 slimy	汚らわしい|低劣|見下げ果てた|浅ましげ|見ぐるしい|あさましい|下劣|賤しい|浅ましい|卑しい	wnjpn
 annexe	別館|アネックス|拡張部分	wnjpn
 stunningly	驚くほど|目を見張るほど|劇的に	wnjpn
-reformist	"【名】改革主義者	booqs
+reformist	【名】改革主義者,革新主義者【形】改革主義者の,革新主義者の	booqs
 deliberative	審議の|討議の	ejdict
 crossbar	横木	wnjpn
 cicada	セミ|虚蝉|蝉|空蝉	wnjpn
@@ -20607,7 +20608,7 @@ desegregation	インテグレーション	wnjpn
 megahertz	メガサイクル|メガヘルツ	wnjpn
 goodly	可也|可成|大きい	wnjpn
 philosophically	賢明に|達観して|冷静に	wnjpn
-protester	"【名|C】異議申し立て人	booqs
+protester	【名|C】異議申し立て人,坑議する人|主張（断言）する人	booqs
 gestapo	ゲシュタポ	wnjpn
 bouillon	ブイヨン	wnjpn
 canasta	カナスタ	wnjpn
@@ -22564,7 +22565,7 @@ playmaker	a player in a team sport who leads attacks or maneuvers in such a way 
 backless	バックレス	wnjpn
 stunner	ビューティ|契情|辨天|ビューティー|佳人|小町|弁天|美形|別嬪|シャン	wnjpn
 inguinal	鼠蹊(そけい)部の(足のもものつけ根)	ejdict
-clothing	"【名|U】衣類	booqs
+clothing	【名|U】衣類,衣服,覆い	booqs
 fullerene	フラーレン	wnjpn
 soleus	ヒラメ筋	wnjpn
 layperson	門外漢|信徒|平信徒|俗人|レイマン	wnjpn
@@ -23231,7 +23232,7 @@ predilection	好み|片より|偏り|偏向|お好|偏好|片寄り|嗜好|御�
 demille	セシル・b・デミル	wnjpn
 uncooperative	非協力的|非協同的	wnjpn
 stiffen	硬変|固くなる|硬化|強直|硬直|強ばる	wnjpn
-devastate	"【動|他】荒廃させる	booqs
+devastate	【動|他】荒廃させる,荒らす|混乱させる	booqs
 adroit	器用	wnjpn
 perfuse	force a fluid through (a body part or tissue); "perfuse a liver with a salt solution"|force a fluid through (a body part or tissue) |cause to spread or flush or flood through, over, or across; "The sky was suffused with a warm pink color"|cause to spread or flush or flood through, over, or across	wneng
 oxygenase	酸素添加酵素	wnjpn
@@ -24165,7 +24166,7 @@ diabolo	An old game or sport (revived under this name) consisting inwhirling on 
 vastness	極大|著大|絶大さ|巨大|茫漠さ|夥しさ|巨大さ|おびただしさ|マクロ|無量	wnjpn
 amniocentesis	羊水穿刺	wnjpn
 burdock	ゴボウ|牛蒡	wnjpn
-externality	"【名|U】外面性|外部性【C】外形	booqs
+externality	【名|U】外面性|外部性【C】外形,外観|外部への影響	booqs
 sabot	サボ|下駄|サボ	wnjpn
 coit	A quoit. [Obs.] Carew.	websters
 precipitous	拙速|突然	wnjpn
@@ -24576,7 +24577,7 @@ scram	消え失せる|スクラム	wnjpn
 novum	A game at dice, properly called novem quinque (L., nine five),the two principal throws being nine and five. [Obs.] Shak.	websters
 immeasurably	予想外	wnjpn
 urologist	a specialist in urology	wneng
-oxidize	"【動|他】を酸化させる	booqs
+oxidize	【動|他】を酸化させる,さびつかせる【自】酸化する, さびる.	booqs
 pigeonhole	型に嵌める	wnjpn
 fiendish	兇悪|非道|凶悪	wnjpn
 hasp	掛けがね|南京錠	wnjpn
@@ -25867,7 +25868,7 @@ mesic	of or pertaining to a meson; "the radii of the mesic orbits"- Lawrence Wil
 spoor	跡	wnjpn
 pondering	もの思わしげ|物思わしげ	wnjpn
 snowblind	雪めくらの = snow-blind	ejdict
-sophisticate	"【動|他】洗練させる	booqs
+sophisticate	【動|他】洗練させる,高度化する,世慣れさせる	booqs
 icehouse	氷室	wnjpn
 swop	取替こ|取り換え|売買|遣り取り|取替えこ|取り替えこ|商|取り替えっこ|バーター|物物交換|掏替える|交わす|ふり替える|スウィッチ|とり交わす|換える|取り換える|すり替える|切りかえる|取っ換える	wnjpn
 pronghorn	プロングホーン	wnjpn
@@ -26356,7 +26357,7 @@ vasoconstriction	血管狭窄	wnjpn
 unturned	not turned; "left no stone unturned"|not turned	wneng
 urogenital	泌尿生殖器	wnjpn
 biocide	(特に)植物の生命を破壊する化学物質	ejdict
-outgoing	"社交的な	booqs
+outgoing	社交的な,(対人関係で)積極的な|引退間際の|発送用の,出発の|(定期的)出費	booqs
 bonbon	ボンボン|飴	wnjpn
 presupposition	〈U〉予期(予想)すること / 前提となる事柄;(…という)前提《+『that節』》	ejdict
 sprue	スプルー	wnjpn
@@ -28330,7 +28331,7 @@ borscht	ボルシチ	wnjpn
 holograph	直書|手書|ホログラム	wnjpn
 roominess	間数の多いこと|広いこと	ejdict
 pastrami	パストラミ	wnjpn
-fundraise	"【動|自】（理念またはプロジェクトのための）お金を集める	booqs
+fundraise	【動|自】（理念またはプロジェクトのための）お金を集める,資金調達をする【動|他】を募る	booqs
 maleic	Pertaining to, or designating, an acid of the ethylene series,metameric with fumaric acid and obtained by heating malic acid.	websters
 musicologist	音楽学の専門家	ejdict
 otho	オト	wnjpn
@@ -32076,7 +32077,7 @@ wassail	どんちゃん騒ぎをする|お祭り騒ぎをする|乾盃|乾杯	wn
 asparaginase	アスパラギナーゼ	wnjpn
 dinoflagellate	渦鞭毛藻	wnjpn
 acinar	腺房|腺房	wnjpn
-redecorate	"【動|他】を改装する	booqs
+redecorate	【動|他】を改装する,を模様替えする【動|自】改装する,模様替えする	booqs
 occident	西洋|新世界|西半球	wnjpn
 beatification	至福|幸い	wnjpn
 paise	See Poise. Chapman.	websters
@@ -34422,7 +34423,7 @@ resetter	One who receives or conceals, as stolen goods or criminal.	websters
 typographer	文選工	wnjpn
 fugacity	揮散力|揮散力	wnjpn
 diaphanous	透け透け|薄手|薄っぺら	wnjpn
-flextime	"【名|U】フレックスタイム	booqs
+flextime	【名|U】フレックスタイム,自由勤務時間制	booqs
 photoprint	Any print made by a photomechanical process.	websters
 doko	See Lepidosiren.	websters
 rubberise	coat or impregnate with rubber; "rubberize fabric for rain coats"|coat or impregnate with rubber	wneng
@@ -37520,7 +37521,7 @@ stannous	錫(すず)の(を含む)|(特に)第一錫の|2価の錫を含む	ejdi
 preterite	a term formerly used to refer to the simple past tense	wneng
 odontology	歯科学	wnjpn
 compartmentalize	separate into isolated compartments or categories; "You cannot compartmentalize your life like this!"|separate into isolated compartments or categories	wneng
-predetermine	"…を前もって決める[方向を定める	booqs
+predetermine	…を前もって決める[方向を定める, 仕向ける]	booqs
 lygus	plant-sucking bugs	wneng
 barad	The pressure of one dyne per square centimeter|-- used as aunit of pressure.	websters
 abruptness	素っ気なさ|不愛嬌|不愛想|不愛敬|ぶっきらぼう|無愛敬|ぶっきら棒|素っ気無さ|無愛嬌|無愛想	wnjpn

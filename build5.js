@@ -1,4 +1,5 @@
 const fs = require('fs');
+const csvParse = require('csv-parse/lib/sync');
 const readEachLineSync = require('read-each-line-sync');
 
 function atoz(callback) {
@@ -30,8 +31,8 @@ basicFilepaths.forEach(filepath => {
 const booqs = {};
 const booqsFilepaths = ['ja/booqs/NGSL.csv', 'ja/booqs/NAWL.csv', 'ja/booqs/BSL.csv', 'ja/booqs/TSL.csv'];
 booqsFilepaths.forEach(filepath => {
-  readEachLineSync(filepath, 'utf8', (line) => {
-    const row = line.split(',');
+  const csv = csvParse(fs.readFileSync(filepath));
+  csv.forEach(row => {
     const en = row[0];
     const ja = row[1].split(/\s*[；，/]\s*/).join('|');
     booqs[en] = ja;

@@ -4,6 +4,7 @@
   "description": "marmooo's General Service List (English). mGSL provides a huge list with less noise and accurate statistics.",
   "main": "index.js",
   "dependencies": {
+    "csv": "^5.5.0",
     "glob": "^7.1.6",
     "read-each-line-sync": "^1.0.5"
   },
