@@ -39,6 +39,14 @@ booqsFilepaths.forEach(filepath => {
   });
 });
 
+const anc = {};
+readEachLineSync('anc.tsv', 'utf8', (line) => {
+  const row = line.split('\t');
+  const en = row[0];
+  const ja = row[4].replace(/2\. /g, '').split('. ').join('|');
+  anc[en] = ja;
+});
+
 const wnjpn = {};
 readEachLineSync('wnjpn.txt', 'utf8', (line) => {
   const [en, ja] = line.split('\t');
@@ -116,6 +124,8 @@ readEachLineSync('4/mGSL.lst', 'utf8', (line) => {
   const [lemma, freq] = line.split('\t');
   if (lemma in original) {
     console.log(lemma + '\t' + original[lemma] + '\t' + 'original');
+  } else if (lemma in anc) {
+    console.log(lemma + '\t' + anc[lemma] + '\t' + 'anc');
   } else if (lemma in booqs) {
     console.log(lemma + '\t' + booqs[lemma] + '\t' + 'booqs');
   } else if (lemma in basicDict) {
