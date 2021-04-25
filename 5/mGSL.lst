@@ -3888,7 +3888,7 @@ reminder	思い出させる人･物|記念物|注意|助言|催促状	anc
 cargo	船荷	anc
 collaborative	共同の|共同作業の|合作の	anc
 chuck	軽くたたく|捨てる|放棄する	anc
-atomic	原子の|原子力船(潜水艦|空母)an atomic ship (submarine|aircraft carrier)	anc
+atomic	原子の	original
 declare	を宣言する|を明言する|を申告する	anc
 cancellation	取り消し	anc
 mandate	の統治を委任する|命令|為政権|指図|委任統治	anc
@@ -4189,7 +4189,7 @@ conjunction	結合|連結|合同|(文法)接続詞	anc
 yacht	ヨット|ヨットに乗る	anc
 nuke	(見出語)nuclear|核兵器(で攻撃する)|電子レンジで調理する|暖める	anc
 congressional	議会の	anc
-tribune	(古代ローマの)護民官・人民の権利の擁護者・[Tribuneとして、 新聞名に用いて] 〜トリビューン（ラテン語で「族長」の意）	ejdict
+tribune	(古代ローマの)護民官|人民の権利の擁護者	original
 hardly	ほとんど～ない|骨折って|とても～ない|苦労して	anc
 tariff	関税|関税率|関税表|関税法|運賃|料金表	anc
 advert	広告する|広告	anc
@@ -4396,7 +4396,7 @@ latitude	緯度|許容範囲|自由裁量	anc
 sap	〈U〉樹液|〈U〉活力|生気|元気|〈C〉《話》ばか|まぬけ	ejdict
 dessert	デザート	anc
 frontier	フロンティア|国境|辺境地帯|未研究分野|境界	anc
-sodium	ナトリウム(英sodium|独Natrium)|元素記号Na|アルカリ金属元素の一つ|医薬学･栄養学ではソジウム(ソディウム)と呼び|工業分野では曹達(ソーダ)と呼ばれる	anc
+sodium	ナトリウム(英sodium|独Natrium)	original
 missile	ミサイル|飛び道具	anc
 meanwhile	ところで|その間に|一方では	anc
 proprietary	所有主の|所有の|所有者の|独占の	anc
@@ -4416,7 +4416,7 @@ retro	レトロ|リバイバル|復古調スタイル|レトロの|復古調の|
 consensus	意見一致|一致|総意|全員一致	anc
 journalism	ジャーナリズム	anc
 cordless	コードレス	anc
-rotation	規則正しい交替|回転|自転(the earth's revolution (round the sun)and rotation (on its axis))	anc
+rotation	規則正しい交替|回転	original
 prefix	電話局番|人名の前に付ける敬称|の前に付ける|接頭辞|接頭語	anc
 pencil	えんぴつ	anc
 ping	おしっこをする|ピーンと音を出す|ピューと飛ぶ	anc
@@ -4440,7 +4440,7 @@ punishment	罰|罰すること|罰を受けること|処罰|刑罰|虐待	anc
 bizarre	変な|奇妙な|odd|風変りな|異様な	anc
 thriller	ぞっとさせる物|スリラー物|スリルを与えるもの|スリラーもの	anc
 colonial	植民地の	anc
-lip	に唇をあてる|を穴のふちにあてる|唇を使う|をつぶやく|唇の|口先だけの|生意気な言葉|唇(upper(lower|under) lip|上唇|下唇)	anc
+lip	に唇をあてる|を穴のふちにあてる|唇を使う|をつぶやく|唇の|口先だけの|生意気な言葉|唇	original
 doe	(シカ・カモシカ・ヤギ・ウサギなどの)雌	ejdict
 tuner	調律師	anc
 gorgeous	華麗な|豪華な|見事な	anc
@@ -4539,7 +4539,7 @@ mattress	マットレス	anc
 lonely	連れのいない|孤独の|寂しい|心細い|孤立した	anc
 indirect	間接の|遠回しの|曲がった|不正な|遠回りの	anc
 amongst	の中に(=among)	anc
-vampire	吸血鬼(夜になると死体からよみがえり墓を出て眠っている人の生き血を吸う)|人を食いものにする悪人|(また vampire bat)(中南米の)吸血コウモリ	ejdict
+vampire	吸血鬼|人を食いものにする悪人	original
 deeply	深く	anc
 italic	(活字が)イタリック体の|《複数形で》イタリック体活字|斜字体	ejdict
 doctrine	主義|教義|原理|原則|学説|基本外交政策	anc
@@ -4581,7 +4581,7 @@ officially	公式に|職務上	anc
 battlefield	戦場	anc
 mighty	大きい|非常に|力強い|強力な|巨大な|並外れた|膨大な|重大な|多量の	anc
 cheerleader	チアリーダー	anc
-alto	女性の低音部|コントラルト(contraltoとも言う)|(次の順に高くなる|bass|baritone|tenor|alto(女声)|treble(女声soprano)	anc
+alto	女性の低音部歌手	original
 ought	～すべきである	anc
 carb	炭水化物(carbohydrateの略)	anc
 delicious	おいしい	anc
@@ -4707,12 +4707,11 @@ fog	を濃霧で包む|当惑|霧|濃霧|煙霧|煙|ほこり|混乱|を曇ら�
 aboriginal	土着の|もとからある|原住民	ejdict
 anatomy	解剖|解剖学|解剖論	anc
 scam	詐欺|信用詐欺	anc
-ivory	象牙製の|象牙|象牙色|ぞうげ色(やや赤みがかかった黄色を帯びた白色)|象牙製のもの|(ピアノの)キー|(玉突の)玉	anc
+ivory	象牙製の|象牙|象牙色|象牙製のもの|(ピアノの)キー|(玉突の)玉	original
 watershed	(社会的に大きな)転換点|重大な転換点|分水界|流域	anc
 cocktail	カクテル	anc
 clarity	明瞭|明快|清澄さ|透明さ	anc
 exclusion	排他	anc
-bulgarian	a native or inhabitant of Bulgaria|a Slavic language spoken in Bulgaria|of or relating to or characteristic of Bulgaria or its people; "the Bulgarian capital is Sofia"|of or relating to or characteristic of Bulgaria or its people	wneng
 aerial	(UK英) 空気の|空中の|航空(機)の|アンテナ	anc
 spill	こぼすこと|をこぼす|をばらまく|流す|溢れる|浪費する	anc
 alpine	高山の|Alpine combinedアルペン複合(スキー競技名)	anc
@@ -4747,14 +4746,14 @@ tar	タール|を汚す	anc
 magnitude	重要さ|重要性|大きさ|大きいこと|(天体)光度|等級|マグニチュード	anc
 geographical	地質学上の	anc
 flesh	激励する|肥やす|肉|身|贅肉|食用肉|肉体|人類|生物|肌	anc
-holly	セイヨウヒイラギ|モチノキ属の各種の木|柊(ひいらぎ)の枝(クリスマスの装飾用)|(holy神聖な|は別語)	anc
+holly	セイヨウヒイラギ	original
 scripture	(常に複数形で)聖書(の一節)	anc
 regression	後戻り|復帰|後退|退歩|退化|退行	anc
 aurora	極光|オーロラ|夜明け	anc
 dice	さいころ	anc
 enthusiast	熱狂者	anc
 mercy	慈悲|寛容|幸運	anc
-incoming	入ってくる|引き継ぐ|後任の|新入りの|(the incoming tide上げ潮)	anc
+incoming	入ってくる|引き継ぐ|後任の|新入りの	original
 cleaner	掃除人|洗剤	anc
 consultancy	顧問職	anc
 eternal	永遠の	anc
@@ -4937,7 +4936,6 @@ critique	批評|批判|評論	anc
 extraction	摘出	anc
 outfit	したく|用具一式|一行|供給する	anc
 expedition	探検|旅行|長い旅|長征|遠征	anc
-reynolds	レノルズ	wnjpn
 halo	後光|光輪|栄光|(太陽や月の)かさ	anc
 accurately	きちんと|正確には	anc
 knot	結び目|節|結ぶ	anc
@@ -5127,7 +5125,6 @@ criterion	(pl|criteria)|規準|基準|(判断･批評の)標準|特徴	anc
 walnut	クルミ|クルミ材	anc
 pale	色を失った|青ざめる|青白い|(色に関して)薄い|迫力がない|薄くなる|見劣りする	anc
 cursor	位置表示機構(目盛り線を正確に読みとるように目盛りの上に重ねてすべらせる)|線を引いたガラス板|カーソル	anc
-vietnamese	a native or inhabitant of Vietnam|the Mon-Khmer language spoken in Vietnam|of or relating to or characteristic of Vietnam or its people or its language ; "the Vietnamese countryside"; the Vietnamese tones"; "Vietnamese boat people"|of or relating to or characteristic of Vietnam or its people or its language 	wneng
 tremendous	ものすごい|途方もない|途方もなく大きい|ばかでかい	anc
 convertible	変えられる|転換可能な	anc
 continuity	連続性	anc
@@ -5216,7 +5213,6 @@ prejudice	先入観|害|偏見|先入主|偏愛|ひがみ|損害|被害|迷惑	a
 granny	おばあちゃん|(=nan|nana|nanny|granny|grandma|granma|gran)	anc
 sperm	精子	anc
 violin	バイオリン|バイオリン奏者	anc
-zu	evil storm god represented as a black bird	wneng
 emerge	現れる|台頭する	anc
 viral	ウイルスの|ウイルス起因の	anc
 gale	強風|疾風|突発	anc
@@ -5276,7 +5272,7 @@ redistribute	再配分する|再分配する|分配し直す	anc
 retire	退職する|引退する	anc
 inbox	受信トレイ	anc
 focal	焦点の	anc
-bibliographic	relating to or dealing with bibliography	wneng
+bibliographic	書誌の	original
 distant	時間が隔たった|かすかな|遠い|離れた|敬遠した	anc
 hardwood	堅木|堅材	anc
 milestone	マイル標石|画期的事件	anc
@@ -5391,7 +5387,6 @@ heal	なおす|治す|いやす|救う|いえる|治る|治癒する	anc
 imply	を(暗に)意味する|ほのめかす	anc
 unwrap	包装を解く	anc
 sic	原文のまま(疑わしいまたは誤った原文をそのまま引用するときにつける)	ejdict
-hayes	ヘレン・ヘイズ|ラザフォード・ヘイズ	wnjpn
 trauma	精神的外傷|精神的ショック|(日常生活に支障を生じるような)深い心の傷	anc
 surrender	降伏(する)|を放棄する|引き渡し|明渡し(する)|自首	anc
 impairment	(価値･美点･健康を)減じる|害する|そこなう|傷つける	anc
@@ -5513,7 +5508,6 @@ exhibitor	出品人|奨学資金寄贈者	anc
 ethnicity	民族性	anc
 patron	(仏語)パトロン|守護聖人|ひいき客|後援者	anc
 circus	サーカス	anc
-paxil	a selective-serotonin reuptake inhibitor commonly prescribed as an antidepressant (trade name Paxil)	wneng
 tote	トート(ふたのない箱)|(口語)運ぶ|背負う|合計する(up)	anc
 sack	解雇(する)|袋(にいれる)|袋の中身|大袋	anc
 manipulation	操作|巧みな操作|市場操作|ごまかし|触診	anc
@@ -5595,7 +5589,7 @@ couch	うずくまる|横たわる|長椅子|ベッド兼用のソファー	anc
 brace	突っ張り|支柱|引き締める|支える|元気を出す|元気づける	anc
 bluff	威嚇(する)|ぶっきらぼうな|荒っぽい|率直な|険しい	anc
 shallow	浅い|浅はかな	anc
-maintainer	someone who upholds or maintains; "firm upholders of tradition"; "they are sustainers of the idea of democracy"|someone who upholds or maintains	wneng
+maintainer	維持する人	original
 scarf	スカーフ|接合	anc
 promoter	推奨者|発起人|発頭人|張本人|首唱者	anc
 borrower	借手	anc
