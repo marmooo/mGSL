@@ -44,6 +44,17 @@ booqsFilepaths.forEach(filepath => {
   });
 });
 
+const lemmatization = { constructor:'constructor' };  // Node.js bug?
+readEachLineSync('ECDICT/lemma.en.txt', 'utf8', (line) => {
+  let [to, froms] = line.split(' -> ');
+  if (froms) {
+    to = to.split('/')[0];
+    froms.split(',').forEach(from => {
+      lemmatization[from] = to;
+    });
+  }
+});
+
 const anc = {};
 readEachLineSync('anc.tsv', 'utf8', (line) => {
   const row = line.split('\t');
@@ -69,22 +80,18 @@ delete anc['x'];
 delete anc['p'];
 delete anc['j'];
 
-const wnjpn = {};
-readEachLineSync('wnjpn.txt', 'utf8', (line) => {
-  const [en, ja] = line.split('\t');
-  wnjpn[en] = ja;
-});
-
 const ejdict = {};
 atoz(alphabet => {
   readEachLineSync(`EJDict/src/${alphabet}.txt`, 'utf8', (line) => {
     const [en, ja] = line.split('\t');
     if (en in ejdict === false) {
-      ejdict[en] = ja.split(',').join('|');
+      // 過去形などのノイズを消す (消しすぎてしまうが仕方ない)
+      if (en in lemmatization === false) {
+        ejdict[en] = ja.split(',').join('|');
+      }
     }
   });
 });
-
 
 const badWords = {};
 readEachLineSync('List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/en', 'utf8', (lemma) => {
@@ -133,6 +140,14 @@ readEachLineSync('Abbreviations/sources.txt', 'utf8', (line) => {
   abbrevs[lemma] = true;
 });
 
+// 固有名詞のノイズが多い
+const wnjpn = {};
+readEachLineSync('wnjpn.txt', 'utf8', (line) => {
+  const [en, ja] = line.split('\t');
+  wnjpn[en] = ja;
+});
+
+// 固有名詞のノイズが多い
 const wneng = {};
 readEachLineSync('wneng.txt', 'utf8', (line) => {
   const [en, ja] = line.split('\t');
@@ -161,7 +176,7 @@ readEachLineSync('4/mGSL.lst', 'utf8', (line) => {
       console.log(lemma + '\t' + original[lemma] + '\t' + 'original');
     } else if (lemma in badWords) {
       // console.log(line);
-    } else if (profanityWords in names) {
+    } else if (lemma in profanityWords) {
       // console.log(line);
     } else if (lemma in chemicals) {
       // console.log(line);
@@ -177,16 +192,16 @@ readEachLineSync('4/mGSL.lst', 'utf8', (line) => {
       console.log(lemma + '\t' + booqs[lemma] + '\t' + 'booqs');
     } else if (lemma in basicDict) {
       console.log(lemma + '\t' + basicDict[lemma] + '\t' + 'basic');
-    } else if (lemma in wnjpn) {
-      console.log(lemma + '\t' + wnjpn[lemma] + '\t' + 'wnjpn');
     } else if (lemma in ejdict) {
       console.log(lemma + '\t' + ejdict[lemma] + '\t' + 'ejdict');
-    } else if (lemma in wneng) {
-      console.log(lemma + '\t' + wneng[lemma] + '\t' + 'wneng');
-    } else if (lemma.toUpperCase() in websters) {
-      let def = websters[lemma.toUpperCase()].replace(/\n/g, ' ');
+    } else if (lemma in wnjpn) {
+      console.log(lemma + '\t' + wnjpn[lemma] + '\t' + 'wnjpn');
+    } else if (lemma in websters) {
+      let def = websters[lemma].replace(/\n/g, ' ');
       def = def.split(/;\s*/).join('|');
       console.log(lemma + '\t' + def + '\t' + 'websters');
+    } else if (lemma in wneng) {
+      console.log(lemma + '\t' + wneng[lemma] + '\t' + 'wneng');
     } else {
       // console.log(line);
     }
