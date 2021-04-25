@@ -87,7 +87,7 @@ atoz(alphabet => {
     if (en in ejdict === false) {
       // 過去形などのノイズを消す (消しすぎてしまうが仕方ない)
       if (en in lemmatization === false) {
-        ejdict[en] = ja.split(',').join('|');
+        ejdict[en] = ja.split(/\s*[,/]\s*/).join('|');
       }
     }
   });
