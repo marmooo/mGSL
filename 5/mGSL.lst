@@ -2232,6 +2232,7 @@ moderator	仲裁者|減速材	anc
 utc	協定世界時間	original
 pregnancy	妊娠|豊富	anc
 extremely	極端に	anc
+costa	肋(ろっ)骨;肋骨状の部分	ejdict
 holy	信心深い|神聖な	anc
 matt	(表面が)光沢がなくくすんだ|(写真など)つや消しの(面)|の表面をつや消しにする	anc
 console	悲しみを和らげる|を慰める|を元気づける	anc
@@ -2535,6 +2536,7 @@ pregnant	妊娠している|意味深長な|含みのある|に満ちた(with)	a
 twice	2倍|2度|2回|2倍に	anc
 photographer	写真家	anc
 kg	キロ|キログラム	wnjpn
+gi	ギルバート	wnjpn
 crown	王にする|栄誉|王冠|(clownは別綴り)	anc
 cellular	細胞の	anc
 outlook	見通し|見解|見張り|見晴らし	anc
@@ -3491,6 +3493,7 @@ combo	コンボ(小編成のジャズバンド)	anc
 phd	博士	wnjpn
 tenant	借家人|借地人|居住者	anc
 benchmark	(価値判断などの)基準|水準点|基準テストにかける	anc
+mx	マクスウェル	wnjpn
 textile	織物(の)|編み物(の)	anc
 membrane	薄膜|膜|皮膜|膜組織	anc
 ceremony	宗教儀式|儀式|式典|礼儀|作法	anc
@@ -3926,6 +3929,7 @@ mandatory	強制的な|命令の|統治を委任された|委任の	anc
 rope	投げなわ|ロープ|なわ|一連	anc
 disable	身体的障害のある|injured	anc
 crucial	決定的な|きわめて重要な|ゆゆしい|致命的な|十字形の	anc
+cop	警官|ポリ公	ejdict
 adjacent	隣接した|付近の|近接した|直前の	anc
 indication	指示|暗示|兆候	anc
 tuition	授業料	anc
@@ -4028,6 +4032,7 @@ footwear	履き物	anc
 withdrawal	取り消し|引っ込めること|回収|脱退|撤退|預金の引き出し|払い戻し	anc
 theorem	(θíːərəm)|法則|定理(=axiom)|原則	anc
 advocacy	主張|弁護|支持	anc
+prairie	(特にミシシッピー川流域の)『大草原』	ejdict
 essentially	本質的に|元来|本来の|実質的に	anc
 retreat	引退|避難所|退却|退却の合図|撤退する|避難(所)	anc
 compromise	妥協(する)|譲歩(する)|和解(する)|(名誉･体面)を損なう|危うくする|歩み寄り|示談	anc
@@ -4097,6 +4102,7 @@ strict	几帳面な|厳しい|厳密な	anc
 thomson	ヴァージル・トムソン|ジョージ・パジェット・トムソン	wnjpn
 lover	恋人同士|恋人|愛好者	anc
 towel	タオル|手拭い	anc
+mu	(第12ギリシア文字)ミュー|Μ|μ	anc
 shark	サメ|フカ|高利貸し|強欲な人|名人	anc
 ripe	成熟した|熟した|熟れた|赤い|食べ頃の|化膿した	anc
 bead	数珠玉|ビーズ|玉|ロザリオ|しずく|玉になる|玉で飾る|数珠つなぎにする	anc
@@ -4196,6 +4202,7 @@ cage	骨組み|鳥篭|監獄|ゴール|かご(にいれる)|(ボール･パッ�
 invalid	効力のない|病弱者|病人|病弱な|傷病兵|無効な	anc
 validation	検証	anc
 prototype	プロトタイプ|原型|手本|試作|模範	anc
+polo	ポロ(乗馬で球を打つスポーツ) 2|服飾メーカー名 3|(車名)	anc
 pest	厄介な人･物|害毒|有害な小動物･虫|悪疫|ペスト	anc
 witch	魔女|醜い女|に魔法をかける	anc
 buzz	がやがや言う|ざわめき|音|ブンブン|ハチの音|ブザーで呼ぶ	anc
@@ -4402,6 +4409,7 @@ shaft	シャフト|矢がら|ハンマーなどの取っ手|光の一筋	anc
 decent	礼儀正しい|上品な|親切な|(口)結構な|まあまあの|悪くない	anc
 essence	本質	anc
 shortly	間もなく|まもなく|手短に|簡単に|ぶっきらぼうに	anc
+valium	バリウム	original
 inspire	に霊感を与える|気持ちを強く動かす|奮起させる	anc
 schema	概要|大意|図解|格|比喩	anc
 retro	レトロ|リバイバル|復古調スタイル|レトロの|復古調の|リバイバルの	anc
@@ -4433,6 +4441,7 @@ bizarre	変な|奇妙な|odd|風変りな|異様な	anc
 thriller	ぞっとさせる物|スリラー物|スリルを与えるもの|スリラーもの	anc
 colonial	植民地の	anc
 lip	に唇をあてる|を穴のふちにあてる|唇を使う|をつぶやく|唇の|口先だけの|生意気な言葉|唇(upper(lower|under) lip|上唇|下唇)	anc
+doe	(シカ・カモシカ・ヤギ・ウサギなどの)雌	ejdict
 tuner	調律師	anc
 gorgeous	華麗な|豪華な|見事な	anc
 realm	範囲|領域|部門|王国|国土	anc
@@ -4842,6 +4851,7 @@ calibration	目盛り|検量|測定	anc
 infinite	計り知れない|無限の	anc
 licensee	免許された人|酒類販売免許をもつ人	anc
 panic	パニック|恐慌|をうろたえさせる|うろたえる	anc
+mil	1リットルの1000分の1の体積|1インチの1000分の1の長さ|米国の軍事機関向けのドメイン名|mil	anc
 invisible	目に見えない|目にみえない|目につかない	anc
 legally	法律的に|合法的に	anc
 harness	馬具|ハーネス(装着帯)|装置|装備|(引き具を)付ける|利用する	anc
@@ -4889,6 +4899,7 @@ standing	立っている|永続的な|状態|地位|身分	anc
 equilibrium	平衡|釣り合い|均衡|感情の安定|平静	anc
 woodland	森林|森林地帯	anc
 nickel	ニッケル|元素記号Ni|白銅貨|ニッケル硬貨|(米)5セント	anc
+gore	(特に戦い|けんかなどで傷から流れ出た)血|血の塊	ejdict
 attain	に達する|達成する	anc
 adaptation	適応|順応	anc
 kinase	キナーゼ|リン酸化酵素の一種	anc
@@ -9121,6 +9132,7 @@ drawback	戻し税|欠点|障害	anc
 visionary	幻の|非現実的な|夢のような|空想家|空想	anc
 warden	刑務所長|管理人|看守(長)|番人|長官|監督者|巡視員|学長|校長|理事|役員|監督保護する	anc
 authenticate	信頼できることを証明する	anc
+underwood	下草(したくさ) 2|アンダーウッド|人名	anc
 breakout	脱走	anc
 sonny	坊や	anc
 longevity	(lɑndʒévəṭi)長生き|長寿|生命|寿命	anc
