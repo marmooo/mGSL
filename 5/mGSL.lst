@@ -1778,7 +1778,7 @@ physician	医者|内科医|医師|(比喩的)治療者|救済者	anc
 contest	コンクール|争う|競争	anc
 suit	に合う|適す|似合う	anc
 circuit	回路|迂回	anc
-spin-dry	… ‘を'遠心力で脱水する	ejdict
+spin-dry	〜 ‘を'遠心力で脱水する	ejdict
 sexual	性的な|性の|雌雄の|有性の|生殖の	anc
 carrier	運搬装置|運び台|電話会社|回線業者	anc
 healthy	健康(的)な	anc
@@ -1901,7 +1901,7 @@ exclusive	排他的な|専門的な	anc
 tank	タンク|水槽|戦車	anc
 rain	雨が降る|雨	anc
 perspective	遠近法の|見込み|遠近(画)法|透視図法|遠近感|観点|展望|将来の見通し	anc
-lib	(…)解放(liberation)	ejdict
+lib	(〜)解放(liberation)	ejdict
 prescription	処方(箋|薬)|指示|規定|規範|法規|時効|おきて	anc
 decide	決める|決心する	anc
 infrastructure	基幹施設|経済基盤|会社の基礎設備	anc
@@ -3479,7 +3479,7 @@ rapidly	急速に|速く|急いで	anc
 scout	スカウトする|捜す|斥候|スカウト	anc
 weird	超自然的な|奇妙な|風変わりな|変な|不思議な|運命の	anc
 disclose	暴露する	anc
-metropolitan	首都の|首都に似た|首都に属する|大都市とその周辺地域より成る(を講成する)|首都の住民|大都市の人|《しばしばM-》(東方教会の)府主教;(カトリック教会の)首都大司教;(英国国教会の)大主教	ejdict
+metropolitan	首都の|首都の住民|大都市の人	original
 interact	互いに作用･影響しあう	anc
 condo	分譲マンション	anc
 cricket	コオロギ	anc
@@ -3607,7 +3607,7 @@ shelf	棚|たな|棚の上のもの|棚状のもの	anc
 weigh	(重さを)量る|重荷になる|出航する|よく考える|重要である	anc
 parenting	子育て	anc
 legislature	立法府	anc
-commonwealth	『国民』|国家|『共和国』|民主国家|(共通の目的・利益によって結ばれた)団体|連邦;(プエルトリコなどのような)自治領|《米》州(公式にはMassachusetts|Pennsylvania|Virginia|Kentuckyの4州に限る)|(また『the British Commonwealth』[『of Nations』])《the C-》英連邦(英国・カナダ・オーストラリア・ニュージーランドなどから成る連合体)	ejdict
+commonwealth	国民|国家|共和国|民主国家	original
 incredible	信用出来ない|うそのような|途方もない|驚くべき|信じられない	anc
 cabin	キャビン|小屋|船室	anc
 haven	(避難)港|停泊所|安息所|避難所	anc
@@ -3727,7 +3727,7 @@ instantly	ただちに	anc
 gen	generalの省略形	original
 prospective	見込みのあった|将来の|期待される	anc
 horizontal	地平線の|水平の|(horizontal bar|鉄棒)	anc
-gem	(特に|カットして磨いた)『宝石』(jewel)|宝玉|宝石のような人(もの)|逸品|珠玉|…‘を'宝石で飾る|‘に'宝石をちりばめる;(…で)…‘を'飾る《+『名』+『with』+『名』》	ejdict
+gem	宝石|逸品|珠玉|〜を飾る	original
 unlock	の錠をあける|を開く|打ち明ける|鍵が開く	anc
 breath	息|呼吸	anc
 volt	ボルト(電圧の単位)	anc
@@ -4189,7 +4189,7 @@ conjunction	結合|連結|合同|(文法)接続詞	anc
 yacht	ヨット|ヨットに乗る	anc
 nuke	(見出語)nuclear|核兵器(で攻撃する)|電子レンジで調理する|暖める	anc
 congressional	議会の	anc
-tribune	(古代ローマの)護民官・人民の権利の擁護者・[Tribuneとして、 新聞名に用いて] …トリビューン（ラテン語で「族長」の意）	ejdict
+tribune	(古代ローマの)護民官・人民の権利の擁護者・[Tribuneとして、 新聞名に用いて] 〜トリビューン（ラテン語で「族長」の意）	ejdict
 hardly	ほとんど～ない|骨折って|とても～ない|苦労して	anc
 tariff	関税|関税率|関税表|関税法|運賃|料金表	anc
 advert	広告する|広告	anc
@@ -8033,7 +8033,7 @@ canine	犬の(ような)|イヌ科	anc
 ammunition	弾薬|兵器|戦闘手段	anc
 pigment	絵具|顔料|色素|を着色する	anc
 midget	小さい人|超小型の(物)	anc
-airmail	『航空郵便』(の手紙)(また《英》air post)|航空郵便の|航空郵便で(by airmail)|…'を'航空便で送る	ejdict
+airmail	『航空郵便』(の手紙)(また《英》air post)|航空郵便の|航空郵便で(by airmail)|〜'を'航空便で送る	ejdict
 wlan	Wi-Fi|ワイファイ|ワイヤレスLAN|無線LAN|WiFi|ワイヤレスフィデリティ|WLAN	wnjpn
 roadmap	ロードマップ	anc
 blower	送風機	anc
@@ -8077,7 +8077,7 @@ silhouette	シルエット|輪郭|の輪郭を見せる	anc
 rake	くま手|まぐわ|を探し回る|を詮索する|をかすめる|熊手でかく|かき払う|掃く	anc
 hypnosis	催眠|催眠状態|夢幻状態	anc
 pastel	パステル画|パステル(調の)|淡い|パステル調の色合い	anc
-preset	…‘を'前もって調節する(合わせる)	ejdict
+preset	〜‘を'前もって調節する(合わせる)	ejdict
 confer	相談する(confer with-|cf|consult)|協議する|授与する	anc
 orb	球|球体|天体|宝珠|目|眼球|円|を球形にする	anc
 mop	モップ|かたまり|拭くこと|拭く	anc
@@ -9626,11 +9626,11 @@ skipper	スキッパー|船長|機長|主将|経営者|ボス	anc
 analogous	外見や機能は似ているが共通の祖先に由来しない場合「相似analogous」という|cf|遺伝子が共通の祖先に由来する場合「相同|orthologous」という	anc
 futon	敷き布団	wnjpn
 unpleasant	不愉快な|いやな|気にさわる	anc
-dram	ドラム(重量の単位で常衡は1.772グラム|薬局衡では3.9グラム)|(ウイスキーなどの)微量|一口《+『of』+『名』》|(一般に)わずか(の…)《+『of』+『名』》	ejdict
+dram	ドラム(重量の単位で常衡は1.772グラム|薬局衡では3.9グラム)|(ウイスキーなどの)微量|一口《+『of』+『名』》|(一般に)わずか(の〜)《+『of』+『名』》	ejdict
 ecstasy	こうこつ|忘我|有頂天	anc
 blindness	盲目	anc
 negotiable	交渉できる|交渉の余地がある	anc
-hearted	「…の心を持った」「心が…の」の意を表す	ejdict
+hearted	「〜の心を持った」「心が〜の」の意を表す	ejdict
 tint	薄い色|色合い|気味|色彩|濃淡|淡い色	anc
 agility	機敏さ	anc
 crouch	身をかがめる|かがむ(こと)|卑屈にちぢこまること	anc
@@ -9923,7 +9923,7 @@ ubiquitous	至る所にある|遍在する	anc
 genie	童話で|人間の姿になって願い事をかなえてくれる精霊|魔神(A devil|Satan)|コーランにあり|人間や動物の形で人類に影響するとイスラム教徒に信じられている精神(=jinn)	anc
 arsenic	ヒ素|(ヒソ|砒素)|元素記号As|灰色ヒ素(金属ヒ素)|ロウ状の柔らかい黄色ヒ素|黒リンと同構造の黒色ヒ素の3同素体がある|リンに似た物理化学的性質を示し|毒性の由来になっている	anc
 synonym	類義語|同意語	anc
-facilitation	(…を)容易にすること|促進させること《+『of』+『名』》	ejdict
+facilitation	(〜を)容易にすること|促進させること《+『of』+『名』》	ejdict
 vantage	有利|優越|優勢な地位|(古)利益	anc
 hind	後部の|後ろの	anc
 mobilization	動員|(富などの)流通	anc
@@ -10298,7 +10298,7 @@ subsistence	生存最低生活|生存	anc
 flicker	点滅ライト|点滅する	anc
 offend	怒らせる	anc
 foe	敵|仇|反対者|障害|対戦者|enemy	anc
-indemnify	(損害・出費・けがなどに対して)〈人〉‘に'保障を与える|(…から)〈人〉‘を'保護する《+『名』〈人〉+『from』(『against』)+『名』》|(損害に対して)〈人〉‘に'賠償する|補償する《+『名』〈人〉+『for』+『名』》	ejdict
+indemnify	(損害・出費・けがなどに対して)〈人〉‘に'保障を与える|(〜から)〈人〉‘を'保護する《+『名』〈人〉+『from』(『against』)+『名』》|(損害に対して)〈人〉‘に'賠償する|補償する《+『名』〈人〉+『for』+『名』》	ejdict
 gogh	ゴッホ	wnjpn
 chihuahua	チワワ	anc
 rampage	あばれ回る|大暴れ|狂暴な行為|暴動	anc
@@ -11146,7 +11146,7 @@ absentee	欠席者|不在者	anc
 sleeveless	袖なしの|袖のない|ノースリーブの|取るに足りない|無益な	anc
 villain	悪者|悪人|悪党|かたき役|野郎|やつ	anc
 oft	often|しばしば	anc
-impend	〈物事が〉(…の上に)今にも起ころうとしている|切迫している《+『over』+『名』》	ejdict
+impend	〈物事が〉(〜の上に)今にも起ころうとしている|切迫している《+『over』+『名』》	ejdict
 levee	沖積堤|堤防|土手|(米語)大統領の接見会	anc
 drown	ずぶ濡れになる|溺れる|を溺れさせる|溺死する|を水浸しにする|を消す	anc
 ifc		wnjpn
@@ -11560,7 +11560,7 @@ aortic	大動脈の	anc
 announcer	アナウンサー	anc
 quasar	クェーサー|準星|恒星状天体|(quasi-stellar object|quasi類似の|準|-stellar星の)|非常に離れた距離で極めて明るく輝き|光学望遠鏡では恒星のような点光源に見える天体	anc
 grabber	ひったくり|欲張り者|人の心を強くとらえるもの|度胆を抜くもの	anc
-corrugate	…‘に'波形をつける;〈皮膚や顔〉‘に'しわを寄せる|波形になる;しわが寄る	ejdict
+corrugate	〜‘に'波形をつける;〈皮膚や顔〉‘に'しわを寄せる|波形になる;しわが寄る	ejdict
 libra	(astrology) a person who is born while the sun is in Libra|a person who is born while the sun is in Libra|a small faint zodiacal constellation in the southern hemisphere; between Virgo and Scorpius|a small faint zodiacal constellation in the southern hemisphere|between Virgo and Scorpius|the seventh sign of the zodiac; the sun is in this sign from about September 23 to October 22|the seventh sign of the zodiac|the sun is in this sign from about September 23 to October 22	wneng
 matador	(スペイン語)マタドール|闘牛士	anc
 sensational	扇情的な	anc
@@ -11592,7 +11592,7 @@ pronounce	を発音する|を朗読する|と断言する|を宣言する|を申
 woodwind	木管楽器|《the woodwinds》(オーケストラの)木管楽器部|木管楽器の(から成る)	ejdict
 clueless	無知な	anc
 valor	(危険をものともしない)勇気|豪胆|剛勇|大胆|果敢	anc
-jitter	(…についての)神経過敏《+『about』+『名』》|いらいらする	ejdict
+jitter	(〜についての)神経過敏《+『about』+『名』》|いらいらする	ejdict
 woodruff	クリマバソウ(小さい白の花と芳香をはなつ草花)	ejdict
 burglar	泥棒|強盗	anc
 floodplain	氾濫原|洪水であふれた原野	anc
@@ -12801,7 +12801,7 @@ dike	みぞ|ditch|水路|堤防|土手道|堤防を築く|溝|土手	anc
 wiener	ウィンナソーセージ(語源|Vienna|Austria)|フランクフルト|ホットドッグ	anc
 fantasia	幻想曲|fantasy	anc
 sixteenth	16番目(の)	anc
-troubleshoot	機械の故障を発見して修理する|紛争を解決する|…‘の'故障を発見して修理する|…‘の'紛争を解決(仲裁)する	ejdict
+troubleshoot	機械の故障を発見して修理する|紛争を解決する|〜‘の'故障を発見して修理する|〜‘の'紛争を解決(仲裁)する	ejdict
 marmot	マーモット	anc
 multiplexer	a device that can interleave two or more activities	wneng
 neoplasm	(体内にできる)新生物|腫瘍	anc
@@ -13606,7 +13606,7 @@ probationary	試用(見習い)期間の|執行猶予の|《米》仮及第の|�
 fiche	=microfiche	ejdict
 juror	陪審員|juryの一員	anc
 scamp	悪漢	anc
-goggle	(…に)目をぎょろつかせる|(…を)目を丸くして見る《+『at』+『名』》|〈C〉(目を丸くした)凝視|《複数形で》ゴーグル(オートバイやスキーなどのときにかける防塵(ぼうじん)めがね	ejdict
+goggle	(〜に)目をぎょろつかせる|(〜を)目を丸くして見る《+『at』+『名』》|〈C〉(目を丸くした)凝視|《複数形で》ゴーグル(オートバイやスキーなどのときにかける防塵(ぼうじん)めがね	ejdict
 waite	ウエイト	wnjpn
 shoemaker	くつ屋|靴屋	anc
 lingua	舌|舌状器官	anc
@@ -14089,7 +14089,7 @@ realist	現実主義者|写実主義作家|実在論者	anc
 bandage	包体|包帯	anc
 silencer	消音器	anc
 slurry	スラリー|泥･粘土･セメントなどの懸濁液	anc
-quadruple	4倍の;4重の;4部(4人)から成る|4倍|4倍の数(量)|4倍になる|…‘を'4倍にする	ejdict
+quadruple	4倍の;4重の;4部(4人)から成る|4倍|4倍の数(量)|4倍になる|〜‘を'4倍にする	ejdict
 hipster	ジャズファン|物知り|進んだ人|ヒップスター	anc
 bronchitis	気管支炎	anc
 innkeeper	宿屋の主人	ejdict
@@ -14325,7 +14325,7 @@ epistemology	(哲)認識論	anc
 geranium	ゼラニウム(植物)	anc
 spanner	スパナー|スパナ	anc
 indentation	ぎざぎざ(をつけること)|へこみ|(海岸線などの)湾入	anc
-bevel	斜角|(厚板ガラスなどの端に切った)斜面|角度定規|傾斜した|斜めの|…‘に'斜角をつける|'を'斜めに切る	ejdict
+bevel	斜角|(厚板ガラスなどの端に切った)斜面|角度定規|傾斜した|斜めの|〜‘に'斜角をつける|'を'斜めに切る	ejdict
 rundown	(野球用語)挟殺(走者が塁と塁の間に挟まれること)	anc
 bankroll	融資する|資金を出す	anc
 talker	おしゃべりな人	anc
@@ -14440,7 +14440,7 @@ vise	(主に英)万力(米ではvice)	anc
 neve	万年雪に覆われた雪原|粒状万年雪	anc
 mulligan	(米)mulligan stew|マリガンシチュー|肉または魚と野菜のごった煮	anc
 noxious	不健全な|有害な	anc
-sledge	(また『sled』)《米》(荷物運搬用の)大型そり|《英》=sled1|…‘を'そりで運ぶ|そりに乗る|そりで行く	ejdict
+sledge	(また『sled』)《米》(荷物運搬用の)大型そり|《英》=sled1|〜‘を'そりで運ぶ|そりに乗る|そりで行く	ejdict
 trove	収集|(大事なものの)集積|バンク|大事な物を集めている場所|発見されたもの	anc
 drowsiness	嗜眠(しみん|意識障害(意識混濁)の程度のひとつ|昏眠ともいう|放っておくと眠ってしまい|強い刺激を与えないと覚醒し反応しない状態)	anc
 overhang	におおいかぶさる|の上にかかる|の上に突き出る|差し迫る|突出	anc
@@ -14521,7 +14521,7 @@ incapacity	無能	anc
 overkill	やり過ぎて	anc
 mylar	a thin polyester film	wneng
 seep	しみ出る|滴下する|漏れる|浸透する|小さな泉	anc
-interlink	…‘を'つなぎ合わせる|連結する	ejdict
+interlink	〜‘を'つなぎ合わせる|連結する	ejdict
 heartbreak	胸が裂けるほどの悲しみ|悲嘆|断腸の思い|悲痛	anc
 effortless	たやすい|楽な	anc
 hydroelectric	水力電気の|水力発電の	anc
@@ -14899,7 +14899,7 @@ obsidian	黒曜石|十勝石	anc
 unduly	過度に	anc
 exacerbate	激化させる|悪化させる|怒らせる|憤激させる	anc
 intoxication	陶酔|酔い	anc
-chargeable	責任(罪など)を負わねばならない;(…を)負う《+『with』+『名』》|《補語にのみ用いて》(負担・費用などが)(…に)負わされる《+『on』+『名』》	ejdict
+chargeable	責任(罪など)を負わねばならない;(〜を)負う《+『with』+『名』》|《補語にのみ用いて》(負担・費用などが)(〜に)負わされる《+『on』+『名』》	ejdict
 tampon	(生理用)タンポン|止血栓	anc
 culmination	最高点	anc
 lense	レンズ	wnjpn
@@ -14926,7 +14926,7 @@ grandparent	祖父母	anc
 demonic	悪魔的な|魔力をもった	anc
 curie	キュリー(放射能の古い単位|今はベクレス)|キュリー夫人の名に由来	anc
 nrl		wnjpn
-unman	…‘の'勇気をくじく|…'を'めめしくする	ejdict
+unman	〜‘の'勇気をくじく|〜'を'めめしくする	ejdict
 dahlia	ダリア(キク科ダリア属の多年生草本植物)	anc
 causality	因果関係	anc
 bountiful	贅沢な|気前のよい|豊富な	anc
@@ -14974,7 +14974,7 @@ defamatory	中傷的な	anc
 succulent	汁の多い|多肉多汁の植物	anc
 ordinal	順序の|順序を示す|目の|(分数fractionの)序数(ordinal number)	anc
 bassoon	バスーン|ファゴット(低音の木管楽器)	ejdict
-liaise	(おもに軍隊・企業で)(…と)連絡をつける(保つ)《+『with』+『名』》	ejdict
+liaise	(おもに軍隊・企業で)(〜と)連絡をつける(保つ)《+『with』+『名』》	ejdict
 momentary	瞬間の|瞬間的な|絶え間のない|束の間の	anc
 dandelion	タンポポ	anc
 slat	スラット|細長い薄板|板石|細長の薄板|羽根板|肋骨|に羽根板をつける	anc
@@ -15139,7 +15139,7 @@ florin	(英国の)フロリン銀貨	anc
 epidermal	表皮	anc
 repose	静まり返っている|休息|安らぎ|安心|平和|横になる|休息する|頼る	anc
 interoperable	able to exchange and use information	wneng
-pinion	鳥の翼;(特に)翼の先端部|羽先|(飛べないように)〈鳥〉‘の'羽先を切る(縛る)|〈人〉‘を'はがい締めにする;(…に)〈人の手足〉‘を'しばりつける《+『名』〈人〉+『to』+『名』》	ejdict
+pinion	鳥の翼;(特に)翼の先端部|羽先|(飛べないように)〈鳥〉‘の'羽先を切る(縛る)|〈人〉‘を'はがい締めにする;(〜に)〈人の手足〉‘を'しばりつける《+『名』〈人〉+『to』+『名』》	ejdict
 replaceable	入れ替え可能な|代行可能な;取り替えられる|返せる|償える|(元の位置に)戻せる	ejdict
 nudism	裸体主義	ejdict
 fosamax	a tablet (trade name Fosamax) prescribed to prevent or treat osteoporosis in women after menopause	wneng
@@ -15373,7 +15373,7 @@ kwacha	クワーチャー(ザンビアの貨幣単位)	ejdict
 chondroitin	コンドロイチン|動物体内にみられるグリコサミノグリカン(ムコ多糖)の一種	anc
 ork	orchestra|楽団	anc
 cheerfully	機嫌よく|元気よく|明るく	anc
-overarch	…‘の'上にアーチをかける|アーチ型になる	ejdict
+overarch	〜‘の'上にアーチをかける|アーチ型になる	ejdict
 saucy	生意気な|気の利いた	anc
 reflectance	反射率	anc
 paleontology	古生物学	anc
@@ -15983,7 +15983,7 @@ subcutaneous	皮下	anc
 creatinine	クレアチニン(筋肉に多くエネルギー代謝に関与する化合物)	anc
 bookkeeper	帳簿係	anc
 coney	=cony	ejdict
-degas	…‘から'ガスを抜く	ejdict
+degas	〜‘から'ガスを抜く	ejdict
 presidio	米国南西部にスペイン人によって設置された要塞|砦|囚人植民地	anc
 windward	風上の|風上へ|(反|Lee風下へ|風下の)	anc
 delirium	精神錯乱|せん妄	anc
@@ -16361,7 +16361,7 @@ winemaker	酒造家	wnjpn
 prowl	うろつく	anc
 savor	趣|風味|味|の味がする|の香りがする|味わう	anc
 croat	a member of the Slavic people living in Croatia	wneng
-chlorinate	(特に殺菌のために)…'を'塩素で処理する	ejdict
+chlorinate	(特に殺菌のために)〜'を'塩素で処理する	ejdict
 upbringing	養育|育て方|躾(しつけ)	anc
 widower	男やもめ	anc
 zonal	帯の;地域(地区)に分けられた	ejdict
@@ -16411,7 +16411,7 @@ inaudible	聞き取れない	anc
 frantically	狂ったように	anc
 pippin	素晴らしい人･もの|美人|生食用リンゴの一種|種子	anc
 epidemiologic	疫学的な	anc
-dragoon	竜騎兵(重装備をした昔の騎兵)|〈人〉‘に'むりやり(…)させる《+『名』〈人〉+『into』 do『ing』》	ejdict
+dragoon	竜騎兵(重装備をした昔の騎兵)|〈人〉‘に'むりやり(〜)させる《+『名』〈人〉+『into』 do『ing』》	ejdict
 wombat	ウォンバット|カンガルー目ウォンバット科の哺乳類|アボリジニ(オーストラリアの原住民)の言葉で「平たい鼻」の意	anc
 theologian	神学者	anc
 decryption	解読|復号	wnjpn
@@ -16544,7 +16544,7 @@ japonica	日本産植物(ツバキ|ボケなど)|日本の文化資料	ejdict
 megabyte	メガバイト	anc
 toothpick	つまようじ	anc
 inseam	(ズボンのすその折り返し|靴などの)内側の縫い目	ejdict
-tog	着物|衣服|(…を)〈自分〉‘に'着せる《+oneself up(out)in+名》	ejdict
+tog	着物|衣服|(〜を)〈自分〉‘に'着せる《+oneself up(out)in+名》	ejdict
 walrus	セイウチ	anc
 oust	追放する|立ち退かせる|(場所･地位などから)追い出す	anc
 periodicity	周期性	anc
@@ -16655,7 +16655,7 @@ recumbent	横になった	anc
 bodybuilder	ボディビルダー	anc
 poss	poss|(略語) possession|possessive|possible|possibly 2|洗濯棒で洗う	anc
 airforce	エアフォース|空軍	wnjpn
-ravel	〈編み物・ロープなど〉‘を'解く|ほどく(unravel)《+『out』+『名』|+『名』+『out』》|…‘を'もつれさせる|からませる;…‘を'混乱させる|解ける|ほどける|(編み物などから)ほどけた糸の端;ほどけた部分	ejdict
+ravel	〈編み物・ロープなど〉‘を'解く|ほどく(unravel)《+『out』+『名』|+『名』+『out』》|〜‘を'もつれさせる|からませる;〜‘を'混乱させる|解ける|ほどける|(編み物などから)ほどけた糸の端;ほどけた部分	ejdict
 canvass	遊説|(投票などを)依頼する|勧誘して回る	anc
 persistently	しつこく|永続的に	anc
 meander	(miˈændɚ)|蛇行(する)|あてどなく歩く|曲りくねった道|曲がりくねって流れる	anc
@@ -16829,7 +16829,7 @@ bidet	(仏語)子馬|婦人用洗浄器|ヴィデ	anc
 blatantly	露骨に	anc
 chicano	チカーノ	wnjpn
 impoundment	没収|留置	wnjpn
-fleer	(…を)嘲笑する|あざ笑う|ばかにする《+『at』+『名』》	ejdict
+fleer	(〜を)嘲笑する|あざ笑う|ばかにする《+『at』+『名』》	ejdict
 caveman	洞窟人|穴居人	anc
 gunfire	砲火	anc
 veritable	ほんとうの|真の|本物の	anc
@@ -17254,7 +17254,7 @@ resurrect	復活させる	anc
 cardiopulmonary	心臓や肺の(のための)	ejdict
 shiatsu	指圧	wnjpn
 buyback	買い戻し	anc
-sublease	(家・土地などの)また貸し|…‘を'また貸し(借り)する	ejdict
+sublease	(家・土地などの)また貸し|〜‘を'また貸し(借り)する	ejdict
 secrete	隠匿する|を分泌する	anc
 gravestone	墓石|石碑	anc
 greenbrier	a very prickly woody vine of the eastern United States growing in tangled masses having tough round stems with shiny leathery leaves and small greenish flowers followed by clusters of inedible shiny black berries	wneng
@@ -17594,7 +17594,7 @@ diction	言葉遣い|語法|話し方	anc
 reenter	再び所有権を得る|再び入る|再加入する|再入国する|麻薬による陶酔から覚める|再記入する|麻薬の陶酔から覚めること	anc
 trike	tricycle	ejdict
 cypher	=cipher	ejdict
-disengagement	(…から)解放されること;自由《+『from』(『of』)+『名』》	ejdict
+disengagement	(〜から)解放されること;自由《+『from』(『of』)+『名』》	ejdict
 drab	トビ色の|トビ色|とび色|ふじ色(黒味がかかった黄褐色)	anc
 charade	見せかけ|言葉あて遊び|見え透いた言い訳|シャレード(ジェスチャーをしてそれを表す言葉を言い当てる遊び)	anc
 digitization	conversion of analog information into digital information	wneng
@@ -17616,7 +17616,7 @@ programma	an edict that has been publicly posted	wneng
 oxymoron	撞着語法|修辞技法のひとつ|「賢明な愚者」「明るい闇」など通常互いに矛盾している複数の表現を含む表現|形容矛盾とも言う	anc
 eastbound	東へ向かう	ejdict
 apoptotic	アポトーシス(細胞死)の	anc
-decompress	…‘の'圧力を減らす	ejdict
+decompress	〜‘の'圧力を減らす	ejdict
 weirdo	奇人|変人	anc
 rebut	反論･反駁する	anc
 newsprint	新聞印刷用紙	anc
@@ -17672,7 +17672,7 @@ hiya	やあ!|こんちは!	anc
 calcareous	カルシウム分の土地	anc
 inductance	(電気の)インダクタンス|誘導係数	ejdict
 aspherical	非球面	wnjpn
-mishear	…‘を'聞き誤る|聞き違える	ejdict
+mishear	〜‘を'聞き誤る|聞き違える	ejdict
 tufted	ふさのついた;ふさふさした	ejdict
 flaky	フレーク(薄膜)状の|はがれやすい|ひどく変わった	anc
 slaughterhouse	屠殺場|修羅場	anc
@@ -18267,7 +18267,7 @@ voluptuous	官能的な|なまめかしい|肉欲にふける	anc
 complacent	自己満足の|満足そうな|悦に入って|ひとりよがりの	anc
 hardworking	勤勉な|よくはたらく	anc
 antagonism	敵意|反対	anc
-unaccompanied	連れのない|ただひとりの;(…に)伴われない《+by(with)+名》|(音楽演奏が)無伴奏の	ejdict
+unaccompanied	連れのない|ただひとりの;(〜に)伴われない《+by(with)+名》|(音楽演奏が)無伴奏の	ejdict
 squall	スコール(熱帯性の突然の雨)|突風|スコールが起こる|悲鳴	anc
 kingwood	handsome violet-streaked wood of the kingwood tree; used especially in cabinetwork|handsome violet-streaked wood of the kingwood tree|used especially in cabinetwork|Brazilian tree yielding a handsome cabinet wood	wneng
 maximization	最大化	anc
@@ -18342,7 +18342,7 @@ shiner	宝石	anc
 gonorrhea	淋病(病名)	anc
 lawmaker	立法者|legislator|(国会)議員	anc
 flavorful	風味豊かな	anc
-cosponsor	(議案の)共同主唱者(提案者);共同スポンサー|…‘の'共同主唱者(提案者)になる|共同スポンサーになる	ejdict
+cosponsor	(議案の)共同主唱者(提案者);共同スポンサー|〜‘の'共同主唱者(提案者)になる|共同スポンサーになる	ejdict
 macadamia	マカダミア	wnjpn
 polyacrylamide	ポリアクリルアミド|水溶性合成樹脂の一種として原油の回収助剤|廃水処理用凝集剤|洗濯糊|接着剤(合成糊)|塗料などに広く用いられる	anc
 standish	スタンジシュ	wnjpn
@@ -18350,7 +18350,7 @@ oreo	chocolate cookie with white cream filling	wneng
 sensibly	感じられるほどに|目立って|賢明にも	anc
 biathlon	バイアスロン(射撃とスキーを組み合わせた競技)	ejdict
 moxie	活気|精力|ファイト|ガッツ|技術(知識)	anc
-biff	すばやいパンチ|一撃|…'を'ぶんなぐる|‘に'一撃を加える	ejdict
+biff	すばやいパンチ|一撃|〜'を'ぶんなぐる|‘に'一撃を加える	ejdict
 sidewall	側壁|サイドウォール(タイヤのトレッド(tread)とリム(rim)との間の部分)	ejdict
 inexplicable	不可解な|説明しがたい	anc
 initio	「第一原理」の意(化学･物理･生物他で)	anc
@@ -18371,7 +18371,7 @@ hoary	白髪の|昔の(old)|白い|霜のように白い|年老いた|神々し�
 penne	ペンネ	wnjpn
 corse	=corpse	ejdict
 trillium	ユリ科エンレイソウ属の植物	ejdict
-swot	〈C〉《英話》がり勉家|猛勉強家(《米》grind)|〈U〉がり勉|がり勉する|(試験前に)…‘を'詰め込みで勉強する《+up+名|+名+up》	ejdict
+swot	〈C〉《英話》がり勉家|猛勉強家(《米》grind)|〈U〉がり勉|がり勉する|(試験前に)〜‘を'詰め込みで勉強する《+up+名|+名+up》	ejdict
 andante	(音楽の演奏の指示で)アンダンテ|ゆるやかに(な)|アンダンテの楽章(楽曲)	ejdict
 overtly	明白に|公然と	anc
 lurch	窮地|苦境|急に傾くこと|大敗|よろめく	anc
@@ -18448,7 +18448,7 @@ passively	受動的に|受け身に	anc
 lipscomb	リプスコム	wnjpn
 extol	賞賛する|ほめたたえる|賞揚する|激賞する	anc
 wahoo	ニレの木	anc
-derange	…‘を'錯乱させる|狂わせる	ejdict
+derange	〜‘を'錯乱させる|狂わせる	ejdict
 savour	風味	anc
 touchy	気難しい|微妙な|気を使わねばいけないような	anc
 unintelligible	理解できない|聞き取れない	anc
@@ -18466,7 +18466,7 @@ fractionation	分割|分画法|フラクショネーション|分別作用|分�
 brattleboro	ブラトルバラ	wnjpn
 fmri		wnjpn
 dandruff	(頭の)ふけ	anc
-leaved	「…枚の葉のある」「…枚の」の意を表す	ejdict
+leaved	「〜枚の葉のある」「〜枚の」の意を表す	ejdict
 proximate	近似の|最も近い|直前の	anc
 gallus	ズボン吊り|サスペンダー	wnjpn
 idem	同上|前述の部分|同上の|前述の	ejdict
@@ -18517,7 +18517,7 @@ bakelite	ベークライト	wnjpn
 incessant	絶え間なく続く	anc
 adjudicate	(計画など)を決定する|宣告する|裁く|判決をくだす	anc
 neoplastic	腫瘍性の	anc
-overburden	…‘に'荷を積み過ぎる|《受動態で》(仕事などを)…‘に'負わせ過ぎる《+『名』+『with』+『名』》	ejdict
+overburden	〜‘に'荷を積み過ぎる|《受動態で》(仕事などを)〜‘に'負わせ過ぎる《+『名』+『with』+『名』》	ejdict
 applesauce	リンゴソース|(俗)たわごと	anc
 fibreglass	ファイバーグラス|ファイバーガラス	wnjpn
 realign	再編成する	anc
@@ -18546,7 +18546,7 @@ transitory	一時的な|つかの間の|はかない	anc
 encampment	野営すること|野営地|陣地	anc
 larynx	喉頭|咽頭	anc
 traineeship	訓練期間手当	wnjpn
-thresh	(からざおで)〈穀物〉‘を'打つ|(脱穀機で)〈もみがら〉‘を'取る《+名+with+名》|《まれ》…‘を'打つ(thrash)|脱穀する|激しく打つ	ejdict
+thresh	(からざおで)〈穀物〉‘を'打つ|(脱穀機で)〈もみがら〉‘を'取る《+名+with+名》|《まれ》〜‘を'打つ(thrash)|脱穀する|激しく打つ	ejdict
 tartar	酒石(ワイン製造時の沈殿物)|歯石	anc
 slither	ずるずる滑る	anc
 gsr		wnjpn
@@ -18593,7 +18593,7 @@ variegate	増やす|多様化する|変化させる	wnjpn
 bullhead	北米産の頭が大きいカジカの一種	ejdict
 abysmal	底知れぬ	anc
 harken	(=hearken)耳を傾ける|(=listen)	anc
-camber	上反(うわぞり)(道路や船のデッキなどの|雨水などを端に流すための傾斜)|(自動車の|ふつう前輪の)上開き傾斜|上反になる|…'を'上反にする	ejdict
+camber	上反(うわぞり)(道路や船のデッキなどの|雨水などを端に流すための傾斜)|(自動車の|ふつう前輪の)上開き傾斜|上反になる|〜'を'上反にする	ejdict
 tilde	スペイン語で n の上につける記号.ñの上の記号（「ニャ」とか「ニョ」といった音を表す）・波形符号、波形ダッシュ・= swung dash	ejdict
 tenacity	固執|粘り強さ|頑強|不屈	anc
 raver	羽目をはずして楽しむ人|好き勝手な生活を送る人|熱狂的な人|狂人|放蕩児|ホモ	anc
@@ -18822,7 +18822,7 @@ firework	花火|才気のひらめき	anc
 favourably	好意的に	wnjpn
 vigorish	an exorbitant or unlawful rate of interest|a percentage (of winnings or loot or profit) taken by an operator or gangster	wneng
 involuntarily	無意識に|思わず知らずに	anc
-hoke	…‘を'でっちあげる《+『up』+『名』|+『名』+『up』》|でっちあげ|たわごと	ejdict
+hoke	〜‘を'でっちあげる《+『up』+『名』|+『名』+『up』》|でっちあげ|たわごと	ejdict
 coleoptera	beetles	wneng
 aggravate	悪化させる|怒らせる|悩ませる	anc
 historiography	歴史学|史書|(記録された)史実|(厳正な)歴史記述|正史	anc
@@ -19009,7 +19009,7 @@ fragility	もろさ|脆弱さ	anc
 mobster	暴力団の一員|暴力団員|ギャングの一員	anc
 wrest	ねじる|をもぎ取る|苦労して得る|ねじり|ひねり	anc
 lav	手洗|御手洗い|手洗い場|洗面所|手洗場|ご不浄|手水場|雪隠|ラバトリー|用場	wnjpn
-detoxify	…‘の'毒性を除く	ejdict
+detoxify	〜‘の'毒性を除く	ejdict
 dramatist	劇作家	anc
 cutaway	(内部を見せるため)外側の一部を取り除いた模型･舞台装置など|(モーニングなど)前すそを斜めに裁った上着	anc
 herringbone	杉あや(矢はず)模様(織物・寄せ木・石畳などの模様に用いる)|杉あや(矢はず)模様の	ejdict
@@ -19108,7 +19108,7 @@ poinsettia	ポインセチア	anc
 awry	間違って|片方に曲がって|斜めに|正道からそれて	anc
 iceman	氷屋|氷配達人	ejdict
 superposition	重ね合わせ	anc
-subordination	(…より)下位に置くこと;(…への)従属|服従《+to+名》	ejdict
+subordination	(〜より)下位に置くこと;(〜への)従属|服従《+to+名》	ejdict
 parakeet	インコ	anc
 disinterested	私欲のない	anc
 unresponsive	反応しない	anc
@@ -19209,7 +19209,7 @@ unaffiliated	ノンセクション	wnjpn
 blather	ばかげたことを言う	anc
 mass	大量|集団	anc
 violator	違反者	anc
-refit	〈特に|船〉‘を'修復する|再装備する|〈特に|船が〉修復される|再装備される|(…の)修復|再装備《+『of』+『名』》	ejdict
+refit	〈特に|船〉‘を'修復する|再装備する|〈特に|船が〉修復される|再装備される|(〜の)修復|再装備《+『of』+『名』》	ejdict
 pharmacokinetic	薬物動態学的な	anc
 wobbly	不安定な|ぐらぐらする	anc
 tirelessly	疲れを知らずに	anc
@@ -19441,7 +19441,7 @@ unrelenting	厳しい|仮借ない|(速度･努力など)弱まることのな�
 kandahar	カンダハール|カンダハル	wnjpn
 neuropsychology	神経心理学|精神生理学	wnjpn
 expeditiously	手際良く|効率的|手っ取り早く|ぱっぱと|能率的に|てきぱき	wnjpn
-antiquate	(新しいものがとって代り)…'を'古くさくする|時代遅れにする	ejdict
+antiquate	(新しいものがとって代り)〜'を'古くさくする|時代遅れにする	ejdict
 femininity	女であること	anc
 opulent	富んだ	anc
 humbug	ぺてん師	anc
@@ -20077,7 +20077,7 @@ powdery	粉末状の	anc
 detonate	(猛烈な音と勢いで)爆発させる|大爆発を起こす	anc
 uncharted	海図(地図)に(載って)ない|未踏の|未知の	anc
 amass	集める|(財産)を蓄積する|積む	anc
-concatenate	…'を'連結する|鎖状につなぐ	ejdict
+concatenate	〜'を'連結する|鎖状につなぐ	ejdict
 genotyping	遺伝子型判定	anc
 virility	(成年)男子であること|男らしさ|男盛り	anc
 inalienable	(権利など)譲渡できない|奪うことのできない	anc
@@ -20282,7 +20282,7 @@ lantana	ランタナ(香気のある熱帯植物)	ejdict
 seasonality	季節性	anc
 reassign	再び割り当てる	anc
 unobstructed	とんとん拍子	wnjpn
-hydrogenate	…‘に'水素添加する;…‘を'水素処理する	ejdict
+hydrogenate	〜‘に'水素添加する;〜‘を'水素処理する	ejdict
 spenser	スペンサー	wnjpn
 endow	に与える|を授ける	anc
 permanency	〈U〉=permanence|〈C〉永続的なもの(人|地位)	ejdict
@@ -20376,7 +20376,7 @@ styler	整髪用電気器具	ejdict
 shirk	避ける|を回避する|責任逃れする	anc
 docent	(大学の)講師	ejdict
 brimstone	硫黄(=sulfur)	anc
-pretest	(新製品などの)試用|予備テスト|…‘を'試用(予備テスト)する|試用(予備テスト)する	ejdict
+pretest	(新製品などの)試用|予備テスト|〜‘を'試用(予備テスト)する|試用(予備テスト)する	ejdict
 tyndall	ティンダル山	wnjpn
 tantalum	タンタル(希有金属元素;化学記号は Ta)	ejdict
 swagger	威張った歩き方|自慢(する)|ほらを吹く|威張って歩く	anc
@@ -20573,7 +20573,7 @@ cubby	a small secluded room	wneng
 capitalisation	現価|現価|現価|現価	wnjpn
 debutante	初めて社交界に出る少女|初舞台の女優	anc
 cornerback	アメリカンフットボールの守備陣の名	anc
-silkscreen	シルクスクリーン|孔版捺染(こうはんなっせん)法・…‘を'シルクスクリーンで捺染する・絹紗スクリーン捺染法. ・= silk screen	ejdict
+silkscreen	シルクスクリーン|孔版捺染(こうはんなっせん)法・〜‘を'シルクスクリーンで捺染する・絹紗スクリーン捺染法. ・= silk screen	ejdict
 bioremediation	バイオレメディエーション|バイオレメディエーション	wnjpn
 validly	with validity; in a valid manner; "this may not validly be done"|with validity|in a valid manner	wneng
 rematch	再戦	anc
@@ -20788,7 +20788,7 @@ supergrass	スーパーグラス	wnjpn
 exhort	に強く勧める|勧告する|熱心に説く|熱心に勧める	anc
 portico	玄関	anc
 conspire	協力して行う|共謀する|陰謀を企てる|気脈を通ずる	anc
-incitement	(…に対する)刺激|扇動|(…を)刺激(扇動)するもの《+『to』+『名』》	ejdict
+incitement	(〜に対する)刺激|扇動|(〜を)刺激(扇動)するもの《+『to』+『名』》	ejdict
 coastguard	《集合的に》(米国の)沿岸警備隊|(またcoastguardsman)(個々の)沿岸警備隊員	ejdict
 interdiction	(命令によって)禁止する|禁止(命令)|禁令|禁制	anc
 hunchback	亀背|身体障害者	anc
@@ -21045,7 +21045,7 @@ workpiece	工作物	wnjpn
 aseptic	無菌の|防腐処置の	anc
 defamer	讒臣	wnjpn
 gastritis	胃炎|胃痙攣	anc
-entreat	〈人〉‘に'『懇願する』|嘆願する|(人に)…‘を'懇願する|嘆願する《+『名』+『of』+『名』〈人〉》	ejdict
+entreat	〈人〉‘に'『懇願する』|嘆願する|(人に)〜‘を'懇願する|嘆願する《+『名』+『of』+『名』〈人〉》	ejdict
 energise	励起|生かす|策励|刺戟|鼓吹|奮い起こす|奮起す|刺衝|鼓舞|刺激	wnjpn
 adieu	(仏語)アデュー|さようなら|ごきげんよう	anc
 slacker	怠け者	anc
@@ -21079,7 +21079,7 @@ spectrometer	スペクトロメータ	anc
 simulcast	同時放送(番組)	anc
 punchline	punch lineジョークなどの話の急所|落ち	anc
 waddle	ゆらゆらしながら進む|よたよた歩く(こと)	anc
-winkle	タマキビガイ(海水産の食用の巻き貝)|(ピンなどで)…‘を'引っぱり出す《+out+名|+名+out》|(…から)〈情報・人など〉‘を'引き出す《+名+out of+名》	ejdict
+winkle	タマキビガイ(海水産の食用の巻き貝)|(ピンなどで)〜‘を'引っぱり出す《+out+名|+名+out》|(〜から)〈情報・人など〉‘を'引き出す《+名+out of+名》	ejdict
 steeply	急勾配で|急角度に|急に|険しく	anc
 connectedness	結付き|係り|結びつき|コネクション|繋り|連結|結び付き|結付|関係|係わりあい|結付き|掛りあい|係り|関係のあること|結びつき|つながり|コネクション|繋り|結び付き|結付	wnjpn
 calibrator	内径(目盛り)測定器	anc
@@ -21096,7 +21096,7 @@ clack	かたっという音|(crackひび|clackカタッという音)	anc
 hotbed	温床|(罪悪などが)育つ場所	anc
 prepackage	〈食品など〉‘を'販売前に包装する	ejdict
 stilwell	スティルウェル	wnjpn
-pumice	軽石|…‘を'軽石で磨く	ejdict
+pumice	軽石|〜‘を'軽石で磨く	ejdict
 tannery	なめし革工場|皮なめし|皮なめし工場	anc
 extravagance	浪費|濫費	anc
 indium	インジウム(金属元素)	anc
@@ -21254,7 +21254,7 @@ transgress	(罪を)犯す|(制限など)を越える|逸脱する|に違反す�
 cloisonne	七宝(しっぽう)細工|七宝焼	ejdict
 byway	わき道	anc
 playpen	ベビーサークル	anc
-typewrite	…‘を'タイプライターで打つ|タイプを打つ|タイプする	ejdict
+typewrite	〜‘を'タイプライターで打つ|タイプを打つ|タイプする	ejdict
 aphasia	失語症	anc
 cohosh	a plant of the genus Actaea having acrid poisonous berries	wneng
 irreplaceable	かけがえのない|替えがきかない|代わりがきかない	anc
@@ -21635,7 +21635,7 @@ harmonise	調和|嵌る|似あう|填る|合う|填まる|適する|嵌まる|�
 amaretto	アマレット	wnjpn
 shockingly	ゾッとするほど	anc
 freesia	フリージア(アヤメ科の植物で芳香性の花をつける)	ejdict
-hallow	…‘を'神聖にする|神聖なものとする	ejdict
+hallow	〜‘を'神聖にする|神聖なものとする	ejdict
 potentiality	〈U〉潜在状態|〈C〉《通例複数形で》可能性;発展の見込み|将来性	ejdict
 beekeeping	養蜂	wnjpn
 curlew	ダイシャクシギ(くちばしが細長く下に曲がっている鳥)	ejdict
@@ -21759,10 +21759,10 @@ salwar	a pair of light loose trousers with a tight fit around the ankles; worn b
 helplessly	どうしようもなく|どうすることもできず|頼るものもなく|力なく	anc
 quintessence	精髄|神髄|典型|本質	anc
 libellous	(used of statements) harmful and often untrue; tending to discredit or malign|(used of statements) harmful and often untrue|tending to discredit or malign	wneng
-throe	《おもに文》激痛;(死ぬような)苦しみ;陣痛|(…とり)苦闘《+of+名(doing)》	ejdict
+throe	《おもに文》激痛;(死ぬような)苦しみ;陣痛|(〜とり)苦闘《+of+名(doing)》	ejdict
 squander	浪費する|散財する	anc
 homebound	家に引きこもった	wnjpn
-cropper	刈り取る人…(特に)刈り込み機|(ある)収穫を生む作物	ejdict
+cropper	刈り取る人〜(特に)刈り込み機|(ある)収穫を生む作物	ejdict
 culminate	全盛をきわめる|最高潮(極点･絶頂)に達する|ついに～となる|終わる	anc
 fumigation	(部屋などを)いぶして消毒すること	ejdict
 justifiably	正当に	anc
@@ -21830,7 +21830,7 @@ cytoskeletal	細胞骨格の	anc
 periscope	潜望鏡	anc
 uric	尿	anc
 lethality	致死性	anc
-handcraft	=handicraft|…‘を'手仕事で作る	ejdict
+handcraft	=handicraft|〜‘を'手仕事で作る	ejdict
 sombre	薄暗い	anc
 outsell	より多く売る	anc
 succinate	コハク酸塩|哺乳類のミトコンドリア膜内部等にある複合体	anc
@@ -21873,7 +21873,7 @@ catalase	カタラーゼ	wnjpn
 unspoilt	よい|良い	wnjpn
 torrid	情熱的な|焼けた|こげた|乾き切った|焼け付くような	anc
 goldstone	aventurine spangled densely with fine gold-colored particles	wneng
-preconceive	…‘を'あらかじめ考える|‘を'予想する	ejdict
+preconceive	〜‘を'あらかじめ考える|‘を'予想する	ejdict
 needlecraft	a creation created or assembled by needle and thread|work (such as sewing or embroidery) that is done with a needle	wneng
 skateboarder	someone who skates on a skateboard	wneng
 mastodon	マストドン(第四紀洪積世の象に似た巨獣)	ejdict
@@ -22069,7 +22069,7 @@ aboveground	on or above the surface of the ground; "aboveground nuclear testing"
 stepson	養子の息子	anc
 radiocarbon	放射性炭素(生物体の年代測定に用いる)	ejdict
 colloquy	(正式な)協議|会談|(格式張った)会話|対話	anc
-splay	外側へ広がった(開いた)|ぶざまな|ぶかっこうな|斜面|隅切り(窓や扉の両側面の壁が傾斜した部分)|…‘を'広げる|伸ばす|…‘を'斜めにする;〈窓や扉[の壁面]〉に斜角をつける	ejdict
+splay	外側へ広がった(開いた)|ぶざまな|ぶかっこうな|斜面|隅切り(窓や扉の両側面の壁が傾斜した部分)|〜‘を'広げる|伸ばす|〜‘を'斜めにする;〈窓や扉[の壁面]〉に斜角をつける	ejdict
 fiftieth	『第50の』|50番目の|50分の1の|《the~》『第50』|50番目[のもの]|〈C〉50分の1	ejdict
 joyfully	うれしそうに	anc
 opine	意見を述べる(いだく)|考える|思う	anc
@@ -22757,7 +22757,7 @@ omen	前兆|予感|予言	anc
 physiologically	生理的に	anc
 rheum	《米》粘膜分泌物(涙・鼻汁など)|《古》鼻カタル|感冒	ejdict
 epicurean	快楽主義の|飲み食いの好きな|美食家的な	anc
-singe	…‘の'表面を焼く|焦がす|〈毛髪・糸など〉‘の'先端を焼く|焦げあと;焦がすこと|先端を焼くこと	ejdict
+singe	〜‘の'表面を焼く|焦がす|〈毛髪・糸など〉‘の'先端を焼く|焦げあと;焦がすこと|先端を焼くこと	ejdict
 admonish	警告する|勧告する|促す|注意する	anc
 brule	ブリュレ	wnjpn
 fetter	束縛する|足かせ|足鎖|束縛|拘束	anc
@@ -22977,7 +22977,7 @@ cybernetic	of or relating the principles of cybernetics; "cybernetic research"|o
 furlough	(fˈɚːloʊ)(軍人・公務員などの)賜暇(しか)休暇|Ex|two weeks' furlough 2週間の賜暇休暇	anc
 velveteen	ビロード製の(衣類)|綿ビロード(の)|別珍(の)|ベッチン(の)	anc
 recommit	commit once again, as of a crime|commit again; "It was recommitted into her custody"|commit again|send back to a committee; "The bill was recommitted three times in the House"|send back to a committee	wneng
-nonpayment	(…の)不払い|未払い《+『of』+『名』》	ejdict
+nonpayment	(〜の)不払い|未払い《+『of』+『名』》	ejdict
 tricot	トリコット(一種のうね織り);(毛糸・レーヨンなどの)編物	ejdict
 vasodilator	血管拡張剤	anc
 meccano	a child's construction set for making mechanical models	wneng
@@ -23039,7 +23039,7 @@ discordant	調和しない	anc
 couverture	chocolate that contains at least 32 percent cocoa butter	wneng
 rationalist	合理主義者|純理論者	anc
 proteolysis	タンパク質分解	anc
-forbear	(…を)『我慢する』《+『with』+『名』》|(…することを)『差し控える』《+『from』 do『ing』》|〈他〉《forbear to do=forbear doing》(…すること)‘を'『慎しむ』|差し控える	ejdict
+forbear	(〜を)『我慢する』《+『with』+『名』》|(〜することを)『差し控える』《+『from』 do『ing』》|〈他〉《forbear to do=forbear doing》(〜すること)‘を'『慎しむ』|差し控える	ejdict
 columbo	コロンボ	wnjpn
 resorption	吸収	anc
 malady	病気|弊害|(社会的)混乱	anc
@@ -23070,7 +23070,7 @@ aught	《古・詩》 何か|何でも; あらゆること|少しも|どの程�
 jeweller	玉屋|宝石細工人|宝石商|宝石商	wnjpn
 cryptology	暗号学	wnjpn
 gangland	暗黒街	ejdict
-spatter	(…に)〈水など〉‘を'はねかける|まく《+『名』+『on』+『名』》;(水などを)…‘に'まく《+『名』+『with』+『名』》|〈水などが〉…‘に'はねかかる|(…に)〈水などが〉はねる|〈雨などが〉パラパラ降りかかる《+『on』(『into』)+『名』》|はねかける(はねる)こと|(雨などの)パラパラ降りかかる音《+『of』+『名』》|はね|(はねてついた)しみ;(…のはねた)汚れ《+『of』+『名』》|《a ~》(…の)少量|少数《+『of』+『名』》	ejdict
+spatter	(〜に)〈水など〉‘を'はねかける|まく《+『名』+『on』+『名』》;(水などを)〜‘に'まく《+『名』+『with』+『名』》|〈水などが〉〜‘に'はねかかる|(〜に)〈水などが〉はねる|〈雨などが〉パラパラ降りかかる《+『on』(『into』)+『名』》|はねかける(はねる)こと|(雨などの)パラパラ降りかかる音《+『of』+『名』》|はね|(はねてついた)しみ;(〜のはねた)汚れ《+『of』+『名』》|《a ~》(〜の)少量|少数《+『of』+『名』》	ejdict
 nonfat	無脂肪	anc
 grubby	うじがわいた|汚い	anc
 stonefly	川螻蛄	wnjpn
@@ -23312,7 +23312,7 @@ invalidation	(law) a formal termination (of a relationship or a judicial proceed
 probative	試みの|試験的な|立証(証拠)に役立つ	ejdict
 corporeal	実体のある	anc
 passivity	受動性|消極性|無抵抗|忍耐	anc
-partiality	〈U〉不公平|えこひいき(bias)|〈C〉(…に対する)特別な好み|偏愛《+『to』(『for』)+『名』》	ejdict
+partiality	〈U〉不公平|えこひいき(bias)|〈C〉(〜に対する)特別な好み|偏愛《+『to』(『for』)+『名』》	ejdict
 annul	(ənˈʌl)|取り消す|廃棄する|溶ける|液状化する(liquefy)	anc
 lunchroom	簡易食堂|軽食堂|食事室	anc
 anonym	作り名|仮名|別名|別称|筆名|雅号|アノニム|異称	wnjpn
@@ -23488,7 +23488,7 @@ uncircumcised	割礼を受けていない|ユダヤ人でない|異邦人の|異
 anticoagulation	the administration of an anticoagulant drug to retard coagulation of the blood	wneng
 duplicative	重複した	anc
 embroider	ししゅうする|刺繍する|潤色する(うわべや表現をつくろう)	anc
-diddle	〈人〉‘を'だます;(…を)〈人〉‘から'だまし取る《+『名』+『out of』+『名』》	ejdict
+diddle	〈人〉‘を'だます;(〜を)〈人〉‘から'だまし取る《+『名』+『out of』+『名』》	ejdict
 drawl	音を長く延ばして言う	anc
 eventide	夕べ|たそがれ	ejdict
 hashish	ハシッシュ|ハッシシ (大麻の枝先の葉と若芽を乾燥させた麻薬)	anc
@@ -23664,7 +23664,7 @@ driveshaft	a rotating shaft that transmits power from the engine to the point of
 necrotic	壊死の	anc
 everyplace	=everywhere	ejdict
 presumptuous	でしゃばりの|厚かましい	anc
-stipple	〈U〉点彩(点画|点刻)[法]|点彩(点画|点刻)による作品|…‘を'点彩(点描|点刻)する	ejdict
+stipple	〈U〉点彩(点画|点刻)[法]|点彩(点画|点刻)による作品|〜‘を'点彩(点描|点刻)する	ejdict
 redouble	倍加する|強める|強まる	anc
 afore	=before	ejdict
 dour	陰気な|むっつりした|気むずかしい|きびしい|頑固な	anc
@@ -23736,7 +23736,7 @@ passim	(作家の特徴を示す概念・語句などが)各所に|随所に	ejd
 cyberculture	the culture that emerges from the use of computers for communication and entertainment and business	wneng
 cavitation	空洞現象(低圧で流体を中に空間のできること)	ejdict
 artisanal	職人の	anc
-scintilla	微量(の…);(…の)気味《+『of』+『名』》	ejdict
+scintilla	微量(の〜);(〜の)気味《+『of』+『名』》	ejdict
 jovial	陽気な	anc
 scoundrel	悪党|悪漢	anc
 pleurisy	ろく膜炎	ejdict
@@ -23865,7 +23865,7 @@ inattentive	不注意な	anc
 precession	春分点歳差(春分が年々早く起こること)	ejdict
 transmutation	変化|変形|変質|(物理学で)変換	ejdict
 prosciutto	プロシュート|香辛料の効いたイタリアハム	anc
-bemuse	(ぼんやりするほど)…‘の'心を奪う	ejdict
+bemuse	(ぼんやりするほど)〜‘の'心を奪う	ejdict
 uninfected	感染していない	anc
 coonhound	クーンハウンド(アライグマ猟用に改良された猟犬)	ejdict
 unexpended	(of financial resources) not spent; "unexpended funds"; "his unspent allowance"|(of financial resources) not spent|not used up; "leftover meatloaf"; "she had a little money left over so she went to a movie"; "some odd dollars left"; "saved the remaining sandwiches for supper"; "unexpended provisions"|not used up	wneng
@@ -23883,7 +23883,7 @@ dockyard	造船所	anc
 anastomosis	(血管・神経の)吻合(ふんごう)|接合|(葉脈の)網状連絡	ejdict
 dermis	=derma	ejdict
 insured	被保険者	wnjpn
-presentment	〈U〉(…の)贈呈|進呈;提出|提示《+『of』+『名』》|〈U〉(…の)記述|陣述《+『of』+『名』》|(劇の)上演|演出	ejdict
+presentment	〈U〉(〜の)贈呈|進呈;提出|提示《+『of』+『名』》|〈U〉(〜の)記述|陣述《+『of』+『名』》|(劇の)上演|演出	ejdict
 hierarchically	in a hierarchical manner; "hierarchically organized"|in a hierarchical manner	wneng
 corrode	腐食する|腐食|侵食する|腐食させる	anc
 inure	慣れさせる|鍛える	anc
@@ -23929,7 +23929,7 @@ transversal	(幾何で)横断線	ejdict
 elaborately	念入りに	anc
 gaslight	ガス灯(の光)|ガスの火口	anc
 niobium	ニオビウム(金属元素;化学記号は『Nb』)	ejdict
-pith	(植物の茎の中の)髄;(果実などの)やわらかい部分|《the ~》(…の)重要な部分|要点《+『of』+『名』》	ejdict
+pith	(植物の茎の中の)髄;(果実などの)やわらかい部分|《the ~》(〜の)重要な部分|要点《+『of』+『名』》	ejdict
 gladden	〈人〉‘を'喜ばせる	ejdict
 retrovirus	レトロウイルス|RNAウイルス類の中で逆転写酵素を持つ種類の総称|レトロウイルス科とも呼ばれる	anc
 flambeau	たいまつ	ejdict
@@ -24003,7 +24003,7 @@ digestibility	こなれやすいこと|消化能力|消化のよしあし	ejdict
 archaea	古細菌(単数形はarchaeon)	anc
 compleat	=complete	ejdict
 chambered	having compartmental chambers; "a spiral chambered seashell"|having compartmental chambers	wneng
-consumptive	消費の;消耗させる|破壊的な;(…を)消費する《+『of』+『名』》|《古》肺結核の|肺病患者	ejdict
+consumptive	消費の;消耗させる|破壊的な;(〜を)消費する《+『of』+『名』》|《古》肺結核の|肺病患者	ejdict
 melancholic	憂うつな|憂鬱な	anc
 cathartic	カタルシスの|下剤の	anc
 noisily	やかましく	anc
@@ -24023,7 +24023,7 @@ chromate	クロム酸塩	ejdict
 inferential	推理の	anc
 prerecord	〈番組の〉‘の'録画(録音)をとる	ejdict
 razzle	any exciting and complex play intended to confuse (dazzle) the opponent	wneng
-insolent	横柄な|ごう慢|無礼な;(…に対して)横柄な《+『to』+『名』》	ejdict
+insolent	横柄な|ごう慢|無礼な;(〜に対して)横柄な《+『to』+『名』》	ejdict
 neuropathic	神経病の	anc
 lectureship	大学の講師の職(地位)	ejdict
 newsman	ニュース番組のレポーター|取材記者	anc
@@ -24119,7 +24119,7 @@ spiky	先端のとがった|くぎのような|くぎ付きの|くぎだらけ�
 disused	使われなくなった|すたれた	ejdict
 woodchuck	(北米産)マーモット	anc
 sumac	スーマック|中近東一帯に原生するウルシ科の灌木|赤い果実はフルーティーな酸っぱさがあり|乾燥させレモン汁のように利用される	anc
-dower	寡婦(かふ)産(亡夫の遺産のうち未亡人が受ける部分)|生まれつきの資質|天賦の才|=dowry|…‘に'寡婦産を与える|(才能・資質などを)…‘に'与える|賦与する(endow)	ejdict
+dower	寡婦(かふ)産(亡夫の遺産のうち未亡人が受ける部分)|生まれつきの資質|天賦の才|=dowry|〜‘に'寡婦産を与える|(才能・資質などを)〜‘に'与える|賦与する(endow)	ejdict
 ricin	リシン	wnjpn
 amiodarone	アミオダロン	wnjpn
 wordy	ことばの|言葉数の多い	anc
@@ -24193,7 +24193,7 @@ laze	怠ける	anc
 blubber	鯨の脂肪|泣きじゃくる	anc
 immunoreactive	免疫反応性	anc
 gingivitis	歯肉炎	anc
-precis	〈C〉要約したもの|摘要|〈U〉要約法|要約すること|…‘を'要約する	ejdict
+precis	〈C〉要約したもの|摘要|〈U〉要約法|要約すること|〜‘を'要約する	ejdict
 nanak	Indian religious leader who founded Sikhism in dissent from the caste system of Hinduism; he taught that all men had a right to search for knowledge of God and that spiritual liberation could be attained by meditating on the name of God (1469-1538)|Indian religious leader who founded Sikhism in dissent from the caste system of Hinduism|he taught that all men had a right to search for knowledge of God and that spiritual liberation could be attained by meditating on the name of God (1469-1538)	wneng
 weightless	無重力の	ejdict
 plexiglas	a light transparent weather resistant thermoplastic	wneng
@@ -24386,7 +24386,7 @@ tope	酒びたりになる|〈酒〉‘を'ひどく(常に)飲む	ejdict
 ablution	《複数形で》(宗教上の儀式としての)沐浴(もくよく)	ejdict
 conformist	遵法者	anc
 angstrom	オングストローム|1000万分の1mm	anc
-premeditate	…‘を'前もって考える(計画する)	ejdict
+premeditate	〜‘を'前もって考える(計画する)	ejdict
 topically	局所的	wnjpn
 neomycin	ネオマイシン	anc
 upwardly	上方へ|上向きに	wnjpn
@@ -24399,7 +24399,7 @@ tenable	持続できる	anc
 chaplet	頭飾りの花輪|小さなじゅず|(一般に)ビーズ飾り|玉飾り	ejdict
 triumphantly	勝ち誇って	anc
 deionized	脱イオン	anc
-perpetuation	(…を)不朽にすること|永続させること《+『of』+『名』》	ejdict
+perpetuation	(〜を)不朽にすること|永続させること《+『of』+『名』》	ejdict
 indole	インドール|花のような香りがあり|天然ジャスミン油等に含まれる|室温では固体で排泄物臭を発散する|名前は植物由来の染料のインディゴに由来	anc
 subdivider	someone who divides parts into smaller parts (especially a divider of land into building sites)	wneng
 infantryman	歩兵	anc
@@ -24454,7 +24454,7 @@ jittery	神経過敏の	anc
 rootstock	根茎	ejdict
 aspirate	気息音の|帯気音の|気音で発音する	anc
 selfishly	身勝手に	anc
-dray	(4輪で台の低い)荷[馬]車|…‘を'荷[馬]車で運ぶ	ejdict
+dray	(4輪で台の低い)荷[馬]車|〜‘を'荷[馬]車で運ぶ	ejdict
 coulda	could haveの縮約形	anc
 drudgery	苦役|退屈な骨折れ仕事|単調でつまらない仕事	anc
 blastocyst	胚盤胞|卵割腔形成後から着床前の胚形成初期に形成される構造のこと	anc
@@ -24499,7 +24499,7 @@ frontispiece	本の口絵	anc
 vivacious	活気のある|陽気な	anc
 bloodshot	充血した	anc
 forsooth	真に|ほんとうに|いかにも	ejdict
-actualize	…'を'実現する;…'を'行動に表す	ejdict
+actualize	〜'を'実現する;〜'を'行動に表す	ejdict
 geordie	a native of Newcastle-upon-Tyne|the nonstandard dialect of natives of Newcastle-upon-Tyne	wneng
 spurn	を踏みつける|を拒絶する|拒否する	anc
 deathbed	死の床|臨終	anc
@@ -24512,7 +24512,7 @@ kob	an orange-brown antelope of southeast Africa	wneng
 matriarch	女家長	anc
 hackle	(おんどりなどの首回りの)細長い羽毛|(怒ったときなどに逆立つ犬などの)毛	ejdict
 bitterroot	showy succulent ground-hugging plant of Rocky Mountains regions having deep to pale pink flowers and fleshy farinaceous roots; the Montana state flower|showy succulent ground-hugging plant of Rocky Mountains regions having deep to pale pink flowers and fleshy farinaceous roots|the Montana state flower	wneng
-medicate	〈人・病気・傷など〉‘を'薬で治療する|…‘に'薬を加える|薬剤を投入(添加)する	ejdict
+medicate	〈人・病気・傷など〉‘を'薬で治療する|〜‘に'薬を加える|薬剤を投入(添加)する	ejdict
 borax	硼砂	ejdict
 symmetrically	対称|対称的	wnjpn
 amyloidosis	アミロイド症	wnjpn
@@ -24582,7 +24582,7 @@ naively	素朴に|純真に|単純に	anc
 nominative	指名(任命)の|主格(の)|主語	anc
 boozer	大酒飲み	ejdict
 kapok	カポック|パンヤ|絹綿(クッション・まくらの詰め物にする)	ejdict
-induct	(正式に)(…に)〈人|特に僧〉‘を'就任させる《+『名』〈人〉+『into』+『名』》|(…に)〈人〉‘を'入会させる|軍隊に入れる《+『名』+『into』+『名』》	ejdict
+induct	(正式に)(〜に)〈人|特に僧〉‘を'就任させる《+『名』〈人〉+『into』+『名』》|(〜に)〈人〉‘を'入会させる|軍隊に入れる《+『名』+『into』+『名』》	ejdict
 shibboleth	シボレテ(聖書で|ギレアデ人がshの音を発音できないエフライム人を区別する目的で発音させた言葉);ある集団を特徴づける習慣・言葉遣い・昔は重要であったが現在では重要性のない表現や習慣	ejdict
 minaret	(イスラム寺院の)尖塔	anc
 alchemical	related to or concerned with alchemy	wneng
@@ -24894,7 +24894,7 @@ epitaxy	growing a crystal layer of one mineral on the crystal base of another mi
 spineless	背骨の弱い|刺のない	anc
 idyll	田園詩|牧歌|物語詩|田園文学	anc
 neuropsychiatric	神経精神医学的	wnjpn
-physic	《古》医薬|(特に)下剤|…‘に'薬を飲ませる	ejdict
+physic	《古》医薬|(特に)下剤|〜‘に'薬を飲ませる	ejdict
 concoct	(スープなど)を作り上げる|でっち上げる|調合する	anc
 daphnia	ミジンコ	wnjpn
 bulbous	球根状の	anc
@@ -24969,7 +24969,7 @@ precipitous	切り立った|険しい|絶壁の|崖のような	anc
 scherzo	スケルツォ(おどけた調子の楽章)	ejdict
 shortie	=shorty　背の低い人　ちび　短い服（ナイトガウンなど）　（衣服などの）丈の短い	ejdict
 darter	突進する人(物)|ヤウオ(米国産のスズキ科の小さな淡水魚)	ejdict
-thereabouts	おおよそその辺に|大体そのころ;およそ…ぐらい	ejdict
+thereabouts	おおよそその辺に|大体そのころ;およそ〜ぐらい	ejdict
 weald	森林地帯	ejdict
 unexploded	still capable of exploding or being fired; "undischarged ammunition"; "an unexploded bomb"|still capable of exploding or being fired	wneng
 explicate	詳細に説明する	anc
@@ -25086,7 +25086,7 @@ channelize	進路を取る|チャネル化する|運輸|送配|渡す|輸する|
 prothrombin	プロトロンビン|血しょう中のタンパク質で|トロンビンの不活性前駆体と呼ばれる	anc
 vermiculite	バーミキュライト|ひる石(熱するとふくれ|防音・断熱材として用いられる)	ejdict
 unavoidably	必定|勢	wnjpn
-dele	(印刷物の校正で)…'を'削除する|削除記号	ejdict
+dele	(印刷物の校正で)〜'を'削除する|削除記号	ejdict
 commissar	コミッサール|共産党統制委員|人民委員	anc
 plod	こつこつ働くこと|とぼとぼ歩く(こと)|ゆっくり進む|こつこつ取り組む	anc
 menial	くだらない|つまらない|熟練のいらない|卑屈な|召使の	anc
@@ -25323,7 +25323,7 @@ endorphin	エンドルフィン	wnjpn
 gallic	of or pertaining to Gaul or the Gauls; "Ancient Gallic dialects"; "Gallic migrations"; "the Gallic Wars"|of or pertaining to Gaul or the Gauls|of or pertaining to France or the people of France; "French cooking"; "a Gallic shrug"|of or pertaining to France or the people of France	wneng
 phobic	恐怖症の人|恐怖症患者|病的に怖がる	anc
 tubule	尿細管	anc
-kayo	ノックアウト(knockout)|(ボクシングで)…‘を'ノックアウトする	ejdict
+kayo	ノックアウト(knockout)|(ボクシングで)〜‘を'ノックアウトする	ejdict
 noninstitutionalized	not committed to an institution	wneng
 patriarchate	patriarchの地位(職権・在位期間・支配区域)	ejdict
 undershirt	アンダーシャツ	anc
@@ -25377,7 +25377,7 @@ impassable	通れない|通行不能	anc
 ipsilateral	on or relating to the same side (of the body)	wneng
 potentiate	強化する	anc
 nicotiana	タバコ	wnjpn
-signor	(イタリア語)《S-》…君(様|殿|閣下)(英語のMr.|Sirに相当)|(特にイタリアの)貴族|紳士	ejdict
+signor	(イタリア語)《S-》〜君(様|殿|閣下)(英語のMr.|Sirに相当)|(特にイタリアの)貴族|紳士	ejdict
 phlegm	痰|粘液	anc
 subatomic	Subatomic particle|亜原子粒子|物理学や化学において原子よりも小さい粒子	anc
 paddler	someone paddling a canoe	wneng
@@ -25442,7 +25442,7 @@ separatism	分離主義	anc
 meerkat	ミーアキャット	wnjpn
 oiler	タンカー	anc
 covalently	共有結合	anc
-spangle	スパングル(特に衣服につけるぴかぴか光る小さな薄い金属やプラスチックの飾り)|ぴかぴか光る小さな物|(光る物などで)…‘を'飾る;…‘を'ぴかぴか光らす	ejdict
+spangle	スパングル(特に衣服につけるぴかぴか光る小さな薄い金属やプラスチックの飾り)|ぴかぴか光る小さな物|(光る物などで)〜‘を'飾る;〜‘を'ぴかぴか光らす	ejdict
 ideation	観念の形成|観念化	ejdict
 milage	マイル数	wnjpn
 cession	(領土の)割譲|(権利・財産の)譲渡|譲与;〈C〉譲渡されたもの	ejdict
@@ -25488,11 +25488,11 @@ meatless	lacking meat; "meatless days"|lacking meat	wneng
 institutionally	by an institution; "institutionally controlled"|by an institution	wneng
 antisera	抗血清	anc
 dynastic	王朝の	anc
-cognizance	(…の)認識|知識|知覚《+『of』+『名』》|知識(認識)の範囲;理解能力	ejdict
+cognizance	(〜の)認識|知識|知覚《+『of』+『名』》|知識(認識)の範囲;理解能力	ejdict
 savoring	taking a small amount into the mouth to test its quality; "cooking was fine but it was the savoring that he enjoyed most"|taking a small amount into the mouth to test its quality	wneng
 casbah	カスバ	wnjpn
 vaginitis	膣炎	wnjpn
-nearness	(…への)近さ|接近|近似《+『to』+『名』》	ejdict
+nearness	(〜への)近さ|接近|近似《+『to』+『名』》	ejdict
 plebiscite	国民(住民|一般)投票|世論表明	anc
 internationalize	put under international control; "internationalize trade of certain drugs"|put under international control|make international in character; "We internationalized the committee"|make international in character	wneng
 leftism	傾向	wnjpn
@@ -25609,7 +25609,7 @@ atresia	閉鎖	wnjpn
 bombastic	誇大な|大げさな|大言壮語の|豪語する	anc
 turnoff	分岐点	anc
 smasher	粉砕工(機)|強打;墜落|《英話》すてきな人(物)	ejdict
-remount	…に再び乗る|再び登る|〈軍隊など〉‘に'新馬を供給する|新馬を入れる|〈絵・写真など〉‘を'新しい厚紙に貼りかえる|再び馬(自転車など)に乗る|新馬|補充馬;新馬の補充	ejdict
+remount	〜に再び乗る|再び登る|〈軍隊など〉‘に'新馬を供給する|新馬を入れる|〈絵・写真など〉‘を'新しい厚紙に貼りかえる|再び馬(自転車など)に乗る|新馬|補充馬;新馬の補充	ejdict
 blowback	バックファイア	wnjpn
 circumpolar	北極(南極)周辺の|(星が)天極の回りを円を描いて回る	ejdict
 unearthly	この世のものとも思われない|気味悪い	anc
@@ -25658,7 +25658,7 @@ squib	爆竹|導火爆管|小花火|(政治家攻撃)機智に富んだ文|風�
 microbrewery	地ビールの醸造所	wnjpn
 aeolian	a member of one of four linguistic divisions of the prehistoric Greeks|the ancient Greek inhabitants of Aeolia|of or pertaining to Aeolus, the Greek god of the winds; relating to or caused by the wind|of or pertaining to Aeolus, the Greek god of the winds|relating to or caused by the wind|of or relating to Aeolis or its ancient Greek people	wneng
 gunny	(袋などを作る)目のあらい麻布	ejdict
-lave	…‘を'洗う(wash)|浸す|〈流れなどが〉〈岸〉‘を'洗う	ejdict
+lave	〜‘を'洗う(wash)|浸す|〈流れなどが〉〈岸〉‘を'洗う	ejdict
 headstock	主軸台	wnjpn
 crabgrass	オイシバ(ヒメシバ属)の草	ejdict
 porker	(食用に肥らせる)子豚|《おどけて》豚	ejdict
@@ -25881,8 +25881,8 @@ carburettor	キャブレター	wnjpn
 guardsman	監視人|州兵|近衛兵|衛兵	anc
 trivialize	つまらなくする|平凡化する|矮小化する	anc
 subvention	(政府などからの)補助金|助成金	ejdict
-unbecoming	似つかわしくない|不適当な;(…に)似つかわしくない《+to(for)+名》	ejdict
-deject	…'を'落胆させる|がっかりさせる	ejdict
+unbecoming	似つかわしくない|不適当な;(〜に)似つかわしくない《+to(for)+名》	ejdict
+deject	〜'を'落胆させる|がっかりさせる	ejdict
 parotid	relating to or located near the parotid gland	wneng
 comely	美しい|みめよい|顔立ちのよい|器量のいい|ふさわしい	anc
 prow	船首	anc
@@ -26027,7 +26027,7 @@ groggy	グロッキーの|意識がもうろうとした	anc
 valvular	(特に心臓の)弁の	ejdict
 dander	ふけ|(口)怒り|He got his dander up|彼は癇癪を起こした	anc
 listless	気乗りしない|物憂げな|だるい|無関心な	anc
-federate	…‘を'連邦制度にする;…‘を'連合させて(…を)作る《+『名』+『into』+『名』》|連邦化する|連合する	ejdict
+federate	〜‘を'連邦制度にする;〜‘を'連合させて(〜を)作る《+『名』+『into』+『名』》|連邦化する|連合する	ejdict
 shelve	(問題など)を棚上げする|延期する|を棚にのせる|を解雇する	anc
 wheaten	小麦の;小麦[粉]製の	ejdict
 arugula	ルッコラ	wnjpn
@@ -26239,7 +26239,7 @@ equilateral	等辺の	anc
 peloton	サイクリングレースなどのメイン集団|先頭集団	anc
 munition	軍需品(munitions)	anc
 dichroism	二色性	wnjpn
-machinegun	機関銃の|…‘を'機械掃射する	ejdict
+machinegun	機関銃の|〜‘を'機械掃射する	ejdict
 waken	の目を覚まさせる|を奮起させる|気付かせる	anc
 handstand	さか立ち	anc
 teary	しょっぱい|塩気のある|悲しい|涙に濡れた|涙の|涙をたたえた	anc
@@ -26265,7 +26265,7 @@ tonsil	扁桃腺	anc
 demigod	半神半人	ejdict
 riotous	暴動を起こす	anc
 silico	in silico(イン・シリコ)|in vivoやin vitroなどから派生した用語で|シリコン内での意味から「コンピュータを用いて」の意|バイオインフォマティクスなどで頻繁に見られる	anc
-enfold	(…で)…‘を'くるむ|包む《+『名』+『with』+『名』》|(…に)…‘を'包む《+『名』+『in』+『名』》|…‘を'抱く|抱きしめる|…‘を'畳む	ejdict
+enfold	(〜で)〜‘を'くるむ|包む《+『名』+『with』+『名』》|(〜に)〜‘を'包む《+『名』+『in』+『名』》|〜‘を'抱く|抱きしめる|〜‘を'畳む	ejdict
 anticholinergic	抗コリン	wnjpn
 embitter	〈人〉‘に'つらい思いをさせる|‘を'悲しませる	ejdict
 her	彼女に|彼女の|彼女を	anc
@@ -26428,7 +26428,7 @@ arteritis	動脈炎	wnjpn
 cheerfulness	快活|上機嫌	anc
 egoism	利己主義;自分勝手|うぬぼれ	ejdict
 pummel	ゲンコツで打つ	anc
-transshipment	(乗客・貨物を)他の乗り物に移すこと|(…の)積み換え《+of+名》	ejdict
+transshipment	(乗客・貨物を)他の乗り物に移すこと|(〜の)積み換え《+of+名》	ejdict
 rimbaud	ランボオ	wnjpn
 fatherless	父のない|父親の分からない|作者不詳の	ejdict
 acclimation	順化	anc
@@ -26476,7 +26476,7 @@ unbind	のバンドを外す|束縛を解く|ほどく|釈放する	anc
 colostomy	結腸人工肛門造設術	ejdict
 novena	(カトリックで)9日間の祈り(修業)	ejdict
 extractable	capable of being extracted	wneng
-enthrone	…‘を'王位につかせる|〈人〉‘を'あがめる	ejdict
+enthrone	〜‘を'王位につかせる|〈人〉‘を'あがめる	ejdict
 vinca	ビンカ	wnjpn
 penetrator	ペネトレーター	wnjpn
 hybridize	雑種を作る|かけ合わせる	anc
@@ -26503,7 +26503,7 @@ dehydratase	脱水酵素	anc
 nondescript	これといった特徴のない|目立たない	anc
 azathioprine	アザチオプリン	wnjpn
 ribonucleoprotein	リボ核タンパク質	anc
-howsoever	たとえ…でも	ejdict
+howsoever	たとえ〜でも	ejdict
 nystagmus	involuntary movements of the eyeballs; its presence or absence is used to diagnose a variety of neurological and visual disorders|involuntary movements of the eyeballs|its presence or absence is used to diagnose a variety of neurological and visual disorders	wneng
 drogue	海錨(びょう)(船首を風の方向に保つため海中に投じるカンバスの袋)|(飛行機が引く射撃練習用の)吹き流し	ejdict
 niobrara	ニオブレラ川	wnjpn
@@ -26668,7 +26668,7 @@ teahouse	(日本･中国の)茶店	anc
 susa	スーサ	wnjpn
 tercentenary	300年の|300年[祭]	ejdict
 skydiver	スカイダイビングをする人	ejdict
-teaspoonful	(…の)茶さじ1杯[分](tablespoonful の3分の1の量)《+of+名》	ejdict
+teaspoonful	(〜の)茶さじ1杯[分](tablespoonful の3分の1の量)《+of+名》	ejdict
 lippmann	リップマン|リップマン	wnjpn
 absolutist	絶対主義者	anc
 ptarmigan	ライチョウ(雷鳥)(高地にすむ鳥)	ejdict
@@ -26698,7 +26698,7 @@ embarrassingly	あきれるほどに	anc
 southerner	南国の人|南部人|南部側の人|南部地方の人	anc
 fundus	底	anc
 serviceman	軍人|修理員	anc
-senorita	〈U〉…嬢(英語の Miss に相当)|〈C〉未婚婦人|令嬢	ejdict
+senorita	〈U〉〜嬢(英語の Miss に相当)|〈C〉未婚婦人|令嬢	ejdict
 northeasterly	北東の;北東への|(風が)北東からの|北東へ(に)|(風が)北東から	ejdict
 longing	あこがれ|熱望(する)|切望	anc
 evangel	福音書	wnjpn
@@ -26725,7 +26725,7 @@ softbound	(本が)薄紙表紙の	ejdict
 showpiece	見本となる傑作|絶好の手本|展示品|展示物|優れた傑作	anc
 vehemence	熱心|熱意|熱情|激しさ|猛威	anc
 nutcase	狂人|気違い	anc
-immanent	(特質・要因などが)(…に)内在する《+in+名》|(神・神の意志が)宇宙に遍在する	ejdict
+immanent	(特質・要因などが)(〜に)内在する《+in+名》|(神・神の意志が)宇宙に遍在する	ejdict
 unfunny	面白くない	anc
 dipolar	having equal and opposite electric charges or magnetic poles having opposite signs and separated by a small distance	wneng
 formic	of or relating to or derived from ants|of or containing or derived from formic acid	wneng
@@ -26907,7 +26907,7 @@ ventilatory	換気の	anc
 stumpy	切り株の多い|切り株だらけの|太くて短い|ずんぐりした	ejdict
 liveness	生存性|有情	wnjpn
 brogue	アイルランドなまり	anc
-whereon	《疑問副詞》何の上に(on what)|《文》《関係副詞》|《制限用法》[その上に]…するところの(on which)|《非制限用法》=whereupon	ejdict
+whereon	《疑問副詞》何の上に(on what)|《文》《関係副詞》|《制限用法》[その上に]〜するところの(on which)|《非制限用法》=whereupon	ejdict
 lorn	孤独の|わびしい|見捨てられた	ejdict
 entente	〈C〉〈U〉(2か国・数か国間の)友好関係|〈U〉《the~》《集合的に》(友好関係を結んでいる)2か国|数か国	ejdict
 gramme	=gram	ejdict
@@ -26938,7 +26938,7 @@ ionisation	イオン化|イオン化	wnjpn
 erythroid	赤血球系	wnjpn
 repartee	当意即妙の答え|当意即妙の応酬(の才)	anc
 olm	ホライモリ|オルム	wnjpn
-perplex	(…で)〈物事〉‘を'『混乱させる』;〈人〉‘を'混乱させる|当惑させる《+『名』+『with』+『名』》	ejdict
+perplex	(〜で)〈物事〉‘を'『混乱させる』;〈人〉‘を'混乱させる|当惑させる《+『名』+『with』+『名』》	ejdict
 hackberry	エノキ|榎|エノキ	wnjpn
 vigna	genus of vines or erect herbs having trifoliate leaves and yellowish or purplish flowers; of warm or tropical regions; most species often placed in genus Phaseolus|genus of vines or erect herbs having trifoliate leaves and yellowish or purplish flowers|of warm or tropical regions|most species often placed in genus Phaseolus	wneng
 boggy	沼地の	anc
@@ -27029,7 +27029,7 @@ linkup	連結点|(軍隊・宇宙船の)連結|結合	ejdict
 lyricism	叙情主義	anc
 coppice	雑木林	ejdict
 topologically	from the point of view of topology	wneng
-parley	(戦場で敵側との)和平交渉|停戦会議|談義|討論|(…と)和平交渉をする《+『with』+『名』》	ejdict
+parley	(戦場で敵側との)和平交渉|停戦会議|談義|討論|(〜と)和平交渉をする《+『with』+『名』》	ejdict
 jessamine	=jasmine	ejdict
 palatial	宮殿の	anc
 estrogenic	relating to or caused by estrogen	wneng
@@ -27049,7 +27049,7 @@ urogenital	泌尿生殖器の	ejdict
 biocide	(特に)植物の生命を破壊する化学物質	ejdict
 outgoing	出ていく|去っていく|退職する(leaving)|出発する|社交性に富んだ|出発|出費	anc
 bonbon	(仏語)ボンボン|糖菓|顔に当てるスポット照明|砂糖菓子の一種	anc
-presupposition	〈U〉予期(予想)すること|前提となる事柄;(…という)前提《+『that節』》	ejdict
+presupposition	〈U〉予期(予想)すること|前提となる事柄;(〜という)前提《+『that節』》	ejdict
 sprue	スプルー	wnjpn
 academician	アカデミー会員|学士院会員	anc
 hayfield	干し草畑	anc
@@ -27190,7 +27190,7 @@ alluvium	沖積層|沖積土(河川によって運ばれてきた地層)	ejdict
 crabapple	野生のりんご	ejdict
 stargaze	星を観測する|空想にふける|夢想する	ejdict
 catabolic	(生物学)異化作用の(生物が外界から摂取した物質を化学的に分解し|より簡単な物質に変える反応)|(反)anabolic	anc
-emaciate	…‘を'やせ衰えさせる|やつれさせる	ejdict
+emaciate	〜‘を'やせ衰えさせる|やつれさせる	ejdict
 wiggler	揺れ動く人(物)|うねりくねって進むもの|ぼうふら	ejdict
 millimetre	粍|ｍｍ|ミリメータ|ミリ|mm|ミリメートル	wnjpn
 manse	館|大邸宅	anc
@@ -27313,9 +27313,9 @@ griot	グリオ	wnjpn
 spawner	a female fish at spawning time	wneng
 solvation	ソルベーション|溶媒和|溶質が電離して生じたイオンと溶媒分子が静電気力や水素結合によって結びつき|溶質が溶媒中に拡散すること	anc
 clx	being ten more than one hundred fifty	wneng
-sandbag	砂袋|土のう(水害・銃撃のときの防壁用;また凶器にも用いられる)|(防御手段として)…‘に'砂袋(土のう)を積む(置く)|…‘を'砂袋で打ち倒す|《米話》〈人〉‘に'(…を)強制する《+『名』〈人〉+『into』+『名』(do『ing』)》	ejdict
+sandbag	砂袋|土のう(水害・銃撃のときの防壁用;また凶器にも用いられる)|(防御手段として)〜‘に'砂袋(土のう)を積む(置く)|〜‘を'砂袋で打ち倒す|《米話》〈人〉‘に'(〜を)強制する《+『名』〈人〉+『into』+『名』(do『ing』)》	ejdict
 triune	三者一体の;(体に神が)三位一体をなす	ejdict
-domineer	(…に)いばりちらす|おうへいにふるまう《+『over』+『名』》	ejdict
+domineer	(〜に)いばりちらす|おうへいにふるまう《+『over』+『名』》	ejdict
 neut	(=neutron bomb)中性子爆弾	anc
 classwork	学業	wnjpn
 tapir	バク(貘)	anc
@@ -27556,7 +27556,7 @@ grindstone	回転砥石	anc
 roofer	a craftsman who lays or repairs roofs	wneng
 quinone	キノン	wnjpn
 sacredness	神聖	wnjpn
-reword	…‘を'言い直す|書き替える	ejdict
+reword	〜‘を'言い直す|書き替える	ejdict
 intermarriage	(血族)結婚	anc
 demodulation	復調	wnjpn
 haply	多分	ejdict
@@ -27623,7 +27623,7 @@ sadhu	(ヒンズー教の)聖者	ejdict
 perfunctory	いい加減な	anc
 parsec	パーセク	wnjpn
 pitta	ヤイロチョウ	wnjpn
-calcine	…'を'焼いて生石灰にするか焼(かしょう)する|焼いて生石灰になる|生石灰	ejdict
+calcine	〜'を'焼いて生石灰にするか焼(かしょう)する|焼いて生石灰になる|生石灰	ejdict
 daub	塗りつぶす|塗料|塗る|塗りつける	anc
 falsetto	裏声	anc
 puissance	(国王の)権力|勢力	ejdict
@@ -27672,7 +27672,7 @@ pheochromocytoma	褐色細胞腫	wnjpn
 wyler	ワイラー	wnjpn
 buttercream	バタークリーム	anc
 goy	a Christian as contrasted with a Jew	wneng
-predestine	《しばしば受動態で》〈神が〉(…に)〈人〉‘を'運命づける|‘に'宿命を負わせる《+『名』+『for』+『名』|(…するよう)〈人〉‘を'運命づける《+『名』+『to』 do》	ejdict
+predestine	《しばしば受動態で》〈神が〉(〜に)〈人〉‘を'運命づける|‘に'宿命を負わせる《+『名』+『for』+『名』|(〜するよう)〈人〉‘を'運命づける《+『名』+『to』 do》	ejdict
 therapeutically	治療上	ejdict
 spacewalk	宇宙遊泳|宇宙遊泳する	ejdict
 arsenide	a compound of arsenic with a more positive element	wneng
@@ -27698,7 +27698,7 @@ hermeneutic	interpretive or explanatory	wneng
 sorb	吸い上げる|吸いとる|吸取る|吸い取る	wnjpn
 paternalistic	温情主義の|家族主義的な	ejdict
 bushmaster	熱帯アメリカ産の大形の毒ヘビ	ejdict
-undernourish	…‘に'十分の栄養を与えない|‘を'栄養不足にする	ejdict
+undernourish	〜‘に'十分の栄養を与えない|‘を'栄養不足にする	ejdict
 croaker	the lean flesh of a saltwater fish caught along Atlantic coast of southern U.S.|any of several fishes that make a croaking noise	wneng
 iatrogenic	医原性	wnjpn
 kaki	柿|柿	wnjpn
@@ -27819,7 +27819,7 @@ nullity	〈U〉(法律上の)無効;〈C〉(文書・行為などの)法律上�
 discriminative	裁判上	wnjpn
 whipper	スイッチャ	wnjpn
 jotting	覚え書き|メモ|覚書|備忘録|メモランダム|覚書き|手控え|控え	wnjpn
-unsuited	不適当な|適合しない;(…に)不適当な《+to(for)+名》	ejdict
+unsuited	不適当な|適合しない;(〜に)不適当な《+to(for)+名》	ejdict
 cholestasis	(医)胆汁うっ滞|胆汁分泌停止	anc
 boatswain	(商船の)甲板長|水夫長;(軍艦の)掌帆長	ejdict
 hearthstone	〈C〉炉石|〈U〉炉辺|家庭	ejdict
@@ -27827,7 +27827,7 @@ tinplate	ブリキ	ejdict
 geologically	with respect to geology; "geologically speaking, this area is extremely interesting"|with respect to geology	wneng
 bulbul	ヒヨドリ	anc
 gusseted	provided or reinforced with gussets	wneng
-superintendence	(…の)監督|指揮|管理《+of+名》	ejdict
+superintendence	(〜の)監督|指揮|管理《+of+名》	ejdict
 pepcid	ファモチジン	wnjpn
 austerlitz	アウステルリッツ|アウステルリッツ	wnjpn
 granma	グランマ|おばあちゃん|(=nan|nana|nanny|granny|grandma|granma|gran)	anc
@@ -27855,7 +27855,7 @@ vapid	おもしろくない	anc
 tsetse	ツェツェ蠅	wnjpn
 adulteration	〈U〉混ぜ物をすること|〈C〉粗悪(不良)品	ejdict
 debridement	surgical removal of foreign material and dead tissue from a wound in order to prevent infection and promote healing	wneng
-unremitting	休む(絶える)ことがない|根気強い;(…に)根気強い《+in+名》	ejdict
+unremitting	休む(絶える)ことがない|根気強い;(〜に)根気強い《+in+名》	ejdict
 primula	プリムラ(サクラソウ属の草花)	ejdict
 interoffice	(会社などの)各部課間の|会社内の	ejdict
 evanescent	(次第に)消えてゆく|束の間の|消え入るような|繊細な|はかない	anc
@@ -27991,7 +27991,7 @@ unction	(聖別の印として)油を塗ること|塗油式|(塗油の儀式に�
 unstated	not made explicit; "the unexpressed terms of the agreement"; "things left unsaid"; "some kind of unspoken agreement"; "his action is clear but his reason remains unstated"|not made explicit	wneng
 germicidal	preventing infection by inhibiting the growth or action of microorganisms	wneng
 schemer	計画者|策士	anc
-decontaminate	…'を'浄化する|〈物・場所〉‘から'有害物を除く|汚染を除く	ejdict
+decontaminate	〜'を'浄化する|〈物・場所〉‘から'有害物を除く|汚染を除く	ejdict
 anaplastic	of or relating to anaplasia	wneng
 vaquero	(メキシコ･米国南西部の)家畜商人|カウボーイ	anc
 microflora	ミクロフローラ	wnjpn
@@ -28163,7 +28163,7 @@ cloche	(苗・若芽を保護する)つり鐘形(屋根形)のガラスおおい
 cohoe	fatty pinkish flesh of small salmon caught in the Pacific and Great Lakes|small salmon of northern Pacific coasts and the Great Lakes	wneng
 bikeway	自転車専用道路|サイクリングコース	ejdict
 hypatia	Greek philosopher and astronomer; she invented the astrolabe (370-415)|Greek philosopher and astronomer|she invented the astrolabe (370-415 )	wneng
-interpose	(会話や話などへ)〈批評・質問など〉‘を'差しはさむ|(二つの部分・物・場所などの間に)…‘を'置く|挿入する(insert)《+『名』+『between』(『among』)+『名』》|〈異議〉‘を'唱える|〈拒否権〉‘を'発動する|割り込む|邪魔する	ejdict
+interpose	(会話や話などへ)〈批評・質問など〉‘を'差しはさむ|(二つの部分・物・場所などの間に)〜‘を'置く|挿入する(insert)《+『名』+『between』(『among』)+『名』》|〈異議〉‘を'唱える|〈拒否権〉‘を'発動する|割り込む|邪魔する	ejdict
 quesadilla	a tortilla that is filled with cheese and heated	wneng
 ardently	熱烈に	anc
 bubonic	(医)横痃(おうげん)|もものつけねのリンパ節が炎症を起こして腫れること|黒死病(bubonic plague)	anc
@@ -28242,7 +28242,7 @@ archduke	大公|(特に)旧オーストリア国皇子	ejdict
 cowtown	a small town in a cattle-raising area of western North America	wneng
 potemkin	ポチョームキン	wnjpn
 clambake	ハマグリ焼き[パーティー](海浜でハマグリなど海の幸を焼いて食べる)	ejdict
-enthuse	(…に)熱狂する|感激する《+『about』(『over』)+『名』》|〈人〉‘を'熱狂させる|感激させる	ejdict
+enthuse	(〜に)熱狂する|感激する《+『about』(『over』)+『名』》|〈人〉‘を'熱狂させる|感激させる	ejdict
 farmworker	農場労働者	anc
 cytometric	サイトメトリー(細胞数測定の|血球計算の)	anc
 bronchiolitis	細気管支炎	anc
@@ -28290,7 +28290,7 @@ snarf	失敬|掻っぱらう|がめる|窃取|掠める|くすねる|掻っ攫�
 nudibranch	ウミウシ	wnjpn
 communitarian	共同体主義の	anc
 reticulocyte	an immature red blood cell containing a network of filaments or granules	wneng
-crossbreed	…'を'[異種]交配させる|雑種にする|交配種|雑種	ejdict
+crossbreed	〜'を'[異種]交配させる|雑種にする|交配種|雑種	ejdict
 discounter	ディスカウントストア|ディスカウントハウス	wnjpn
 otorhinolaryngology	耳鼻咽喉科	wnjpn
 paternalism	父たること|父親的温情主義|香り|人気|評判	anc
@@ -28379,7 +28379,7 @@ magnanimous	寛大な	anc
 ceftriaxone	セフトリアキソン	wnjpn
 guttural	(gˈʌṭərəl)|のどの|のどから出る|(音声)喉音(k|g|xなど)	anc
 aleve	a nonsteroidal anti-inflammatory drug (trademarks Aleve and Anaprox and Aflaxen) that fights pain and inflammation	wneng
-calcify	…'を'石灰質にする|石灰化させる|石灰質になる|石灰化する	ejdict
+calcify	〜'を'石灰質にする|石灰化させる|石灰質になる|石灰化する	ejdict
 spacesuit	宇宙服	ejdict
 endodontic	of or relating to or involving or practicing endodontics; "an endodontic specialist"|of or relating to or involving or practicing endodontics	wneng
 gadgeteer	a person who delights in designing or building or using gadgets	wneng
@@ -28554,10 +28554,10 @@ transcultural	extending through all human cultures; "a transcultural ideal of fr
 cere	蝋膜(ろうまく)|ろうびき布で包む	anc
 agon	a festivity in ancient Greece at which competitors contended for prizes	wneng
 providential	神慮の|神意による|神の助けのような|幸運な(lucky)	ejdict
-carload	(…の)貨車1両分の貨物《+『of』+『名』》	ejdict
+carload	(〜の)貨車1両分の貨物《+『of』+『名』》	ejdict
 boilermaker	ボイラー製造企業	anc
 hollandaise	eggs and butter with lemon juice	wneng
-daresay	《『daresay+that節』》…であるとあえて言う|疑いのない|たぶんそうだ(dare say)	ejdict
+daresay	《『daresay+that節』》〜であるとあえて言う|疑いのない|たぶんそうだ(dare say)	ejdict
 liberality	〈U〉寛大;偏見のないこと|〈U〉気前のよさ|《複数形で》《文》気前のよい贈り物|施し	ejdict
 passiflora	type genus of the Passifloraceae	wneng
 toolshed	木屋	wnjpn
@@ -28566,7 +28566,7 @@ unthinking	考えのない|軽率な|思考力のない|気がつかない	ejdic
 cresol	クレゾール	anc
 impale	突き刺す|刺し貫く	anc
 dimorphism	二形性(同種の生物が異形態をもつこと)	ejdict
-mottle	《受動態で》…‘を'まだらにする|ぶちにする|ぶち|まだら|斑(はんてん)	ejdict
+mottle	《受動態で》〜‘を'まだらにする|ぶちにする|ぶち|まだら|斑(はんてん)	ejdict
 speechwriter	スピーチライター	anc
 xylose	木糖|キシロース	wnjpn
 legalisation	合法化	wnjpn
@@ -28724,7 +28724,7 @@ fixedly	しっかりと固定して;動かさないで	ejdict
 feebly	弱々しく	anc
 claudication	跛行|gimp	wnjpn
 prurient	好色な|いん乱な|わいせつな	anc
-swage	型鉄|…‘を'型鉄で曲げる(型をつくる)	ejdict
+swage	型鉄|〜‘を'型鉄で曲げる(型をつくる)	ejdict
 spritz	a quick squirt of some liquid (usually carbonated water)|eject (a liquid) quickly; "spritz water on a surface"|eject (a liquid) quickly|cover (a location) wholly or partially by squirting a liquid onto it; "Spritz the lawn with water"|cover (a location) wholly or partially by squirting a liquid onto it	wneng
 panopticon	an area where everything is visible|a circular prison with cells distributed around a central surveillance station; proposed by Jeremy Bentham in 1791|a circular prison with cells distributed around a central surveillance station|proposed by Jeremy Bentham in 1791	wneng
 myositis	inflammation of muscle tissue	wneng
@@ -28748,7 +28748,7 @@ polymyxin	ポリミキシン	wnjpn
 militate	不利に作用･影響する	anc
 armorer	a worker skilled in making armor or arms; "a sword made by a famous English armorer"|a worker skilled in making armor or arms|an enlisted man responsible for the upkeep of small arms and machine guns etc.|a manufacturer of firearms	wneng
 overstep	の度を超す|行き過ぎる|踏み超える	anc
-interrelation	(…の間の)相互関係《+『between』+『名』》	ejdict
+interrelation	(〜の間の)相互関係《+『between』+『名』》	ejdict
 traumatise	傷害	wnjpn
 conveyer	コンベヤ|運搬人|運搬機|運搬装置|輸送装置|伝達者|譲渡人	anc
 piffle	センスのないくだらん話	anc
@@ -28774,7 +28774,7 @@ anatomist	解剖学者	ejdict
 ductility	引き伸ばせること|《文》従順	ejdict
 bugler	らっぱ手|らっぱ吹き	ejdict
 licentiate	(特に大学の発行する)免許状所有者|開業有資格者	ejdict
-permute	…‘の'順序を変える|(数学で)〈数〉‘を'置換する	ejdict
+permute	〜‘の'順序を変える|(数学で)〈数〉‘を'置換する	ejdict
 inflammable	可燃性の	anc
 antonym	反意語|反義語	anc
 nougat	ヌガー(木の実がはいった砂糖菓子)	ejdict
@@ -28806,7 +28806,7 @@ pyelonephritis	腎盂腎炎	wnjpn
 oblation	《しばしば複数形で》《文》(神への)奉納物|供物;(聖体祭儀の)パンとぶどう酒	ejdict
 moonstruck	気のふれた	anc
 tawdry	安ぴかの|趣味の悪い	anc
-agglomerate	…'を'固まりにする|固まりになる|固まった|塊状の|固まり|球塊|(溶岩が冷えて固まった)集塊岩	ejdict
+agglomerate	〜'を'固まりにする|固まりになる|固まった|塊状の|固まり|球塊|(溶岩が冷えて固まった)集塊岩	ejdict
 juncus	type genus of the Juncaceae; perennial tufted glabrous marsh plants of temperate regions: rushes|type genus of the Juncaceae|perennial tufted glabrous marsh plants of temperate regions: rushes	wneng
 mitogenic	分裂促進	anc
 turnabout	方向転換|(思想･政策)転向|裏切り|変節	anc
@@ -28981,7 +28981,7 @@ livy	ティトゥス・リウィウス	wnjpn
 incorruptible	買収されない|腐らない;不朽の|不滅の	ejdict
 crataegus	クラテグス	wnjpn
 puritanism	清教(主義)	anc
-blazon	…'を'公表する|公告する《+『forth』(『out』|『abroad』)+『名』》|…'を'鮮やかな色彩で飾る|〈紋章〉'を'盾(たい)に描く|…'を'紋章で飾る|紋章	ejdict
+blazon	〜'を'公表する|公告する《+『forth』(『out』|『abroad』)+『名』》|〜'を'鮮やかな色彩で飾る|〈紋章〉'を'盾(たい)に描く|〜'を'紋章で飾る|紋章	ejdict
 bogeyman	悪鬼|恐ろしいもの|子取り鬼|悩みの種|怖いもの	anc
 optimistically	楽観して|楽天的に	ejdict
 snobby	俗物の|尊大な|横柄な|偉そうな|つんとした|きざな	anc
@@ -29010,7 +29010,7 @@ unsinkable	incapable of being sunk; "they thought the Titanic was unsinkable"|in
 irenaeus	エイレナイオス	wnjpn
 reprobate	に反対する|非難する	anc
 uncivilized	野蛮|蛮野	wnjpn
-insensible	《補語にのみ用いて》(痛みなどに)無感覚の《+『to+名』》|意識を失った|人事不省の|《補語にのみ用いて》(…に)無感動な|無関心な《+『to+名』》|《補語にのみ用いて》(…に)気づかない《+『of+名』》|気がづかないほどの	ejdict
+insensible	《補語にのみ用いて》(痛みなどに)無感覚の《+『to+名』》|意識を失った|人事不省の|《補語にのみ用いて》(〜に)無感動な|無関心な《+『to+名』》|《補語にのみ用いて》(〜に)気づかない《+『of+名』》|気がづかないほどの	ejdict
 cartage	荷車(馬車)による運搬[料金]	ejdict
 impeachable	弾劾すべき	anc
 seasick	船酔いした	anc
@@ -29036,7 +29036,7 @@ reorganise	再結成|再編成|シェイクアップ	wnjpn
 soupy	スープのような|ドロドロした|どんよりした|霧の濃い|酒に酔って|感傷的な	anc
 aerate	空気を含ませる|浄化のために空気にさらす|血液に酸素を供給する	anc
 probationer	見習い生|試験中の人	anc
-syncopate	(音楽で)…‘に'切分音をおく|〈語中の音〉‘を'消失させて音節を減らす(例えば overをo'erとするなど)	ejdict
+syncopate	(音楽で)〜‘に'切分音をおく|〈語中の音〉‘を'消失させて音節を減らす(例えば overをo'erとするなど)	ejdict
 heterotrophic	従属栄養性	wnjpn
 bawl	わめく|叫び|大声でわめく|しかる|ワーン|泣き声	anc
 siskin	マヒワ	wnjpn
@@ -29076,13 +29076,13 @@ motorcar	《おもに英》《米》『自動車』《米》automobile)	ejdict
 schtick	注意を引くためのお決まりのしぐさ|おはこ|ギャグ	anc
 whiney	気難しい|気難かしい|気むずかしい	wnjpn
 amphibia	the class of vertebrates that live on land but breed in water; frogs; toads; newts; salamanders; caecilians|the class of vertebrates that live on land but breed in water|frogs|toads|newts|salamanders|caecilians	wneng
-intercalate	…‘を'間に入れる|挿入する|〈うるうの日・月〉‘を'暦に入れる	ejdict
+intercalate	〜‘を'間に入れる|挿入する|〈うるうの日・月〉‘を'暦に入れる	ejdict
 abele	ギンドロ	wnjpn
 calumny	中傷|誹謗	anc
 perversely	意地になって	anc
 chromic	クロムの|クロム(特に3価のクロム)を含む	ejdict
 desecrate	冒とくする|神聖を汚す	anc
-transfigure	…‘の'姿(形)を変える|‘を'変貌させる|…‘を'神々しくする|代化する|理想化する	ejdict
+transfigure	〜‘の'姿(形)を変える|‘を'変貌させる|〜‘を'神々しくする|代化する|理想化する	ejdict
 excretory	排出器官|排出の|排泄の	anc
 felonious	重罪の	anc
 quizzical	いぶかしげな	anc
@@ -29150,7 +29150,7 @@ doxepin	a tricyclic antidepressant (trade names Adapin and Sinequan) with numero
 portly	肥満した	anc
 taskmaster	職工長|親方	anc
 netmail	Eメール|メール|Eメイル|E-メール|メイル|E-メイル	wnjpn
-senora	〈C〉…夫人|奥様(英語の Mrs.に相茶)|〈C〉既婚婦人|淑女	ejdict
+senora	〈C〉〜夫人|奥様(英語の Mrs.に相茶)|〈C〉既婚婦人|淑女	ejdict
 beauteous	(気候･景色など)うるわしい	anc
 scag	点鼻薬	wnjpn
 deathwatch	臨終の見取り|(またdeath watch beetle)チャタテムシ(カブト虫の一種)	ejdict
@@ -29170,7 +29170,7 @@ philomath	a lover of learning	wneng
 armless	having no arms; "the armless Venus de Milo"|having no arms	wneng
 bettor	賭けをする人	anc
 matzah	マツァ|マッツァー|マッツォ	wnjpn
-similitude	〈U〉類似|相似;〈C〉(…と)似た姿《+『of』+『名』》|〈C〉(たとえ話・直喩で用いられる)たとえ|比較	ejdict
+similitude	〈U〉類似|相似;〈C〉(〜と)似た姿《+『of』+『名』》|〈C〉(たとえ話・直喩で用いられる)たとえ|比較	ejdict
 heroically	雄々しく	anc
 pekoe	《しばしばP-》ペコー(スリランカ・インド・ジャワ産の高級紅茶)	ejdict
 reformatory	少年院	anc
@@ -29213,7 +29213,7 @@ topspin	トップスピン(回転しながら進む球の回転運動)	ejdict
 constructionist	(法律などの)解釈者	ejdict
 bumpkin	バンプキン|(いなか出の)ぶこつ者	anc
 disfunction	機能障害|機能不全	wnjpn
-depute	〈人〉‘を'代理者(代表者)にする;(…するように)〈人〉‘を'代表にする《+『名』+『to』 do》|(代理者に)〈権限・任務など〉‘を'委任する《+『名』+『to』+『名』》	ejdict
+depute	〈人〉‘を'代理者(代表者)にする;(〜するように)〈人〉‘を'代表にする《+『名』+『to』 do》|(代理者に)〈権限・任務など〉‘を'委任する《+『名』+『to』+『名』》	ejdict
 ghostwriter	代作者|ゴーストライター	anc
 foolscap	〈U〉(洋紙の)フールスキャップ判|大判|=fool's cap	ejdict
 cellulosic	a plastic made from cellulose (or a derivative of cellulose)	wneng
@@ -29228,7 +29228,7 @@ deflationary	通貨収縮の|デフレの	ejdict
 ghillie	a shoe without a tongue and with decorative lacing up the instep	wneng
 washing	洗うこと|洗濯|洗濯物|洗浄液|めっき|水仕事	anc
 lumpectomy	腫瘍摘出手術|乳腺腫瘤摘出	anc
-pally	(…と)親しい|仲の良い《+『with』+『名』》	ejdict
+pally	(〜と)親しい|仲の良い《+『with』+『名』》	ejdict
 weightlessness	無重力	anc
 radiocommunication	ラディオ|ラジオ	wnjpn
 cultus	崇拝	wnjpn
@@ -29250,7 +29250,7 @@ sensitisation	感作|感光|感光	wnjpn
 repp	a fabric with prominent rounded crosswise ribs	wneng
 hematopoiesis	造血	wnjpn
 photolithography	a planographic printing process using plates made from a photographic image	wneng
-enmesh	(網などに)…‘を'かける|(争い・困った事態などに)〈人〉‘を'巻き込む|陥れる《+『名』+『in』+『名』》	ejdict
+enmesh	(網などに)〜‘を'かける|(争い・困った事態などに)〈人〉‘を'巻き込む|陥れる《+『名』+『in』+『名』》	ejdict
 uncritically	無批判	wnjpn
 mishmash	ごたまぜ|寄せ集め	anc
 ketoacidosis	ケトアシドーシス	wnjpn
@@ -29289,7 +29289,7 @@ coffer	貴重品箱|金庫|財源|金庫に納める|塞き止める	anc
 rarefy	(空気･ガスなどを)希薄にする(なる)|純化する|浄化する	anc
 vestment	衣服	anc
 diaeresis	(音節の)分切;分音|分音符号(naïveなど)	ejdict
-deprecate	…‘に'不賛成の意を表す|‘を'非難する|‘を'軽べつする	ejdict
+deprecate	〜‘に'不賛成の意を表す|‘を'非難する|‘を'軽べつする	ejdict
 slovenija	a mountainous republic in central Europe; formerly part of the Habsburg monarchy and Yugoslavia; achieved independence in 1991|a mountainous republic in central Europe|formerly part of the Habsburg monarchy and Yugoslavia|achieved independence in 1991	wneng
 wielder	武器(道具)として使える物	ejdict
 explosively	suddenly and rapidly; "the population in Central America is growing explosively"|suddenly and rapidly	wneng
@@ -29465,7 +29465,7 @@ catechin	カテキン	wnjpn
 drumstick	太鼓(ドラム)のばち|《話》(料理した)鶏(七面鳥など)の足	ejdict
 incisor	(ɪnsάɪzɚ)|門歯|切歯	anc
 certitude	確信	anc
-overexpose	〈フィルムなど〉‘を'露出過度にする|(太陽・寒さなどに)…‘を'さらしすぎる	ejdict
+overexpose	〈フィルムなど〉‘を'露出過度にする|(太陽・寒さなどに)〜‘を'さらしすぎる	ejdict
 senility	(sɪníləṭi)老齢|老衰|おいぼれ|もうろく	anc
 kafir	an offensive and insulting term for any Black African|a member of the Kafir people in northeastern Afghanistan	wneng
 approvingly	賛成して	anc
@@ -29533,7 +29533,7 @@ tempestuous	大あらしの	anc
 foxhole	1･2人用塹壕(=dugout)	anc
 quatrain	(詩を構成する)四行連[句];四行詩	ejdict
 gravedigger	墓掘り人	ejdict
-signora	(イタリア語)《S-》…様(さん|夫人|奥様)(英語のMrs.|Madamに相当)|(特にイタリアの)貴婦人	ejdict
+signora	(イタリア語)《S-》〜様(さん|夫人|奥様)(英語のMrs.|Madamに相当)|(特にイタリアの)貴婦人	ejdict
 pericardium	心膜|心嚢	wnjpn
 gallina	small Asiatic wild bird; believed to be ancestral to domestic fowl|small Asiatic wild bird|believed to be ancestral to domestic fowl	wneng
 knacker	廃馬屠殺(とさつ)業者|廃船(廃屋)解体業者	ejdict
@@ -29603,7 +29603,7 @@ dumpy	ずんぐりした	anc
 repackage	再パッケージ化	anc
 interactional	相互作用的	wnjpn
 highbrow	知的な|知識人|教養人	anc
-emancipate	(…から)…‘を'解放する|自由にする《+『from』+『名』(do『ing』)》	ejdict
+emancipate	(〜から)〜‘を'解放する|自由にする《+『from』+『名』(do『ing』)》	ejdict
 sculpin	any of numerous spiny large-headed usually scaleless scorpaenoid fishes with broad mouths	wneng
 syllabic	音節の(に関する);音節から成る|音節主音の(母音の助けを借りずに音節を形成する子音)|音節主音(母音と音節主音の子音)	ejdict
 bobtail	切り尾;切り尾の馬(犬)|切り尾の|尾を切った	ejdict
@@ -29777,7 +29777,7 @@ turdus	type genus of the Turdidae	wneng
 hayride	干し草を積んだ馬車に乗って出かけるピクニック	ejdict
 taipan	タイパン	wnjpn
 acclimate	(人･ものを風土･環境などに)慣らす|順応させる	anc
-appurtenant	付属の|従属する;(…に)付属した《+『to』+『名』》	ejdict
+appurtenant	付属の|従属する;(〜に)付属した《+『to』+『名』》	ejdict
 urethritis	尿道炎	wnjpn
 devoutly	信心深く|心から	anc
 transmigration	転生|輪廻(死後霊魂は他の肉体に移って巡って行くという説)	ejdict
@@ -29852,7 +29852,7 @@ glycoside	グリコシド|配糖体	wnjpn
 fraxinus	ash	wneng
 bullhorn	ハンドマイク|携帯拡声器(= loud-hailer)|(軍艦の)拡声器	anc
 oversimplification	簡略化しすぎること|過度の単純化	wnjpn
-mummify	…‘を'ミイラにする|ミイラになる	ejdict
+mummify	〜‘を'ミイラにする|ミイラになる	ejdict
 tonsillectomy	扁桃腺摘除術	ejdict
 extrude	(チューブから)〈歯磨きなど〉‘を'押し出す《+『名』+『from』+『名』》|〈プラスチック・金属など〉‘を'型から押し出して成形する	ejdict
 handmaiden	補助(するもの)	anc
@@ -29965,7 +29965,7 @@ clinger	まとわり付く人	anc
 irreversibility	the quality of being irreversible (once done it cannot be changed)	wneng
 semiprecious	準宝石の	ejdict
 stupefy	ぼう然とさせる|昏睡させる|麻痺させる|仰天する	anc
-mimeograph	謄写版|複写器|(謄写版による)写し|…‘を'謄写する(duplicate)	ejdict
+mimeograph	謄写版|複写器|(謄写版による)写し|〜‘を'謄写する(duplicate)	ejdict
 secant	(三角法で)セカント|正割・(幾何で)割線・（数学）切る・(線または面が)交わる|交差する	ejdict
 sociodemographic	社会人口学的	anc
 rutabaga	(植)カブハボタン|その根(食用)	anc
@@ -30011,7 +30011,7 @@ deerhound	very large and tall rough-coated dog bred for hunting deer; known as t
 belem	ベレン	wnjpn
 dogmatism	ドグマティズム|教条主義|独断主義|独断的態度|独断論	anc
 maneuverable	capable of maneuvering or changing position; "a highly maneuverable ship"|capable of maneuvering or changing position	wneng
-misapply	…‘の'適用を誤る|‘を'乱用する	ejdict
+misapply	〜‘の'適用を誤る|‘を'乱用する	ejdict
 reciprocally	相互|お互いに|逆|反比例して	wnjpn
 inheritable	capable of being inherited; "inheritable traits such as eye color"; "an inheritable title"|capable of being inherited	wneng
 authorial	of or by or typical of an author; "authorial comments"; "auctorial flights of imagination"|of or by or typical of an author	wneng
@@ -30054,7 +30054,7 @@ motet	(聖書の文句に曲をつけた)経文歌|聖歌	ejdict
 scup	タイ	wnjpn
 edgewise	刃を先に向けて|へりに沿って	ejdict
 plunger	プランジャー|飛び込む人|潜水者|突入者	anc
-outfox	…‘の'裏をかく|…‘を'出し扱く	ejdict
+outfox	〜‘の'裏をかく|〜‘を'出し扱く	ejdict
 pegboard	(ゲームなどに用いる)くぎ差し板|(くぎなどを差し込む穴のある)構図版	ejdict
 normotensive	正常圧	wnjpn
 danton	ダントン	wnjpn
@@ -30064,7 +30064,7 @@ pneumoconiosis	肺塵(じん)症(塵やほこりを吸いこんで起こる肺�
 autocrine	オートクリン|自己分泌	anc
 rhumba	ルンバ|ルンバ|ルンバ|ルンバ	wnjpn
 twosome	二人でする舞踏|二人の|2人組|二人でする(試合)	anc
-bamboozle	…'を'だます|あざむく|煙に巻く;…'を'だまして(…)させる(させない)《+『名』+『into』(『out of』)+『名』(do『ing』)》	ejdict
+bamboozle	〜'を'だます|あざむく|煙に巻く;〜'を'だまして(〜)させる(させない)《+『名』+『into』(『out of』)+『名』(do『ing』)》	ejdict
 bubblejet	バブルジェットプリンター|バブルジェットプリンタ	wnjpn
 marathoner	someone who participates in long-distance races (especially in marathons)	wneng
 lagniappe	(買い物の際の)おまけ	ejdict
@@ -30123,7 +30123,7 @@ nonchalantly	無頓着に|冷淡に|無関心に	anc
 trespasser	[家宅]侵入者;違犯者	ejdict
 tamarin	small South American marmoset with silky fur and long nonprehensile tail	wneng
 timelessness	未来永劫|終古|永久|久遠|万古|万世|生生世世|常世|終天|長久	wnjpn
-trammel	馬かせ(馬に側対歩を教えるときに使う足かせ)|《複数形で》(自由を)拘束するもの|束縛|障害|…の自由を拘束する|‘を'束縛する	ejdict
+trammel	馬かせ(馬に側対歩を教えるときに使う足かせ)|《複数形で》(自由を)拘束するもの|束縛|障害|〜の自由を拘束する|‘を'束縛する	ejdict
 irresponsibly	無責任に	ejdict
 salade	a light medieval helmet with a slit for vision	wneng
 chorea	舞踏病(顔面筋および四肢のけいれんを起こす神経系の病気)	ejdict
@@ -30172,7 +30172,7 @@ incredulously	疑い深く|簡単には信じないで	anc
 obsequious	こびへつらう	anc
 regrow	再成長	wnjpn
 dissolute	自堕落な|放埓な|放蕩な|放蕩の自堕落な	anc
-reck	…‘を'気にかける|こだわる|(…を)気にかける《+『of』+『名』》	ejdict
+reck	〜‘を'気にかける|こだわる|(〜を)気にかける《+『of』+『名』》	ejdict
 whorehouse	売春宿|女郎屋	ejdict
 agonise	cause to agonize|suffer agony or anguish	wneng
 underprice	sell at artificially low prices	wneng
@@ -30200,7 +30200,7 @@ pathologically	病理学的に|病的に|異常に	anc
 sensitizer	増感剤	wnjpn
 enrapture	〈人〉‘を'有頂天にする|うっとりさせる	ejdict
 nearsightedness	近眼|近視	wnjpn
-entrap	…‘を'わなにかける|〈人〉‘を'計略にかける;〈人〉‘を'欺いて(…)させる《+『名』〈人〉+『into』+『名』(do『ing』)》	ejdict
+entrap	〜‘を'わなにかける|〈人〉‘を'計略にかける;〈人〉‘を'欺いて(〜)させる《+『名』〈人〉+『into』+『名』(do『ing』)》	ejdict
 graben	(地質で)地溝	ejdict
 cyma	(architecture) a molding for a cornice; in profile it is shaped like an S (partly concave and partly convex)|a molding for a cornice|in profile it is shaped like an S (partly concave and partly convex)	wneng
 overcapacity	設備過剰|生産能力過剰	anc
@@ -30216,7 +30216,7 @@ chukka	(polo) one of six divisions into which a polo match is divided|one of six
 sundress	サンドレス	wnjpn
 bacitracin	バシトラシン	wnjpn
 intriguingly	興味深いことに	anc
-vitrify	…‘を'ガラス[状]にする|ガラス[状]になる	ejdict
+vitrify	〜‘を'ガラス[状]にする|ガラス[状]になる	ejdict
 soundman	a technician in charge of amplifying sound or producing sound effects (as for a TV or radio broadcast)	wneng
 sophistry	詭弁(を弄すること)	anc
 cosmetically	for cosmetic purposes to improve appearance; "it is used cosmetically by many women"|for cosmetic purposes to improve appearance	wneng
@@ -30231,7 +30231,7 @@ earwax	耳あか|耳くそ	anc
 unhurried	優々たる|優優たる	wnjpn
 shriveled	(used especially of vegetation) having lost all moisture; "dried-up grass"; "the desert was edged with sere vegetation"; "shriveled leaves on the unwatered seedlings"; "withered vines"|(used especially of vegetation) having lost all moisture	wneng
 fractious	怒りっぽい|気むずかしい|手に負えない|面倒を起こす	anc
-conformable	一致した|適合した;(慣例・規範などに)準拠した《+『to』+『名』》|従順な;(…に)よく従う《+『to』+『名』》	ejdict
+conformable	一致した|適合した;(慣例・規範などに)準拠した《+『to』+『名』》|従順な;(〜に)よく従う《+『to』+『名』》	ejdict
 toothy	歯を見せる	anc
 cheesecloth	チーズを作るときに用いる目のあらい綿布	ejdict
 uselessly	徒らに|むだに|徒に	wnjpn
@@ -30392,7 +30392,7 @@ summons	召喚する|呼び出し|出頭命令|召喚	anc
 untainted	新鮮	wnjpn
 broglie	French nuclear physicist who generalized the wave-particle duality by proposing that particles of matter exhibit wavelike properties (1892-1987)	wneng
 metazoan	後生動物(Metazoa)の|後生動物は|動物分類学で動物扱いだった単細胞生物の原生動物に対し|多細胞の動物をまとめた呼び名として使用された	anc
-desiccate	…‘を'からからに乾燥させる	ejdict
+desiccate	〜‘を'からからに乾燥させる	ejdict
 forevermore	常に|絶えず	ejdict
 dayspring	有り明け方|有明け方|夜明け|彼誰|明けがた|有明|日出|払暁|白白明け|暁天	wnjpn
 tsarist	of or relating to or characteristic of a czar	wneng
@@ -30427,7 +30427,7 @@ imperishable	不滅の|不朽の	ejdict
 illuminance	照度	wnjpn
 insolation	日光にさらすこと|日光浴|日謝病	ejdict
 fixate	固定する|定着する|凝視する|固定させる|定着させる	anc
-famish	…‘を'飢えさせる|飢える	ejdict
+famish	〜‘を'飢えさせる|飢える	ejdict
 separateness	別々になっていること|分離	ejdict
 antisemitic	relating to or characterized by anti-Semitism; hating Jews|relating to or characterized by anti-Semitism|hating Jews	wneng
 godwit	large wading bird that resembles a curlew; has a long slightly upturned bill|large wading bird that resembles a curlew|has a long slightly upturned bill	wneng
@@ -30478,7 +30478,7 @@ naturalisation	ナチュラリゼーション|帰化|帰化	wnjpn
 quango	a quasi nongovernmental organization; an organization that is financed by the government yet acts independently of the government|a quasi nongovernmental organization|an organization that is financed by the government yet acts independently of the government	wneng
 contiguity	広がり|接近|接触|隣接|隣接性|連続	anc
 cattleman	牛飼い|牧場主	anc
-alphabetize	…'を'アルファベット順に並べる|…'を'アルファベットで表す	ejdict
+alphabetize	〜'を'アルファベット順に並べる|〜'を'アルファベットで表す	ejdict
 grounder	簡単に解決できる殺人事件|(野球)ゴロ(= ground ball)	anc
 strew	をばらまく	anc
 trachoma	トラコーマ|トラホーム(眼の伝染病)	ejdict
@@ -30568,7 +30568,7 @@ bristly	剛毛の	anc
 lockjaw	=tetanus	ejdict
 deaden	弱める|鈍らせる|消す	anc
 conciliate	〈人〉'を'なだめる|懐柔する;〈人〉‘の'好意を得る	ejdict
-soever	《who|what|whereなどと連結して》どんな…でも|たとえどのように…とも|《否定語を強調して》全然[…でない]	ejdict
+soever	《who|what|whereなどと連結して》どんな〜でも|たとえどのように〜とも|《否定語を強調して》全然[〜でない]	ejdict
 dinnertime	夕食時	wnjpn
 tracing	さかのぼる|透写|追跡|捜索|複写	anc
 ruefully	残念そう	anc
@@ -30647,7 +30647,7 @@ propulsive	推進力のある|推進する	anc
 ensnare	(人･動物を)わなに掛ける|誘惑する	anc
 bellicose	好戦的な|敵意に満ちた|けんか早い|けんか好きな	anc
 hypogonadism	性腺機能低下症	anc
-undergird	…‘に'しっかりした基礎を与える|‘を'強化する	ejdict
+undergird	〜‘に'しっかりした基礎を与える|‘を'強化する	ejdict
 commissariat	糧|粮|兵糧|食糧|糧食|兵粮	wnjpn
 nonsectarian	特定の宗派に属さない|無宗派の	ejdict
 redraft	a draft for the amount of a dishonored draft plus the costs and charges of drafting again	wneng
@@ -30746,8 +30746,8 @@ suppleness	しなやかさ|たわやかさ	wnjpn
 irascible	怒りっぽい|かんしゃく持ちの|短気な|怒った|(人･性質など)おこりっぽい	anc
 jackknife	(また『clasp knife』)ジャックナイフ(刃のたためる大型のポケットナイフ)|えび型飛込み|ジャックナイフダイブ|(トラクター・トレーラーなどが)まん中でVの字に折れ曲がる	ejdict
 blare	鳴り響く|耳障りな響き	anc
-denude	…‘を'裸にする;(物を)〈人・物〉‘から'はぎ取る《+『名』+『of』+『名』》	ejdict
-misreport	《しばしば受動態で》…‘を'虚報を伝える|‘を'誤って報告する	ejdict
+denude	〜‘を'裸にする;(物を)〈人・物〉‘から'はぎ取る《+『名』+『of』+『名』》	ejdict
+misreport	《しばしば受動態で》〜‘を'虚報を伝える|‘を'誤って報告する	ejdict
 downslope	下り坂	wnjpn
 roadwork	ロードワーク(長距離ランニングによる体力作り)	ejdict
 seminarian	神学校の学生|神学生|(神学校出身の)聖職者	anc
@@ -30779,7 +30779,7 @@ benighted	(旅人)行き暮れた|未開の|文化の遅れた|闇に包まれ�
 hysteric	=hysterical|《複数形で》ヒステリーの発作|〈C〉ヒステリー患者	ejdict
 clast	(geology) a constituent fragment of a clastic rock|a constituent fragment of a clastic rock	wneng
 khat	カート|チャット|カット	wnjpn
-exultation	(…での)大きな喜び《+『at』+『名』》(…に対する)勝ち誇った気持ち《+『over』+『名』》	ejdict
+exultation	(〜での)大きな喜び《+『at』+『名』》(〜に対する)勝ち誇った気持ち《+『over』+『名』》	ejdict
 selfsame	全く同一の	ejdict
 glaucous	《文》淡い青緑色の|(ぶどうなど)白い粉の吹いた|白色を帯びた	ejdict
 soberly	真面目に|冷静に|酔わないで	anc
@@ -30827,7 +30827,7 @@ translocase	トランスロカーゼ(酵素)|転位酵素	anc
 haemodialysis	人工透析|血液透析	wnjpn
 eutrophic	(湖が)富栄養の|(動植物の)栄養物が豊かな	ejdict
 laterality	左右差	anc
-superpose	(…の上に)…‘を'重ねて置く《+名+on(upon)+名》|(幾何で)〈図形〉‘を'重ね合わせる	ejdict
+superpose	(〜の上に)〜‘を'重ねて置く《+名+on(upon)+名》|(幾何で)〈図形〉‘を'重ね合わせる	ejdict
 allemande	アルマンドソース|アルマンド	wnjpn
 betrothal	婚約	anc
 nippy	(幼児語)おしゃぶり(=pacifier)|すばしこい|厳しい	anc
@@ -30841,7 +30841,7 @@ gullibility	だまされやすいこと	anc
 vasotec	エナラプリル	wnjpn
 aeromedical	of or relating to aviation medicine	wneng
 barmy	愚かな|少し気が変な(《米》balmy)	ejdict
-unclog	…‘から'障害を除く|‘の'じゃまをなくす	ejdict
+unclog	〜‘から'障害を除く|‘の'じゃまをなくす	ejdict
 aorist	a verb tense in some languages (classical Greek and Sanskrit) expressing action (especially past action) without indicating its completion or continuation	wneng
 microtiter	マイクロタイター	anc
 butyric	relating to or producing butyric acid	wneng
@@ -30893,10 +30893,10 @@ terrorise	恐怖で圧倒する|脅しつける|脅し付ける	wnjpn
 nonlethal	not capable of causing death	wneng
 comeuppance	当然の罰(報い)	anc
 unfailingly	without fail	wneng
-disbar	…‘の'弁護士の資格をはく奪する	ejdict
+disbar	〜‘の'弁護士の資格をはく奪する	ejdict
 centralise	集注|結集|結集する|集中	wnjpn
 geum	ダイコンソウ属	wnjpn
-wive	…‘を'めとる|妻帯する	ejdict
+wive	〜‘を'めとる|妻帯する	ejdict
 birdwatch	watch and study birds in their natural habitat	wneng
 finny	漁の|魚がたくさんいる|ひれのような|ひれのある	ejdict
 fenland	渥地|沢|沼沢|沼|湫|沼池|湿地草原|湿原|沼地|沼沢地	wnjpn
@@ -30922,7 +30922,7 @@ spiff	きちんとした(気の利いた)ものにする|めかす(up)	anc
 pieta	ピエロ(キリストの遺体をひざにだいて嘆く聖母マリアの絵や像)	ejdict
 familiarisation	the experience of becoming familiar with something	wneng
 idler	怠け者|なまけ者|役立たず	anc
-quintuple	5倍の|5重の;5部(5人)からなる|5倍|5倍の量(数)|5倍になる|…‘を'5倍にする	ejdict
+quintuple	5倍の|5重の;5部(5人)からなる|5倍|5倍の量(数)|5倍になる|〜‘を'5倍にする	ejdict
 shrubby	of or relating to or resembling a shrub	wneng
 repetitively	in a repetitive manner; "this type of border display is used repetitively in advertising"|in a repetitive manner	wneng
 castigate	厳しく罰する|きびしく非難する|添削する	anc
@@ -30972,7 +30972,7 @@ cantabile	(演奏の指示で)カンタービレ|歌うような調子の(で)|�
 mollify	和らげる|軽減する	anc
 saami	ラップ|さあ美|左雨|ラップ|さあ美|左雨	wnjpn
 thyroglobulin	サイログロブリン|チログロブリン	wnjpn
-tablespoonful	(…の)大さじ1杯[分](小さじ3杯分)《+of+名》	ejdict
+tablespoonful	(〜の)大さじ1杯[分](小さじ3杯分)《+of+名》	ejdict
 gasworks	ガス工場|ガス製造所	ejdict
 selflessly	無私	wnjpn
 piroxicam	ピロキシカム	wnjpn
@@ -31133,7 +31133,7 @@ oho	(驚き・嘲笑・喜びなどを表して)おお|ほほう|ふーん	ejdic
 pastorale	牧歌曲|田園曲	ejdict
 helipad	(商業施設のない)ヘリコプター発着場	ejdict
 impaction	嵌入|嵌入|埋伏歯|嵌入|衝突	wnjpn
-unbutton	…‘の'ボタンをはずす	ejdict
+unbutton	〜‘の'ボタンをはずす	ejdict
 looseness	緩いこと|ばらばらであること;散漫|締まりのなさ	ejdict
 appendectomy	虫垂切除[手術]	ejdict
 neglectful	不注意な	anc
@@ -31155,7 +31155,7 @@ worthily	ふさわしく|立派に	ejdict
 athletically	競技的に|運動家らしく	ejdict
 probenecid	プロベネシド	wnjpn
 septet	7人(7個)一組のグループ|七重奏(唱)曲	ejdict
-insomuch	…の程度まで|...ほどに (as|that)・ …の故に (as)	ejdict
+insomuch	〜の程度まで|...ほどに (as|that)・ 〜の故に (as)	ejdict
 expensively	費用をかけて|高価に	ejdict
 salivation	つばを出すこと;だ液分泌過多|流涎(りゅうぜん)	ejdict
 macromolecule	高分子	anc
@@ -31199,7 +31199,7 @@ xeric	乾燥した|湿度の低い	ejdict
 chemoattractant	化学誘引物質	anc
 fellation	フェラチオ	wnjpn
 redolent	芳香のある|においが強くて	anc
-impudence	〈U〉厚かましさ|無遠慮;(…する)厚かましさ《+『to』 do》|〈C〉無遠慮な言葉(行為)	ejdict
+impudence	〈U〉厚かましさ|無遠慮;(〜する)厚かましさ《+『to』 do》|〈C〉無遠慮な言葉(行為)	ejdict
 hedger	a respondent who avoids giving a clear direct answer|someone who counterbalances one transaction (as a bet) against another in order to protect against loss|a gardener who takes care of and trims hedges	wneng
 dairyman	酪農場で働く男|酪農場主(経営者)|酪農製品販売者|牛乳屋	ejdict
 mariculture	海水魚人工養殖	ejdict
@@ -31223,7 +31223,7 @@ nagi	ナギ	wnjpn
 polychaete	多毛類	wnjpn
 leftie	(=lefty)|左利き(の人)|左腕投手|左派の人|左翼|左手の	anc
 localism	地方偏狭主義|(地方独特の)話し方	ejdict
-whelm	…‘を'水中に沈める|…‘を'圧倒する	ejdict
+whelm	〜‘を'水中に沈める|〜‘を'圧倒する	ejdict
 sclera	鞏膜(きょうまく)(角膜とともに眼球をおおっている堅くて白い膜)	ejdict
 cyperus	カヤツリグサ属	wnjpn
 sluggishness	休怠|嗜眠|昏睡|無気力|不活動|傾眠|気だるさ	wnjpn
@@ -31238,7 +31238,7 @@ synergetic	working together; used especially of groups, as subsidiaries of a cor
 mammographic	マンモグラフィー(乳房X線検査)の	anc
 lexically	by means of words; "lexically represented"|by means of words	wneng
 derisive	嘲笑的な|笑うべき|嘲笑に値する	anc
-ascription	(…の原因などを…に)帰すること|(…を…の)せいにすること《+『of』+『名』+『to』+『名』》	ejdict
+ascription	(〜の原因などを〜に)帰すること|(〜を〜の)せいにすること《+『of』+『名』+『to』+『名』》	ejdict
 equipage	〈C〉馬車と従者の一団|〈U〉(軍隊・キャンプ用の)装備一式;《古》(一般に)一そろいの物	ejdict
 carnauba	hard yellowish to brownish wax from leaves of the carnauba palm used especially in floor waxes and polishes|Brazilian fan palm having an edible root; source of a useful leaf fiber and a brittle yellowish wax|Brazilian fan palm having an edible root|source of a useful leaf fiber and a brittle yellowish wax	wneng
 brattle	ガタガタ|かたかた|がちゃつく|がたがた	wnjpn
@@ -31562,7 +31562,7 @@ bantamweight	(ボクシング・レスリングの)バンタム級選手(flyweig
 diuresis	increased secretion of urine; if not due to increased liquid intake or to the action of a diuretic drug it can be a symptom of diabetes mellitus|increased secretion of urine|if not due to increased liquid intake or to the action of a diuretic drug it can be a symptom of diabetes mellitus	wneng
 paramecium	any member of the genus Paramecium	wneng
 solipsism	唯我論|自己中心主義	anc
-attune	(…に)…'を'一致させる|調和させる|《+『名』+『to』+『名』(do『ing』)》	ejdict
+attune	(〜に)〜'を'一致させる|調和させる|《+『名』+『to』+『名』(do『ing』)》	ejdict
 flighty	軽はずみな|気まぐれな	anc
 corpsman	(軍隊の)衛生兵	ejdict
 windblown	風に吹かれた|(木が)強風で変形した|(髪型が)ウインドブロウン型の	anc
@@ -31642,11 +31642,11 @@ seneschal	(中世の王族・貴族の)執事|家令	ejdict
 nonpolar	非イオン	wnjpn
 tetrodotoxin	テトロドトキシン	wnjpn
 ergotamine	エルゴタミン	wnjpn
-descant	(定旋律につく)随唱|随奏|随唱(奏)する|《文》(…について)長々と(詳しく)述べる《+『on』(『upon』)+『名』》	ejdict
+descant	(定旋律につく)随唱|随奏|随唱(奏)する|《文》(〜について)長々と(詳しく)述べる《+『on』(『upon』)+『名』》	ejdict
 affenpinscher	アーフェンピンシャー	wnjpn
 mintage	〈U〉化幣鋳造|《集合的に》鋳造された貨幣|〈U〉貨幣鋳造費|〈C〉貨幣の極印(品質証明のために押す)	ejdict
 dysthymia	気分変調	wnjpn
-bushwhack	…'を'やぶにひそんで襲う|森林地を切り開く	ejdict
+bushwhack	〜'を'やぶにひそんで襲う|森林地を切り開く	ejdict
 dejection	落胆	anc
 kiang	wild ass of Tibet and Mongolia	wneng
 psychogenic	心因性の(精神・心理作用から生じる)	ejdict
@@ -31692,14 +31692,14 @@ formamide	ホルムアミドはギ酸から誘導されるアミド|サルファ
 acquisitive	欲ばりの|欲深い	anc
 boffin	科学者	ejdict
 dago	《軽べつして》スペイン(ポルトガル|イタリア)系の人	ejdict
-pressgang	水兵強制徴募隊(18世紀に英国海軍が兵集めに組織した)|《話》(部隊などへ)…‘を'強制編入させる《+『名』+『into』+『名』》	ejdict
+pressgang	水兵強制徴募隊(18世紀に英国海軍が兵集めに組織した)|《話》(部隊などへ)〜‘を'強制編入させる《+『名』+『into』+『名』》	ejdict
 laburnum	キングサリ(マメ科キングサリ属の有毒な小さい木)	ejdict
 heterodox	異端の	anc
 manque	unfulfilled or frustrated in realizing an ambition	wneng
 accommodative	協調的|調和的	wnjpn
 daikon	ダイコン	wnjpn
 codfish	鱈|タラ|タラ	wnjpn
-outwear	…‘より'長もちする|…‘を'着古す|使い尽くす	ejdict
+outwear	〜‘より'長もちする|〜‘を'着古す|使い尽くす	ejdict
 doublespeak	ダブルスピーク	wnjpn
 cagey	抜け目のない	anc
 swaddle	赤子を産着(細長い布)でくるむ|(to swaddle a baby)	anc
@@ -31717,7 +31717,7 @@ seethe	沸騰する|泡立つ|腹をたてる	anc
 shorthorn	ショートホーン(短い角を持った英国原産の肉牛)	ejdict
 atopy	アトピー	wnjpn
 asphodel	アスフォデル(白・ピンクまたは黄色の花をつけるユリ科の植物)	ejdict
-minutia	(…の)細目|詳細|ささいなこと《+『of』+『名』》	ejdict
+minutia	(〜の)細目|詳細|ささいなこと《+『of』+『名』》	ejdict
 compassionately	in a compassionate manner; "the nurse looked at him pityingly"|in a compassionate manner	wneng
 hussar	(はでな姿の)軽騎兵	ejdict
 scow	大型平底船	anc
@@ -31845,7 +31845,7 @@ prang	a crash involving a car or plane|crash	wneng
 leaper	someone who bounds or leaps (as in competition)	wneng
 valdecoxib	a Cox-2 inhibitor (trade name Bextra) that relieves pain and inflammation without harming the digestive tract	wneng
 demurrer	異議申し立て人|抗弁人|(裁判で)妨訴抗弁	ejdict
-wreathe	〈花など〉‘を'花輪にする|(花輪などで)…‘を'飾る《+名+with+名》|…‘を'覆う|包む	ejdict
+wreathe	〈花など〉‘を'花輪にする|(花輪などで)〜‘を'飾る《+名+with+名》|〜‘を'覆う|包む	ejdict
 teleprompter	a prompter for television performers	wneng
 destructively	破壊的	wnjpn
 recitative	レチタティーヴォ|オペラ|オラトリオ|カンタータなどの中に置かれる独唱|叙唱|朗唱と訳される	anc
@@ -31906,12 +31906,12 @@ micmac	ミクマク語|(カナダの大西洋岸地域に住むアルゴンキ�
 maunder	だらだら(とりとめなく)話す|ぶらつく	anc
 alehouse	=public house	ejdict
 spelunk	explore natural caves	wneng
-pocketful	《a~》ポケット一杯(の…)《+『of』+『名』》|たくさん(の…)《+『of』+『名』》	ejdict
+pocketful	《a~》ポケット一杯(の〜)《+『of』+『名』》|たくさん(の〜)《+『of』+『名』》	ejdict
 practicability	実行できること|実用性	ejdict
 transcriptionally	転写	anc
 bluenose	清教従的な人|禁欲的な人	ejdict
 dreamily	夢のように|うとうとと	anc
-gibbet	〈C〉(昔の)さらし絞首台|〈U〉《the ~》さらし絞首刑|…‘を'絞首刑にしてさらす|…‘を'物笑いの種にする	ejdict
+gibbet	〈C〉(昔の)さらし絞首台|〈U〉《the ~》さらし絞首刑|〜‘を'絞首刑にしてさらす|〜‘を'物笑いの種にする	ejdict
 exactitude	几帳面|厳正|厳密さ|正確さ|精密さ|精密度	anc
 antiparallel	逆平行	wnjpn
 pelargonium	ペラルゴニウム	wnjpn
@@ -31995,7 +31995,7 @@ apologetically	わびて|謝って|済まなそうに	anc
 clime	地方|国土(from northern climes|北の国から)|気候|(clime地方･気候|crime犯罪)	anc
 triskele	三脚巴	wnjpn
 blowhard	《米話》ほら吹き	ejdict
-hipped	腰の(ある)|《複合語を作って》「腰が…のような」の意を表す	ejdict
+hipped	腰の(ある)|《複合語を作って》「腰が〜のような」の意を表す	ejdict
 sociality	社交性|社会性	wnjpn
 absurdist	不条理主義の|不条理主義者(作家)	anc
 accusatory	告訴の|非難の|非難めいた	anc
@@ -32011,7 +32011,7 @@ mating	交配	anc
 abstinent	節度のある|禁欲的な|禁酒の	anc
 cumulate	山積み|溜る|積みかさなる|積み重なる|集積|蓄積|集まる|積みあがる|溜まる|堆積	wnjpn
 empyrean	最高天(古代天文学で五天のうちで最高の天上界)|天空|大空|最高天の;天空の	ejdict
-unsex	…‘を'性的能力を奪う|〈特に女性〉‘を'女らしくなくする	ejdict
+unsex	〜‘を'性的能力を奪う|〈特に女性〉‘を'女らしくなくする	ejdict
 prettily	きれいに	anc
 disgustingly	in a disgusting manner or to a disgusting degree; "the beggar was disgustingly filthy"|in a disgusting manner or to a disgusting degree	wneng
 phytochemistry	the branch of organic chemistry dealing with the chemistry of plants	wneng
@@ -32117,7 +32117,7 @@ banter	からかい|ふざけ|ひやかし|(悪意のない)冗談	anc
 currentness	the property of belonging to the present time; "the currency of a slang term"|the property of belonging to the present time	wneng
 pondweed	蛭藻|蛭藻	wnjpn
 dishonestly	in a corrupt and deceitful manner; "he acted dishonestly when he gave the contract to his best friend"|in a corrupt and deceitful manner	wneng
-sideswipe	(すれ違いざまに)…‘を'横殴りする	ejdict
+sideswipe	(すれ違いざまに)〜‘を'横殴りする	ejdict
 pinworm	ギョウチュウ(人間の腸に寄生する蟯虫)	ejdict
 pyrilamine	antihistamine used to treat rhinitis and pruritus	wneng
 penknife	(壊中用の)小型ナイフ	ejdict
@@ -32154,7 +32154,7 @@ eyedropper	点眼器	ejdict
 italicise	イタリック体で印刷する|斜字体で印刷する	wnjpn
 categorial	of or relating to the concept of categories	wneng
 indaba	a council at which indigenous peoples of southern Africa meet to discuss some important question	wneng
-countersink	(ねじなどの頭を埋めるために)…‘に'さら穴をあける;〈ねじなどの頭〉'を'さら穴に埋める|(さら穴をあける)さらぎり|さら穴	ejdict
+countersink	(ねじなどの頭を埋めるために)〜‘に'さら穴をあける;〈ねじなどの頭〉'を'さら穴に埋める|(さら穴をあける)さらぎり|さら穴	ejdict
 lackadaisical	気力のない|意欲のない|怠惰な	anc
 ribald	下劣(野卑)な|みだら(不敬)な(ことを言う)	anc
 otoplasty	reconstructive surgery of the auricle of the external ear	wneng
@@ -32332,7 +32332,7 @@ sympatric	同所性の|(種分化について同様か重なった地理的地�
 freethinker	自由思想家(既成の考え|特キリスト教会の型にはまった考え方にとらわれない人)	ejdict
 inadmissibility	unacceptability as a consequence of not being admissible	wneng
 phenylbutazone	フェニルブタゾン	wnjpn
-wassail	(もと英国で用いた)乾杯のあいさつ|《おもに文》酒宴|酒盛り|乾杯する;酒盛りする|…‘に'乾杯する	ejdict
+wassail	(もと英国で用いた)乾杯のあいさつ|《おもに文》酒宴|酒盛り|乾杯する;酒盛りする|〜‘に'乾杯する	ejdict
 asparaginase	アスパラギナーゼ	wnjpn
 dinoflagellate	渦鞭毛藻	wnjpn
 acinar	腺房|腺房	wnjpn
@@ -32359,11 +32359,11 @@ victrola	a brand of gramophone	wneng
 sternal	of or relating to or near the sternum	wneng
 pugnacious	けんか好きな|けんか早い	anc
 parainfluenza	パラインフルエンザウイルスは|関連した数種類のウイルスを含み|感冒からインフルエンザ様症候群|肺炎まで多数の呼吸器疾患を引き起こす	anc
-bedeck	《文》(…で)…'を'飾りたてる《+『名』+『with』+『名』》	ejdict
+bedeck	《文》(〜で)〜'を'飾りたてる《+『名』+『with』+『名』》	ejdict
 trumbo	ダルトン・トランボ	wnjpn
 intercalation	閏	wnjpn
 thermic	relating to or associated with heat; "thermal movements of molecules"; "thermal capacity"; "thermic energy"; "the caloric effect of sunlight"|relating to or associated with heat	wneng
-rustproof	(金属が)さび防止加工した|さびのつかない|…‘に'さび止めをする	ejdict
+rustproof	(金属が)さび防止加工した|さびのつかない|〜‘に'さび止めをする	ejdict
 sensitise	感作|感作|感作|感作	wnjpn
 cyanogen	シアン	wnjpn
 topicality	〈U〉話題になっていること(状態)|〈C〉《複数形で》時事問題	ejdict
@@ -32585,7 +32585,7 @@ adductor	内転筋|貝柱	wnjpn
 momus	god of blame and mockery	wneng
 avocation	副業|趣味|職業	anc
 buchenwald	a Nazi concentration camp for Jews in World War II that was located in central Germany	wneng
-misrule	悪政|矢政|…‘の'統治(政治)を誤る	ejdict
+misrule	悪政|矢政|〜‘の'統治(政治)を誤る	ejdict
 unasked	問われない|求められない|頼まれない|招かれない	anc
 copiously	山山|うんと|たくさん|聢り|豊富|確り|ふんだんに|沢山|大量|多く	wnjpn
 narthex	拝廊(教会の正面入口から本堂の至る広間になっている廊下)	ejdict
@@ -32615,7 +32615,7 @@ puerperal	出産の|分娩(ぶんべん)の;産婦の	ejdict
 magnetize	を磁化する|磁気を与える|磁化する|引き付ける|魅了する	anc
 worldliness	俗っぽさ|俗心	ejdict
 unpasteurized	not having undergone pasteurization	wneng
-howbeit	…とはいえ(nevertheless)|…だけれど(although)	ejdict
+howbeit	〜とはいえ(nevertheless)|〜だけれど(although)	ejdict
 altarpiece	祭壇画|祭壇の	anc
 gameboard	盤|ボード|ゲーム盤	wnjpn
 protectively	in a protective manner; "he bent protectively over the woman"|in a protective manner	wneng
@@ -32807,7 +32807,7 @@ oarsman	(ボートの)こぎ手	ejdict
 proselytize	改宗させる|変節させる	anc
 scrapple	スクラップル(トウモロコシの粉を使った揚げ料理の一種)	ejdict
 tenderfoot	《米》(米西部の牧場などの荒い仕事に不貫れな)新参者|新前|(一般に)無経験者|初心者(novice)	ejdict
-requite	(…で)…‘に'報いる|返礼する(reward)|…‘に'報復する《+『名』+『with』+『名』》	ejdict
+requite	(〜で)〜‘に'報いる|返礼する(reward)|〜‘に'報復する《+『名』+『with』+『名』》	ejdict
 rudbeckia	North American perennial herbs with showy cone-shaped flower heads	wneng
 embolic	of or relating to an embolism or embolus	wneng
 crixivan	インジナビル	wnjpn
@@ -32816,7 +32816,7 @@ saccadic	of or related to the rapid movement of the eyes between points of fixat
 ratatouille	a vegetable stew; usually made with tomatoes, eggplant, zucchini, peppers, onion, and seasonings|a vegetable stew|usually made with tomatoes, eggplant, zucchini, peppers, onion, and seasonings	wneng
 gingiva	歯肉|歯齦|歯ぐき|歯元|歯茎	wnjpn
 belorussian	a native or inhabitant of Byelorussia	wneng
-grizzle	〈特に小さな子供が〉しくしく泣く|(…のことで|…だと)だだをこねる|不平を言う《+『about』+『名』|+『that節』》	ejdict
+grizzle	〈特に小さな子供が〉しくしく泣く|(〜のことで|〜だと)だだをこねる|不平を言う《+『about』+『名』|+『that節』》	ejdict
 explainer	説明者	anc
 outrank	より高い地位を占める|重要性でに勝る|より上位にある	anc
 multiflora	ノイバラ	wnjpn
@@ -32851,7 +32851,7 @@ fruitfulness	生産性	wnjpn
 illusionary	幻影の|幻想の	wnjpn
 variola	裳瘡|痘瘡|天然痘|御厄|疱瘡	wnjpn
 laminectomy	椎弓切除	wnjpn
-dehydrate	…'を'脱水する|脱水状態にする|水分を失う|〈体が〉脱水状態になる	ejdict
+dehydrate	〜'を'脱水する|脱水状態にする|水分を失う|〈体が〉脱水状態になる	ejdict
 ambo	朗読台|高座|立ち台|教壇|立台|説教台|論壇|演壇|講壇|街頭演説台	wnjpn
 fretwork	雷文飾り	anc
 uprightness	垂直|律儀|廉直|真面|正直|正面|律義|清廉|方正	wnjpn
@@ -32912,7 +32912,7 @@ ayin	the 16th letter of the Hebrew alphabet	wneng
 kyanite	藍晶石	wnjpn
 actinomycin	アクチノマイシン|放線菌が産生するポリペプチド系の抗生物質|20種以上が知られている|試薬や抗がん剤に使われる	anc
 milker	搾乳者|乳牛	ejdict
-interrelate	(…と)相互関係にある《+『with』+『名』》	ejdict
+interrelate	(〜と)相互関係にある《+『with』+『名』》	ejdict
 dentine	象牙質|象牙質	wnjpn
 vagrancy	放浪|浮浪	ejdict
 pandanus	タコノキ科|タコノキ|タコノキ科	wnjpn
@@ -32970,7 +32970,7 @@ terrycloth	テリークロス(両面のけば(毛羽)の輪奈を切らずに残
 torchbearer	たいまつを持つ人|啓蒙する人|文化人	ejdict
 macroevolution	evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups	wneng
 epimedium	イカリソウ	wnjpn
-dislocate	…‘の'場所を移す|位置をずらす|…‘を'脱臼(だっきゅう)させる(disjoint)|〈正常な状態〉‘を'乱す|混乱させる	ejdict
+dislocate	〜‘の'場所を移す|位置をずらす|〜‘を'脱臼(だっきゅう)させる(disjoint)|〈正常な状態〉‘を'乱す|混乱させる	ejdict
 aspirator	a pump that draws air or another gas through a liquid	wneng
 reverential	敬けんな|恭(うやうや)しい|慎重な	anc
 schoolmate	学校友達	anc
@@ -33058,7 +33058,7 @@ leveller	a radical who advocates the abolition of social distinctions	wneng
 assignation	あいびきの約束|指定|割当て	anc
 worrier	悩む人|心配症の人	anc
 smutty	黒穂病にかかった|汚れた	anc
-nonplus	…‘を'困惑させる;…‘を'途方に暮れさせる	ejdict
+nonplus	〜‘を'困惑させる;〜‘を'途方に暮れさせる	ejdict
 peridotite	カンラン岩	wnjpn
 gudgeon	セイヨウカマツカ(釣りやすいコイ科の淡魚;釣りえ|および食用)・《英》だまされやすい人|かも	ejdict
 beefsteak	(ステーキ・フライ用)牛肉の切り身;(それを焼いた)ビフテキ	ejdict
@@ -33080,7 +33080,7 @@ dorsum	背部|背|後ろ|後|背中|脊|背部	wnjpn
 czerny	チェルニー	wnjpn
 ontogenetic	個体発生的	wnjpn
 crosshatch	(ペン画･製図などで)網状線(を描く|で陰影をつける)	anc
-eventuate	(…の)結果になる|結局(…に)なる《+『in』+『名』》	ejdict
+eventuate	(〜の)結果になる|結局(〜に)なる《+『in』+『名』》	ejdict
 architectonic	形成性	wnjpn
 armhole	そでぐり(そでを付けるための穴)	ejdict
 premolar	小臼歯|小臼歯の	ejdict
@@ -33153,13 +33153,13 @@ ungrammatical	文法に合わない	anc
 ogee	a molding that (in section) has the shape of an S with the convex part above and the concave part below	wneng
 taconite	タコナイト|角岩(鉄鉱石の一種)	ejdict
 genetical	of or relating to or produced by or being a gene; "genic combinations"; "genetic code"|of or relating to or produced by or being a gene|of or relating to the science of genetics; "genetic research"|of or relating to the science of genetics	wneng
-gluttonous	食いしんぼうの|大食の|(…に)どん欲な《+『of』+『名』》	ejdict
+gluttonous	食いしんぼうの|大食の|(〜に)どん欲な《+『of』+『名』》	ejdict
 ragout	ラグー(野菜と肉や魚の煮込み料理)	ejdict
 youthfulness	若々しさ|青年らしさ	ejdict
 colobus	コロブス	wnjpn
 grandam	祖母|老婆|おばあさん	ejdict
 brickfield	《英》= brickyard	ejdict
-revalue	…‘を'再評価する|〈通貨〉‘を'切り上げる	ejdict
+revalue	〜‘を'再評価する|〈通貨〉‘を'切り上げる	ejdict
 hypotenuse	(直角三角形の)斜辺	ejdict
 stob	a short straight stick of wood	wneng
 living	生き生きしている|生計|暮らし|生命のある|活発な|燃えている|生存|暮らし方	anc
@@ -33241,7 +33241,7 @@ asynchrony	異時性|非同時性|脱同期化|脱同調|非同期化|非同期�
 anthus	pipits	wneng
 unachievable	及びない|及び難い|及び無い|及びがたい|無理	wnjpn
 mandragora	a genus of stemless herbs of the family Solanaceae	wneng
-misname	《しばしば受動態で》…‘を'誤って名を呼ぶ	ejdict
+misname	《しばしば受動態で》〜‘を'誤って名を呼ぶ	ejdict
 leaseholder	借地人|借家人	ejdict
 titter	クスクス笑い|パイかぶれ|女好きの男|忍び笑い|クスクス笑う|忍び笑いをする|クスクス笑いながら言う	anc
 pentoxifylline	ペントキシフィリン	wnjpn
@@ -33308,7 +33308,7 @@ sexploitation	the commercial exploitation of sex or sexuality or explicit sexual
 unsavoury	morally offensive; "an unsavory reputation"; "an unsavory scandal"|morally offensive|not pleasing in odor or taste	wneng
 exemplification	〈U〉例をあげること|例示|〈C〉実例(example);好例	ejdict
 pleader	申立て人;嘆願者|弁護人	ejdict
-nucleate	核を持った|核になる|…‘を'核にする	ejdict
+nucleate	核を持った|核になる|〜‘を'核にする	ejdict
 casque	(中世に用いた)かぶと	ejdict
 vainglory	非常なうぬぼれ|強い虚栄心	ejdict
 explorative	serving in or intended for exploration or discovery; "an exploratory operation"; "exploratory reconnaissance"; "digging an exploratory well in the Gulf of Mexico"; "exploratory talks between diplomats"|serving in or intended for exploration or discovery	wneng
@@ -33415,7 +33415,7 @@ mylanta	an antacid	wneng
 docudrama	ドキュメントドラマ	anc
 cotoneaster	any shrub of the genus Cotoneaster: erect or creeping shrubs having richly colored autumn foliage and many small white to pinkish flowers followed by tiny red or black fruits	wneng
 glogg	Scandinavian punch made of claret and aquavit with spices and raisins and orange peel and sugar	wneng
-inhere	〈性質などが〉(…に)固有のものとしてある《+『in』+『名』》	ejdict
+inhere	〈性質などが〉(〜に)固有のものとしてある《+『in』+『名』》	ejdict
 rearguard	(軍隊の)後衛|しんがり	ejdict
 pieris	あせび|あせび	wnjpn
 officeholder	公務員	anc
@@ -33481,7 +33481,7 @@ metaphysically	in a metaphysical manner; "he thinks metaphysically"|in a metaphy
 virtu	〈U〉(美術品などの)優秀性|よさ|値打ち|《集合的に》《複数扱い》美術品|骨とう品|{U}美術品(骨とう品)に対する造詣(知識) = vertu	ejdict
 explicable	説明できる|説明可能な	anc
 unreason	無分別	wnjpn
-reincarnate	(…として)〈新しい肉体〉‘に'生まれ変わらせる《+『as』+『名』》	ejdict
+reincarnate	(〜として)〈新しい肉体〉‘に'生まれ変わらせる《+『as』+『名』》	ejdict
 crepuscule	逢魔が時|暮れ|日の暮れ|日の暮|昏黄|夕やみ|たそがれ|入り方|片夕暮れ|夕まぐれ	wnjpn
 colouration	音色|彩色|呈色	wnjpn
 demonization	to represent as diabolically evil; "the demonization of our enemies"|to represent as diabolically evil	wneng
@@ -33587,7 +33587,7 @@ chevre	made from goats' milk	wneng
 monogenic	of or relating to an inheritable character that is controlled by a single pair of genes	wneng
 biryani	an Indian dish made with highly seasoned rice and meat or fish or vegetables	wneng
 issachar	(Old Testament) a son of Jacob and a forebear of one of the tribes of Israel|a son of Jacob and a forebear of one of the tribes of Israel	wneng
-astir	(…に)わきたって|ざわめいて《+『at』+『名』》;(…で)にぎわって《+『with』+『名』》|(ベッドから)起きて	ejdict
+astir	(〜に)わきたって|ざわめいて《+『at』+『名』》;(〜で)にぎわって《+『with』+『名』》|(ベッドから)起きて	ejdict
 psychoanalytical	of or relating to or incorporating the methods and theory of psychiatric treatment originated by Sigmund Freud; "Freud's psychoanalytical theories"; "psychoanalytic treatment"|of or relating to or incorporating the methods and theory of psychiatric treatment originated by Sigmund Freud	wneng
 resolvent	溶材|溶剤|溶解剤|溶媒	wnjpn
 freakishly	気まぐれに	anc
@@ -33608,7 +33608,7 @@ cootie	シラミ	ejdict
 shipshape	きちんとした|整然と	ejdict
 explant	体外移植組織|人工培養組織	anc
 outcropping	露頭	wnjpn
-manacle	《複数形で》|手錠|束縛|拘束|〈人〉‘に'手錠を掛ける|…‘を'束縛する	ejdict
+manacle	《複数形で》|手錠|束縛|拘束|〈人〉‘に'手錠を掛ける|〜‘を'束縛する	ejdict
 claptrap	場当たりな	anc
 odium	憎悪|反感|汚名|悪評	ejdict
 seconder	(特に動議の)賛成者|支持者	ejdict
@@ -33698,7 +33698,7 @@ trumpeter	トランペット奏者|大声で知らせる人|ちょうちん持�
 unshared	非共有	wnjpn
 ingroup	連中|党|社中|同人|政派|一群れ|徒党|党派|派|私党	wnjpn
 immunopathology	免疫病理学	wnjpn
-assort	…'を'分類する|仕分ける	ejdict
+assort	〜'を'分類する|仕分ける	ejdict
 carryall	大きな手さげ袋|(数人乗りの1頭立ての)四輪馬車|乗合バス	ejdict
 peplum	ペプラム	wnjpn
 careerist	出世第一主義者	anc
@@ -33779,7 +33779,7 @@ homonym	(文法)同音異義語	anc
 derate	lower the rated electrical capability of electrical apparatus	wneng
 primatology	霊長類学	wnjpn
 gundog	銃猟犬(ポインター・セッター犬など)(《米》bird dog)	ejdict
-kowtow	叩頭(こうとう)(昔の中国の礼;ひれ伏して額を地面につける)|(…に)叩頭の礼をする《+『to』+『名』》|(…に)ぺこぺこする《+『to』+『名』》	ejdict
+kowtow	叩頭(こうとう)(昔の中国の礼;ひれ伏して額を地面につける)|(〜に)叩頭の礼をする《+『to』+『名』》|(〜に)ぺこぺこする《+『to』+『名』》	ejdict
 hydroelectricity	水力電気	wnjpn
 prideful	横風|横柄|見高|御高い|高飛車|権高|驕傲|頭勝ち|不遜|かさ高|狂喜した	wnjpn
 undine	ウンディーネ	wnjpn
@@ -33913,7 +33913,7 @@ procarbazine	プロカルバジン	wnjpn
 yardmaster	(鉄道の)構内主任	ejdict
 internalise	内面化	wnjpn
 redoubtable	恐るべき|あなどりがたい	anc
-stickle	(特に|ささいなことを)くどくど言う|(…に)難色を示す《+『at』+『名』》	ejdict
+stickle	(特に|ささいなことを)くどくど言う|(〜に)難色を示す《+『at』+『名』》	ejdict
 vanillin	バニリン	wnjpn
 headbutt	butt with the head; "The soccer player headbutted his oponent and was sent off the field"|butt with the head	wneng
 natation	the act of someone who floats on the water	wneng
@@ -33987,7 +33987,7 @@ nonsmoker	非喫煙者	anc
 arthralgia	関節痛	wnjpn
 thermostatically	by thermostat; in a thermostatic manner; "the temperature is thermostatically controlled"|by thermostat|in a thermostatic manner	wneng
 furze	ハリエニシダ(《英》gorse)	ejdict
-misconceive	…‘を'誤解する|思い違いをする(misunderstand)	ejdict
+misconceive	〜‘を'誤解する|思い違いをする(misunderstand)	ejdict
 neighbourly	exhibiting the qualities expected in a friendly neighbor	wneng
 perianth	花被	wnjpn
 alembic	ランビキ(昔の蒸留器|浄化器)	ejdict
@@ -34043,11 +34043,11 @@ pebbly	小石の多い	anc
 unrevealed	not made known	wneng
 burgeon	発芽する|急速に発展する|芽|若枝	anc
 riskless	thought to be devoid of risk	wneng
-abash	《通例受動態で用いて》…'を'恥じ入らせる;…'を'まごつかせる|面くらわせる	ejdict
+abash	《通例受動態で用いて》〜'を'恥じ入らせる;〜'を'まごつかせる|面くらわせる	ejdict
 innervate	刺激する	anc
 sacristy	聖具室	ejdict
 charitably	慈悲深く|寛大に	ejdict
-preordain	〈神・運命が〉…‘を'あらかじめ定める	ejdict
+preordain	〈神・運命が〉〜‘を'あらかじめ定める	ejdict
 torticollis	斜頚	wnjpn
 offerer	someone who presents something to another for acceptance or rejection	wneng
 amnesic	健忘	wnjpn
@@ -34142,10 +34142,10 @@ cognisance	意識|意識すること|認識	wnjpn
 trainman	列車乗務員	ejdict
 ballplayer	野球選手	anc
 quadruped	四つ脚|4つ脚|4つ足|四肢動物|四つ足|四足獣	wnjpn
-asphyxiate	…'を'窒息[死]させる|窒息[死]する	ejdict
+asphyxiate	〜'を'窒息[死]させる|窒息[死]する	ejdict
 loir	ロアール川	wnjpn
 embouchure	〈C〉(吹奏楽器の)吹口(すいこう)|〈U〉(吹口への)くちびるの当て方	ejdict
-overtop	…‘の'上にそびえる|…‘より'高い|…‘より'すぐれる	ejdict
+overtop	〜‘の'上にそびえる|〜‘より'高い|〜‘より'すぐれる	ejdict
 evolutionism	進化論|進化主義	wnjpn
 thoughtlessly	不親切に|無慈悲に|軽率に|不注意に|よく考えないで|考えなしに	anc
 symbolist	記号学者|記号使用者	anc
@@ -34251,7 +34251,7 @@ wineglass	ワイングラス	anc
 dyscalculia	impaired ability to learn grade-appropriate mathematics	wneng
 clubfoot	内反足|えび足|〈U〉内反足である状態	ejdict
 lacer	a workman who laces shoes or footballs or books (during binding)	wneng
-unchain	…‘の'鎖を解く|‘を'自由にする	ejdict
+unchain	〜‘の'鎖を解く|‘を'自由にする	ejdict
 antediluvian	大昔の|時代遅れの(人)	anc
 acetabulum	寛骨臼	wnjpn
 ritualize	make or evolve into a ritual; "The growing up of children has become ritualized in many cultures"|make or evolve into a ritual	wneng
@@ -34275,7 +34275,7 @@ scholasticism	(中世の)スコラ哲学	ejdict
 comptrollership	the position of comptroller	wneng
 adjunction	別れ目|分かれ目|分点|ジャンクション|分岐駅	wnjpn
 effeminacy	男らしくないこと|優柔不断	anc
-unmindful	(…を)気にかけない|(…に)むとんじゃくな《+of+名(wh-節)》	ejdict
+unmindful	(〜を)気にかけない|(〜に)むとんじゃくな《+of+名(wh-節)》	ejdict
 magnetohydrodynamics	磁気流体力学	wnjpn
 coppery	銅の[ような]|銅を含んだ|銅色の	ejdict
 cercopithecus	オナガザル	wnjpn
@@ -34290,7 +34290,7 @@ lineout	(ラグビーで)ラインアウト	ejdict
 unruffled	平静な	anc
 noncombustible	不燃性	wnjpn
 horrify	ぞっとさせる	anc
-emendation	〈U〉(…の)校正《+『of』+『名』》|〈C〉《しばしば複数形で》訂正[箇所]	ejdict
+emendation	〈U〉(〜の)校正《+『of』+『名』》|〈C〉《しばしば複数形で》訂正[箇所]	ejdict
 coppersmith	銅細工師	ejdict
 orudis	ケトプロフェン	wnjpn
 anaesthetize	麻酔	wnjpn
@@ -34313,7 +34313,7 @@ reflectometer	反射率計	wnjpn
 wizen	lean and wrinkled by shrinkage as from age or illness; "the old woman's shriveled skin"; "he looked shriveled and ill"; "a shrunken old man"; "a lanky scarecrow of a man with withered face and lantern jaws"-W.F.Starkie; "he did well despite his withered arm"; "a wizened little man with frizzy grey hair"|lean and wrinkled by shrinkage as from age or illness	wneng
 gametophyte	配偶体	wnjpn
 yanker	someone who gives a strong sudden pull	wneng
-numerate	…‘を'数える|数え上げる|《おもに英》足(た)し算引き算の能力のある|数学の分かる	ejdict
+numerate	〜‘を'数える|数え上げる|《おもに英》足(た)し算引き算の能力のある|数学の分かる	ejdict
 townsman	都会人|町内の人	anc
 polymerize	重合|重合	wnjpn
 scratching	キーキー	wnjpn
@@ -34381,7 +34381,7 @@ weigher	an official who weighs and records the weight	wneng
 shitless	extremely frightened; "he was scared shitless"|extremely frightened	wneng
 hypercapnia	the physical condition of having the presence of an abnormally high level of carbon dioxide in the circulating blood	wneng
 dinesen	ディネーセン	wnjpn
-shrive	(司祭が)…‘の'ざんげを聞いて罪の許しを与える|司祭にざんげする;〈司祭が〉ざんげを聞く	ejdict
+shrive	(司祭が)〜‘の'ざんげを聞いて罪の許しを与える|司祭にざんげする;〈司祭が〉ざんげを聞く	ejdict
 admiringly	with admiration; "he looked at his wife admiringly"|with admiration	wneng
 saiga	goat-like antelope of central Eurasia having a stubby nose like a proboscis	wneng
 saleswoman	女店員|女性販売員	anc
@@ -34455,14 +34455,14 @@ speculatively	with speculation; in a speculative manner; "he looked at her specu
 cortege	《集合的に》従者の列|行列|(特に)葬列	ejdict
 autolysis	自己分解	wnjpn
 diamagnetic	反磁性の|逆磁気の	ejdict
-contradistinction	(…との)対比|対照的区別《+『to』+『名』》	ejdict
+contradistinction	(〜との)対比|対照的区別《+『to』+『名』》	ejdict
 terpene	テルペン	wnjpn
-sainted	聖人に加えられた|聖人のような|高徳の|《名詞の前にのみ用いて》天国の|死んだ|故…	ejdict
+sainted	聖人に加えられた|聖人のような|高徳の|《名詞の前にのみ用いて》天国の|死んだ|故〜	ejdict
 baster	a cook who bastes roasting meat with melted fat or gravy|a sewer who fastens a garment with long loose stitches|a tube with a rubber bulb used to take up and release melted fat or gravy in order to moisten roasting meat	wneng
 manorial	荘園の|領地の	ejdict
 inglorious	不名誉な|恥ずべき	ejdict
 pennisetum	チカラシバ	wnjpn
-whereat	《疑問副詞》何に|なんで(at what)|《関係副詞》|《制限用法》[…に]…する[ところの](at which)|《非制限用法》そこで|すると(whereupon)	ejdict
+whereat	《疑問副詞》何に|なんで(at what)|《関係副詞》|《制限用法》[〜に]〜する[ところの](at which)|《非制限用法》そこで|すると(whereupon)	ejdict
 parch	をからからにする|あぶる|をからからに乾かす|を炒る|干上がる|からからになる	anc
 misconstrue	解釈を誤る|(人･行為など(の意図)を)誤解する	anc
 yid	ユダヤ人	ejdict
@@ -34546,7 +34546,7 @@ slobber	だらしなくやる	anc
 manoeuvrability	操縦性	wnjpn
 coital	性交の|交接の	ejdict
 manes	マーネス	wnjpn
-acquirement	〈U〉(不断の努力・習慣などによって)(…を)取得(習得)すること《+『of』+『名』》|〈C〉《しばしば複数形で》(身につけた)学識|技能	ejdict
+acquirement	〈U〉(不断の努力・習慣などによって)(〜を)取得(習得)すること《+『of』+『名』》|〈C〉《しばしば複数形で》(身につけた)学識|技能	ejdict
 unproblematic	シンプル|易しい|わかりやすい|易い|単純|分り易い|単簡|簡易|簡単|分りやすい	wnjpn
 landholder	地主;借地人	ejdict
 physicalism	唯物論	wnjpn
@@ -34570,18 +34570,18 @@ spicule	針状のもの|(海綿などの)針骨|針片|(植物の)小穂(すい)
 willfulness	我がまま|我侭|わがまま|我が侭|我が儘|我儘	wnjpn
 anastomose	吻合|吻合	wnjpn
 vocalic	母音の|母音を含む|母音のような	ejdict
-circumcise	…‘に'割礼を施す	ejdict
+circumcise	〜‘に'割礼を施す	ejdict
 salonica	セサロニキ|サロニカ	wnjpn
 swampland	沼沢地	anc
 calcination	か焼(かしょう)(石灰を焼いて生石灰にすること)	ejdict
 saponin	サポニン	wnjpn
 theodicy	the branch of theology that defends God's goodness and justice in the face of the existence of evil	wneng
-misstate	…‘に'ついて間違って(偽って)述べる	ejdict
+misstate	〜‘に'ついて間違って(偽って)述べる	ejdict
 granulocytic	顆粒球	wnjpn
 opaline	=opalescent|〈U〉乳白ガラス	ejdict
 cred	credibility among young fashionable urban individuals	wneng
 totara	valuable timber tree of New Zealand yielding hard reddish wood used for furniture and bridges and wharves	wneng
-unclothe	…‘の'衣服を脱がす|‘を'裸にする	ejdict
+unclothe	〜‘の'衣服を脱がす|‘を'裸にする	ejdict
 mukluk	マクラク(エスキモーのはくアザラシやトナカイの皮で作った長靴)	ejdict
 mutualism	共生	anc
 snowberry	セッコウボク(北米産のスイカズラ科の低木;ピンク色の花と白い実をつける)	ejdict
@@ -34598,7 +34598,7 @@ diathermy	透熱療法(高周波の電流を利用した治療法)	ejdict
 platy	プラティ(メキシコ産の淡水魚)	ejdict
 malleus	つち骨(中耳の三つの骨のうちで最も外側にある)	ejdict
 conversationalist	座談家|話し好きな人|話し上手	anc
-overgrow	《受動態で》〈草などが〉…‘に'一面に生える|はびこる|…‘より'大きくなる|はびこる|大きくなり過ぎる	ejdict
+overgrow	《受動態で》〈草などが〉〜‘に'一面に生える|はびこる|〜‘より'大きくなる|はびこる|大きくなり過ぎる	ejdict
 busybody	世話好きな人	anc
 unpopulated	居住者のいない|人の住んでいない	ejdict
 chinoiserie	シノワズリ	wnjpn
@@ -34634,7 +34634,7 @@ fleabane	ノミヨケ草	ejdict
 devisee	someone to whom property (especially realty) is devised by will	wneng
 cruddy	汚い	wnjpn
 siloxane	any of a large class of compounds that have alternate silicon and oxygen atoms	wneng
-upraise	《おもに文》…‘を'持ち上げる|起こす|〈地層〉‘を'隆起させる	ejdict
+upraise	《おもに文》〜‘を'持ち上げる|起こす|〈地層〉‘を'隆起させる	ejdict
 disorientate	=disorient	ejdict
 tendentious	(文書･発言)傾向的な|宣伝的な|偏向した	anc
 recessional	(礼拝式後)司祭と聖歌隊が退場のときに歌う|(礼拝式後の)退出の賛美歌	ejdict
@@ -34662,7 +34662,7 @@ nubby	of textiles; having a rough surface; "a sweater knitted of nubbly homespun
 silicide	ケイ化物	wnjpn
 baulk	=balk	ejdict
 waterbuck	ウォーターバック	wnjpn
-quaff	…‘を'がぶがぶ飲む|痛飲する|がぶ飲みする|痛飲する|がぶ飲み|痛飲	ejdict
+quaff	〜‘を'がぶがぶ飲む|痛飲する|がぶ飲みする|痛飲する|がぶ飲み|痛飲	ejdict
 papery	紙のような|薄い	ejdict
 solemnize	observe or perform with dignity or gravity; "The King solemnized this day of morning"|observe or perform with dignity or gravity|perform (the wedding ceremony) with proper ceremonies|make solemn and grave; "This ceremony solemnized our hearts"|make solemn and grave	wneng
 depersonalization	離人神経症|離人症|離人症|離人症	wnjpn
@@ -34745,7 +34745,7 @@ orchiectomy	睾丸摘出術	wnjpn
 chrysoprase	クリソプレーズ	wnjpn
 tousle	〈髪など〉‘を'乱す|もつれさせる	ejdict
 venire	(sheriff に対する)陪審員召集令状;召換状	ejdict
-perforate	…‘に'穴をあける|‘を'突き通す|〈紙など〉‘に'ミシン目を入れる|(穴で)切り取り線をつける|(…に)穴をあける|(…を)貫通する《+『into(through)』+『名』》	ejdict
+perforate	〜‘に'穴をあける|‘を'突き通す|〈紙など〉‘に'ミシン目を入れる|(穴で)切り取り線をつける|(〜に)穴をあける|(〜を)貫通する《+『into(through)』+『名』》	ejdict
 bouffant	フワフワした髪型|ふっくらした|膨れた|ダブダブした	anc
 prolegomenon	序文|序論	ejdict
 amebiasis	アメーバ症	wnjpn
@@ -34754,7 +34754,7 @@ entombment	埋葬	ejdict
 outflank	〈敵〉‘の'側面に回る|〈相手〉‘の'裏をかく|‘を'出し扱く	ejdict
 vouchsafe	〈返事・特典など〉‘を'賜る|与える	ejdict
 hereabouts	このあたりに	wnjpn
-blackguard	《軽べつして》げす;悪漢|ごろつき|〈人〉‘に'悪態をつく|…'を'ののしる	ejdict
+blackguard	《軽べつして》げす;悪漢|ごろつき|〈人〉‘に'悪態をつく|〜'を'ののしる	ejdict
 horsehead	any of several silvery marine fishes with very flat bodies	wneng
 unitarianism	ユニテリアン主義	wnjpn
 warplane	軍用機	anc
@@ -34780,7 +34780,7 @@ amiably	感じよく	anc
 sundog	幻日	wnjpn
 deicer	デフロスター	wnjpn
 blowhole	(トンネル・地下室などの)通風孔|(クジラの)噴気孔|(鋳物の)気泡(ほう)|(アザラシなどが呼吸するための)氷の中の穴	ejdict
-shoplift	…‘を'万引きする|万引きする	ejdict
+shoplift	〜‘を'万引きする|万引きする	ejdict
 iconoclasm	the orientation of an iconoclast	wneng
 fulsome	(お世辞などが|過度のために)飽き飽きする|鼻につく|あくどい|お世辞たらたらの	anc
 schmalz	シュマルツ	wnjpn
@@ -34788,7 +34788,7 @@ gauzy	薄織のような|薄く透き通る	anc
 ascendance	優越|優勢|優位	wnjpn
 knowledgeably	博識に|うんちくを傾けて	ejdict
 whippersnapper	小さな人物|こしゃくなやつ|若造	anc
-badmouth	《俗》…'を'けなす|こっぴどくやっつける	ejdict
+badmouth	《俗》〜'を'けなす|こっぴどくやっつける	ejdict
 paddlefish	ヘラチョウザメ(米国Mississippi川周辺に住む)	ejdict
 footplate	the platform in the cab of a locomotive on which the engineer stands to operate the controls	wneng
 longhand	普通の手書き	anc
@@ -34815,7 +34815,7 @@ czarist	ロシア帝政の|ロシア皇帝の|独裁的な|帝政支持者	ejdic
 exotoxin	a toxin that is secreted by microorganisms into the surrounding medium	wneng
 gossipy	(人が)ゴシップ好きの|(会話などが)ゴシップに満ちた	ejdict
 methyltestosterone	メチルテストステロン	wnjpn
-incommensurate	(…と)釣り合いのとれない|不相応な《+『to』+『名』》|(…とは)比較にならない|同一規準で計れない《+『to』+『名』》	ejdict
+incommensurate	(〜と)釣り合いのとれない|不相応な《+『to』+『名』》|(〜とは)比較にならない|同一規準で計れない《+『to』+『名』》	ejdict
 polyatomic	多原子	wnjpn
 orogeny	造山作用(運動)	ejdict
 arccos	the inverse function of the cosine; the angle that has a cosine equal to a given number|the inverse function of the cosine|the angle that has a cosine equal to a given number	wneng
@@ -34827,7 +34827,7 @@ distil	結露|凝縮|凝結|蒸溜|蒸留|滴下|醸造|醸造	wnjpn
 tabulator	タビュレーター(タイプライターの図表作製装置)	ejdict
 saroyan	サロイヤン	wnjpn
 albite	曹長石	wnjpn
-ramify	…‘を'枝のように分ける;…‘を'網の目のように広げる|枝のように分かれる;網の目のように広がる	ejdict
+ramify	〜‘を'枝のように分ける;〜‘を'網の目のように広げる|枝のように分かれる;網の目のように広がる	ejdict
 heteroptera	カメムシ亜目	wnjpn
 passel	多数|大きな数|大集団	anc
 laminaria	type genus of the family Laminariaceae: perennial brown kelps	wneng
@@ -34840,7 +34840,7 @@ slapdash	向こう見ずに|ぞんざいに|性急に|向こう見ずな|ぞん�
 kindergartener	a child who attends a preschool or kindergarten	wneng
 apposition	同格	anc
 disputable	議論の余地がある(questionable)	ejdict
-airdrop	(パラシュートによる)空中投下|…'を'空中投下する	ejdict
+airdrop	(パラシュートによる)空中投下|〜'を'空中投下する	ejdict
 tamerlane	ティムール	wnjpn
 corpuscular	小体	wnjpn
 coccidioidomycosis	コクシジウム症	wnjpn
@@ -34898,7 +34898,7 @@ carny	旅芸人|=carnival3	ejdict
 misbegotten	私生児の|庶出の|(人|計画などについて)卑しむべき	ejdict
 wonted	いつもの|例の	ejdict
 kuchen	クーヘン(フルーツ入りのドイツ風のコーヒーケーキ)	ejdict
-flagellate	鞭毛(べんもう)のある;鞭毛状の|…‘を'むち打つ	ejdict
+flagellate	鞭毛(べんもう)のある;鞭毛状の|〜‘を'むち打つ	ejdict
 mugwump	(政治論争上などで)中立主義者;(政治上の)一匹狼|うぬぼれ|愚か者|大物|大立者|独自の立場を取る人|優柔不断な人|親分	ejdict
 respectably	見苦しくなく	ejdict
 passionflower	トケイソウ(キリストの十字架上での傷・茨(いばら)の冠にたとえられる花)	ejdict
@@ -34971,7 +34971,7 @@ manservant	しもべ|下男|従者	anc
 unluckily	折り悪しく|折り悪く|残念ながら|運悪く|折悪しく|あいにく|生憎	wnjpn
 premie	早産児	wnjpn
 cellblock	(刑務所の)独房棟	ejdict
-appose	…'を'並べる|隣りに(近くに)置く	ejdict
+appose	〜'を'並べる|隣りに(近くに)置く	ejdict
 procreative	producing new life or offspring; "the reproductive potential of a species is its relative capacity to reproduce itself under optimal conditions"; "the reproductive or generative organs"|producing new life or offspring	wneng
 damson	西洋スモモ	ejdict
 humectant	any substance that is added to another substance to keep it moist	wneng
@@ -35004,7 +35004,7 @@ numbskull	=numskull	ejdict
 barrenness	実を結ばないこと;不妊;(土地の)不毛	ejdict
 yellowthroat	イエロースロート	wnjpn
 placidly	in a quiet and tranquil manner; "the sea now shimmered placidly before our eyes"|in a quiet and tranquil manner	wneng
-supplicate	…を嘆願する|懇願する|〈神・人〉‘に'嘆願する|懇願する|(…を)嘆願する《+for+名》	ejdict
+supplicate	〜を嘆願する|懇願する|〈神・人〉‘に'嘆願する|懇願する|(〜を)嘆願する《+for+名》	ejdict
 protoplasm	原形質	ejdict
 linum	a herbaceous plant genus of the family Linaceae with small sessile leaves	wneng
 pipefish	ヨウジウオ	wnjpn
@@ -35015,7 +35015,7 @@ saliency	特徴|突極性	wnjpn
 moosewood	maple of eastern North America with striped bark and large two-lobed leaves clear yellow in autumn|deciduous shrub of eastern North America having tough flexible branches and pliable bark and small yellow flowers	wneng
 diffident	内気な|自信がない|遠慮がちな|おずおずした	anc
 expiate	〈罪など〉‘を'償う	ejdict
-affiance	(…と)〈人〉'を'婚約させる《+『名』+『to』+『名』》	ejdict
+affiance	(〜と)〈人〉'を'婚約させる《+『名』+『to』+『名』》	ejdict
 byname	渾名|仇名|ニックネーム|あだ名|愛称|綽名|通称	wnjpn
 whirr	whir	ejdict
 corkage	(ホテル|レストランなどで持ち込みのワインに対する)持ち込み料	ejdict
@@ -35088,7 +35088,7 @@ khanate	the realm of a khan|the position of a khan	wneng
 rheometer	流量計;(特に血液の流れを計る)血流計	ejdict
 italicize	イタリック体で印刷する|斜字体で印刷する	wnjpn
 milkmaid	乳しぼりの女	anc
-propitiate	…‘を'なだめる|‘の'怒りを和らげる	ejdict
+propitiate	〜‘を'なだめる|‘の'怒りを和らげる	ejdict
 supercilious	おうへいな	anc
 soldiery	《集合的に》軍人|兵隊|軍事教練	ejdict
 sightsee	観光旅行をする|見物する	booqs
@@ -35144,7 +35144,7 @@ cardiomegaly	心肥大	wnjpn
 pulpy	ドロドロの|果肉の|果肉状の|柔軟な|汁の多い	anc
 stepbrother	義兄|義弟	anc
 lederhosen	ハーフパンツ	wnjpn
-partaker	(…を)共にする人;(…の)分担者|関係者《+『of』(『in』)+『名』》	ejdict
+partaker	(〜を)共にする人;(〜の)分担者|関係者《+『of』(『in』)+『名』》	ejdict
 pigmy	=pygmy	ejdict
 bulbar	involving the medulla oblongata; "bulbar paralysis"|involving the medulla oblongata	wneng
 charnel	納骨堂	ejdict
@@ -35224,7 +35224,7 @@ mantid	predacious long-bodied large-eyed insect of warm regions; rests with fore
 senhor	a Portuguese title of respect; equivalent to English `Mr'|a Portuguese title of respect|equivalent to English `Mr'	wneng
 microdissection	顕微解剖	anc
 tightwad	しみったれ	ejdict
-indurate	〈岩・組織など〉‘を'硬くする|硬化する|…‘を'無感覚にする|がんこにする|…‘を'慣れさせる|硬くなる|硬化した;無感覚な	ejdict
+indurate	〈岩・組織など〉‘を'硬くする|硬化する|〜‘を'無感覚にする|がんこにする|〜‘を'慣れさせる|硬くなる|硬化した;無感覚な	ejdict
 gyrate	螺旋状の|旋回する	anc
 fathomless	測れないもど深い|底なしの|不可解な	ejdict
 comprehensibility	理解できること|分かり易さ	ejdict
@@ -35266,7 +35266,7 @@ fiddlehead	クサソテツ	wnjpn
 preservationist	someone who advocates the preservation of historical sites or endangered species or natural areas	wneng
 unsociable	打ち解けない|人づき合いの悪い	ejdict
 epigastric	of or relating to the anterior walls of the abdomen; "epigastric artery"|of or relating to the anterior walls of the abdomen|lying on or over the stomach	wneng
-electroplate	…‘に'(通例銀の)電気めっきをする	ejdict
+electroplate	〜‘に'(通例銀の)電気めっきをする	ejdict
 neutropenic	好中球減少	anc
 kolinsky	チョウセンイタチ[の毛皮]	ejdict
 coziness	快さ	wnjpn
@@ -35436,7 +35436,7 @@ rissa	律紗	wnjpn
 koine	共通語	wnjpn
 metaphysician	形而上学者	ejdict
 unamended	(of legislation) not amended	wneng
-descale	…‘から'湯あかを除く	ejdict
+descale	〜‘から'湯あかを除く	ejdict
 ampule	(注射液を入れる)アンプル	ejdict
 dozy	ねむい	anc
 puccinia	type genus of the Pucciniaceae; a large genus of parasitic fungi including many that are destructive to various economic plants|type genus of the Pucciniaceae|a large genus of parasitic fungi including many that are destructive to various economic plants	wneng
@@ -35564,7 +35564,7 @@ vervet	South African monkey with black face and hands	wneng
 cinchona	〈C〉キナの木(南米産)|〈U〉キナ皮(キナの木の樹皮でキニーネ(quinine)などの薬剤を採る)	ejdict
 champollion	シャンポリオン	wnjpn
 glamorize	に魅力を添える|に魅力を与える	anc
-conjoin	…'を'結合(連合)させる|結合する	ejdict
+conjoin	〜'を'結合(連合)させる|結合する	ejdict
 ninny	ばか(者)|まぬけ|乳首|乳房	anc
 intracellularly	細胞内に	anc
 beeves	beefの複数形	ejdict
@@ -35628,7 +35628,7 @@ fiberfill	化繊綿(枕などの詰め物に使うポリエステルなどの合
 omentum	a fold of peritoneum supporting the viscera	wneng
 disaccharide	二糖|二糖類	wnjpn
 proneness	being disposed to do something; "accident proneness"|being disposed to do something	wneng
-betide	〈不幸・災難が〉〈人〉‘に'起こる|‘の'身にふりかかる|(…に)起こる《+『to』+『名』》	ejdict
+betide	〈不幸・災難が〉〈人〉‘に'起こる|‘の'身にふりかかる|(〜に)起こる《+『to』+『名』》	ejdict
 rotogravure	輪転グラビア印刷[物]	ejdict
 indexical	指標表現の	wnjpn
 speleology	洞穴学	ejdict
@@ -35736,7 +35736,7 @@ unready	準備ができていない	ejdict
 ellul	エリュール	wnjpn
 microdot	photograph reduced to the size of a dot (usually for purposes of security)	wneng
 gamesmanship	(スポーツで)反則すれすれの巧妙な勝ち方	ejdict
-ossify	…‘を'骨化させる|(骨のように)…‘を'硬化させる|骨化する|(人・考え方が)がん固になる|融通がきかなくなる	ejdict
+ossify	〜‘を'骨化させる|(骨のように)〜‘を'硬化させる|骨化する|(人・考え方が)がん固になる|融通がきかなくなる	ejdict
 erythematous	紅斑性	wnjpn
 babushka	a woman's headscarf folded into a triangle and tied under the chin; worn by Russian peasant women|a woman's headscarf folded into a triangle and tied under the chin|worn by Russian peasant women	wneng
 tibialis	脛骨	wnjpn
@@ -35833,12 +35833,12 @@ diapause	休眠	anc
 muskellunge	オオカワマス(北米産カワマス属の大きな釣魚)	ejdict
 outsize	特大の	anc
 bluntness	ぶっきらぼう|率直	ejdict
-ulcerate	潰瘍を生じる|…に潰瘍を生じさせる	ejdict
+ulcerate	潰瘍を生じる|〜に潰瘍を生じさせる	ejdict
 gesticulate	身振りで話す|身ぶり手振りで表現する|活発な身ぶりをする	anc
 tailstock	support consisting of the movable part of a lathe that slides along the bed in alignment with the headstock and is locked into position to support the free end of the workpiece	wneng
 skulk	こそこそ隠れる|ずるける|隠れる|こそこそ動く	anc
 heterosis	雑種強勢	wnjpn
-athwart	(海事用語で)横切って;逆らって|《まれ》…を横切って;…に逆らって	ejdict
+athwart	(海事用語で)横切って;逆らって|《まれ》〜を横切って;〜に逆らって	ejdict
 literalism	文字通りに解釈すること|直訳調|写実主義	ejdict
 navicular	せん状骨|舟状	wnjpn
 godhood	神格|神性	ejdict
@@ -35873,7 +35873,7 @@ sanely	正気で|分別をもって	ejdict
 gruffly	in a gruff manner; "`No,' he replied gruffly"|in a gruff manner	wneng
 soppy	びしょびしょの;(天気が)雨ふりの(rainy)|《英話》ひどく涙もろい|めそめそした	ejdict
 guidepost	道標|道しるべ|指針|指標	anc
-capacitate	…'を'可能にする;〈人〉‘に'能力(資格)を与える	ejdict
+capacitate	〜'を'可能にする;〈人〉‘に'能力(資格)を与える	ejdict
 aneurism	動脈瘤	wnjpn
 permissibility	admissibility as a consequence of being permitted	wneng
 ostinato	オスティナート	wnjpn
@@ -35910,11 +35910,11 @@ congeal	(液体を)凍らせる|凝結させる(する)|ゼラチン状になる
 vascularity	血管分布	wnjpn
 rabbinate	rabbis collectively|the office or function of a rabbi	wneng
 counterterrorist	対テロ	anc
-arrogate	(自分の物に)〈権力・特権など〉'を'不当に帰する(占める)《+『to』 one『self』+『名』》|(自分に)…‘が'あると理由もなく言う《+『to』one『self』+『名』》	ejdict
+arrogate	(自分の物に)〈権力・特権など〉'を'不当に帰する(占める)《+『to』 one『self』+『名』》|(自分に)〜‘が'あると理由もなく言う《+『to』one『self』+『名』》	ejdict
 quieten	静かになる《+『down』》|‘を'静かにさせる	ejdict
 boffo	resoundingly successful and popular; "for years he was a boffo box office certainty"|resoundingly successful and popular	wneng
 overvaluation	過大評価	wnjpn
-chary	用心深い|細心な;(…に)用心深い《+『of』+『名』(do『ing』)》|遠慮がちな|つつましい|《補語にのみ用いて》(…を)出し惜しむ|しぶしぶ(…)する《+『of』(『in』)+『名』(do『ing』)》	ejdict
+chary	用心深い|細心な;(〜に)用心深い《+『of』+『名』(do『ing』)》|遠慮がちな|つつましい|《補語にのみ用いて》(〜を)出し惜しむ|しぶしぶ(〜)する《+『of』(『in』)+『名』(do『ing』)》	ejdict
 enucleation	surgical removal of something without cutting into it; "the enucleation of the tumor"|surgical removal of something without cutting into it	wneng
 stoically	じっとする	wnjpn
 latecomer	遅参者	anc
@@ -35953,7 +35953,7 @@ contrariwise	これに反して|(順序・方向などが)板対に|逆に|《�
 arrant	(悪い意味で)評判の|この上ない	ejdict
 appealingly	in an appealing manner; "the table was set appealingly"|in an appealing manner	wneng
 breadbasket	《話》穀倉地帯|《俗》胃袋	ejdict
-appertain	(…に)属する|関連する《+『to』+『名』》	ejdict
+appertain	(〜に)属する|関連する《+『to』+『名』》	ejdict
 separatrix	固相線	wnjpn
 helichrysum	large genus of mostly African and Australian herbs and shrubs: everlasting flowers; in some classifications includes genus Ozothamnus|large genus of mostly African and Australian herbs and shrubs: everlasting flowers|in some classifications includes genus Ozothamnus	wneng
 muramidase	リゾチーム	wnjpn
@@ -35973,7 +35973,7 @@ backslider	背教者|堕落者	ejdict
 untalented	不佞	wnjpn
 setaria	annual or perennial grasses of warm regions: bristlegrasses	wneng
 unmerited	not merited or deserved; "received an unmerited honorary degree"|not merited or deserved|not merited; "unmerited treatment of a potentially fine subject"|not merited	wneng
-insubordinate	従順でない|反抗的|反抗的な;(…に)従わない《+『to』+『名』》	ejdict
+insubordinate	従順でない|反抗的|反抗的な;(〜に)従わない《+『to』+『名』》	ejdict
 whippoorwill	(北米産の)ヨタカの一種	ejdict
 lxiii	being three more than sixty	wneng
 thallus	葉状体	wnjpn
@@ -36013,7 +36013,7 @@ szell	セル	wnjpn
 retrospection	回想|追想;回顧|思い出	ejdict
 ungovernable	統御できない|抑えきれない	ejdict
 procardia	ニフェジピン	wnjpn
-incise	…‘に'切り込みを入れる;…‘を'刻む	ejdict
+incise	〜‘に'切り込みを入れる;〜‘を'刻む	ejdict
 gloriosa	グロリオーサ	wnjpn
 wittily	頓知をきかせて	anc
 hydrometer	液体比重計	anc
@@ -36049,7 +36049,7 @@ upbraid	叱責する|とがめる|しかる	anc
 glycosaminoglycan	グリコサミノグリカン|動物の結合組織を中心に存在する軟骨の主な構造成分で|目の角膜にも見られる	anc
 branchlet	枝|小枝	wnjpn
 fascicule	分冊	wnjpn
-overcompensate	(…に対して)補償し過ぎる《+『for』+『名』》	ejdict
+overcompensate	(〜に対して)補償し過ぎる《+『for』+『名』》	ejdict
 narcoleptic	ナルコレプシー	wnjpn
 seismologist	地震学者	anc
 flatus	腸内にたまるガス	ejdict
@@ -36092,7 +36092,7 @@ maturely	熟して|円熟して|熟慮して	ejdict
 coloratura	コロラチューラ(声楽の装飾的高音部)|〈C〉コロラチューラソプラノ歌手	ejdict
 jemmy	オーバーコート|羊の頭	anc
 chemisorption	化学吸着	wnjpn
-armful	(…の)腕いっぱいの量《+『of』+『名』》	ejdict
+armful	(〜の)腕いっぱいの量《+『of』+『名』》	ejdict
 nervy	筋骨たくましい|神経過敏な	anc
 anticyclone	高気圧	ejdict
 nurseryman	苗畑の所有者|苗木屋	ejdict
@@ -36118,7 +36118,7 @@ toyshop	おもちゃ屋	ejdict
 belowground	under the level of the ground; "belowground storage areas"; "underground caverns"|under the level of the ground	wneng
 scrumpy	強いりんご酒	ejdict
 cannelloni	カネローニ(パスタの中に肉・チーズを詰めて焼いたもの)	ejdict
-deify	…'を'神に祀る|…'を'神様扱いする	ejdict
+deify	〜'を'神に祀る|〜'を'神様扱いする	ejdict
 documental	ドキュメンタル	wnjpn
 demineralize	鉱質除去	wnjpn
 perinuclear	核周囲の|核周囲性の	anc
@@ -36126,7 +36126,7 @@ orchitis	睾丸炎	wnjpn
 augury	占い|占いの儀式|きざし|前兆	ejdict
 birl	回転	wnjpn
 eluate	溶出液	anc
-inflect	〈単語〉‘を'語形変化(活用)させる|〈声〉‘の'調を変える;…‘に'抑揚をつける|…‘を'曲げる|屈曲させる	ejdict
+inflect	〈単語〉‘を'語形変化(活用)させる|〈声〉‘の'調を変える;〜‘に'抑揚をつける|〜‘を'曲げる|屈曲させる	ejdict
 rolaids	an antacid	wneng
 fettucini	フェタチーネ(イタリア料理に用いる細長くした練り粉) = fettuccine =fettuccini	ejdict
 sniveling	水洟	wnjpn
@@ -36171,7 +36171,7 @@ seborrhea	脂漏	wnjpn
 archetypical	=archetypal	ejdict
 vegetate	植物(草や木)のようにぶらぶらして何もしない|(to hang out and do nothing like a vegetable)	anc
 iritis	虹彩炎	wnjpn
-imprudence	〈U〉無思慮|軽率|無謀;(…する)無分別さ《+『to』 do》|〈C〉無分別な行為(言葉)	ejdict
+imprudence	〈U〉無思慮|軽率|無謀;(〜する)無分別さ《+『to』 do》|〈C〉無分別な行為(言葉)	ejdict
 unnerve	気力を奪う|おじけづかせる|落胆させる|挫く|狼狽させる	anc
 spreadable	広げられる|容易に広がる	ejdict
 dogmatically	独断	wnjpn
@@ -36242,7 +36242,7 @@ televisual	テレビ放送向きの	ejdict
 mutinous	反抗的な	ejdict
 descriptively	記述的	wnjpn
 multiprogramming	マルチプログラミング|多重プログラミング	wnjpn
-ingrain	(…に)…‘を'浸透させる|根づかせる《+『名』+『into』+『名』》	ejdict
+ingrain	(〜に)〜‘を'浸透させる|根づかせる《+『名』+『into』+『名』》	ejdict
 peremptorily	断固として|有無を言わせず・横柄に	ejdict
 internalisation	learning (of values or attitudes etc.) that is incorporated within yourself	wneng
 lugubrious	悲しげな|痛ましい	anc
@@ -36273,7 +36273,7 @@ burnable	引火性	wnjpn
 exaction	〈C〉〈U〉(税金などの)強制取り立て;不当な要求|〈C〉強制されたもの|強制取り立て金|重税	ejdict
 unlighted	not set afire or burning; "the table was bare, the candles unlighted"; "held an unlit cigarette"|not set afire or burning|without illumination; "came up the lightless stairs"; "the unilluminated side of Mars"; "through dark unlighted (or unlit) streets"|without illumination	wneng
 washstand	(洗面器・水差しなどを載せる)洗面台|(水道の設備の付いた)洗面台	ejdict
-overspread	…‘を'いっぱいに広げる|…‘を'上一面に広げる	ejdict
+overspread	〜‘を'いっぱいに広げる|〜‘を'上一面に広げる	ejdict
 stereogram	立体写真、立体画	ejdict
 biltong	ビルトン	wnjpn
 tumulus	(有史以前の)墳墓|古墳	ejdict
@@ -36347,7 +36347,7 @@ unvarying	変わらない|恒常的|コンスタント	wnjpn
 ampulla	膨大部|膨大部	wnjpn
 intersubjectivity	間主観性|二人以上の人間において同意が成り立っていること|主観的と客観的の中間の概念	anc
 orgiastic	飲めや歌えの	anc
-whereto	《疑問副詞》どこへ;何のために|《関係副詞》[…へ]…するところの(to which)	ejdict
+whereto	《疑問副詞》どこへ;何のために|《関係副詞》[〜へ]〜するところの(to which)	ejdict
 galactosemia	ガラクトース血症	wnjpn
 impasto	(絵画で)絵の具の厚ぬり;厚ぬりの絵の具	ejdict
 cottager	小さな家に住む人;別荘で休暇を過ごす人	ejdict
@@ -36481,7 +36481,7 @@ vascularization	the organic process whereby body tissue becomes vascular and dev
 unreasoning	理性を働かさない|思慮のない	ejdict
 thoughtlessness	無分別|不注意|軽はずみ|無思慮	wnjpn
 radioactively	in a radioactive manner; "radioactively labeled"|in a radioactive manner	wneng
-outgo	支出|出費;流出|…より早く行く|…にまさる	ejdict
+outgo	支出|出費;流出|〜より早く行く|〜にまさる	ejdict
 cycas	ソテツ科	wnjpn
 conservativism	保守主義	wnjpn
 pufferfish	フグ	anc
@@ -36568,7 +36568,7 @@ sampan	サンパン(はしけ)|中国南部や東南アジアで使用される�
 dacha	(ロシアの)いなかの邸宅(別荘)	ejdict
 lutetium	ルテチウム(化学記号は『Lu』)	ejdict
 quodlibet	an issue that is presented for formal disputation	wneng
-backbite	…‘の'陰口を言う|陰口を言う	ejdict
+backbite	〜‘の'陰口を言う|陰口を言う	ejdict
 unwonted	いつにない|まれな	ejdict
 hypernym	上位語|広義語	wnjpn
 blessedly	幸いにも	anc
@@ -36591,7 +36591,7 @@ upholder	支持者|後援者	ejdict
 ungodliness	impiety by virtue of not being a godly person	wneng
 bellerophon	(Greek mythology) a mythical hero of Corinth who performed miracles on the winged horse Pegasus (especially killing the monster Chimera)|a mythical hero of Corinth who performed miracles on the winged horse Pegasus (especially killing the monster Chimera)	wneng
 unconsidered	考慮を欠いた|軽視された(disregarded)	ejdict
-reelect	…‘を'再選する	ejdict
+reelect	〜‘を'再選する	ejdict
 dumbness	the quality of being mentally slow and limited	wneng
 wallah	usually in combination: person in charge of or employed at a particular thing; "a kitchen wallah"; "the book wallah"|usually in combination: person in charge of or employed at a particular thing	wneng
 spymaster	someone who directs clandestine intelligence activities	wneng
@@ -36624,7 +36624,7 @@ multicollinearity	a case of multiple regression in which the predictor variables
 typic	寓意的|典型的	wnjpn
 notate	put into notation, as of music or choreography; "Nowadays, you can notate an entire ballet; in the old days, the steps had to be memorized"|put into notation, as of music or choreography	wneng
 cuticular	of or relating to a cuticle or cuticula	wneng
-insensibility	(…に対する)無感覚《+『to+名』》|(…に対して)感受性のないこと|無関心《+『to+名』》|人事不省	ejdict
+insensibility	(〜に対する)無感覚《+『to+名』》|(〜に対して)感受性のないこと|無関心《+『to+名』》|人事不省	ejdict
 washerwoman	洗濯女	ejdict
 qibla	the direction of the Kaaba toward which Muslims turn for their daily prayers|a small terrorist group of Muslims in South Africa formed in the 1980s; was inspired by Ayatollah Khomeini to create an Islamic state in South Africa|a small terrorist group of Muslims in South Africa formed in the 1980s|was inspired by Ayatollah Khomeini to create an Islamic state in South Africa	wneng
 externalisation	客観化|客観化	wnjpn
@@ -36677,7 +36677,7 @@ stylet	探り	wnjpn
 extrasensory	超常的	wnjpn
 bowsprit	船首斜檣(しゃしょう)|やりだし(船首から前方に突き出た円材)	ejdict
 celtis	ツェルティス	wnjpn
-wheedle	〈人〉‘に'うまいことを言って(…)させる《+『名』〈人〉+into doing》|〈物〉‘を'(人から)うまいことを言って巻き上げる《+『名』〈物〉+out of+『名』〈人〉》	ejdict
+wheedle	〈人〉‘に'うまいことを言って(〜)させる《+『名』〈人〉+into doing》|〈物〉‘を'(人から)うまいことを言って巻き上げる《+『名』〈物〉+out of+『名』〈人〉》	ejdict
 laughingstock	笑い者|笑いぐさ	anc
 caoutchouc	天然ゴム|生ゴム	ejdict
 pellagra	ペラグラ病(皮膚異常・中枢神経機能障害などを起こす)	ejdict
@@ -36808,7 +36808,7 @@ overspill	(都心が過密で)郊外に移る人々;(都市の)過剰人口	ejdi
 hierarchal	階層的	wnjpn
 uninviting	neither attractive nor tempting|not tempting	wneng
 sepal	がく片	anc
-superheat	…‘を'過熱する|(蒸発させないで)〈液体〉‘を'沸点以上に熱する|(圧力をあげるため)〈蒸気〉‘を'過熱する|過熱状態;過熱量	ejdict
+superheat	〜‘を'過熱する|(蒸発させないで)〈液体〉‘を'沸点以上に熱する|(圧力をあげるため)〈蒸気〉‘を'過熱する|過熱状態;過熱量	ejdict
 arteriolar	細動脈	wnjpn
 dicentra	コマクサ	wnjpn
 flatfoot	(複flatfeet)偏平足|《俗》(複flatfoots)巡査	ejdict
@@ -36877,7 +36877,7 @@ poilu	(第一次大戦中の)フランス兵	ejdict
 disestablishment	the act terminating an established state of affairs; especially ending a connection with the Church of England|the act terminating an established state of affairs|especially ending a connection with the Church of England	wneng
 hamartoma	過誤腫	wnjpn
 megohm	メグオーム|百万オーム(電気抵抗の単位;{略}『meg』)	ejdict
-preponderant	(数量・勢力などにおいて)優勢な|圧倒的な;(…に)まさっている《+『over+名』》	ejdict
+preponderant	(数量・勢力などにおいて)優勢な|圧倒的な;(〜に)まさっている《+『over+名』》	ejdict
 avowal	公言|言明|公然たる是認	anc
 lycee	中等学校	wnjpn
 hurdler	ハードル競技選手	ejdict
@@ -36909,7 +36909,7 @@ nakedly	裸で|ありのままに	wnjpn
 disarrangement	a condition in which an orderly system has been disrupted	wneng
 undulation	波動|うねり|振動|音波|光波|動悸	anc
 rubato	ルバート	wnjpn
-valuate	…‘を'評価する|見積もる	ejdict
+valuate	〜‘を'評価する|見積もる	ejdict
 polyarteritis	inflammation of several arteries	wneng
 oxaloacetate	オキザロ酢酸	wnjpn
 highroad	《おもに英》幹線道路|本道(highway)|《比喩(ひゆ)的に》楽な道	ejdict
@@ -36957,7 +36957,7 @@ inquisitiveness	好奇心	wnjpn
 adad	Babylonian god of storms and wind	wneng
 liposarcoma	脂肪肉腫	wnjpn
 fipple	a wooden plug forming a flue pipe (as the mouthpiece of a recorder)	wneng
-outclass	…‘の'勝る|‘より'優れた	ejdict
+outclass	〜‘の'勝る|‘より'優れた	ejdict
 conceptus	受胎産物 (胎児と胎盤の総称)	anc
 ophthalmoplegia	眼筋麻痺	wnjpn
 satiation	充満|飽満|飽食|満腹|飽食	wnjpn
@@ -36965,7 +36965,7 @@ actinium	アクチニウム(放射性元素;化学記号Ac)	ejdict
 unidimensional	relating to a single dimension or aspect; having no depth or scope; "a prose statement of fact is unidimensional, its value being measured wholly in terms of its truth"- Mary Sheehan; "a novel with one-dimensional characters"|relating to a single dimension or aspect|having no depth or scope	wneng
 meprobamate	メプロバメート	wnjpn
 bloodworm	赤虫	wnjpn
-abscond	(…から)〈犯人などが〉ひそかに逃亡する|行くえをくらます《+『from』+『名』》	ejdict
+abscond	(〜から)〈犯人などが〉ひそかに逃亡する|行くえをくらます《+『from』+『名』》	ejdict
 ruddle	代赭(たいしゃ)石|羊に印をつける赤い塗料(代赭石で作る)|〈羊〉‘に'赤い印をつける	ejdict
 gaillardia	テンニンギク|ガイラルジア	wnjpn
 slipshod	かかとのつぶれた靴をはいた|だらしのない	anc
@@ -37027,7 +37027,7 @@ anaxagoras	a presocratic Athenian philosopher who maintained that everything is 
 usurious	高利の|高利を取る	anc
 planchet	a flat metal disk ready for stamping as a coin	wneng
 stochasticity	でたらめさ|出たら目さ|出鱈目さ	wnjpn
-presentiment	(…の)(悪い)予感|胸騷ぎ《+『that節』》	ejdict
+presentiment	(〜の)(悪い)予感|胸騷ぎ《+『that節』》	ejdict
 godparent	名付け親(生まれた子の洗礼式に立ち会って名前を与える人)	ejdict
 sturdily	たくましく;がんじょうに;がん強に	ejdict
 governmentally	by government; "governmentally determined policy"|by government	wneng
@@ -37070,7 +37070,7 @@ desirably	望ましい形で(やり方で)|願わしいことに	ejdict
 sericulture	養蚕|蚕業	ejdict
 lyonnaise	リヨン風の(刻みタマネギを入れて料理したものについていう)	ejdict
 fruitlessly	損	wnjpn
-unbeknown	(…に)知られない《+to+名》|(…に)知られずに《+to+名》	ejdict
+unbeknown	(〜に)知られない《+to+名》|(〜に)知られずに《+to+名》	ejdict
 photoplay	劇映画	ejdict
 piggery	《おもに英》=pigsty	ejdict
 callboy	(俳優の出番を告げる)呼び出し係	ejdict
@@ -37171,7 +37171,7 @@ gofer	給仕	wnjpn
 blastomycosis	ブラストミセス症	wnjpn
 variegation	(特に植物の)多彩な色合い|雑色|まだら	ejdict
 sensationally	in a sensational manner; "in the summer of 1958 the pianist had a sensationally triumphant return"|in a sensational manner	wneng
-adjudge	〈人〉‘に'判決を下す|宣告する|(法律・審査で)(人に)…'を'与える《+『名』+『to』+『名』〈人〉》(award)|《『adjudge』+『名』[+『to be』]+『形』(『名』)〈補〉》(…と)…'を'考える|見なす	ejdict
+adjudge	〈人〉‘に'判決を下す|宣告する|(法律・審査で)(人に)〜'を'与える《+『名』+『to』+『名』〈人〉》(award)|《『adjudge』+『名』[+『to be』]+『形』(『名』)〈補〉》(〜と)〜'を'考える|見なす	ejdict
 pharmaceutic	drug or medicine that is prepared or dispensed in pharmacies and used in medical treatment|of or relating to pharmacy or pharmacists; "the pharmaceutical industry"|of or relating to pharmacy or pharmacists	wneng
 zostera	(or in some classifications family Zosteraceae) small genus of widely distributed marine plants|small genus of widely distributed marine plants	wneng
 dactyl	(古典詩の韻律で)長短短格(‐);(英詩の)強弱弱格(‐‐‐)	ejdict
@@ -37219,7 +37219,7 @@ renascence	=renaissance	ejdict
 consonantal	子音の|子音の特徴のある	ejdict
 fifthly	in the fifth place; "fifthly, we must adhere to the rules set by the local government"|in the fifth place	wneng
 huggin	ハギング|(inviting cuddling or hugging|寄り添い|あるいは抱擁を促す)	anc
-incommensurable	同じ規準(尺度)で比較できない;(…と)比べ物にならない《+『with』+『名』》	ejdict
+incommensurable	同じ規準(尺度)で比較できない;(〜と)比べ物にならない《+『with』+『名』》	ejdict
 deglutition	飲み込むこと|呑|飲|飲み|嚥下|飲み込み|呑み	wnjpn
 nonpolitical	非政治的な	wnjpn
 nincompoop	とんま|ばか者|つまらない人	anc
@@ -37267,10 +37267,10 @@ eds	イーディーエス	wnjpn
 untutored	訓練(教育)を受けていない	ejdict
 baptistry	bowl for baptismal water	wneng
 pureness	純一無雑|単純|生一本|無雑|生粋|精粋|清浄|潔白|純潔	wnjpn
-enshroud	…‘を'覆い隠す|包んで見えなくする	ejdict
+enshroud	〜‘を'覆い隠す|包んで見えなくする	ejdict
 genu	膝小僧|膝車|ニー|膝関節|膝口|膝|膝坊主	wnjpn
 hypocenter	(地震・核爆発の地下の)震源地	ejdict
-overlie	〈覆い・地層などが〉…‘の'上に横たわる(重なる)	ejdict
+overlie	〈覆い・地層などが〉〜‘の'上に横たわる(重なる)	ejdict
 differentia	(論理学で)種差(ある種が同じ属の他の種と区別される属性);本質的な相違点	ejdict
 uninfluenced	左右されていない|心を動かされない|影響されない	wnjpn
 questionably	不審	wnjpn
@@ -37363,7 +37363,7 @@ cuneate	(of a leaf shape) narrowly triangular, wider at the apex and tapering to
 unsurpassable	not to be exceeded; "unsurpassable skill"; "unsurpassable standards of workmanship"|not to be exceeded	wneng
 hyperemesis	悪阻	wnjpn
 hubel	ヒューベル	wnjpn
-cumber	(…で)〈人〉'を'じゃまする|‘に'負担をかける《+『名』+『with』+『名』》	ejdict
+cumber	(〜で)〈人〉'を'じゃまする|‘に'負担をかける《+『名』+『with』+『名』》	ejdict
 quartette	カルテット|四重|４人組|四重奏	wnjpn
 doddle	容易に(簡単に)できること	ejdict
 usnea	サルオガセ	wnjpn
@@ -37396,7 +37396,7 @@ garble	(故意に事実など)を歪める|(知らずに)取り違える	anc
 unshaded	(of pictures) not having shadow represented; "unshaded drawings resembling cartoons"|(of pictures) not having shadow represented|not darkened or dimmed by shade; "an unshaded meadow"; "a bright and unshaded lane"|not darkened or dimmed by shade	wneng
 threadfin	mullet-like tropical marine fishes having pectoral fins with long threadlike rays	wneng
 offensiveness	the quality of being offensive	wneng
-antedate	…'を'実際よりも早い日付にする|…‘より'早い時期に起こる	ejdict
+antedate	〜'を'実際よりも早い日付にする|〜‘より'早い時期に起こる	ejdict
 practicably	実行可能に|実用的に	ejdict
 osteodystrophy	骨形成異常	wnjpn
 hygienically	衛生的に|衛生上	ejdict
@@ -37466,7 +37466,7 @@ mesophilic	(生科学)中等温度好性の(中温が好適な温度環境であ
 cordierite	菫青石	wnjpn
 felicitation	祝賀|祝辞	anc
 earthshaking	世界をゆるがす|非常に重要な	ejdict
-indisposition	気分がすぐれないこと|少し加減の悪いこと|(…に)気が進まないこと《+『for』+『名』(do『ing』)》;(…する)気がしないこと《+『to』 do》	ejdict
+indisposition	気分がすぐれないこと|少し加減の悪いこと|(〜に)気が進まないこと《+『for』+『名』(do『ing』)》;(〜する)気がしないこと《+『to』 do》	ejdict
 forlornly	侘しく|(forlornの副詞形)	anc
 hinderance	妨|妨げ|足手纏|差し合い|害|差し障り|妨害|邪魔立て|手足まとい|さし支え|荷厄介|足手まとい|足手纏|妨害|邪魔立て|手足まとい|足手まとい|手足纏い|障碍|足纏い|足まとい|障害	wnjpn
 arsine	アルシン	wnjpn
@@ -37474,7 +37474,7 @@ zill	ジル	wnjpn
 shammy	=chamois　シャモア　灰色がかった黄色　シャミー　セーム革	ejdict
 amphipoda	端脚類	wnjpn
 nutriment	〈U〉〈C〉営養分|養分;食物(food)	ejdict
-swinge	…‘を'むち打つ|罰する	ejdict
+swinge	〜‘を'むち打つ|罰する	ejdict
 pupate	〈幼虫が〉さなぎになる	ejdict
 boneheaded	おたんちん|おたんこなす	wnjpn
 healthiness	健康であること|健全さ	ejdict
@@ -37626,7 +37626,7 @@ laparoscope	腹腔鏡	wnjpn
 epilation	loss of hair; the result of removing hair|loss of hair|the result of removing hair|the act of removing hair (as from an animal skin)	wneng
 panhandler	物乞い	anc
 indistinctly	ぼうっと|茫と|薄々|うすうす|ぼやっと|薄薄|薄らと|杳として	wnjpn
-redact	〈布告など〉‘を'作成する|…‘を'編集する;…‘を'校正(改訂)する	ejdict
+redact	〈布告など〉‘を'作成する|〜‘を'編集する;〜‘を'校正(改訂)する	ejdict
 metastability	the quality of a physical system that persists in its existing equilibrium when undisturbed (or only slightly disturbed) but able to pass to a more stable equilibrium when sufficiently disturbed	wneng
 insultingly	不正	wnjpn
 thalamocortical	視床皮質系	wnjpn
@@ -37662,8 +37662,8 @@ walkaway	楽勝|楽勝の試合	ejdict
 subtribe	亜族	anc
 unuseable	not capable of being used	wneng
 tucket	ファンファーレ	wnjpn
-inspirit	…‘を'元気づける|鼓舞する	ejdict
-countersign	(特に戦場で歩哨・斥候などの)合い言葉|応答信号|副署(他の人の文書に確認のためにする署名)|…‘に'連署(副署)する	ejdict
+inspirit	〜‘を'元気づける|鼓舞する	ejdict
+countersign	(特に戦場で歩哨・斥候などの)合い言葉|応答信号|副署(他の人の文書に確認のためにする署名)|〜‘に'連署(副署)する	ejdict
 somnambulist	=sleepwalker	ejdict
 brabble	argue over petty things; "Let's not quibble over pennies"|argue over petty things	wneng
 pluperfect	過去完了|大過去	wnjpn
@@ -37682,7 +37682,7 @@ drumlin	ドラムリン(氷河堆積物の土の長円形の丘陵)	ejdict
 corroboree	オーストラリア原住民の祭;その踊り(歌)|《話》騒々しいパーティー(踊り)	ejdict
 centerfielder	(野球で)センター|中堅手	ejdict
 cashbook	現金出納簿	ejdict
-overindulgence	甘やかし過ぎ|わがまま;(…に)ふけり過ぎること《+『in』+『策名』》	ejdict
+overindulgence	甘やかし過ぎ|わがまま;(〜に)ふけり過ぎること《+『in』+『策名』》	ejdict
 spermatocyte	精母細胞	wnjpn
 lowliness	(地位・身分などの)低いこと|腰の低いこと|謙そん	ejdict
 unaccredited	無資格	wnjpn
@@ -37835,7 +37835,7 @@ cavil	けちをつける|あら探しをする	anc
 huskily	しわがれ声で	ejdict
 gastronomical	=gastronomic	ejdict
 unwarrantable	incapable of being justified or explained	wneng
-anent	…について|に関して	ejdict
+anent	〜について|に関して	ejdict
 cytolysis	pathological breakdown of cells by the destruction of their outer membrane	wneng
 cytotoxin	細胞毒	wnjpn
 petfood	ペットフード	wnjpn
@@ -37873,7 +37873,7 @@ agammaglobulinemia	無ガンマグロブリン血症	wnjpn
 imperatively	in an imperative and commanding manner	wneng
 philadelphus	any of various chiefly deciduous ornamental shrubs of the genus Philadelphus having white sweet-scented flowers, single or in clusters; widely grown in temperate regions|any of various chiefly deciduous ornamental shrubs of the genus Philadelphus having white sweet-scented flowers, single or in clusters|widely grown in temperate regions	wneng
 ratite	飛べない走鳥類|(ダチョウ|エミュー等)	anc
-pennyworth	(…の)1ペニーで買える分量|1ペニー分(の…)《+『of』+『名』》|わずか|少量(の)《+『of』+『名』》	ejdict
+pennyworth	(〜の)1ペニーで買える分量|1ペニー分(の〜)《+『of』+『名』》|わずか|少量(の)《+『of』+『名』》	ejdict
 crofter	小作農	ejdict
 tankage	the quantity contained in (or the capacity of) a tank or tanks|the charge for storing something in tanks|the act of storing in tanks	wneng
 darky	黒ん坊	wnjpn
@@ -37893,7 +37893,7 @@ butterfish	バターフィシュ(米国大西洋岸沖産の平たい食用魚)	
 convalesce	病気から回復する	anc
 songster	歌手|歌の作者;詩人|鳴き鳥(songbird)	ejdict
 protirelin	プロチレリン	wnjpn
-supersession	(…に)取って代わること|(…の)代替|代用《+of+名》	ejdict
+supersession	(〜に)取って代わること|(〜の)代替|代用《+of+名》	ejdict
 lushness	豊富	wnjpn
 unsocial	非社会的な;非社交的な;家庭生活が優先する	ejdict
 vertiginous	グルグル回る|目が回るような|目まぐるしい|目まいがする|旋回する|不安定な|変わりやすい	anc
@@ -37935,7 +37935,7 @@ paralyse	麻痺させる|無力にする|麻痺	wnjpn
 pointillism	点描画法(フランスの新印象派の画家たちの技法)	ejdict
 sneakily	コソコソと|こっそりと|隠れて	wnjpn
 pterygium	either of two thickened triangular layers of conjunctiva extending from the nasal edge of the eye to the cornea; it arises from irritation of the pinguecula|either of two thickened triangular layers of conjunctiva extending from the nasal edge of the eye to the cornea|it arises from irritation of the pinguecula	wneng
-rumple	…‘を'しわにする|くしゃくしゃにする|しわになる|くしゃくしゃになる|しわ(wrinkle)	ejdict
+rumple	〜‘を'しわにする|くしゃくしゃにする|しわになる|くしゃくしゃになる|しわ(wrinkle)	ejdict
 weigela	deciduous shrub widely cultivated for its white or pink or red flowers	wneng
 tarsier	メガネザル(インドネシア産;長い尾と大きな目を持つ小形の猿)	ejdict
 haltingly	ぎくぎく|つっかえつっかえ	wnjpn
@@ -37947,7 +37947,7 @@ freebee	something that is free (usually provided as part of a promotional scheme
 disapprobation	=disapproval	ejdict
 tetany	clinical neurological syndrome characterized by muscular twitching and cramps and (when severe) seizures; associated with calcium deficiency (hypoparathyroidism) or vitamin D deficiency or alkalosis|clinical neurological syndrome characterized by muscular twitching and cramps and (when severe) seizures|associated with calcium deficiency (hypoparathyroidism) or vitamin D deficiency or alkalosis	wneng
 glumly	むっつりして	anc
-bejewel	(宝石で)…'を'飾る	ejdict
+bejewel	(宝石で)〜'を'飾る	ejdict
 archdeaconry	archdeaconの職(地位|任期|住息)	ejdict
 vulpine	キツネの|キツネのような;(キツネのように)ずるがしこい	ejdict
 inspirer	a leader who stimulates and excites people to action	wneng
@@ -37974,7 +37974,7 @@ blabbermouth	口の軽い人	ejdict
 dolomitic	relating to or consisting of dolomite	wneng
 tiddler	《話》非常に小さい魚|《呼び掛けに用いて》ちびっ子|《俗》半ペニー銅貨	ejdict
 ungracious	無作法な|粗野な	ejdict
-overawe	…‘を'威圧する|怖がらせる	ejdict
+overawe	〜‘を'威圧する|怖がらせる	ejdict
 mothball	防虫剤|をしまい込む	anc
 holidaymaker	休日の行楽客|休日を楽しむ人	anc
 flippantly	in a flippant manner; "he answered the reporters' questions flippantly"; "this cannot be airily explained to your children"|in a flippant manner	wneng
@@ -38035,12 +38035,12 @@ foraminifer	有孔虫	wnjpn
 caudata	salamanders; newts; congo snakes|salamanders|newts|congo snakes	wneng
 saponification	鹸化	wnjpn
 snowfield	雪原	ejdict
-superfluity	〈U〉〈C〉(…が)多すぎること|余分|過剰《+of+名》|〈C〉《おもに複数形で》余分なもの|必要以上のもの;ぜいたく品	ejdict
+superfluity	〈U〉〈C〉(〜が)多すぎること|余分|過剰《+of+名》|〈C〉《おもに複数形で》余分なもの|必要以上のもの;ぜいたく品	ejdict
 cremate	〈死体〉'を'火葬にする	ejdict
 podophyllum	ポドフィルム	wnjpn
 periosteum	骨膜	wnjpn
 tricorn	三角帽子	wnjpn
-tweeze	…をピンセットで抜く	ejdict
+tweeze	〜をピンセットで抜く	ejdict
 birchbark	a canoe made with the bark of a birch tree	wneng
 anabolism	(生物の)同化作用	ejdict
 tetroxide	an oxide containing four atoms of oxygen in the molecule	wneng
@@ -38061,7 +38061,7 @@ outcaste	(インドで人が)社会的地位のない	ejdict
 downrange	(ロケット・ミサイルなどが)射程に沿って	ejdict
 deportee	国外追放者|被追放者|流刑者	anc
 commiseration	哀れみ|同情	anc
-entrain	…‘を'列車に乗せる|列車に乗る	ejdict
+entrain	〜‘を'列車に乗せる|列車に乗る	ejdict
 mechanistically	機構的に	anc
 counterpoise	〈C〉=counterbalance|〈U〉釣合い|安定|=counterbalance{動}1	ejdict
 inquiringly	不審そうに|尋ねたそうに	ejdict
@@ -38138,7 +38138,7 @@ unrequested	not requested; "the merchandise was unrequested"|not requested	wneng
 scathingly	遠慮会釈なく|遠慮会釈無く|手厳しく|痛烈に	wnjpn
 unhallow	犯す|冒す	wnjpn
 popover	軽焼きマフィン・(軽い焼き菓子の一種)	ejdict
-overfly	(編隊飛行で)…‘の'上空を飛行する	ejdict
+overfly	(編隊飛行で)〜‘の'上空を飛行する	ejdict
 injudicious	無分別な|無思慮な	ejdict
 beriberi	脚気(かっけ)	ejdict
 hawkweed	any of various plants of the genus Pilosella|any of numerous often hairy plants of the genus Hieracium having yellow or orange flowers that resemble the dandelion	wneng
@@ -38177,7 +38177,7 @@ cryogen	寒剤	wnjpn
 amnio	羊水穿刺	wnjpn
 sarcomere	筋節|サルコメア(骨格筋線維の収縮単位)	anc
 condylar	顆状	wnjpn
-steepen	…‘を'険しくする|急勾配(こうばい)にする|険しくなる|急勾配になる	ejdict
+steepen	〜‘を'険しくする|急勾配(こうばい)にする|険しくなる|急勾配になる	ejdict
 scentless	かおりのない	ejdict
 motorization	モータリゼーション	wnjpn
 impulsion	〈C〉衝動|推進力|刺激|〈U〉推進	ejdict
@@ -38232,7 +38232,7 @@ ambrosian	of or by or relating to Saint Ambrose; "Ambrosian chants"|of or by or 
 finitude	有限	wnjpn
 frugally	つましく|質素に	ejdict
 shako	(前に金層装飾|上に羽飾りのついた)筒形軍帽	ejdict
-bestride	…‘に'またがる;…'を'またいで越す	ejdict
+bestride	〜‘に'またがる;〜'を'またいで越す	ejdict
 bovril	an extract of beef (given to people who are ill)	wneng
 pilaster	ピラスター|柱形|付け柱|片蓋柱	anc
 savarin	サバラン	wnjpn
@@ -38254,7 +38254,7 @@ malefic	有害な|災いを呼ぶ	ejdict
 oversensitive	神経過敏	wnjpn
 rale	ラ音	wnjpn
 scatterbrain	気持ちが散漫な人|軽率な人	ejdict
-betake	(…に)〈自分〉'を'行かせる《+one『self to』+『名』》	ejdict
+betake	(〜に)〈自分〉'を'行かせる《+one『self to』+『名』》	ejdict
 quaestor	クァエストル	wnjpn
 forestation	植林|造林;営林	ejdict
 dejeuner	昼食会|お昼|昼御飯|昼飯|昼餐|午餐|昼げ|昼餉|ランチ|昼めし	wnjpn
@@ -38355,7 +38355,7 @@ enteropathy	腸疾患	wnjpn
 wardroom	(軍艦の)上級士官室	ejdict
 personalty	=personal property	ejdict
 caliche	crust or layer of hard subsoil encrusted with calcium-carbonate occurring in arid or semiarid regions|nitrate-bearing rock or gravel of the sodium nitrate deposits of Chile and Peru	wneng
-splutter	(混乱して)早口でしゃべる|〈物が〉パチパチ(ジュー)と音を立てる|(混乱して)…‘を'早口で言う《+『out』+『名』|+『名』+『out』》|パチパチ(ジュー)という音	ejdict
+splutter	(混乱して)早口でしゃべる|〈物が〉パチパチ(ジュー)と音を立てる|(混乱して)〜‘を'早口で言う《+『out』+『名』|+『名』+『out』》|パチパチ(ジュー)という音	ejdict
 enlistee	新兵	wnjpn
 mignonette	モクセイソウ(かおりのいい緑色がかった小さい花房をつける庭木)	ejdict
 orography	the science of mountains	wneng
@@ -38371,7 +38371,7 @@ sealskin	オットセイ(アザラシ)の皮(毛皮)	ejdict
 supernormal	beyond the range of the normal or scientifically explainable; "supernormal intimations"|beyond the range of the normal or scientifically explainable|exceeding the normal or average; "years of supernormal employment during the war"; "a phase of supernormal excitability"|exceeding the normal or average	wneng
 emaciation	解離|窶れ|痩せぎす	wnjpn
 oubliette	(城などの)地下牢(ろう)(天井に出入口がある)	ejdict
-forewarn	(…について)〈人〉‘に'前もって知らせる《+『名』〈人〉+『of』+『名』》;〈人〉‘に'(…であることを)前もって警告する《+『名』〈人〉+『that節』》	ejdict
+forewarn	(〜について)〈人〉‘に'前もって知らせる《+『名』〈人〉+『of』+『名』》;〈人〉‘に'(〜であることを)前もって警告する《+『名』〈人〉+『that節』》	ejdict
 coregonus	type genus of the Coregonidae: whitefishes	wneng
 motorman	(電車・電気機関車の)運転手	ejdict
 nativist	a philosopher who subscribes to nativism|advocating the perpetuation of native societies; "the old nativist prejudice against the foreign businessman"; "the nativistic faith preaches the old values"- C.K.Kluckhohn|advocating the perpetuation of native societies|of or relating to or advocating nativism; "nativist theories"; "the traditional controversy between the nativistic and empiristic theories"|of or relating to or advocating nativism	wneng
@@ -38400,11 +38400,11 @@ honker	鼻|カナダ雁	wnjpn
 polydactyly	多指症	wnjpn
 crystallise	釈明|解きあかす|解明かす|解明|解明す|結晶	wnjpn
 prayerbook	祈祷書	wnjpn
-frazzle	ぼろぼろになる|へとへとに疲れる|…ぼろぼろにする|へとへとに疲れさせる|ぼろぼろの状態|くたくたの状態	ejdict
+frazzle	ぼろぼろになる|へとへとに疲れる|〜ぼろぼろにする|へとへとに疲れさせる|ぼろぼろの状態|くたくたの状態	ejdict
 unclouded	澄み切った|かげりのない	ejdict
 tubocurarine	ツボクラリン|d-ツボクラリン|クラーレ	wnjpn
 affability	愛想の良さ|感じの良さ	anc
-affright	《古》…'を'こわがらせる	ejdict
+affright	《古》〜'を'こわがらせる	ejdict
 linalool	リナロール	wnjpn
 recantation	(主張･陳述などの)撤回|取消し|否認	anc
 cephalothin	セファロチン	wnjpn
@@ -38412,7 +38412,7 @@ anouilh	French dramatist noted for his reinterpretations of Greek myths (1910-19
 flannelette	綿ネル(フランネルのように表面がけば立っている)	ejdict
 visigoth	西ゴート	wnjpn
 pelota	ハイアライ	wnjpn
-outplay	…‘より'じょうずである;(競技などで)…‘に'勝つ(defeat)	ejdict
+outplay	〜‘より'じょうずである;(競技などで)〜‘に'勝つ(defeat)	ejdict
 southwestward	南西へ(に)|南西の;南西への|南西|南西部	ejdict
 impracticality	〈U〉実行不可能|非実用性|〈C〉実行不可能なこと|実用的でないこと	ejdict
 gigantism	巨大症|巨人症|巨人症	wnjpn
@@ -38431,7 +38431,7 @@ hexapod	六脚類|昆虫	ejdict
 graupel	雪状のあられ	ejdict
 hindgut	後腸	wnjpn
 gallimaufry	雑多な寄せ集め|ごたまぜ	ejdict
-besmirch	《文》…'を'汚す	ejdict
+besmirch	《文》〜'を'汚す	ejdict
 apatosaurus	雷竜	wnjpn
 conventioneer	大会出席(参加)者	ejdict
 duckbill	カモノハシ	anc
@@ -38490,7 +38490,7 @@ cembalo	チェンバロ(harpsichord)	ejdict
 tinware	すず(ブリキ)製品	ejdict
 imide	イミド	wnjpn
 cistus	small to medium-sized evergreen shrubs of southern Europe and North Africa	wneng
-retrogressive	(元の状態に)後退する|逆行する|退化する;(…に)後退する《+『to』+『名』》	ejdict
+retrogressive	(元の状態に)後退する|逆行する|退化する;(〜に)後退する《+『to』+『名』》	ejdict
 amorality	超道徳性;道徳意識の欠如|不道徳	ejdict
 amateurism	アマチュア精神;しろうと芸	ejdict
 militarisation	動員|軍事化	wnjpn
@@ -38584,7 +38584,7 @@ leadless	無鉛	wnjpn
 anaesthetise	麻酔	wnjpn
 roofless	(建物が)屋根のない|(人が)宿なしの	ejdict
 monistic	of or relating to the philosophical doctrine of monism; "the monistic school would regard national law and international law as an integrated whole"- J.S.Roucek|of or relating to the philosophical doctrine of monism	wneng
-despoil	(…を)〈人・場所〉‘から'奪う《+『名』+『of』+『名』》	ejdict
+despoil	(〜を)〈人・場所〉‘から'奪う《+『名』+『of』+『名』》	ejdict
 pappus	冠毛	wnjpn
 fogy	時勢遅れの人|がんこで旧弊な人	ejdict
 auricula	心耳	wnjpn
@@ -38629,7 +38629,7 @@ extirpate	〈悪習・集団など〉‘を'根絶する|撲滅する|〈植物�
 quizzer	試験官|検査官	wnjpn
 destress	reduce the emphasis	wneng
 imposer	押しつける人|(課題・重荷などを)課する人	ejdict
-handpick	…‘を'注意して選ぶ	ejdict
+handpick	〜‘を'注意して選ぶ	ejdict
 avoirdupois	=avoirdupois weight(《略》『avdp』)	ejdict
 convulse	身もだえさせる|震動させる	anc
 crystallite	微結晶|晶子	wnjpn
@@ -38683,7 +38683,7 @@ hypnotise	induce hypnosis in	wneng
 signally	著しく	wnjpn
 caterwaul	(発情期の猫のように)ギャーギャー言う|いがみ合う|ギャーギャー鳴く声	ejdict
 expansiveness	広範囲|大規模|広大さ|きさくさ	wnjpn
-unburden	…‘の'荷物を降ろす|(打ち明けて)〈心〉‘の'重荷を降ろす|‘を'軽くする|〈悩みなど〉‘を'打ち明ける	ejdict
+unburden	〜‘の'荷物を降ろす|(打ち明けて)〈心〉‘の'重荷を降ろす|‘を'軽くする|〈悩みなど〉‘を'打ち明ける	ejdict
 batfish	bottom-dweller of warm western Atlantic coastal waters having a flattened scaleless body that crawls about on fleshy pectoral and pelvic fins	wneng
 tetanic	＜tetanus|破傷風の	anc
 osteopetrosis	大理石骨病	wnjpn
@@ -38786,11 +38786,11 @@ integrality	全体性	wnjpn
 invagination	嵌入|陥入	wnjpn
 kegler	ボウリング競技者|ボウラー(bowler)	ejdict
 unsuppressed	given vent to; "unsuppressed rage"; "unsuppressed feelings"|given vent to	wneng
-prate	《『prate』 『about』+『名』》(…を)ぺちゃくちゃしゃべる|くどくどと話をする	ejdict
+prate	《『prate』 『about』+『名』》(〜を)ぺちゃくちゃしゃべる|くどくどと話をする	ejdict
 submissively	in a servile manner; "he always acts so deferentially around his supervisor"|in a servile manner	wneng
-whithersoever	[…するところへは]どこへでも	ejdict
+whithersoever	[〜するところへは]どこへでも	ejdict
 rhythmicity	周期性|リズミカル	anc
-cocksure	自信満々の|うぬぼれの強い;(…に)うぬぼれた《+『of』(『about』)+『名』(do『ing』)》|(…だと)うぬぼれている《+『that節』》|(…すると)確信しきっている《+『to』 do》	ejdict
+cocksure	自信満々の|うぬぼれの強い;(〜に)うぬぼれた《+『of』(『about』)+『名』(do『ing』)》|(〜だと)うぬぼれている《+『that節』》|(〜すると)確信しきっている《+『to』 do》	ejdict
 gonne	Irish patriot and a founder of the Sinn Fein (1865-1953)	wneng
 foundress	a woman founder	wneng
 knish	クニシュ(肉・じゃがいもなどの詰め物を入れて油であげたユダヤ料理)	ejdict
@@ -38840,7 +38840,7 @@ beigel	ベーグル	wnjpn
 baykal	バイカル湖	wnjpn
 cockade	花形帽章(階級などを表してつけられたが|現在は装飾用)	ejdict
 pentad	五つ|５|伍つ|拳固|五|伍	wnjpn
-dehumidify	…‘の'湿気を除去する|'を'除湿する	ejdict
+dehumidify	〜‘の'湿気を除去する|'を'除湿する	ejdict
 polyfoam	ウレタンフォーム	wnjpn
 asarum	wild ginger	wneng
 akko	アッコ	wnjpn
@@ -38898,7 +38898,7 @@ gracefulness	beautiful carriage	wneng
 elide	省く|取り除く|削除する|無視する	anc
 mumpsimus	a traditional notion that is obstinately held although it is unreasonable; "he still holds to the old mumpsimus that a woman's place is in the kitchen"|a traditional notion that is obstinately held although it is unreasonable	wneng
 solarize	日	wnjpn
-upchuck	吐く|もどす|…‘を'吐く|もどす	ejdict
+upchuck	吐く|もどす|〜‘を'吐く|もどす	ejdict
 hemiplegic	半身不随	wnjpn
 insurgence	暴動	wnjpn
 intone	吟唱(ぎんしょう)する|詠唱する|抑揚をつける	anc
@@ -38954,7 +38954,7 @@ essayer	企図者	wnjpn
 thiothixene	チオチキセン	wnjpn
 stonechat	野鶲	wnjpn
 foulard	フーラード(柔らかく光沢のある布地)	ejdict
-reface	…‘に'新しい表面をつける|…‘の'表面を新しくする	ejdict
+reface	〜‘に'新しい表面をつける|〜‘の'表面を新しくする	ejdict
 getting	受け	anc
 khalif	=caliph	ejdict
 geebung	any of numerous shrubs and small trees having hard narrow leaves and long-lasting yellow or white flowers followed by small edible but insipid fruits	wneng
@@ -38964,7 +38964,7 @@ nonentity	非実在|取るに足りないこと(状態)	anc
 blandishment	ごきげん取り;甘言	ejdict
 gerbert	ゲルベルト	wnjpn
 streetwalker	売春婦|街娼婦|町の女	ejdict
-remonstrate	(人に…について)忠告する|抗議する《+『with』+『名』〈人〉+『against』(『about|over』)+『名』(do『ing』)》	ejdict
+remonstrate	(人に〜について)忠告する|抗議する《+『with』+『名』〈人〉+『against』(『about|over』)+『名』(do『ing』)》	ejdict
 actomyosin	アクトミオシン(筋収縮を起こす複合体蛋白質)	ejdict
 steatite	石鹸石	wnjpn
 perspicuous	(言葉・議論などが)理解しやすい|明快な	ejdict
@@ -38982,13 +38982,13 @@ okeh	an endorsement; "they gave us the O.K. to go ahead"|an endorsement	wneng
 nomogram	ノモグラム|ノモグラフ	wnjpn
 luncheonette	軽食堂	ejdict
 carrycot	(乳児用の)携帯ベッド	ejdict
-rehear	(裁判で)…‘を'再審理する	ejdict
+rehear	(裁判で)〜‘を'再審理する	ejdict
 crookneck	首が長くねじれたカボチャ	ejdict
 prescript	規定|指令	ejdict
 muscularity	筋肉|腕力|力強さ|エネルギッシュさ|雄勁	wnjpn
 benzoquinone	キノン	wnjpn
 bonhomie	(仏語)気さく|人のよさ|温容|温厚|快活	anc
-overdress	…‘に'はでな服装をさせる|はでな服装をする	ejdict
+overdress	〜‘に'はでな服装をさせる|はでな服装をする	ejdict
 industrialize	産業化する|工業(産業)化する	anc
 toughie	あばれん坊|不良|暴れん坊|不良少年|ちんぴら|チンピラ|苦手	wnjpn
 inertness	不活溌	wnjpn
@@ -39055,7 +39055,7 @@ acrophobia	高所恐怖症	ejdict
 uxor	(legal terminology) the Latin word for wife|the Latin word for wife	wneng
 morganite	a kind of pink beryl used as a gemstone	wneng
 clownish	おどけ者めいた|こっけいな	ejdict
-overdraw	〈預金・割怒額など〉‘を'超過して借りる;〈小切手〉‘を'過振りする|…‘を'誇張して描写する	ejdict
+overdraw	〈預金・割怒額など〉‘を'超過して借りる;〈小切手〉‘を'過振りする|〜‘を'誇張して描写する	ejdict
 childlessness	the condition of being without offspring	wneng
 sterilise	殺菌|滅菌|無菌化|不妊化|去勢|断種	wnjpn
 espousal	(支持|主義･説などの)支持|擁護|結婚|婚約	anc
@@ -39076,8 +39076,8 @@ candyfloss	綿菓子	wnjpn
 supination	回外運動	wnjpn
 purgation	清めること|浄化;浄罪|便通[をつけること]	ejdict
 gastronome	食い道楽|グールメ|グルメ|エピキュリアン|美食家	wnjpn
-snick	(はさみなどで)…‘を'ぱちんと切り取る|…‘に'刻み目をつける|(クリケットで)〈球〉‘を'切って打つ|ぱちっと切ること;刻み目|(クリケットで)球を切って打つこと	ejdict
-deathblow	致命的打撃|(…を)終結させるもの《+『to』+『名』》	ejdict
+snick	(はさみなどで)〜‘を'ぱちんと切り取る|〜‘に'刻み目をつける|(クリケットで)〈球〉‘を'切って打つ|ぱちっと切ること;刻み目|(クリケットで)球を切って打つこと	ejdict
+deathblow	致命的打撃|(〜を)終結させるもの《+『to』+『名』》	ejdict
 pollywog	=polliwog	ejdict
 annon	釈迦頭	wnjpn
 hollo	=hallo	ejdict
@@ -39330,7 +39330,7 @@ solferino	紅粉|紅粉	wnjpn
 banding	筋|縞模様|縞|縞模様|縞|ストライプ	wnjpn
 axenic	(of experimental animals) raised under sterile conditions; "axenic conditions"; "germfree animals"|(of experimental animals) raised under sterile conditions|(used of cultures of microorganisms) completely free from other organisms; "an axenic culture"|(used of cultures of microorganisms) completely free from other organisms	wneng
 parve	(ユダヤ教で)精進料理の(原料に獣肉や乳を用いない)	ejdict
-transliterate	…‘を'字訳(音訳)する	ejdict
+transliterate	〜‘を'字訳(音訳)する	ejdict
 neuropil	the complex network of unmyelinated axones, dendrites, and glial branches that form the bulk of the central nervous system's grey matter and in which nerve cell bodies are embedded	wneng
 jabot	a ruffle on the front of a woman's blouse or a man's shirt	wneng
 apresoline	ヒドララジン	wnjpn
@@ -39413,7 +39413,7 @@ angularity	〈U〉かどのあること|〈U〉やせて骨ばっていること
 nephroblastoma	malignant renal tumor of young children characterized by hypertension and blood in the urine and the presence of a palpable mass	wneng
 foeniculum	very small genus of aromatic European herbs with pinnately compound leaves and yellow flowers	wneng
 shillelagh	(オーク製などの)こん棒	ejdict
-outvote	…‘に'投票で勝つ	ejdict
+outvote	〜‘に'投票で勝つ	ejdict
 littleness	小ささ|ちっちゃさ|小|小ぶり|小形|小ささ	wnjpn
 hypersecretion	excessive secretion	wneng
 kabbalist	an expert who is highly skilled in obscure or difficult or esoteric matters|a student of the Jewish Kabbalah	wneng
@@ -39433,7 +39433,7 @@ illogically	不条理	wnjpn
 starflower	common Old World herb having grasslike leaves and clusters of star-shaped white flowers with green stripes; naturalized in the eastern United States|common Old World herb having grasslike leaves and clusters of star-shaped white flowers with green stripes|naturalized in the eastern United States	wneng
 decertify	cause to be no longer approved or accepted; "Carter derecognized Taiwan in 1979 after the U.S. recognized the People's Republic of China"|cause to be no longer approved or accepted	wneng
 etiolate	(光をあてずに)〈植物〉‘を'白く生長させる	ejdict
-outmatch	(試合などで)…‘を'負かす|…‘より'まさる	ejdict
+outmatch	(試合などで)〜‘を'負かす|〜‘より'まさる	ejdict
 cefoperazone	セフォペラゾン	wnjpn
 pleasantry	冗談|おどけた言葉|礼儀上の言葉	anc
 squareness	方形|四角;直角であること|公正|正直;きちょうめん	ejdict
@@ -39482,7 +39482,7 @@ porkpie	《主に英》豚肉パイ	ejdict
 venography	静脈造影法	wnjpn
 unmemorable	not worth remembering	wneng
 atrociously	堪らなく|はなはだ|酷く|転た|ひどく	wnjpn
-nitrify	…‘を'硝化する|亜硝酸に変える|…‘に'窒素[化合物]をしみこませる	ejdict
+nitrify	〜‘を'硝化する|亜硝酸に変える|〜‘に'窒素[化合物]をしみこませる	ejdict
 amanuensis	筆記者|筆耕|写字生	ejdict
 dreariness	わびしいこと|退屈させること	ejdict
 crawdaddy	ザリガニ	wnjpn
@@ -39497,11 +39497,11 @@ ostracoda	seed shrimps	wneng
 phenyltoloxamine	antihistamine included in some preparations used to treat coughing and nasal congestion	wneng
 stalagmite	(鍾乳洞の床から上に成長していく)石筍	anc
 fearsomely	in a fearsome manner; "a sabre slammed fearsomely through the thicket in all directions"|in a fearsome manner	wneng
-penetrable	貫ける;浸透できる;見抜ける;(…を)貫く|(…に)しみ込む《+『to』+『名』》	ejdict
+penetrable	貫ける;浸透できる;見抜ける;(〜を)貫く|(〜に)しみ込む《+『to』+『名』》	ejdict
 profiterole	a small hollow pastry that is typically filled with cream and covered with chocolate	wneng
 foramen	孔	wnjpn
 notarize	authenticate as a notary; "We had to have the signature notarized"|authenticate as a notary	wneng
-outguess	…‘を'出し扱く|‘の'裏をかく	ejdict
+outguess	〜‘を'出し扱く|‘の'裏をかく	ejdict
 taproom	=barroom	ejdict
 gelsemium	ゲルセミウム	wnjpn
 downbound	heading in any direction that is conventionally down; "a downbound channel"; "the downbound train"|heading in any direction that is conventionally down	wneng
@@ -39530,16 +39530,16 @@ infectiously	in a contagious manner; "she was contagiously bubbly"|in a contagio
 pantaloon	《複数形で》19世紀に男性が着たぴったりしたズボン;《話》だぶだぶのズボン(baggy trousers)|《P-》(パントマイムで|道化役(clown)にからかわれる)老いぼれ役	ejdict
 velocipede	(足で地面をけって進む)昔の自転車;《古》《時にふざけて》自転車|《米》子供用三輪車	ejdict
 ins	an agency in the Department of Justice that enforces laws and regulations for the admission of foreign-born persons to the United States	wneng
-handwrite	…‘を'手書きする	ejdict
+handwrite	〜‘を'手書きする	ejdict
 adsorptive	吸着性	wnjpn
-palpitate	〈心臓が〉動悸(どうき)を打つ|どきどきする|《文》(…で)〈人・体が〉震える《+『with』+『名』》	ejdict
+palpitate	〈心臓が〉動悸(どうき)を打つ|どきどきする|《文》(〜で)〈人・体が〉震える《+『with』+『名』》	ejdict
 vagary	気まぐれ	anc
 foppish	(男･衣服など)おしゃれな|にやけた	anc
 ultrasonically	超音波的	wnjpn
 palooka	a second-rate prize fighter	wneng
 yardman	worker in a railway yard|a laborer hired to do outdoor work (such as mowing lawns)	wneng
 extravascular	血管外の	anc
-reanimate	…‘を'再び元気づける(勇気づける)|‘に'生気を与え直す	ejdict
+reanimate	〜‘を'再び元気づける(勇気づける)|‘に'生気を与え直す	ejdict
 sunlamp	(医療などに用いる)太陽灯	ejdict
 scoffer	嘲笑する人	ejdict
 bioclean	有害な細菌が[ほとんど]ない	ejdict
@@ -39557,7 +39557,7 @@ messuage	(法律用語で|付属の建物や庭園・土地を含む)家屋敷	e
 intellection	思惟作用|大脳作用|思索|考えること|考慮|了簡|思慮|知的活動|思量|念慮	wnjpn
 uvea	ブドウ膜	wnjpn
 boxershorts	ショーツ|猿股|下穿|パンツ|下穿き	wnjpn
-mistranslate	…‘を'誤訳する|誤訳する	ejdict
+mistranslate	〜‘を'誤訳する|誤訳する	ejdict
 cleavable	capable of being cleaved	wneng
 landgrave	方伯	wnjpn
 intermarry	(異なる人種･階級の人と)結婚する|近親結婚する	anc
@@ -39570,7 +39570,7 @@ behaviourist	a psychologist who subscribes to behaviorism|of or relating to beha
 imprecation	祈ること|呪い	anc
 virtuously	高潔|高潔|純潔	wnjpn
 inconceivably	真逆	wnjpn
-disunite	…‘を'分離させる|分裂させる|分離する|分裂する	ejdict
+disunite	〜‘を'分離させる|分裂させる|分離する|分裂する	ejdict
 aglet	metal or plastic sheath over the end of a shoelace or ribbon|ornamental tagged cord or braid on the shoulder of a uniform	wneng
 highboy	脚付きの高い洋だんす	ejdict
 parky	(空気などが)ひんやりとした|冷たい	ejdict
@@ -39585,9 +39585,9 @@ astrodynamics	天体力学	ejdict
 cive	アサツキ|チャイブ	wnjpn
 murderess	(女の)殺人者	ejdict
 echovirus	エコーウイルス	wnjpn
-emulsify	…‘を'乳状(乳剤)にする	ejdict
+emulsify	〜‘を'乳状(乳剤)にする	ejdict
 gallinule	ガリヌール(ガンの類の水鳥の一種;脚が長い)	ejdict
-whop	《話》…‘を'強く打つ|《俗》(競技などで)…‘を'完全に負かす|《米》ドシンと倒れる|強打|一撃	ejdict
+whop	《話》〜‘を'強く打つ|《俗》(競技などで)〜‘を'完全に負かす|《米》ドシンと倒れる|強打|一撃	ejdict
 currawong	bluish black fruit-eating bird with a bell-like call	wneng
 radicle	幼根|胚根	ejdict
 lymphogranuloma	リンパ肉芽腫	wnjpn
@@ -39657,7 +39657,7 @@ hauberk	(中世の戦士の)鎖かたびら	ejdict
 microstate	マイクロステート|極小国家(Monaco|Nauruなど)	anc
 unspotted	《古》道徳的に潔白な|非の打ち所のない|はん点のない|まだらでない	ejdict
 rankle	苦しめる	anc
-unseal	…‘の'封を切る|‘を'開封する;…‘を'開く(open)	ejdict
+unseal	〜‘の'封を切る|‘を'開封する;〜‘を'開く(open)	ejdict
 pratfall	尻もちをつく(こと)|ヘマ	anc
 dacite	デイサイト	wnjpn
 sweetish	やや甘い	ejdict
@@ -39682,7 +39682,7 @@ horrifyingly	ゾッとするほど|恐るべきほど|ゾッとさせるよう�
 preciseness	明確さ|精密さ|適確|精度|精確|精密度|適確さ|正確さ|精緻|的確	wnjpn
 harakiri	腹切り|切腹|腹切|割腹	wnjpn
 unexampled	前例のない|空前の	ejdict
-interpenetrate	…‘に'十分浸透(貫通)する|十分に(相互に)浸透(貫通)する	ejdict
+interpenetrate	〜‘に'十分浸透(貫通)する|十分に(相互に)浸透(貫通)する	ejdict
 unarticulated	not consisting of segments that are held together by joints|uttered without the use of normal words or syllables	wneng
 serape	セラーベ(ラテンアメリカで用いるはでな色彩肩掛けまたはひざ掛け)	ejdict
 stylization	慣習化|様式化|因襲化	wnjpn
@@ -39719,12 +39719,12 @@ bookstall	[古]本の露店|《英》(駅の)新聞[雑誌]売店(《米》newss
 hipbone	座骨|無名骨《腸骨・坐骨・恥骨からなる》	ejdict
 negress	a Black woman or girl	wneng
 psychopathological	suffering from an undiagnosed mental disorder	wneng
-adulterate	(粗悪なものを)…‘に'混ぜて品質をおとす《+『名』+『with』+『名』》	ejdict
+adulterate	(粗悪なものを)〜‘に'混ぜて品質をおとす《+『名』+『with』+『名』》	ejdict
 quaintness	the quality of being quaint and old-fashioned; "she liked the old cottage; its quaintness was appealing"|the quality of being quaint and old-fashioned|strangeness as a consequence of being old fashioned; "some words in her dialect had a charming quaintness"|strangeness as a consequence of being old fashioned	wneng
 vamoose	急いで立ち去る	ejdict
 kleptomaniac	盗癖のある人	ejdict
 tegument	おおい|外被(integument)	ejdict
-aptness	(…の)適性|才能《+『for』+『名』》|(…する)傾向|性向《+『to』 do》	ejdict
+aptness	(〜の)適性|才能《+『for』+『名』》|(〜する)傾向|性向《+『to』 do》	ejdict
 salvor	someone who salvages	wneng
 encopresis	involuntary defecation not attributable to physical defects or illness	wneng
 sorcerous	魔法的	wnjpn
@@ -39841,7 +39841,7 @@ sarky	=sarcastic	ejdict
 copyholder	mechanical device used in printing; holds the copy for the compositor|mechanical device used in printing|holds the copy for the compositor	wneng
 tomentose	covered with densely matted filaments|densely covered with short matted woolly hairs; "a tomentose leaf"|densely covered with short matted woolly hairs	wneng
 demobilise	release from military service or remove from the active list of military service|retire from military service	wneng
-distain	(…を)差し押さえる《+『upon』+『名』》|…‘を'差し押さえる	ejdict
+distain	(〜を)差し押さえる《+『upon』+『名』》|〜‘を'差し押さえる	ejdict
 heartsick	悲嘆に暮れた|意気消沈した	ejdict
 binuclear	二核性	wnjpn
 alveolus	胞|肺胞|腺房|歯槽|小窩|歯ぐき	anc
@@ -39875,7 +39875,7 @@ coati	ハナグマ(熱帯アメリカに住むアライグマ類の肉食動物)
 thermogravimetric	of or relating to thermal hydrometry	wneng
 precognitive	foreseeing the future	wneng
 triskelion	三脚巴	wnjpn
-complexioned	「顔色(肌の色)が…の」の意を表す	ejdict
+complexioned	「顔色(肌の色)が〜の」の意を表す	ejdict
 barky	resembling the rough bark of a tree; "the rattlesnake's barky scales"|resembling the rough bark of a tree	wneng
 undersurface	下面|底面|水面下の|水中の	ejdict
 curvey	having curves; "a settee with only one curvy end"|having curves	wneng
@@ -39964,7 +39964,7 @@ postiche	入れ毛|付け髪|ヘアピース|テンプラ|天麩羅|如何様|�
 apochromatic	corrected for both chromatic and spherical aberration; "an apochromatic lens"|corrected for both chromatic and spherical aberration	wneng
 blitzstein	ブリッツスタイン	wnjpn
 choleric	怒りっぽい	ejdict
-incarnadine	…‘を'赤くする|朱に染める	ejdict
+incarnadine	〜‘を'赤くする|朱に染める	ejdict
 yobo	無頼漢|やくざ|あばれん坊|あらくれ者|フーリガン|乱破|暴ん坊|ならず者|凶漢|徒ら者	wnjpn
 glute	殿筋	wnjpn
 planation	the process of erosion whereby a level surface is produced	wneng
@@ -39997,7 +39997,7 @@ vegetational	composed of vegetation or plants; "regions rich in vegetal products
 dimity	(ベッドカバー・カーテンに用いる)浮きじま綿布	ejdict
 disingenuously	in a disingenuous manner; "disingenuously, he asked leading questions abut his opponent's work"|in a disingenuous manner	wneng
 vaporiser	a device that puts out a substance in the form of a vapor (especially for medicinal inhalation)	wneng
-palpate	…‘を'触診する	ejdict
+palpate	〜‘を'触診する	ejdict
 sidesaddle	横くら(両足を同じ側に下げる婦人用くら)|(馬に)横乗りに	ejdict
 catarrhal	カタル性の	ejdict
 absorptivity	吸収因子	wnjpn
@@ -40042,7 +40042,7 @@ disapprovingly	不賛成の考え(立場)で|非難をこめて	ejdict
 pardoner	許す人|(中世の)免罪符売り	ejdict
 unfasten	〈結んだもの・締めたもの〉‘を'解く|緩める;開ける|〈自〉|〈結んだものなどが〉解ける|緩む	ejdict
 noseband	鼻革	wnjpn
-tatter	〈C〉(1片の)ぼろ|ぼろ切れ|《複数形で》ぼろ服|…‘を'ぼろぼろに破る	ejdict
+tatter	〈C〉(1片の)ぼろ|ぼろ切れ|《複数形で》ぼろ服|〜‘を'ぼろぼろに破る	ejdict
 windflower	アネモネ	ejdict
 numbly	in a numb manner; without feeling; "I stared at him numbly"|in a numb manner|without feeling	wneng
 precocity	早熟	ejdict
@@ -40063,8 +40063,8 @@ oersted	エルステッド|エルステッド	wnjpn
 mesdames	（フランス語）madameの複数形({略}『Mmes.』)	ejdict
 resignedly	with resignation and acceptance; in a resigned manner; "resignedly, I telegraphed back that it was all right with me if he insisted"|with resignation and acceptance|in a resigned manner	wneng
 hiddenite	a green transparent form of the mineral spodumene used as a gemstone	wneng
-collocate	…'を'いっしょに置く|一まとめにする;…'を'配列する|〈語が〉(他の語と)連語をなす《+『with』+『名』》	ejdict
-uncap	…‘の'帽子をとる;…‘の'ふた(おおい)を取る	ejdict
+collocate	〜'を'いっしょに置く|一まとめにする;〜'を'配列する|〈語が〉(他の語と)連語をなす《+『with』+『名』》	ejdict
+uncap	〜‘の'帽子をとる;〜‘の'ふた(おおい)を取る	ejdict
 asteroidal	of or relating to or resembling an asteroid	wneng
 wingspread	(鳥・飛行機などの)全翼長|翼幅(翼を広げたときの両端の間の長さ)	ejdict
 heracleum	ヘラクレウム	wnjpn
@@ -40072,7 +40072,7 @@ goalmouth	(サッカーの)ゴールマウス(goal postで囲われた部分)	ej
 varlet	ならず者|悪漢	ejdict
 rhombohedral	having threefold symmetry	wneng
 aegilops	goat grass	wneng
-prevision	〈U〉(…の)予知|事前の知識《+『of』+『名』》|〈C〉(…の)予感|虫の知らせ《+『of』+『名』》	ejdict
+prevision	〈U〉(〜の)予知|事前の知識《+『of』+『名』》|〈C〉(〜の)予感|虫の知らせ《+『of』+『名』》	ejdict
 allegorically	in an allegorical manner; "the play ended allegorically"|in an allegorical manner	wneng
 plotz	(俗)驚く|カッとなる|頭に血が上る|驚いて卒倒する	anc
 femaleness	the properties characteristic of the female sex	wneng
@@ -40114,7 +40114,7 @@ murderously	as if bent on murder; "the huge dog bore down on them with bared fan
 gruesomely	in a gruesome manner; "he was gruesomely wounded"|in a gruesome manner	wneng
 hydrophytic	growing wholly or partially in water; "water lilies are hydrophytic"|growing wholly or partially in water	wneng
 presumable	仮定(推定)できる|ありそうな(probable)	ejdict
-overindulge	〈人〉‘を'甘やかし過ぎる|…‘に'耽溺(たんでき)する|わがままにし過ぎる	ejdict
+overindulge	〈人〉‘を'甘やかし過ぎる|〜‘に'耽溺(たんでき)する|わがままにし過ぎる	ejdict
 labyrinthitis	迷路炎|内耳炎	wnjpn
 ebonize	stain black to make it look like ebony	wneng
 unpersuaded	not converted	wneng
@@ -40136,7 +40136,7 @@ extradural	硬膜外	wnjpn
 dispassion	objectivity and detachment; "her manner assumed a dispassion and dryness very unlike her usual tone"|objectivity and detachment	wneng
 baneberry	a poisonous berry of a plant of the genus Actaea|a plant of the genus Actaea having acrid poisonous berries	wneng
 telophase	telophase (細胞分裂)終期|分裂終期	anc
-commensurable	=commensurate|同一規準で比べられる;(…と)同じ規準の《+『with』(『to』)+『名』》	ejdict
+commensurable	=commensurate|同一規準で比べられる;(〜と)同じ規準の《+『with』(『to』)+『名』》	ejdict
 diagonalizable	capable of being transformed into a diagonal matrix	wneng
 precipitately	まっしぐら	wnjpn
 planetology	惑星学	ejdict
@@ -40157,7 +40157,7 @@ earthlike	earth colored; of something having a color of soil or earth; "a range 
 cowhand	=cowboy	ejdict
 atomise	微粒化|微粒化|微粒化	wnjpn
 sarcolemma	an extensible membrane enclosing the contractile substance of a muscle fiber	wneng
-fumigate	(殺虫・殺菌のために)…‘を'いぶす|いぶしい消毒する	ejdict
+fumigate	(殺虫・殺菌のために)〜‘を'いぶす|いぶしい消毒する	ejdict
 trental	ペントキシフィリン	wnjpn
 hilum	臍	wnjpn
 androgeny	male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization	wneng
@@ -40270,7 +40270,7 @@ pejoratively	in a pejorative manner; "I am not using the word pejoratively"|in a
 chilblain	しもやけ|凍傷(frostbite)	ejdict
 shamelessness	恥知らず	wnjpn
 erodium	geraniums of Europe and South America and Australia especially mountainous regions	wneng
-felicitate	(…で)〈人〉‘を'祝う《+『名』+『on』(『upon)』+『名』》	ejdict
+felicitate	(〜で)〈人〉‘を'祝う《+『名』+『on』(『upon)』+『名』》	ejdict
 stupefaction	感覚(知覚)を麻痺させること|正気を失った状態|仰天|ぼう然自失	ejdict
 remorselessly	without pity; in a merciless manner; "he was mercilessly trounced by his opponent in the House"|without pity|in a merciless manner	wneng
 catechumen	a new convert being taught the principles of Christianity by a catechist	wneng
@@ -40295,7 +40295,7 @@ bidding	入札|せり|値ざし	anc
 minicar	a car that is even smaller than a subcompact car	wneng
 pessary	ペッサリー(避妊用子宮せん);腟(ちつ)挿入座薬	ejdict
 hardpan	硬い地盤|岩床	ejdict
-abaft	船尾に(へ)|…より船尾に	ejdict
+abaft	船尾に(へ)|〜より船尾に	ejdict
 bidentate	二座	wnjpn
 haftarah	ハフターラー	wnjpn
 nevelson	ネヴェルソン	wnjpn
@@ -40303,7 +40303,7 @@ kniphofia	トリトマ	wnjpn
 denitrify	脱窒	wnjpn
 skivvy	〈女性が〉家庭内の雑事をする	ejdict
 tortuosity	屈曲|ねじれ	wnjpn
-habituate	(…に)〈人〉‘を'慣らす《+『名』+『to』+『名』(do『ing』)》	ejdict
+habituate	(〜に)〈人〉‘を'慣らす《+『名』+『to』+『名』(do『ing』)》	ejdict
 univocal	admitting of no doubt or misunderstanding; having only one meaning or interpretation and leading to only one conclusion; "unequivocal evidence"; "took an unequivocal position"; "an unequivocal success"; "an unequivocal promise"; "an unequivocal (or univocal) statement"|admitting of no doubt or misunderstanding|having only one meaning or interpretation and leading to only one conclusion	wneng
 pileus	菌傘|笠|傘	wnjpn
 capitulum	小頭(長い骨や触角などの先端のふくらんだ部分)	anc
@@ -40321,7 +40321,7 @@ isotropically	in an isotropic manner	wneng
 identifiably	in an identifiable manner; "they were identifiably different"|in an identifiable manner	wneng
 disbeliever	(言葉や人を)信用しない人;信仰しない人	ejdict
 depravation	貪汚|腐敗|黄白|汚職|不徳|悪徳|頽廃|贈収賄|退廃|贈賄	wnjpn
-emblazon	(紋章などで)…‘を'飾る|…‘を'ほめそやす	ejdict
+emblazon	(紋章などで)〜‘を'飾る|〜‘を'ほめそやす	ejdict
 haemopoietic	造血性	wnjpn
 hovea	any of several attractive evergreen shrubs of Australia grown for their glossy deep green foliage and flowers in rich blues and intense violets	wneng
 circumlocution	まわりくどさ|婉曲な言い方|言い抜け|遠回し	anc
@@ -40331,7 +40331,7 @@ bryozoan	コケムシ|苔虫	wnjpn
 preppie	プレッピー|私立学校の生徒|私立学校の生徒風の|金持ちそうな	anc
 neurotically	in a neurotic manner; "they are finely, not to say neurotically adjusted"|in a neurotic manner	wneng
 demobilize	release from military service or remove from the active list of military service|retire from military service	wneng
-coequal	(地位・能力・権力などが)同等の人|同等の|同格の;(…と)同等の《+『with』+『名』》	ejdict
+coequal	(地位・能力・権力などが)同等の人|同等の|同格の;(〜と)同等の《+『with』+『名』》	ejdict
 suzerain	(封建時代の)領主|宗主国(他国の外交に対して支配権を持つが|内政は許す)	ejdict
 disembowelment	the act of removing the bowels or viscera; the act of cutting so as to cause the viscera to protrude|the act of removing the bowels or viscera|the act of cutting so as to cause the viscera to protrude	wneng
 ideogram	表意文字	anc
@@ -40352,7 +40352,7 @@ bilharzia	住血吸虫症	wnjpn
 entablature	(ギリシア・ローマ建築の)エンタブラチュア(柱頭の上に載っている水平部分)	ejdict
 skilly	a thin porridge or soup (usually oatmeal and water flavored with meat)	wneng
 attorn	譲与	wnjpn
-adjure	《文》〈人〉‘に'厳命する|請願する;(…するよう)〈人〉‘に'厳命する《+『名』+『to』 do》	ejdict
+adjure	《文》〈人〉‘に'厳命する|請願する;(〜するよう)〈人〉‘に'厳命する《+『名』+『to』 do》	ejdict
 videlicet	すなわち({略}viz.)	ejdict
 abettor	教唆犯	wnjpn
 insouciant	のんきな|むとんじゃくな	ejdict
@@ -40377,7 +40377,7 @@ autogyro	オートジャイロ	wnjpn
 navvy	土木労働者|土方|土工	ejdict
 omphalocele	protrusion of the intestine and omentum through a hernia in the abdominal wall near the navel; usually self correcting after birth|protrusion of the intestine and omentum through a hernia in the abdominal wall near the navel|usually self correcting after birth	wneng
 counterstain	a stain of contrasting color that is used when the principal stain does not show the structure clearly	wneng
-houseful	(…の)家いっぱい[の量|数]《+『of』+『名』》	ejdict
+houseful	(〜の)家いっぱい[の量|数]《+『of』+『名』》	ejdict
 sentimentally	ほろり	wnjpn
 unintegrated	not integrated; not taken into or made a part of a whole|not integrated|not taken into or made a part of a whole|separated or isolated from others or a main group; "a segregated school system"; "a segregated neighborhood"|separated or isolated from others or a main group	wneng
 greylag	ハイイロガン	wnjpn
@@ -40412,7 +40412,7 @@ deutschmark	ドイツマルク|マルク	wnjpn
 comfortingly	in a comforting or consoling manner; "one part of a strange world should be given a comfortingly familiar form"|in a comforting or consoling manner	wneng
 romanticist	(文学・絵画・音楽などの)ロマン主義者	ejdict
 wycherley	ウィッチャリー	wnjpn
-joggle	…‘を'軽くゆすぶる|揺れる|軽い揺れ(揺さぶり)|振動	ejdict
+joggle	〜‘を'軽くゆすぶる|揺れる|軽い揺れ(揺さぶり)|振動	ejdict
 cephalalgia	頭痛	wnjpn
 bedroll	(戸外用の)携帯用寝具|寝袋	ejdict
 conformably	in a conformable manner	wneng
@@ -40468,7 +40468,7 @@ petulantly	棘々|刺刺|棘棘|刺々	wnjpn
 coltan	コルタン	wnjpn
 lues	梅毒|黴毒|ジフィリス	wnjpn
 azygos	occurring singly; not one of a pair; "the azygous muscle of the uvula"|occurring singly|not one of a pair	wneng
-backdate	(…にまで)…‘の'日付をさかのぼる《+『名』+『to』+『名』》	ejdict
+backdate	(〜にまで)〜‘の'日付をさかのぼる《+『名』+『to』+『名』》	ejdict
 heterocycle	複素環式化合物	wnjpn
 sulkily	ふくれて|すねて	ejdict
 pasteurisation	低温殺菌	wnjpn
@@ -40487,7 +40487,7 @@ perspicacious	(人が)鋭い観察力(判断力)のある|理解力のある;(�
 electrocautery	application of a needle heated by an electric current to destroy tissue (as to remove warts)	wneng
 vendue	糶|競売|糶り売り|売立て|競売買|せり市|競争売買|糶売り|競|競り売買	wnjpn
 dissuasive	deterring from action; "dissuasive advice"; "made a slight dissuasive gesture with her hand"|deterring from action	wneng
-geminate	…‘を'二重にする|対(つい)にする|二重になる|対になる	ejdict
+geminate	〜‘を'二重にする|対(つい)にする|二重になる|対になる	ejdict
 deniable	capable of being denied or contradicted	wneng
 snaky	蛇の;蛇のような;うねうねした|蛇の多い|蛇がよく出る|ずるい|陰険な|邪悪な	ejdict
 presumptuously	in a presumptuous manner; "he presumptuously overstepped the doctor's orders"|in a presumptuous manner	wneng
@@ -40518,7 +40518,7 @@ luxation	displacement or misalignment of a joint or organ	wneng
 unsmoothed	not having been made smooth by having hands run over the surface	wneng
 soulfully	in a soulful manner; "he looked at her soulfully"|in a soulful manner	wneng
 lymantria	type genus of the Lymantriidae; a pest (Lymantria means `destroyer')|type genus of the Lymantriidae|a pest (Lymantria means `destroyer')	wneng
-controvert	…‘に'反論する|論ばくする	ejdict
+controvert	〜‘に'反論する|論ばくする	ejdict
 mouflon	wild mountain sheep of Corsica and Sardinia	wneng
 picturesquely	in a picturesque manner; "in the building trade such a trader is picturesquely described as a `brass plate' merchant"|in a picturesque manner	wneng
 advancer	前進する人(もの)	ejdict
@@ -40556,7 +40556,7 @@ knobbly	=knobby	ejdict
 stroppy	obstreperous	wneng
 offish	よそよそしい	ejdict
 babyish	赤ん坊じみた	anc
-bucketful	バケツ1杯(の…)《+『of』+『名』》	ejdict
+bucketful	バケツ1杯(の〜)《+『of』+『名』》	ejdict
 palanquin	輿	wnjpn
 mizen	third mast from the bow in a vessel having three or more masts; the after and shorter mast of a yawl, ketch, or dandy|third mast from the bow in a vessel having three or more masts|the after and shorter mast of a yawl, ketch, or dandy|fore-and-aft sail set on the mizzenmast	wneng
 arteriole	小動脈	ejdict
@@ -40652,11 +40652,11 @@ odoriferous	かんばしい|かぐわしい	ejdict
 slipperiness	滑りやすいこと;(滑って)つかみにくいこと	ejdict
 paperhanger	壁紙張り職人	ejdict
 quadruplicate	四部複写	anc
-insensate	感覚(生命)のない|感受性(思いやり)のない|無情な;(…に)感受性がない《+to+名》|理性を欠いた	ejdict
+insensate	感覚(生命)のない|感受性(思いやり)のない|無情な;(〜に)感受性がない《+to+名》|理性を欠いた	ejdict
 polemicist	a writer who argues in opposition to others (especially in theology)	wneng
 zanthoxylum	deciduous or evergreen trees or shrubs: prickly ash	wneng
 putrescible	liable to decay or spoil or become putrid	wneng
-osculate	接吻(キス)する|…‘に'接吻(キス)する	ejdict
+osculate	接吻(キス)する|〜‘に'接吻(キス)する	ejdict
 cicala	セミ|虚蝉|蝉|空蝉	wnjpn
 immorally	without regard for morality; "he acted immorally when his own interests were at stake"|without regard for morality	wneng
 unimportance	ほの暗さ	wnjpn
@@ -40753,7 +40753,7 @@ mucopolysaccharide	ムコ多糖類	wnjpn
 sedately	悠悠たる	wnjpn
 educationalist	教育者	wnjpn
 dogtooth	犬歯|糸切り歯	ejdict
-truckle	(…に)ぺこぺこする《+to+名》	ejdict
+truckle	(〜に)ぺこぺこする《+to+名》	ejdict
 axotomy	軸索切断(外傷などにより神経細胞の軸索が切断されること)	anc
 gabble	訳の分からないことを早口にしゃべる《+『away』(『on』)》|〈言い訳など〉‘を'訳が分からないほど早口で言う《+『out』+『名|』+『名』+『out』》|早口で訳の分からないおしゃべり	ejdict
 absentminded	放心した|ぼんやりしている|忘れっぽい	ejdict
@@ -40773,7 +40773,7 @@ antagonise	act in opposition to	wneng
 lightwood	tall Australian acacia yielding highly valued black timber	wneng
 guck	泥|スラッジ|へどろ|ヘドロ|軟泥|汚泥	wnjpn
 slanderer	中傷者|悪口を言う人	ejdict
-admix	(…と)…'を'混合する《+『名』+『with』+『名』》|混合する|まざる(mix)	ejdict
+admix	(〜と)〜'を'混合する《+『名』+『with』+『名』》|混合する|まざる(mix)	ejdict
 epicondyle	上顆	wnjpn
 diagonalize	transform a matrix to a diagonal matrix	wneng
 monosyllable	単音節語	anc
@@ -40872,12 +40872,12 @@ raceme	総状花序(フジ・スズランなどのふさ状の花のつき方)	e
 earliness	quality of coming early or earlier in time	wneng
 aspersion	中傷	anc
 briquet	豆炭|練炭	wnjpn
-rudiment	《the rudiments》(…の)初歩|基本|原理《+『of』+『名』》|《the rudiments》(…の)きざし|芽ばえ|初期《+『of』+『名』》|〈C〉(生物の)痕跡器官|退化器官	ejdict
+rudiment	《the rudiments》(〜の)初歩|基本|原理《+『of』+『名』》|《the rudiments》(〜の)きざし|芽ばえ|初期《+『of』+『名』》|〈C〉(生物の)痕跡器官|退化器官	ejdict
 embroil	(紛争など)に巻き込まれる|巻込む|混乱させる	anc
 hartal	(インド・パキスタンで)同盟閉店|同盟休業|ストライキ	ejdict
 chondritic	having a granular structure like that of chondrites	wneng
 pennon	槍旗(三角形または燕尾(えんび)形で騎士が槍につけた)|(一般に)旗	ejdict
-athirst	(…を)渇望して(eager)《+『for』+『名』》|《おもに詩》のどがかわいて(thirsty)	ejdict
+athirst	(〜を)渇望して(eager)《+『for』+『名』》|《おもに詩》のどがかわいて(thirsty)	ejdict
 debilitate	〈病気などが〉〈人・体〉'を'衰弱させる	ejdict
 cutely	in an attractive manner; "how cunningly the olive-green dress with its underskirt of rose-brocade fitted her perfect figure"|in an attractive manner	wneng
 vulcanizer	someone who vulcanizes rubber to improve its strength and resiliency	wneng
@@ -40887,7 +40887,7 @@ saprophytic	obtaining food osmotically from dissolved organic material|(of some 
 nimbleness	すばやさ|敏しょう	ejdict
 calendrical	relating to or characteristic of or used in a calendar or time measurement; "calendric systems"; "solstice is a time of calendric importance"|relating to or characteristic of or used in a calendar or time measurement	wneng
 tickertape	株式相場表示機(ticker)から刻々出てくるテープ	ejdict
-disarrange	…‘を'乱す|混乱させる	ejdict
+disarrange	〜‘を'乱す|混乱させる	ejdict
 rancidity	いやなにおい(味)のすること|いやなにおい|悪臭;いやな味	ejdict
 quarrier	石叩	wnjpn
 magnanimously	大量	wnjpn
@@ -40906,7 +40906,7 @@ telemetered	of or pertaining to telemetry; "the telemetered information was reco
 semipermanent	長期に渡る|半永久的|長期的	wnjpn
 methylenedioxymethamphetamine	a stimulant drug that is chemically related to mescaline and amphetamine and is used illicitly for its euphoric and hallucinogenic effects; it was formerly used in psychotherapy but in 1985 it was declared illegal in the United States; "MDMA is often used at parties because it enables partygoers to remain active for long periods of time"|a stimulant drug that is chemically related to mescaline and amphetamine and is used illicitly for its euphoric and hallucinogenic effects|it was formerly used in psychotherapy but in 1985 it was declared illegal in the United States	wneng
 transplacental	経胎盤性	wnjpn
-abeam	(海事用語で)(…の)真横に《+『of』+『名』》	ejdict
+abeam	(海事用語で)(〜の)真横に《+『of』+『名』》	ejdict
 unswervingly	in a constant and steadfast manner; "an unswervingly loyal man"|in a constant and steadfast manner|without swerving; in a direct and unswerving manner; "the ship travelled unswervingly through the night"|without swerving|in a direct and unswerving manner	wneng
 cristobalite	a white mineral consisting of silica; found in volcanic rocks|a white mineral consisting of silica|found in volcanic rocks	wneng
 focally	in a focal manner; "the submucosa was focally infiltrated"|in a focal manner	wneng
@@ -41006,7 +41006,7 @@ quondam	元の|以前の	ejdict
 proem	序文|緒言	ejdict
 raillery	(悪意のない)ひやかし|からかい	ejdict
 hyperthermic	温熱	anc
-accordant	《補語にのみ用いて》(…と)一致した|合致した《+『with』(『to』)+『名』》	ejdict
+accordant	《補語にのみ用いて》(〜と)一致した|合致した《+『with』(『to』)+『名』》	ejdict
 breakfront	(飾りだんす・本箱などが)前面の中央部がせり出している|前面中央部がせり出した飾りだんす(本箱)	ejdict
 patinate	coat with a patina	wneng
 potage	ポタージュ(濃いスープ)	ejdict
@@ -41113,7 +41113,7 @@ oafish	愚かな;ぶざまな	ejdict
 irreligion	不信	wnjpn
 decollete	デコルテ	wnjpn
 lymphocytosis	リンパ球増加症	wnjpn
-foreknow	…‘を'予知する|前もって知る	ejdict
+foreknow	〜‘を'予知する|前もって知る	ejdict
 prodigality	浪費|放蕩|(いくら使っても尽きないほど)たくさんあること	ejdict
 intersexual	性間|性間	wnjpn
 dehumanise	deprive of human qualities; "Life in poverty has dehumanized them"|deprive of human qualities|make mechanical or routine	wneng
@@ -41127,12 +41127,12 @@ incommunicable	伝達できない|話せない	ejdict
 baboo	used as a Hindi courtesy title; equivalent to English `Mr'|used as a Hindi courtesy title|equivalent to English `Mr'	wneng
 rhizomatous	producing or possessing or resembling rhizomes	wneng
 freshet	(降雨・雪解けのための)出水|(海に注ぐ)淡水の流れ	ejdict
-deflower	…‘の'花をもぎ取る|〈処女〉'を'犯す	ejdict
+deflower	〜‘の'花をもぎ取る|〈処女〉'を'犯す	ejdict
 canvasser	(選挙などの)運動員|(販売などの)勧誘員	ejdict
 muskat	マスカット	wnjpn
 alkeran	メルファラン	wnjpn
 livelong	長々しい	ejdict
-scarify	(種痘などで)〈皮膚〉‘を'乱切する|乱刺する|《文》…‘を'酷評する|こきおろす|〈土〉‘を'かき起こす	ejdict
+scarify	(種痘などで)〈皮膚〉‘を'乱切する|乱刺する|《文》〜‘を'酷評する|こきおろす|〈土〉‘を'かき起こす	ejdict
 trichodesmium	large colonial bacterium common in tropical open-ocean waters; important in carbon and nitrogen fixation|large colonial bacterium common in tropical open-ocean waters|important in carbon and nitrogen fixation	wneng
 synchroniser	同期装置|シンクロスコープ|同期検定器	wnjpn
 heavyset	やや太めの|がっしりした	ejdict
@@ -41161,7 +41161,7 @@ drearily	わびしく;気をめいらせて|退屈させて	ejdict
 inseminate	〈思想など〉‘を'吹き込む	ejdict
 telegenic	テレビ映りのよい|テレビ向きの|テレビうつりのよい	anc
 hideousness	dreadful ugliness; horrible repulsiveness|dreadful ugliness|horrible repulsiveness	wneng
-mistime	…‘の'時機を誤る|(スポーツで)〈ボールなど〉‘を'打ち損なう	ejdict
+mistime	〜‘の'時機を誤る|(スポーツで)〈ボールなど〉‘を'打ち損なう	ejdict
 numerologist	a believer in numerology	wneng
 snowbank	雪の吹きだまり	anc
 afebrile	無熱性	wnjpn
@@ -41186,7 +41186,7 @@ snorer	いびきをかく人	ejdict
 defectively	in a defective manner; "this machine functions only defectively"|in a defective manner	wneng
 merluccius	hakes	wneng
 quintillion	京	booqs
-hogtie	〈動物〉‘の'四つ足をいっしょに縛る|〈人〉‘の'手足をいっしょに縛る|《話》…‘を'じゃまする|妨害する	ejdict
+hogtie	〈動物〉‘の'四つ足をいっしょに縛る|〈人〉‘の'手足をいっしょに縛る|《話》〜‘を'じゃまする|妨害する	ejdict
 immunoprecipitate	免疫沈降物	anc
 phalangeal	指節骨	wnjpn
 horniness	a state of sexual arousal	wneng
@@ -41230,9 +41230,9 @@ disturber	a troubler who interrupts or interferes with peace and quiet; someone 
 fumarole	(火山の)噴気孔	ejdict
 photoconductivity	光伝導	wnjpn
 enculturation	社会化|文化化	wnjpn
-disinter	(墓地から)…‘を'掘り出す|発掘する	ejdict
+disinter	(墓地から)〜‘を'掘り出す|発掘する	ejdict
 firedrake	ドラゴン|龍|火竜|竜	wnjpn
-benumb	…‘の'感覚を失わせる|'を'麻痺させる	ejdict
+benumb	〜‘の'感覚を失わせる|'を'麻痺させる	ejdict
 theatregoer	芝居好き	wnjpn
 mosquitofish	カダヤシ	wnjpn
 hadrosaur	any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet; may have been partly aquatic|any of numerous large bipedal ornithischian dinosaurs having a horny duck-like bill and webbed feet|may have been partly aquatic	wneng
@@ -41252,7 +41252,7 @@ harmfully	in a detrimental manner	wneng
 medivac	the evacuation of persons (usually by air transportation) to a place where they can receive medical care	wneng
 ambuscade	待ち伏せ|待ちぶせ|待伏せ|要撃|待ち伏せ|待伏せる|待ちぶせる|待ち伏せる|待ちぶせ|待伏せ|要撃	wnjpn
 stickpin	スティックピン(ネクタイや飾りどめに使うピン;《米》tiepin)	ejdict
-repine	(…に)不満足である|不平を言う|じれる《+『against』(『as』)+『名』》	ejdict
+repine	(〜に)不満足である|不平を言う|じれる《+『against』(『as』)+『名』》	ejdict
 puss	(俗)ねこちゃん|女の子|(Puss in Boots|長ぐつをはいた猫|17C末からヨーロッパに伝わる民話)	anc
 alkyne	アセチレン	wnjpn
 ratel	蜜穴熊|ラーテル	wnjpn
@@ -41309,7 +41309,7 @@ setline	a long fishing line with many shorter lines and hooks attached to it (us
 oldish	いくぶん年をとった|やや年配の|古めかしい	ejdict
 acquaintanceship	=acquaintance 2	ejdict
 declamatory	大げさな|誇大な	ejdict
-elate	《受動態で》…‘を'元気をつける|意気を高揚させる	ejdict
+elate	《受動態で》〜‘を'元気をつける|意気を高揚させる	ejdict
 oleaginous	油を含む|油からなる|油っぽい|油まみれの	ejdict
 alabamian	a native or resident of Alabama	wneng
 subaqueous	水面下	wnjpn
@@ -41330,7 +41330,7 @@ obtuseness	the quality of being slow to understand|the quality of lacking a shar
 grindelia	large genus of coarse gummy herbs of western North and Central America	wneng
 deboned	having had the bones removed; "a boneless rib roast"; "a boned (or deboned) fish"|having had the bones removed	wneng
 paraparesis	不全対麻痺	wnjpn
-supervene	続いて起こる|付随して起こる|…‘に'続いて起こる|付随して起こる	ejdict
+supervene	続いて起こる|付随して起こる|〜‘に'続いて起こる|付随して起こる	ejdict
 editorialize	意見を述べる|私見を交える|社説で論じる|編集者の意見を入れる	anc
 adoringly	with adoration; "he looked at his wife adoringly"|with adoration	wneng
 trembler	振動板	wnjpn
@@ -41357,7 +41357,7 @@ gnaphalium	large widely distributed genus of coarse hairy herbs with whitish inv
 backgrounding	バックグラウンド処理	wnjpn
 girasol	キクイモ	wnjpn
 monkshood	a poisonous herb native to northern Europe having hooded blue-purple flowers; the dried leaves and roots yield aconite|a poisonous herb native to northern Europe having hooded blue-purple flowers|the dried leaves and roots yield aconite	wneng
-inapt	不適当な|適切でない;(…に)適さない《+『for』+『名』》|《補語にのみ用いて》(…が)へたな|不手際な《+『at』(『in』)+『名』》	ejdict
+inapt	不適当な|適切でない;(〜に)適さない《+『for』+『名』》|《補語にのみ用いて》(〜が)へたな|不手際な《+『at』(『in』)+『名』》	ejdict
 bacteria	バクテリア	anc
 ninon	ニノン織り(軽いドレス用絹布)・薄絹	ejdict
 schoolmistress	女教師|女校長	ejdict
@@ -41530,7 +41530,7 @@ razorbill	オオハシウミガラス	wnjpn
 doyenne	a woman who is the senior member of a group	wneng
 irresolution	不決断|優柔不断	ejdict
 formication	蟻走感	wnjpn
-denotative	表示的な|指示的な(…を)表示する《+『of』+『名』》|(論理学で)外延の	ejdict
+denotative	表示的な|指示的な(〜を)表示する《+『of』+『名』》|(論理学で)外延の	ejdict
 epitomise	象徴|代表	wnjpn
 proverbially	in the manner of something that has become a byword; "this proverbially bitter plant, wormwood"|in the manner of something that has become a byword	wneng
 noncooperation	協力しないこと;(政府に対する)非協力	ejdict
@@ -41551,9 +41551,9 @@ silverpoint	a drawing made on specially prepared paper with an instrument having
 jewelweed	(北米産の)ツリフネソウ	ejdict
 convallaria	スズラン	wnjpn
 proselytise	convert to another faith or religion	wneng
-preponderate	(数量・勢力・重要性などにおいて)(…より)優位を占める《+『over』+『名』》	ejdict
+preponderate	(数量・勢力・重要性などにおいて)(〜より)優位を占める《+『over』+『名』》	ejdict
 sensuousness	a sensuous feeling	wneng
-analogize	類推する|(…と)類似している《+『with』(『to』)+『名』》|…'を'類推する	ejdict
+analogize	類推する|(〜と)類似している《+『with』(『to』)+『名』》|〜'を'類推する	ejdict
 comradery	友情	wnjpn
 spermatid	精子細胞	wnjpn
 frenetically	逆上して;熱狂的に	ejdict
@@ -41564,7 +41564,7 @@ garishly	派手に|けばけばしく	anc
 taxonomist	分類学者	wnjpn
 cockscomb	(おんどりの)とさか|(また『coxcomb』)《文》(道化師の)とんがり帽子|ケイトウ(赤紫色の花の一年草)	ejdict
 jarringly	in a manner that jars and irritates; "the piano was jarringly out of tune"|in a manner that jars and irritates	wneng
-arraign	(法廷に呼び出して)〈被告〉‘に'起訴事実の認否を問う|《文》〈言動など〉'を'とがめる|糾弾(きゅうだん)する;(…に関して)〈人〉'を'とがめる|非難する《+『名』+『for』+『名』》	ejdict
+arraign	(法廷に呼び出して)〈被告〉‘に'起訴事実の認否を問う|《文》〈言動など〉'を'とがめる|糾弾(きゅうだん)する;(〜に関して)〈人〉'を'とがめる|非難する《+『名』+『for』+『名』》	ejdict
 ineluctably	避けられないで	ejdict
 sansevieria	サンセベリア	wnjpn
 likeliness	見込|可能性|公算|見こみ|見込み|プロバビリティー	wnjpn
@@ -41614,10 +41614,10 @@ catha	a genus of African evergreen shrubs characterized by thick leaves and whit
 bassoonist	a musician who plays the bassoon	wneng
 radiochemist	a chemist who specializes in nuclear chemistry	wneng
 delbruck	デルブリュック	wnjpn
-prognosticate	(知識・経験に基づいて)…‘を'予知する|予測する;〈…であること〉‘を'予知する《+『that節』》|…‘の'前兆となる	ejdict
+prognosticate	(知識・経験に基づいて)〜‘を'予知する|予測する;〈〜であること〉‘を'予知する《+『that節』》|〜‘の'前兆となる	ejdict
 addle	〈卵〉'を'腐らせる|《話》〈人|人の頭など〉'を'混乱させる|〈卵が〉腐る|《話》〈人|人の頭などが〉混乱する	ejdict
 whistlestop	tour the country in order to solicit votes for an election	wneng
-agglutinate	…'を'膠着(こうちゃく)させる|膠着する	ejdict
+agglutinate	〜'を'膠着(こうちゃく)させる|膠着する	ejdict
 benignity	仁慈　優しさ　親切な行為　恩恵　慈悲　温暖　親切温情	ejdict
 uncomplimentary	showing or representing unfavorably; "an unflattering portrait"; "an uncomplimentary dress"|showing or representing unfavorably|tending to (or intended to) detract or disparage	wneng
 immobilise	固定|押さえ込む|押え込む|凍結|封鎖|受け止める	wnjpn
@@ -41627,7 +41627,7 @@ granadilla	tropical American passionflower yielding the large granadilla fruit|c
 coxcomb	しゃれ者|だて男|=cockscomb2	ejdict
 nonperiodic	not recurring at regular intervals	wneng
 pacifistic	opposed to war	wneng
-underquote	(特定の競争相手よりも)…‘に'安い値をつける|‘を'安く見積もる(underbid)	ejdict
+underquote	(特定の競争相手よりも)〜‘に'安い値をつける|‘を'安く見積もる(underbid)	ejdict
 floury	粉だらけの|粉のついた|粉っぽい|粉状の	ejdict
 undistinguishable	not capable of being distinguished or differentiated; "the two specimens are actually different from each other but the differences are almost indistinguishable"; "the twins were indistinguishable"; "a colorless person quite indistinguishable from the colorless mass of humanity"|not capable of being distinguished or differentiated	wneng
 sequela	後遺症	wnjpn
@@ -41639,14 +41639,14 @@ landslip	=landslide1|2	ejdict
 subfigure	a figure that is a part of another figure	wneng
 delectably	快く|楽しく	ejdict
 clethra	リョウブ	wnjpn
-unbuckle	…‘の'留め金をはずす	ejdict
+unbuckle	〜‘の'留め金をはずす	ejdict
 smoothbore	(鉄砲が)滑腔(かっこう)の(施条の付いていないこと)|滑腔銃	ejdict
 radicalize	make more radical in social or political outlook; "Her work in the developing world radicalized her"|make more radical in social or political outlook	wneng
 enate	one related on the mother's side|related on the mother's side; "my maternal grandmother"|related on the mother's side	wneng
 jerkiness	急に動くこと|けいれんすること|愚かなこと	ejdict
 emersion	出現	wnjpn
 branching	分枝|分岐|枝分かれ|枝分れ	wnjpn
-reinsure	…‘を'再保証する|…‘に'再保険をかける	ejdict
+reinsure	〜‘を'再保証する|〜‘に'再保険をかける	ejdict
 corruptive	tending to corrupt or pervert	wneng
 yonks	長期間|長い間	ejdict
 sahuaro	extremely large treelike cactus of desert regions of southwestern United States having a thick columnar sparsely branched trunk bearing white flowers and edible red pulpy fruit	wneng
@@ -41715,7 +41715,7 @@ decriminalise	法律化|合法化|合法化する	wnjpn
 refutable	論破できる|反証の余地のある	ejdict
 internee	抑留されている人|監禁されている人	ejdict
 septation	中隔形成	wnjpn
-bethink	(…について)〈自分〉‘に'考えさせる|思い出させる《+one『self』 『of』+『名』(『wh-節』)》	ejdict
+bethink	(〜について)〈自分〉‘に'考えさせる|思い出させる《+one『self』 『of』+『名』(『wh-節』)》	ejdict
 adventitia	被膜|外膜	wnjpn
 tsarina	=czarina	ejdict
 matman	相撲取り|レスラー	wnjpn
@@ -41728,7 +41728,7 @@ priggish	気取った|口やかましい	ejdict
 brazilwood	heavy wood of various brazilwood trees; used for violin bows and as dyewoods|heavy wood of various brazilwood trees|used for violin bows and as dyewoods|tropical tree with prickly trunk; its heavy red wood yields a red dye and is used for cabinetry|tropical tree with prickly trunk|its heavy red wood yields a red dye and is used for cabinetry	wneng
 wanly	in a weak or pale or languid manner; "she was smiling wanly"|in a weak or pale or languid manner	wneng
 serried	密集［林立］した(crowded)	ejdict
-wherefrom	[そこから]…するところの(from which)	ejdict
+wherefrom	[そこから]〜するところの(from which)	ejdict
 nonimmune	無抵抗|非免疫	wnjpn
 careworn	(人・顔などが)苦労でやつれた	ejdict
 abstractedly	ぽかんと|ぼんやり|うかうか|あっけらかん	wnjpn
@@ -41736,7 +41736,7 @@ weighing	熟考|熟慮	wnjpn
 nonmaterial	微々たる	wnjpn
 lacrimation	流涙	wnjpn
 charlock	ノハラガシ(黄色い花の咲くアブラナ属の植物)	ejdict
-tonsure	剃髪(ていはつ)(司祭職に就くため|または修道士になるため頭髪全部またはその一部をそること)|頭髪をそり落とした部分|…を剃髪する	ejdict
+tonsure	剃髪(ていはつ)(司祭職に就くため|または修道士になるため頭髪全部またはその一部をそること)|頭髪をそり落とした部分|〜を剃髪する	ejdict
 anarchical	without law or control; "the system is economically inefficient and politically anarchic"|without law or control	wneng
 frolicsome	はね回る	anc
 pentavalent	五価	wnjpn
@@ -41806,7 +41806,7 @@ thyroxin	チロキシン|サイロキシン	wnjpn
 palaeobotany	古植物学	wnjpn
 lambast	がみがみ言う|をひどく殴る	anc
 reportorial	記者の|報告者(記録係)の|報告(的)の|記録の	anc
-imputable	負わせられる|帰せられる;(…を)負わせられる《+『to』+『名』》	ejdict
+imputable	負わせられる|帰せられる;(〜を)負わせられる《+『to』+『名』》	ejdict
 prexy	院長|総裁|会長|議長|総長|学長|プレジデント|総統|主宰者|総理	wnjpn
 crookedness	屈曲|ねじれ	wnjpn
 qabala	カバラ	wnjpn
@@ -41903,7 +41903,7 @@ tined	having prongs or tines; usually used in combination; "a three-tined fork"|
 rathskeller	(通例地下にある)ドイツ風レストラン	ejdict
 tensiometer	a measuring instrument for measuring the moisture content of soil|a measuring instrument for measuring the tension in a wire or fiber or beam|a measuring instrument for measuring the surface tension of a liquid	wneng
 roadworthiness	(of motor vehicles) the quality of being fit to drive on the open road	wneng
-enfranchise	…‘に'参政権(選挙権|自治権)を与える|〈奴隷(どれい)など〉‘を'解放する|自由にする	ejdict
+enfranchise	〜‘に'参政権(選挙権|自治権)を与える|〈奴隷(どれい)など〉‘を'解放する|自由にする	ejdict
 bedframe	the framework of a bed	wneng
 iberis	イベリス	wnjpn
 incertitude	確信(自信)のないこと|不確実|不安定	ejdict
@@ -41912,7 +41912,7 @@ gantrisin	スルフイソキサゾール	wnjpn
 capful	帽子1杯[の量]	ejdict
 coyness	かまとと|嬌羞	wnjpn
 criminate	糺弾|咎める|責める|叱咤|詰る	wnjpn
-drub	(棒などで)…‘を'強く打つ|(試合などで)〈相手〉‘を'決定的に負かす	ejdict
+drub	(棒などで)〜‘を'強く打つ|(試合などで)〈相手〉‘を'決定的に負かす	ejdict
 informatively	in an informative manner	wneng
 gomphrena	genus of tropical herbs or subshrubs having flowers in close heads; tropical America and Australia|genus of tropical herbs or subshrubs having flowers in close heads|tropical America and Australia	wneng
 cognomen	名字|姓;家名|名称;あだ名	ejdict
@@ -41932,14 +41932,14 @@ weensy	ちっぽけ|小っちゃい	wnjpn
 aquacade	水上ショー(音楽に合わせて飛込み・水中ショーなどを見せる)	ejdict
 nubble	小さなこぶ|ぽっち	wnjpn
 overfeed	feed excessively	wneng
-disinherit	〈相続人〉‘から'相続権を奪う;…‘を'勘当する	ejdict
+disinherit	〈相続人〉‘から'相続権を奪う;〜‘を'勘当する	ejdict
 osteophyte	small abnormal bony outgrowth	wneng
 lepiota	any fungus of the genus Lepiota	wneng
 impermeability	the property of something that cannot be pervaded by a liquid	wneng
 wangle	を策略で手にいれる|をごまかす|ごまかし	anc
 tolbooth	a booth at a tollgate where the toll collector collects tolls	wneng
 doggedness	根気強さ|粘り|執念深さ	wnjpn
-roughen	…‘を'粗くする|ざらざらにする|粗くなる|ざらざらになる	ejdict
+roughen	〜‘を'粗くする|ざらざらにする|粗くなる|ざらざらになる	ejdict
 towline	(船・車などの)引き綱	ejdict
 plutocratic	金権政治[家]の	ejdict
 gingerroot	ハジカミ|ジンジャー|ショウガ|薑|生薑|生姜	wnjpn
@@ -41952,7 +41952,7 @@ quiesce	ひっそり|ひっそりする|静まり返る|治まる|静まりか�
 pratincole	Old World shorebird with long pointed wings and short legs; closely related to the coursers|Old World shorebird with long pointed wings and short legs|closely related to the coursers	wneng
 relentlessness	シビアさ|手厳しさ	wnjpn
 radiolarian	放散虫	wnjpn
-bagful	(…の)袋1杯[の量]《+『of』+『名』》	ejdict
+bagful	(〜の)袋1杯[の量]《+『of』+『名』》	ejdict
 osmund	薇|ゼンマイ	wnjpn
 calcific	石灰沈着性	wnjpn
 disquietude	不安|不穏	ejdict
@@ -41988,7 +41988,7 @@ refection	〈U〉(特に飲食物による)元気回復|〈C〉軽食	ejdict
 semiprofessional	半職業的な|(選手など)セミプロの・半職業人|セミプロ選手	ejdict
 mashi	a Bantu language	wneng
 arborescent	木のような|樹状の|木状の	wnjpn
-mismanage	…‘の'管理(経営|取り扱い)を誤る	ejdict
+mismanage	〜‘の'管理(経営|取り扱い)を誤る	ejdict
 bigamist	重婚者	anc
 adenium	one species: succulent shrub or tree of tropical Africa and Arabia	wneng
 innocency	an innocent quality or thing or act; "the innocencies of childhood"|an innocent quality or thing or act	wneng
@@ -42025,10 +42025,10 @@ metasequoia	メタセコイア	wnjpn
 hypophysectomized	having the pituitary gland removed by surgery; "hypophysectomized tadpoles"|having the pituitary gland removed by surgery	wneng
 narcan	ナロキソン	wnjpn
 copartnership	a partnership in which employees get a share of the profits in addition to their wages	wneng
-cogitate	(…について)熟考する《+『on』(『about』|『over』)+『名』》	ejdict
+cogitate	(〜について)熟考する《+『on』(『about』|『over』)+『名』》	ejdict
 thinking	思考力のある|理性的な|考え深い|思考|意見|思案|考え	anc
 isatis	Old World genus of annual to perennial herbs: woad|woad	wneng
-overproduce	…‘を'過剰生産する	ejdict
+overproduce	〜‘を'過剰生産する	ejdict
 propinquity	(時・場所・関係の)近接	ejdict
 countervail	に相等する|に対抗する|補償する|相殺する|埋め合わせる	anc
 unthankful	恩知らず	wnjpn
@@ -42051,7 +42051,7 @@ ungoverned	ノーチェック|不規律	wnjpn
 lacerate	(lˈæsərèɪt)引き裂く|引き裂かれた|裂けた	anc
 gliricidia	any of several small deciduous trees valued for their dark wood and dense racemes of nectar-rich pink flowers grown in great profusion on arching branches; roots and bark and leaves and seeds are poisonous|any of several small deciduous trees valued for their dark wood and dense racemes of nectar-rich pink flowers grown in great profusion on arching branches|roots and bark and leaves and seeds are poisonous	wneng
 draftsmanship	the creation of artistic pictures or diagrams; "he learned drawing from his father"|the creation of artistic pictures or diagrams	wneng
-seclude	(…から)〈人〉‘を'引き離す|孤立させる《+『名』〈人〉+『from』+『名』》	ejdict
+seclude	(〜から)〈人〉‘を'引き離す|孤立させる《+『名』〈人〉+『from』+『名』》	ejdict
 pretentiously	in a pretentious manner; "this author writes pretentiously"|in a pretentious manner	wneng
 wormlike	totally submissive	wneng
 imploringly	折り入って|押して	wnjpn
@@ -42076,7 +42076,7 @@ eleemosynary	施し物の|慈善による	ejdict
 unbolt	〈戸・門など〉‘の'かんぬきをはずす|‘を'あける	ejdict
 veritably	ほんとうに|真に	ejdict
 extraditable	(犯罪者が)引き渡せる;(国外・州外逃亡犯人が)引き渡し可能な	ejdict
-protract	(時間的に)…‘を'長引かせる	ejdict
+protract	(時間的に)〜‘を'長引かせる	ejdict
 highjack	=hijack	ejdict
 disconcert	(人)の落ちつきを失わせる|当惑させる|混乱させる|くつがえす|(計画など)の裏をかく	anc
 laocoon	(Greek mythology) the priest of Apollo who warned the Trojans to beware of Greeks bearing gifts when they wanted to accept the Trojan Horse; a god who favored the Greeks (Poseidon or Athena) sent snakes who coiled around Laocoon and his two twin sons killing them|the priest of Apollo who warned the Trojans to beware of Greeks bearing gifts when they wanted to accept the Trojan Horse|a god who favored the Greeks (Poseidon or Athena) sent snakes who coiled around Laocoon and his two twin sons killing them	wneng
@@ -42118,7 +42118,7 @@ cicatrice	疵あと|瘢痕|残痕|痕|きずあと|古疵|傷痕|傷あと|古�
 granduncle	大おじ(親のおじ)	ejdict
 indwell	宿る|内に住む|内在する	anc
 conventionalize	様式化|慣例に従わせる	wnjpn
-souse	(水などに)…‘を'入れる|突っ込む《+『名』+『in』(『into』)+『名』〈水など〉》|…‘を'ずぶぬれにする|…‘を'酢(塩水)につける|《米》…‘を'酔わせる|水につかる|ずぶぬれになる|《米》酔っ払う|(豚の足などの)塩づけ|(つけ物の)塩づけ汁|塩水|《米》大酒飲み|酔っ払い	ejdict
+souse	(水などに)〜‘を'入れる|突っ込む《+『名』+『in』(『into』)+『名』〈水など〉》|〜‘を'ずぶぬれにする|〜‘を'酢(塩水)につける|《米》〜‘を'酔わせる|水につかる|ずぶぬれになる|《米》酔っ払う|(豚の足などの)塩づけ|(つけ物の)塩づけ汁|塩水|《米》大酒飲み|酔っ払い	ejdict
 unanalyzed	not analyzed or broken down for detailed examination; "an unanalyzed compound"; "unanalyzed data"|not analyzed or broken down for detailed examination	wneng
 colza	Eurasian plant cultivated for its seed and as a forage crop	wneng
 conflictive	矛盾する|相反する	ejdict
@@ -42146,7 +42146,7 @@ radiolucent	almost complete transparent to X-rays or other forms of radiation; "
 whensoever	wheneverの強調形	ejdict
 catmint	hairy aromatic perennial herb having whorls of small white purple-spotted flowers in a terminal spike; used in the past as a domestic remedy; strongly attractive to cats|hairy aromatic perennial herb having whorls of small white purple-spotted flowers in a terminal spike|used in the past as a domestic remedy|strongly attractive to cats	wneng
 fress	eat a lot and without restraint	wneng
-engraft	(他の木に)…‘を'接ぎ木する《+『名』+『on』(『upon』)+『名』》|(人の心などに)〈主義・考えなど〉‘を'しっかりと植え付ける《+『名』+『in』+『名』》	ejdict
+engraft	(他の木に)〜‘を'接ぎ木する《+『名』+『on』(『upon』)+『名』》|(人の心などに)〈主義・考えなど〉‘を'しっかりと植え付ける《+『名』+『in』+『名』》	ejdict
 fellowman	(人類の)仲間|同胞	ejdict
 postganglionic	節後	wnjpn
 immolate	いけにえにする|犠牲にする	anc
@@ -42159,7 +42159,7 @@ isoetes	type and genus of the Isoetaceae and sole extant genus of the order Isoe
 periphrastic	回りくどい|遠回しの	ejdict
 onanism	オナニー|手淫|性交中絶	ejdict
 unknowledgeable	unaware because of a lack of relevant information or knowledge; "he was completely ignorant of the circumstances"; "an unknowledgeable assistant"; "his rudeness was unwitting"|unaware because of a lack of relevant information or knowledge	wneng
-penurious	貧乏な;(…が)欠乏した《+『of』+『名』》|けちな	ejdict
+penurious	貧乏な;(〜が)欠乏した《+『of』+『名』》|けちな	ejdict
 caesura	中間休止(詩行の中間で意味の切れによる休止)	ejdict
 cadent	marked by a rhythmical cadence; "the cadenced crunch of marching feet"|marked by a rhythmical cadence	wneng
 shipload	船1隻の積荷量	ejdict
@@ -42182,7 +42182,7 @@ bonzer	非常に大きい|すばらしい|みごとな	ejdict
 alienage	the quality of being alien	wneng
 chondrule	small granule (of e.g. chrysolite) found in some meteoric rocks	wneng
 outlandishly	in an outlandish manner; "the Bavarian was outlandishly dressed in lederhosen"|in an outlandish manner	wneng
-protraction	(…を)長引かせること《+『of』+『名』》	ejdict
+protraction	(〜を)長引かせること《+『of』+『名』》	ejdict
 astrantia	any plant of the genus Astrantia	wneng
 contumely	(言葉・態度の)ごう慢|無礼;(それによって受けた)恥辱	ejdict
 capriole	カプリオール(前脚を引いて飛び上がり|後脚をけり上げる)馬の跳躍)	ejdict
@@ -42258,7 +42258,7 @@ endlessness	the property of being (or seeming to be) without end	wneng
 lavishness	豪華版|豪華|豪奢さ|豪勢さ|豪奢|贅沢さ|浪費|放蕩	wnjpn
 unsaleable	impossible to sell	wneng
 acquisitiveness	strong desire to acquire and possess	wneng
-maltreat	…‘を'虐待する|酷使する	ejdict
+maltreat	〜‘を'虐待する|酷使する	ejdict
 oviparous	(生物が)卵生の	ejdict
 olein	オレイン	wnjpn
 schmeer	(Yiddish) a batch of things that go together; "he bought the whole schmeer"|a batch of things that go together	wneng
@@ -42301,8 +42301,8 @@ didrikson	デイドリクソン|ザハリアス	wnjpn
 pearlite	a lamellar mixture of cementite and ferrite formed during the cooling of austenite; a constituent of steel and cast iron|a lamellar mixture of cementite and ferrite formed during the cooling of austenite|a constituent of steel and cast iron	wneng
 prolixity	冗長	ejdict
 allophone	異音	wnjpn
-humidify	…‘を'湿らす|ぬらす	ejdict
-intermit	…‘を'一時中断する|一時中断する	ejdict
+humidify	〜‘を'湿らす|ぬらす	ejdict
+intermit	〜‘を'一時中断する|一時中断する	ejdict
 planetesimal	微惑星体(太陽系生成時に互いとの衝突・合体によって原始惑星に成長する小天体)	ejdict
 reconvert	convert back; "Hollywood is reconverting old films"|convert back	wneng
 sportscast	スポーツ放送	ejdict
@@ -42317,10 +42317,10 @@ bunchgrass	any of various grasses of many genera that grow in tufts or clumps ra
 chaffer	値切り|掛け合い|値切る|値を掛け合う	ejdict
 desorb	脱着	wnjpn
 roughrider	ロデオに出す馬の調教師|荒馬を乗りこなす人	ejdict
-coarsen	あらくなる|粗雑になる|…'を'あらくする|粗雑にする	ejdict
+coarsen	あらくなる|粗雑になる|〜'を'あらくする|粗雑にする	ejdict
 subconsciousness	半意識|潜在意識	wnjpn
 trillionth	〈U〉《the ~》《米》1兆番目;《英》100京番目|〈C〉《米》1兆分の1;《英》100京分の1|《米》1兆番目の;《英》100京番目の	ejdict
-expostulate	(…について人を)いさめる|訓戒する《+『with』+『名』+『about』(『on|for』)+『名』(do『ing』)》	ejdict
+expostulate	(〜について人を)いさめる|訓戒する《+『with』+『名』+『about』(『on|for』)+『名』(do『ing』)》	ejdict
 attaint	(法律上)〈人〉‘の'私権を剥奪(はくだつ)する|《古》〈名誉など〉'を'汚す|私権喪失|《古》汚名	ejdict
 myelogram	脊髄造影像	wnjpn
 dybbuk	(人に取り付くというユダヤ民俗の)悪霊(りょう)|死人の霊	ejdict
@@ -42331,7 +42331,7 @@ stingless	without a sting	wneng
 maxzide	trade name for an antihypertensive drug containing hydrochlorothiazide and another diuretic	wneng
 perjure	偽誓する	anc
 attainability	the state of being achievable	wneng
-betroth	(…と)…'を'婚約させる《+『名』+『to』+『名』》	ejdict
+betroth	(〜と)〜'を'婚約させる《+『名』+『to』+『名』》	ejdict
 rectocele	protrusion or herniation of the rectum into the vagina; can occur if pelvic muscles are weakened by childbirth|protrusion or herniation of the rectum into the vagina|can occur if pelvic muscles are weakened by childbirth	wneng
 ladyfinger	指状のカステラ風の菓子	anc
 prudery	淑女ぶり	anc
@@ -42419,7 +42419,7 @@ dishearten	落胆させる	anc
 willowherb	a plant of the genus Epilobium having pink or yellow flowers and seeds with silky hairs	wneng
 shagbark	ヒッコリー(北米産のクルミ科の木);|その木材	ejdict
 noncontributory	(年金が)雇用者負担の	ejdict
-individuate	…‘を'個別化する|…‘に'個性を与える	ejdict
+individuate	〜‘を'個別化する|〜‘に'個性を与える	ejdict
 spatulate	(of a leaf shape) having a broad rounded apex and a narrow base	wneng
 hyperopic	abnormal ability to focus of distant objects	wneng
 erythrocin	エリスロマイシン	wnjpn
@@ -42432,7 +42432,7 @@ murkiness	暗さ;陰気;曇っていること	ejdict
 berkelium	バーケリウム(超ウラン元素;化学記号はBk)	ejdict
 arouser	someone who rouses others from sleep	wneng
 macule	斑	wnjpn
-hypothecate	…‘を'仮定する;…‘と'いう仮説を作る《+『that節』》|仮説を立てる	ejdict
+hypothecate	〜‘を'仮定する;〜‘と'いう仮説を作る《+『that節』》|仮説を立てる	ejdict
 overstrain	too much strain|strain excessively; "He overextended himself when he accepted the additional assignment"|strain excessively	wneng
 microscopist	a scientist who specializes in research with the use of microscopes	wneng
 diaphysis	骨幹	wnjpn
@@ -42595,22 +42595,22 @@ untempered	not brought to a proper consistency or hardness; "untempered mortar";
 conceptional	観念的|概念的	wnjpn
 fractionate	separate into constituents or fractions containing concentrated constituents	wneng
 hyoscyamus	genus of poisonous herbs: henbane	wneng
-belike	どうも…らしい|おそらく|たぶん	ejdict
+belike	どうも〜らしい|おそらく|たぶん	ejdict
 saltpetre	硝酸カリウム|硝石	wnjpn
 tamias	chipmunks of eastern North America	wneng
 tardily	のろのろと	ejdict
 smoulder	くすぶる|煙	anc
 downmarket	designed for low-income consumers	wneng
 rectifiable	capable of being repaired or rectified; "reparable damage to the car"; "rectifiable wrongs"|capable of being repaired or rectified	wneng
-depopulate	〈戦争・悪疫などが〉…‘の'人口を減らす	ejdict
+depopulate	〈戦争・悪疫などが〉〜‘の'人口を減らす	ejdict
 actinomycete	放線菌	wnjpn
 evenfall	逢魔が時|暮れ|日の暮れ|日の暮|昏黄|夕やみ|たそがれ|入り方|片夕暮れ|夕まぐれ	wnjpn
 pahoehoe	freely flowing lava	wneng
 shrewish	口やかましい;意地の悪い	ejdict
-unversed	(…を)経験していない|(…に)熟達していない《+in+名》	ejdict
+unversed	(〜を)経験していない|(〜に)熟達していない《+in+名》	ejdict
 mezuza	メズーザー	wnjpn
 nonaligned	(国家が)非同盟の|中立の	ejdict
-superabundant	(物・愛情などが)過多の|あり余る;(…が)あり余っている《+in+名》	ejdict
+superabundant	(物・愛情などが)過多の|あり余る;(〜が)あり余っている《+in+名》	ejdict
 materialisation	具体化|現れ|現われ|表れ|所産	wnjpn
 hypercritical	酷評の|あら捜しする(overcritical)	ejdict
 deceivingly	欺いて	wnjpn
@@ -42619,7 +42619,7 @@ obduracy	強情|がん固;冷酷	ejdict
 demonstratively	in a demonstrative manner; "he greeted her demonstratively"|in a demonstrative manner	wneng
 denumerable	枚挙可能な	wnjpn
 lifebuoy	救命用浮き袋|救命ブイ	ejdict
-delouse	…‘から'シラミを駆除する	ejdict
+delouse	〜‘から'シラミを駆除する	ejdict
 porny	(俗)ポルノ風の	anc
 biddable	(人が)柔順な|すなおな	ejdict
 phalangist	a Spanish member of General Franco's political party	wneng
@@ -42666,7 +42666,7 @@ australopithecine	any of several extinct humanlike bipedal primates with relativ
 cocain	コカイン	wnjpn
 feminize	女性化|女性化	wnjpn
 topknot	(頭のてっぺんの)まげ|髪の束|（女性が頭に付けた）ちょう結びのリボン;(鳥の)冠毛	ejdict
-paramountcy	最高位;(…の)最上|至上《+『of』+『名』》	ejdict
+paramountcy	最高位;(〜の)最上|至上《+『of』+『名』》	ejdict
 saleroom	=salesroom	ejdict
 undiplomatic	not skilled in dealing with others	wneng
 deutzia	ウツギ	wnjpn
@@ -42683,7 +42683,7 @@ lobsterman	a person whose occupation is catching lobsters	wneng
 areolar	relating to or like or divided into areolae; "areolar tissue"|relating to or like or divided into areolae	wneng
 accessorial	nonessential but helpful; "accessorial services included sorting and packing"|nonessential but helpful	wneng
 combativeness	a militant aggressiveness	wneng
-rusticate	《おもに文》…‘を'田舎へ行かせる|…‘を'田舎ふうにする|《英》〈大学生〉‘を'停学処分する|《おもに文》田舎へ行く|田舎ふうになる	ejdict
+rusticate	《おもに文》〜‘を'田舎へ行かせる|〜‘を'田舎ふうにする|《英》〈大学生〉‘を'停学処分する|《おもに文》田舎へ行く|田舎ふうになる	ejdict
 passiveness	受動性|消極性|受動性	wnjpn
 gloominess	陰気な状態|暗い雰囲気|憂鬱な雰囲気|陰気な雰囲気|憂愁|憂鬱|悲哀|幽欝|憂うつ|憂欝|痛み|哀情|哀しみ|悲哀|悲しみ	wnjpn
 aimlessness	無目的	wnjpn
@@ -42717,7 +42717,7 @@ concuss	(打撃などで)〈脳〉‘に'傷害を与える	ejdict
 fragmental	=fragmentary	ejdict
 griever	a person who is feeling grief (as grieving over someone who has died)	wneng
 outcross	他配する|異系交配(雑種)	anc
-forfend	《廃》…‘を'守る|防ぐ|《古》…‘を'避ける|妨げる	ejdict
+forfend	《廃》〜‘を'守る|防ぐ|《古》〜‘を'避ける|妨げる	ejdict
 sibilance	シューシュー(シッシッ)いう音	ejdict
 defoliate	(薬品などで)〈葉〉'を'枯れさせる	ejdict
 insatiably	飽くことなく|どん欲に	ejdict

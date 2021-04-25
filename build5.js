@@ -83,11 +83,11 @@ delete anc['j'];
 const ejdict = {};
 atoz(alphabet => {
   readEachLineSync(`EJDict/src/${alphabet}.txt`, 'utf8', (line) => {
-    const [en, ja] = line.split('\t');
+    let [en, ja] = line.split('\t');
     if (en in ejdict === false) {
       // 過去形などのノイズを消す (消しすぎてしまうが仕方ない)
       if (en in lemmatization === false) {
-        ejdict[en] = ja.split(/\s*[,/]\s*/).join('|');
+        ejdict[en] = ja.replace(/…/g, '〜').split(/\s*[,/]\s*/).join('|');
       }
     }
   });
