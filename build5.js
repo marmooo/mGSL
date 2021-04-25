@@ -52,10 +52,9 @@ readEachLineSync('anc.tsv', 'utf8', (line) => {
     .replace(/\(cf.*\)/g, '')
     .replace(/\(ex.*\)/g, '')
     .split(/\s*[.,]\s*/)
-    .filter(str => !str.includes(en))
     .filter(str => str != '');
   if (!['two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'].includes(en)) {
-    arr = arr.filter(str => !str.match(/[1-9]/));
+    arr = arr.filter(str => !str.match(/^[1-9]$/));
   }
   if (arr.length == 1 && arr[0].includes('人名')) {
     ignoredList[en] = true;
