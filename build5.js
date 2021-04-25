@@ -47,20 +47,22 @@ booqsFilepaths.forEach(filepath => {
 const anc = {};
 readEachLineSync('anc.tsv', 'utf8', (line) => {
   const row = line.split('\t');
-  const en = row[0].toLowerCase();
-  let arr = row[4]
-    .replace(/\(cf.*\)/g, '')
-    .replace(/\(ex.*\)/g, '')
-    .split(/\s*[.,]\s*/)
-    .filter(str => str != '');
-  if (!['two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'].includes(en)) {
-    arr = arr.filter(str => !str.match(/^[1-9]$/));
-  }
-  if (arr.length == 1 && arr[0].includes('人名')) {
-    ignoredList[en] = true;
-  } else {
-    const ja = arr.join('|');
-    anc[en] = ja;
+  const en = row[0];
+  if (!en.match(/^[A-Z]+$/)) {
+    let arr = row[4]
+      .replace(/\(cf.*\)/g, '')
+      .replace(/\(ex.*\)/g, '')
+      .split(/\s*[.,]\s*/)
+      .filter(str => str != '');
+    if (!['two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'].includes(en)) {
+      arr = arr.filter(str => !str.match(/^[1-9]$/));
+    }
+    if (arr.length == 1 && arr[0].includes('人名')) {
+      ignoredList[en] = true;
+    } else {
+      const ja = arr.join('|');
+      anc[en] = ja;
+    }
   }
 });
 delete anc['x'];
