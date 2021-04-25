@@ -43,8 +43,10 @@ const anc = {};
 readEachLineSync('anc.tsv', 'utf8', (line) => {
   const row = line.split('\t');
   const en = row[0].toLowerCase();
-  const ja = row[4].replace(/2\. /g, '').split('. ').join('|');
-  anc[en] = ja;
+  if (!['愛称', '人名'].includes(row[4])) {
+    const ja = row[4].replace(/2\. /g, '').split('. ').join('|');
+    anc[en] = ja;
+  }
 });
 delete anc['x'];
 delete anc['p'];
@@ -125,27 +127,37 @@ const websters = JSON.parse(fs.readFileSync('dictionary/dictionary.json'));
 
 readEachLineSync('4/mGSL.lst', 'utf8', (line) => {
   const [lemma, freq] = line.split('\t');
-  if (lemma in original) {
-    console.log(lemma + '\t' + original[lemma] + '\t' + 'original');
-  } else if (lemma in anc) {
-    console.log(lemma + '\t' + anc[lemma] + '\t' + 'anc');
-  } else if (lemma in booqs) {
-    console.log(lemma + '\t' + booqs[lemma] + '\t' + 'booqs');
-  } else if (lemma in basicDict) {
-    console.log(lemma + '\t' + basicDict[lemma] + '\t' + 'basic');
+  if (lemma in booqs || lemma in basicDict) {
+    if (lemma in original) {
+      console.log(lemma + '\t' + original[lemma] + '\t' + 'original');
+    } else if (lemma in anc) {
+      console.log(lemma + '\t' + anc[lemma] + '\t' + 'anc');
+    } else if (lemma in booqs) {
+      console.log(lemma + '\t' + booqs[lemma] + '\t' + 'booqs');
+    } else if (lemma in basicDict) {
+      console.log(lemma + '\t' + basicDict[lemma] + '\t' + 'basic');
+    }
   } else {
-    if (lemma in badWords) {
+    if (lemma in original) {
+      console.log(lemma + '\t' + original[lemma] + '\t' + 'original');
+    } else if (lemma in badWords) {
       // console.log(line);
     } else if (profanityWords in names) {
       // console.log(line);
-    } else if (lemma in names) {
+    } else if (lemma in chemicals) {
+      // console.log(line);
+    } else if (lemma in anc) {
+      console.log(lemma + '\t' + anc[lemma] + '\t' + 'anc');
+    } else if (lemma in abbrevs) {  // 以下は anc のほうが精度が高い
       // console.log(line);
     } else if (lemma in cities) {
       // console.log(line);
-    } else if (lemma in abbrevs) {
+    } else if (lemma in names) {
       // console.log(line);
-    } else if (lemma in chemicals) {
-      // console.log(line);
+    } else if (lemma in booqs) {
+      console.log(lemma + '\t' + booqs[lemma] + '\t' + 'booqs');
+    } else if (lemma in basicDict) {
+      console.log(lemma + '\t' + basicDict[lemma] + '\t' + 'basic');
     } else if (lemma in wnjpn) {
       console.log(lemma + '\t' + wnjpn[lemma] + '\t' + 'wnjpn');
     } else if (lemma in ejdict) {
