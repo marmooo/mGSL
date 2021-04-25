@@ -9,6 +9,11 @@ function atoz(callback) {
   }
 }
 
+const ignoredList = {};
+readEachLineSync('del.lst', 'utf8', (en) => {
+  ignoredList[en] = true;
+});
+
 const original = {};
 readEachLineSync('def.csv', 'utf8', (line) => {
   const [en, ja] = line.split(',');
@@ -43,8 +48,19 @@ const anc = {};
 readEachLineSync('anc.tsv', 'utf8', (line) => {
   const row = line.split('\t');
   const en = row[0].toLowerCase();
-  if (!['愛称', '人名'].includes(row[4])) {
-    const ja = row[4].replace(/2\. /g, '').split('. ').join('|');
+  let arr = row[4]
+    .replace(/\(cf.*\)/g, '')
+    .replace(/\(ex.*\)/g, '')
+    .split(/\s*[.,]\s*/)
+    .filter(str => !str.includes(en))
+    .filter(str => str != '');
+  if (!['two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine'].includes(en)) {
+    arr = arr.filter(str => !str.match(/[1-9]/));
+  }
+  if (arr.length == 1 && arr[0].includes('人名')) {
+    ignoredList[en] = true;
+  } else {
+    const ja = arr.join('|');
     anc[en] = ja;
   }
 });
@@ -127,7 +143,9 @@ const websters = JSON.parse(fs.readFileSync('dictionary/dictionary.json'));
 
 readEachLineSync('4/mGSL.lst', 'utf8', (line) => {
   const [lemma, freq] = line.split('\t');
-  if (lemma in booqs || lemma in basicDict) {
+  if (lemma in ignoredList) {
+    // console.log(line);
+  } else if (lemma in booqs || lemma in basicDict) {
     if (lemma in original) {
       console.log(lemma + '\t' + original[lemma] + '\t' + 'original');
     } else if (lemma in anc) {
