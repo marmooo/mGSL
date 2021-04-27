@@ -44,7 +44,10 @@ booqsFilepaths.forEach(filepath => {
   const csv = csvParse(fs.readFileSync(filepath));
   csv.forEach(row => {
     const en = row[0];
-    const ja = row[1].split(/\s*[；，/]\s*/).join('|');
+    const ja = row[1]
+      .replace(/【[^【]*】/g, '；')
+      .split(/\s*[；，/]\s*/)
+      .filter(s => s != '').join('|');
     booqs[en] = ja;
   });
 });
