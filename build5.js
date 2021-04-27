@@ -9,9 +9,14 @@ function atoz(callback) {
   }
 }
 
-const ignoredList = {};
-readEachLineSync('del.lst', 'utf8', (en) => {
-  ignoredList[en] = true;
+const filterNGSL = {};
+readEachLineSync('filter-ngsl.lst', 'utf8', (en) => {
+  filterNGSL[en] = true;
+});
+
+const filterOriginal = {};
+readEachLineSync('filter-original.lst', 'utf8', (en) => {
+  filterOriginal[en] = true;
 });
 
 const original = {};
@@ -69,7 +74,7 @@ readEachLineSync('anc.tsv', 'utf8', (line) => {
       arr = arr.filter(str => !str.match(/^[1-9]$/));
     }
     if (arr.length == 1 && arr[0].includes('人名')) {
-      ignoredList[en] = true;
+      filterOriginal[en] = true;
     } else {
       const ja = arr.join('|');
       anc[en] = ja;
@@ -159,7 +164,9 @@ const websters = JSON.parse(fs.readFileSync('dictionary/dictionary.json'));
 
 readEachLineSync('4/mGSL.lst', 'utf8', (line) => {
   const [lemma, freq] = line.split('\t');
-  if (lemma in ignoredList) {
+  if (lemma in filterOriginal) {
+    // console.log(line);
+  } else if (lemma in filterNGSL) {
     // console.log(line);
   } else if (lemma in booqs || lemma in basicDict) {
     if (lemma in original) {

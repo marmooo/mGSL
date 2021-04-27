@@ -72,7 +72,7 @@ only	唯一の|ただ～だけの|最適の|ただし	anc
 when	いつ|の時に|だけれども|するときはいつでも|～ならば	anc
 here	ここに|ここで	anc
 who	誰	original
-web	インターネット 2|クモの巣|(水鳥の)水かき	anc
+web	インターネット|クモの巣|(水鳥の)水かき	original
 system	システム|組織|仕組み	anc
 also	もまた	anc
 now	今|現在|さて|さあ	anc
@@ -120,7 +120,6 @@ city	市	anc
 into	〜の中へ	original
 world	世界	anc
 company	会社|つきあい|仲間	anc
-two	2|2つ|2の	anc
 health	健康|健康状態|調子	anc
 read	読む	anc
 last	最後の|この前の|昨～|先～	anc
@@ -319,7 +318,6 @@ game	試合|ゲーム|遊び	anc
 department	部門|部分|分野|領域|デパートの売り場|官庁の部|課	anc
 while	の間|～する間|～する一方で	anc
 government	政府|政府機関|政治|行政|関係官庁	anc
-three	3|3つ|3の	anc
 text	テキスト|本文	anc
 per	〜ごとに	original
 current	現在の|流行する|電流	anc
@@ -501,7 +499,6 @@ license	鑑札|許可証|免許(証)|気まま|破格|に免許を許す	anc
 committee	委員会|委員	anc
 social	社会の|社会生活を営む|社会的な|社交の	anc
 browse	ざっと目を通す|乱読する|漫然と読む|葉などを食う	anc
-million	100万	original
 early	早い|早く(時間･時期)	anc
 break	損なう	anc
 mark	記号|目標|印(をつける)|跡(を残す)|値段をつける|特徴づける|マルク(ドイツの通貨単位)	anc
@@ -540,7 +537,6 @@ adult	おとな|成熟した|成人の|成人専用の	anc
 style	スタイル|呼ぶ|様式|型|文体|日時計の指針|(植物)花柱	anc
 fact	事実	anc
 organization	組織|組織化|生物|団体	anc
-four	4|4つの	anc
 land	陸|着陸する|上陸する	anc
 future	未来|将来の|(文法)未来時制	anc
 poker	突く人(物)|火かき|焼き絵用具|(トランプ)ポーカー	anc
@@ -677,7 +673,6 @@ whether	かどうか|～であろうと	anc
 object	反対する|客観|対象|物|目的|目的語	anc
 weather	気候|天気	anc
 weight	重さ|おもし|重荷|重要さ|ウエイト|を重くする	anc
-five	5|5つ|5の	anc
 auto	自己	anc
 stand	立つ|立っている	anc
 develop	発達する|発達させる|開発する	anc
@@ -702,7 +697,6 @@ ever	今までに|(疑問文で)今まで|かつて	anc
 lake	湖	anc
 port	砲門|港|貿易港|商港|港町	anc
 near	〜の近くに	original
-third	第3の|(日付の)3日|3番目の	anc
 either	どちら|どちらか	anc
 race	レース|競争|人種	anc
 ago	前に	anc
@@ -974,7 +968,6 @@ hour	時間	anc
 interface	中間面|界面|作用を及ぼす領域|境界面|人と話す|調和する	anc
 rule	規則|ルール|を支配する	anc
 bag	鞄	anc
-six	6|6つ|6の	anc
 accommodation	適応|和解|便宜|順応|宿泊施設|好意	anc
 nice	すてきな|よい	anc
 suite	一続きの部屋|一式の家具|一組|スイート|スイートルーム(和製英語)	anc
@@ -1311,7 +1304,6 @@ remote	人里離れた|遠い|遠く離れた|隔たって|関係の薄い|へ�
 wire	針金|金属線|電信|電報|を針金で結ぶ|に電報を打つ	anc
 external	外の|外部の|外側の|外用の|形式的な|外見|外面|外部	anc
 gear	装備|道具|歯車|ギア	anc
-ten	10|10の	anc
 implementation	実行|完成|履行	anc
 minimum	最小限度|最小限|最低限	anc
 delete	削除する	anc
@@ -1459,7 +1451,6 @@ pocket	ポケット|一袋|懐中|金銭|くぼみ|玉受け	anc
 architecture	建築術|建築|構造|建設|アーキテクチャ|基本設計概念|建築学	anc
 expect	期待する|を予期する|予想する	anc
 plate	めっきする|板金|皿|金属製食器類|板|表札|図版|義歯|(野球)ホームプレート	anc
-seven	7|7つ|7の	anc
 secret	秘密の|機密|内緒の(事)	anc
 disc	レコード|円盤	anc
 fuel	燃料|核燃料	anc
@@ -1727,7 +1718,6 @@ sister	姉妹|姉|妹	anc
 push	(イメージ:押す力を加える)	anc
 fort	とりで|交易市場|要塞	original
 yesterday	きのう	anc
-billion	莫大な|10億の	original
 promise	約束|約束する	anc
 measurement	測量|測定|寸法	anc
 lens	レンズ	anc
@@ -1810,7 +1800,6 @@ straight	まっすぐな|まっすぐに|連続した	anc
 webmaster	ウェブマスター	anc
 integration	統合	anc
 saving	節約する|救いの|節約|倹約(の)	anc
-eight	8|8つ|8の	anc
 frank	フランク(F-人名)|あからさまな|無料送達する|率直な|公然の	anc
 graphic	グラフィック|グラフの|図画の|グラフィックアートの|目のあたりに見るような|生きいきとした	anc
 associate	関連づける|連想する|つきあう|仲間|同僚	anc
@@ -2061,7 +2050,6 @@ nearby	すぐ近くの|すぐ近くに|すぐ隣に	anc
 villa	(大)別荘|いなかの(大)邸宅|(UK英)郊外住宅	anc
 annotation	注|注釈	anc
 complaint	不平|グチ|不満|(民事の)告訴|病気	anc
-nine	9|9つの	anc
 bio	バイオ	anc
 certainly	もちろんです|必ず|確かに|確実に|そうですとも	anc
 muscle	筋肉|腕力|圧力|強引に押し進む	anc
@@ -2112,7 +2100,6 @@ tennis	テニス	anc
 formula	公式|方式|式辞|調合乳	original
 broker	ブローカー|仲買人	anc
 generic	ノーブランドの|属の|一般的な|包括的な|(文法)総称的な	anc
-fourth	(日付の)4日|第4|4番目の	anc
 rapid	速度が速い|急速な|早急の|険しい	anc
 charter	に特許を与える|憲章|憲法|constitution	anc
 specifically	明確に|特に	anc
@@ -2398,7 +2385,6 @@ subscriber	予約購読者|引受人|加入者|寄付する人|署名人|支持�
 ultra	過激な|極端な|過激(急進)論者	anc
 continuous	絶え間ない|休みない	anc
 disaster	天災|大災害|災難	anc
-twenty	20|20の	anc
 labour	働き	anc
 spell	正しく書く|を綴る|後退|呪文|一続き(の期間)|期間	anc
 occasion	出来事|場合|機会|業務|行事|根拠|用事	anc
@@ -2682,7 +2668,6 @@ pharmaceutical	製薬の|薬剤の|薬	anc
 seeker	探求者	anc
 desert	砂漠|不毛の地|捨てる|放棄する|逃亡する|見捨てる|相応の報い|罰	anc
 facilitate	容易にする|促進する|楽にする	anc
-hundred	100|100の	anc
 stereo	ステレオの|ステレオ(録音)方式|固定観念|立体写真	anc
 sustainable	支えられる|持続可能な	anc
 statistical	統計的な|統計(上)の|統計学の	anc
@@ -2742,7 +2727,6 @@ excess	超過|過剰|過剰な	anc
 bracelet	腕輪	anc
 tire	を疲れさせる|を飽き飽きさせる|タイヤ	anc
 minority	未成年|少数|少数民族	anc
-thousand	1000|1000の	anc
 mat	マット|つや消しの|畳|靴ぬぐい|敷物|マットを敷く	anc
 hurt	を傷つける	anc
 ghost	幽霊|亡霊|二重映像|影	anc
@@ -2834,7 +2818,6 @@ shoe	くつ|靴	anc
 fault	過失|誤り|欠点|過ち|責任|断層	anc
 pace	歩み|一歩|歩調|速度|歩幅|歩き方|(を)ゆっくり歩く|歩調を整えて歩く	anc
 deadline	期限|締切	anc
-fifth	(日付の)5日|第5|5番目の	anc
 diagnosis	診断	anc
 principle	原理|主義|原則|公理|方針|信条|道義|本質|本源	anc
 talent	才能|天分|素質|手腕	anc
@@ -3386,7 +3369,6 @@ destruction	破壊|破滅	anc
 corp	法人|corporation	anc
 fool	ばか	anc
 collective	全体的な|共同の|集団の	anc
-thirty	30|30の	anc
 sh	しー!	anc
 teenage	十代	anc
 constitute	構成する|制定する|の構成要素となる	anc
@@ -3618,7 +3600,6 @@ slim	ほっそりした|わずかな|薄っぺらな|やせる|やせさせる	a
 inclusion	包含	anc
 composite	混成の|合成の	anc
 accent	アクセント|口調|なまり	anc
-twelve	12|12の	anc
 fellowship	友情|仲間	anc
 organizational	組織的な	anc
 canvas	研究調査する|遊説してまわる|選挙運動をする|カンバス|キャンバス|テント|麻布|帆布|ズック	anc
@@ -3913,7 +3894,6 @@ anxiety	心配	anc
 drawing	引く|製図|素描|鉛筆で描く絵	anc
 approx	約	anc
 duplicate	複写する|写し	anc
-sixth	(日付の)6日|第6|6番目の	anc
 blanket	一面に覆う(もの)|毛布(で覆う)|全体的な|包括的な	anc
 supervision	管理|監督|指揮|監視	anc
 foam	泡|あぶく|泡を出す|あわ消化剤	anc
@@ -4182,7 +4162,6 @@ sage	聖人|思慮深い|賢い|賢人ぶった	anc
 realistic	現実主義の	anc
 bind	結ぶ|を束縛する|縛る|包む|を固める	anc
 absent	ぼんやりした|不在で|を欠席する	anc
-fifty	50|50の	anc
 cant	(職業などの)合い言葉|特殊用語|(もったいぶった)偽善的なことば|傾斜|傾く	anc
 shout	叫ぶ|大声で言う	anc
 conjunction	結合|連結|合同|(文法)接続詞	anc
@@ -4495,7 +4474,6 @@ trash	紙くず入れ(=wastebasket)	anc
 neglect	を無視する|怠る|怠慢|無視	anc
 checklist	照合簿	anc
 symphony	シンフォニー|交響曲	anc
-forty	40|40の	anc
 whip	を鞭で打つ(こと)|を激しく打つ|打負かす|励ます|急に動かす|あわだたせる|猟犬係|ホイップ	anc
 violate	に違反する|(法律･規則)を破る|を妨害する|犯す|違反する|乱す|強姦する|邪魔する	anc
 toolbox	ツールボックス	anc
@@ -4639,7 +4617,6 @@ flux	絶え間ない変化|不安定|流れ|流量|溶剤	anc
 ladder	はしご|地位|(パンストの)伝線(run)	anc
 sq	平方(square)の略|平方ミリメートルの略(mm²|電線の断面積など)	anc
 sync	同調	anc
-seventh	(日付の)7日|第7|7番目の	anc
 arctic	北極(地方)|Arctic北極の	original
 ambassador	大使|使節	anc
 beneath	〜の下に	original
@@ -5078,7 +5055,6 @@ emperor	天皇|皇帝	anc
 acne	にきび|座瘡(ざそう|にきびpimpleなどの皮膚病)|「ACNE」(アクネ)|スウェーデン発のファッションブランド	anc
 ballet	バレエ(団･曲)	anc
 drift	漂流する|押し流す|ドリフト|趣旨	anc
-fifteen	15|15の	anc
 widespread	行き渡った|広げた|広範囲に及ぶ|広く行きわたった|いっぱいに広げた(翼)|広まった	anc
 sapphire	サファイア|青玉(9月の誕生石)|サファイア色(の)	anc
 disappear	見えなくなる|うせる|消滅する	anc
@@ -5115,7 +5091,6 @@ cove	無闇に欲しがる|断崖の窪み	anc
 momentum	はずみ|いきおい|(物理)運動量|契機|弾み|惰性	anc
 lm	ルーメン	wnjpn
 picnic	ピクニック|戸外での食事|行楽の弁当|行楽|楽な仕事	anc
-sixty	60|60の	anc
 rouge	ルージュ|紅|頬紅|赤色の|口紅	anc
 footnote	脚注|補足説明	anc
 keen	しみじみとした|鋭い|鋭敏な|熱心な	anc
@@ -5163,7 +5138,6 @@ being	生き物|存在|実在|生存|生命	anc
 plaque	額|飾り版|斑|歯垢|血小板|(金属･陶器の)飾り板|(記念の)銘板|ブローチ	anc
 cannon	大砲	anc
 reliance	依存|信頼	anc
-eleven	第11|第11の	anc
 whisper	ささやく|内緒話(をする)|ざわめく|ささやき声|さわさわという音(をたてる)	anc
 simplify	単純化する|を単純にする	anc
 cone	円錐|円すい形|火山すい|松かさ|(アイスクリームの)コーン	anc
@@ -5711,7 +5685,6 @@ kinetic	(物理学)動的な	anc
 unused	使用されない|使わない|使ったことがない|新しい|不慣れの	anc
 dart	投げ矢|突進する|すばやく動く|飛んで行く|(衣服)ダーツ(ヒダ)をつける	anc
 alcoholic	アルコール中毒|アルコールの	anc
-eighth	(日付の)8日|第8|8番目の	anc
 daemon	悪鬼|鬼|悪魔(=demon|devil|daemon|Satan|fiend)	anc
 bestselling	最もよく売れている	ejdict
 aesthetic	(芸術の)美の|美学の|審美的な|趣味のよい|芸術的な	anc
@@ -6133,7 +6106,6 @@ hoc	アドホック(ad hoc)は|「特定目的」などのラテン語|adは「�
 wherein	どこに	anc
 elastic	融通のきく|伸縮自在の|flexible|快活な	anc
 hex	16進法|まじない|ジンクス|呪い|魔女|魔力|16進法の|魔法を行う|に不幸をもたらす|魔法をかける|魅する	anc
-ninth	(日付の)9日|第9|9番目の	anc
 parkway	公園道路	anc
 straw	わら製の|麦わら|ストロー	anc
 claimant	要求者|苦情を言う人	anc
@@ -6608,7 +6580,6 @@ handsome	均整の取れた|ハンサムな	anc
 precursor	先駆者|先駆物質	anc
 moody	不機嫌な|憂欝な|憂うつな|気分の変わりやすい	anc
 vibrant	生気にあふれる|わくわくする|震える|敏感な	anc
-tenth	(日付の)10日|第10番目|第10の|10番目の	anc
 rude	教養のない|無作法な|無礼な|野蛮な|粗野な	anc
 lively	active|生き生きした|泡立つ|新鮮な|陽気な|効果的な	anc
 nip	阻止する|つねる|はさむ|かむ|はさみ|ひとかみ|ひとつねり|風刺|酷評|犬が噛む	anc
@@ -6859,7 +6830,6 @@ localization	ローカライゼーション(各国・地域制度に訳す|他)	
 tapestry	つづれ織り|タペストリー	anc
 dull	苦痛を和らげる|(切れ味や頭が)鈍い|わかりの遅い|鈍感な|動作がのろい	anc
 bengal	ベンガル	wnjpn
-seventy	70|70の	anc
 goodman	一家のあるじ|《Goodman》=Mr.	ejdict
 nan	インドの粘土オーブンで焼かれた発酵パン|おばあちゃん|(=nan|nana|nanny|granny|grandma|granma|gran)|子守|乳母	anc
 manifold	種々の|多数の|多様性|複写する|(内燃機関の吸排気をする)マニホールド管(多岐管)	anc
@@ -6883,7 +6853,6 @@ compassion	思いやり|哀れみ|同情	anc
 garland	花輪で飾る|花環	anc
 recap	recapitulate(要約する)	anc
 almond	アーモンド	anc
-twentieth	二十番目の|第20(の)|20分の1(の)	anc
 diversion	気晴らし|気分転換	anc
 extensively	広く|手広く|大々的	anc
 attic	屋根裏|(=|attic|garret|loft)	anc
@@ -7038,7 +7007,6 @@ usable	使用できる	anc
 lohan	羅漢|阿羅漢	wnjpn
 decoder	デコーダ|コード化を元に戻すもの・ソフト(反)coder	anc
 readable	おもしろく読める(書かれた)|読みやすい	anc
-eighty	80|80の	anc
 glide	グライダーで飛ぶ|滑空(する)|すべる(こと)|すべり台|(文法)わたり	anc
 stub	使い残り|引抜く|切株|吸い殻|切り株|をぶつける	anc
 blazer	ブレザーコート	anc
@@ -7092,7 +7060,6 @@ mesothelioma	中皮腫	wnjpn
 resurrection	回復|蘇り|復活|復興	anc
 eternity	永遠	anc
 fiat	命令|厳命|許可|決定|決断	anc
-sixteen	16|16の	anc
 facilitator	進行役	anc
 ballroom	ダンスホール	anc
 utter	口に出す|言う|(叫び声･うめき声)を出す|全くの	anc
@@ -7109,7 +7076,6 @@ capsule	被膜|さや|さく果|(薬用･ロケット用の)カプセル	anc
 mailer	メーラー|メールソフト	anc
 encore	アンコール(を求める)|もう一度(の叫び)	anc
 lineup	スケジュール一覧|テレビ番組編成予定表|顔ぶれ|構成|在庫品|人の列|製品一覧	anc
-ninety	90|90の	anc
 jackpot	積立賞金|積立掛金|(俗)大当たり|賭事の大当たり	anc
 dislike	きらう|嫌う	anc
 archer	弓の射手	anc
@@ -7163,7 +7129,6 @@ hatred	憎しみ|憎悪	anc
 squadron	戦車大隊|飛行中隊|中隊|小艦隊|飛行編隊	anc
 ounce	1オンスは28|3グラム|1ポンド=16オンス=454グラム|体積の単位 1液量オンス(fluid ounce|fl oz)=29|57ml(約30cc)	anc
 ally	同盟(させる)|同盟国|同盟者|連合国	anc
-thirteen	13|13の	anc
 suspicion	容疑|疑い	anc
 tragic	悲劇の|悲劇的な|悲劇に関する|悲劇を演じる|悲惨な	anc
 guidebook	案内書	anc
@@ -7376,7 +7341,6 @@ annotate	に注釈する|注釈をつける	anc
 completeness	完全	anc
 hymn	賛美歌|聖歌	anc
 latency	待ち時間	anc
-eighteen	18|18の	anc
 singular	唯一の|並外れた|奇妙な|単数の|単数	anc
 jukebox	ジュークボックス	anc
 incremental	増加分の|増量の	anc
@@ -7397,7 +7361,6 @@ gigabit	a unit of information equal to 1000 megabits or 10^9 (1,000,000,000) bit
 wetland	湿地	anc
 aero	航空の|航空学の	anc
 malicious	悪意のある	anc
-fourteen	14|14の	anc
 spear	やり|槍|やりで突く	anc
 predecessor	前任者|祖先|先輩|前のもの	anc
 bur	(クリなどの)いが|いがをつける植物|くっついて離れない人(物)	anc
@@ -7878,7 +7841,6 @@ nexus	関連(connection)|絆(bond)|ネクサス(文の構成要素間の主語�
 foremost	まっさきの|真っ先の|一番の|一流の	anc
 limp	びっこを引く(こと)|軟弱な|柔軟な|ぐったりした|薄表紙|のろのろ進む|話がつかえる	anc
 ipo	新規株式公開	wnjpn
-nineteenth	第19番目の|19分の1の	anc
 mahogany	マホガニー|食卓|赤褐色	anc
 ignorant	無知から起こる|無知の|無学の|教育のない	anc
 allowable	安全	anc
@@ -8570,7 +8532,6 @@ microbial	微生物の	anc
 cloak	覆い隠す|マント|覆い|口実|覆い隠すもの	anc
 containment	封じ込め|閉じ込め	anc
 mitochondrial	ミトコンドリアの	anc
-trillion	一兆(米)|000の4乗	anc
 brandy	ブランデー	anc
 rattle	早口にしゃべる|おしゃべり|がらがら(赤ん坊のおもちゃ)|がたがた音がする|ガラガラ|ガタガタ	anc
 angular	やせこけた	anc
@@ -8790,7 +8751,6 @@ polite	礼儀正しい|行儀がよい|丁重な|上品な|洗練された|丁�
 moist	湿気のある|湿った|涙ぐんだ|濡れた	anc
 peacock	クジャク|を着飾る|を見せびらかす|気取って歩く	anc
 asynchronous	(digital communication) pertaining to a transmission technique that does not require a common clock between the communicating devices; timing signals are derived from special characters in the data stream itself|pertaining to a transmission technique that does not require a common clock between the communicating devices|timing signals are derived from special characters in the data stream itself|not synchronous; not occurring or existing at the same time or having the same period or phase|not synchronous|not occurring or existing at the same time or having the same period or phase	wneng
-seventeen	17|17の	anc
 ration	を配分する|消費を制限する|配給量|定額|定量	anc
 bulldog	ブルドッグ(のような)|強引な男|(Oxford Cambridge大学の)学生監の巡視者|牛の角をとらえてひねり倒す	anc
 exponential	指数の|幾何学級数的な|急上昇の	anc
@@ -10419,7 +10379,6 @@ mathematician	数学者	anc
 galleria	a genus of Pyralidae	wneng
 gluten	グルテン|麩質(ふしつ)	anc
 subdirectory	サブディレクトリ	wnjpn
-eighteenth	第18(の)|18分の1(の)	anc
 garter	靴下止め	anc
 calender	カレンダ(紙・布などをローラーでつや出しする機械)|〈紙・布など〉'を'カレンダにかける	ejdict
 bribe	に賄賂を贈る|わいろ|賄賂	anc
@@ -10580,7 +10539,6 @@ stigma	不名誉|汚名|恥辱(のしるし)|汚れ	anc
 labourer	労働者	anc
 pulsar	パルサー(規則的に電磁波を放射している天体)	ejdict
 stabilizer	安定器|スタビライザー	anc
-eleventh	(日付の)11日|第11|11番目の	anc
 potion	薬の一服|水薬の一服	anc
 seamlessly	継ぎ目なく	anc
 phenomenal	自然現象の|現象の|知覚できる|驚くべき	anc
@@ -10595,7 +10553,6 @@ tablature	タブラチュア	wnjpn
 shelly	貝殻のような|貝殻の多い|殻でできた|殻の	anc
 prank	戯れ|悪ふざけ|いたずら|冗談|ふざける|着飾る	anc
 beagle	ビーグル犬	anc
-nineteen	19|19の	anc
 bayou	(米国南部の)沼のような入江	anc
 inclination	したい気持ち|好み|意向|傾斜|傾向	anc
 recollection	思い出|記憶|想起|追憶|回想|記憶力	anc
@@ -10648,7 +10605,6 @@ advisable	当を得た|賢明な|望ましい|勧めて然るべき	anc
 actin	アクチン|螺旋状の多量体を形成し細胞の形を決定するアクチンフィラメントを作るタンパク質|アクチンフィラメントは筋細胞で筋収縮を担う	anc
 solitude	孤独|人里離れた場所	anc
 conservancy	監督|管理|管理委員会|管理局|管理事務所|保存	anc
-twelfth	(日付の)12日|第12|12番目の	anc
 sheath	さや|おおい|カバー|葉鞘(ようしよう)|シース(女性用のぴったりしたドレス)	anc
 eraser	消しゴム|インキ消し|黒板ふき	anc
 oar	オール|オールでこぐ|漕ぎ手|漕ぎ船	anc
@@ -12215,7 +12171,6 @@ eyepiece	アイピース|接眼レンズ|対眼鏡	anc
 sunless	日のささない|暗い|さびしい|陰気な	ejdict
 unexplained	説明できない	anc
 newt	イモリ(両生類|ヤモリは爬虫類)	anc
-fourteenth	第14(の)|14分の1(の)	anc
 eldest	最年長の	anc
 dredge	しゅんせつ機|ふりかける|ドレッジャでさらって採る	anc
 nonstop	ノンストップの	anc
@@ -12699,7 +12654,6 @@ jansen	ヤンセン	wnjpn
 matrimonial	結婚の|夫婦の	anc
 tween	トゥイーン(MS Windowsで作動するTwitterのアプリケーション)	anc
 prostitute	金のために売る|売春婦	anc
-seventeenth	17番目の	anc
 prilosec	オメプラゾール	wnjpn
 denounce	公然と非難する|告発する|糾弾する|訴える	anc
 warmer	暖める人|加湿器	anc
@@ -12794,7 +12748,6 @@ mechanically	機械で|無意識的に	anc
 dike	みぞ|ditch|水路|堤防|土手道|堤防を築く|溝|土手	anc
 wiener	ウィンナソーセージ(語源|Vienna|Austria)|フランクフルト|ホットドッグ	anc
 fantasia	幻想曲|fantasy	anc
-sixteenth	16番目(の)	anc
 troubleshoot	機械の故障を発見して修理する|紛争を解決する|〜‘の'故障を発見して修理する|〜‘の'紛争を解決(仲裁)する	ejdict
 marmot	マーモット	anc
 multiplexer	a device that can interleave two or more activities	wneng
@@ -13627,7 +13580,6 @@ acetyl	酢酸を構成する有機基(CH3CO-)|アセチル基|アセチルと呼
 basalt	玄武岩	anc
 boomer	(一時的な)人気者|熱烈なファン	anc
 deceit	詐欺	anc
-fifteenth	15の|15番目の	anc
 perinatal	周産期の	anc
 tangle	をもつれさせる|を紛糾させる|を罠にかける|けんかする|混乱|もつれ|ごたごた	anc
 creamer	クリームすくい取り皿|クリーム生成用冷蔵庫|クリーム入れ|クリーム分離器	anc
@@ -13929,7 +13881,6 @@ vino	ブドウ酒|ワイン	anc
 gable	切妻	anc
 lifter	重量挙げ選手	wnjpn
 wield	を扱う|(権力など)を行使する|(影響など)を及ぼす	anc
-thirteenth	第13の	anc
 yeats	ウィリアム・バトラー・イェイツ	wnjpn
 zucchini	ズッキーニ(西洋カボチャの類)	anc
 enthusiastically	熱心に	anc
@@ -16679,7 +16630,6 @@ sublimation	昇華(ドライアイスのように|固体から液体を経ず直
 preponderance	優越|優勢|勝ること	anc
 cowardly	臆病な	anc
 pretentious	うぬぼれた|気取った|もったいぶった|偽りの	anc
-hundredth	100番目の|第100(の)|100分の1(の)	anc
 tsk	舌打ち	wnjpn
 agitator	扇動者|かきまぜ機	anc
 golem	ゴーレム|ロボット|ゴーレム|自動人形|オートマトン|人造人間	wnjpn
@@ -20764,7 +20714,6 @@ geodesy	測地学	ejdict
 kiddy	a young child	wneng
 barnacle	フジツボ (acorm barnacle|rock barnacleなどはフジツボ目の総称)	anc
 pitfall	落とし穴	anc
-millionth	第100万番目(の)	anc
 polysaccharide	多糖類|多糖の	anc
 disservice	ひどい仕打ち|あだ|害|injury	anc
 assessable	capable of being assessed especially for the purpose of taxation|capable of being considered carefully; "the assessable qualities of art"|capable of being considered carefully	wneng
@@ -22064,7 +22013,6 @@ stepson	養子の息子	anc
 radiocarbon	放射性炭素(生物体の年代測定に用いる)	ejdict
 colloquy	(正式な)協議|会談|(格式張った)会話|対話	anc
 splay	外側へ広がった(開いた)|ぶざまな|ぶかっこうな|斜面|隅切り(窓や扉の両側面の壁が傾斜した部分)|〜‘を'広げる|伸ばす|〜‘を'斜めにする;〈窓や扉[の壁面]〉に斜角をつける	ejdict
-fiftieth	『第50の』|50番目の|50分の1の|《the~》『第50』|50番目[のもの]|〈C〉50分の1	ejdict
 joyfully	うれしそうに	anc
 opine	意見を述べる(いだく)|考える|思う	anc
 thermoelectric	熱電気の	ejdict
@@ -23041,7 +22989,6 @@ antimatter	反物質	anc
 electromagnetism	電磁気;電磁気学	ejdict
 quinine	キニーネ|キンコナ(キナ)の皮から抽出された苦いアルカロイド|マラリアの特効薬(a bitter alkaloid extracted from chinchona bark)	anc
 pedophilia	小児性愛	anc
-thirtieth	三十番目の	anc
 wayfarer	旅人|(特に)徒歩旅行者	ejdict
 beanstalk	豆の茎	ejdict
 liberalize	自由化する|寛大になる	anc
@@ -23447,7 +23394,6 @@ debrief	報告を受ける	anc
 unwashed	人並み|世間並み|平凡|十人並み|並大抵|凡下|一般的|凡庸|凡|平平凡凡たる	wnjpn
 virtuosity	すぐれた技巧	anc
 interscholastic	(特に中学校・高校)学校間の|対校の	ejdict
-thousandth	第1000(の)|1000分の1(の)	anc
 radiofrequency	無線周波数	anc
 prelate	官長|僧侶|高位聖職者	anc
 printmaker	版画家	wnjpn
@@ -28348,7 +28294,6 @@ asceticism	禁欲主義|苦行(生活)|修徳(主義)	anc
 subjugate	を支配(征服)する|征服する|を押さえる|征伐する	anc
 simultaneity	同時に存在する(起こる|作用する)こと|同時性	ejdict
 facultative	任意	wnjpn
-fortieth	《the~》『第40の』|40番目の|40分の1の|《the~》『第40』|40番目[のもの]|〈C〉40分の1	ejdict
 adulterous	偽の|姦通の|不義を犯す|不純な|浮気症の	anc
 slyly	ずるく|陰険に|ちゃめに	anc
 almshouse	《おもに英》救貧院|養老院	ejdict
@@ -29403,7 +29348,6 @@ circularly	円か	wnjpn
 shaheed	シャヒード	wnjpn
 footfall	足音|足取り	anc
 tollbooth	有料道路料金徴収所	ejdict
-sixtieth	《the ~》『第60の』|60番目の|60分の1の|〈U〉《the ~》『第60』|60番目[のもの]|〈C〉60分の1	ejdict
 reproof	〈U〉しかること|非難|〈C〉叱責(しっせき)(非難)の言葉	ejdict
 secularization	俗化	wnjpn
 louden	become louder; "The room loudened considerably"|become louder|cause to become loud	wneng
@@ -29676,7 +29620,6 @@ chippy	フィッシュアンドチップスの店|chipmunk(シマリス)の愛�
 homeostatic	恒常的な	anc
 cloze	based on or being a test of reading skill using the cloze procedure	wneng
 myotis	largest and most widely distributed genus of bats	wneng
-billionth	10億番目|10億分の1|1兆番目|1兆分の1	anc
 ccrc	an agency in the Department of Defense that is a national center for research on all aspects of injury control and casualty care	wneng
 basolateral	基底外側の	anc
 envoi	跋	wnjpn
@@ -31409,7 +31352,6 @@ sealyham	a village in southwestern Wales where the Sealyham terrier was first br
 pricy	=pricey	ejdict
 tenaciously	with obstinate determination; "he pursued her doggedly"|with obstinate determination	wneng
 matzo	マツォー|種なしパン	anc
-quadrillion	千兆(の)|000の5乗	anc
 ballista	トレビュシェット	wnjpn
 fungible	代替可能の|(金銭･穀物など)代替可能なもの|代替物	anc
 sapwood	(木材の)辺材，白太(しらた) 《心材を囲む，樹液に富む白色の材部》・白木質	ejdict
@@ -33328,7 +33270,6 @@ notability	〈U〉顕著|著名|〈C〉《複数形で》名士	ejdict
 gspc	an Algerian extremist Islamic offshoot of the Armed Islamic Group; now the largest and most active armed terrorist group in Algeria that seeks to overthrow the government; a major source of support and recruitment for al-Qaeda operations in Europe and northern Africa|an Algerian extremist Islamic offshoot of the Armed Islamic Group|now the largest and most active armed terrorist group in Algeria that seeks to overthrow the government|a major source of support and recruitment for al-Qaeda operations in Europe and northern Africa	wneng
 peristalsis	蠕動(ぜんどう)運動(筋肉の収縮と弛緩(しかん)の運動)	ejdict
 ostler	=hostler	ejdict
-ninetieth	《the~》『第90の』|90番目の|90分の1の|〈U〉《the~》『第90番目』[のもの]|〈C〉90分の1	ejdict
 pleomorphic	relating to or characterized by pleomorphism	wneng
 megalopolis	メガロポリス(いくつかの大都市と隣接する複数の都市から成る大都市圏)	ejdict
 nitrogenase	ニトロゲナーゼ	wnjpn
@@ -34518,7 +34459,6 @@ meathead	《俗》まぬけ|ばか	ejdict
 waterer	someone who waters plants or crops|an assistant who supplies drinking water	wneng
 lycopodium	ヒカゲノカズラ	wnjpn
 utopianism	ユートピアニズム|ユートピア的理想主義|ユートピア的理想論	wnjpn
-seventieth	《the~》『第70の』|70番目の|70分の1の|《the~》『第70』|70番目[のもの]|〈C〉70分の1	ejdict
 brocket	small South American deer with unbranched antlers|male red deer in its second year	wneng
 hepatomegaly	abnormal enlargement of the liver	wneng
 maladjusted	調節の悪い	anc
@@ -35773,7 +35713,6 @@ gunflint	the piece of flint that provides the igniting spark in a flintlock weap
 monazite	モナズ石	wnjpn
 emotionality	主情|感情的傾向|エモーショナリスム|感情本位|エモーショナリズム	wnjpn
 bladderwrack	similar to and found with black rockweed|a common rockweed used in preparing kelp and as manure	wneng
-eightieth	《the ~》『第80の』|80番目の|80分の1の|《the ~》『第80』|80番目[のもの]|〈C〉80分の1	ejdict
 gettable	入手できる|手にはいる|獲得できる	wnjpn
 substantiality	the quality of being substantial or having substance	wneng
 anthropocentric	人間中心的な(万事を人間の経験・価値観で解釈する)	ejdict
@@ -41179,7 +41118,6 @@ transmogrify	(魔法のように)姿･性格を一変させる	anc
 snorer	いびきをかく人	ejdict
 defectively	in a defective manner; "this machine functions only defectively"|in a defective manner	wneng
 merluccius	hakes	wneng
-quintillion	京	booqs
 hogtie	〈動物〉‘の'四つ足をいっしょに縛る|〈人〉‘の'手足をいっしょに縛る|《話》〜‘を'じゃまする|妨害する	ejdict
 immunoprecipitate	免疫沈降物	anc
 phalangeal	指節骨	wnjpn
@@ -42313,7 +42251,6 @@ desorb	脱着	wnjpn
 roughrider	ロデオに出す馬の調教師|荒馬を乗りこなす人	ejdict
 coarsen	あらくなる|粗雑になる|〜'を'あらくする|粗雑にする	ejdict
 subconsciousness	半意識|潜在意識	wnjpn
-trillionth	〈U〉《the ~》《米》1兆番目;《英》100京番目|〈C〉《米》1兆分の1;《英》100京分の1|《米》1兆番目の;《英》100京番目の	ejdict
 expostulate	(〜について人を)いさめる|訓戒する《+『with』+『名』+『about』(『on|for』)+『名』(do『ing』)》	ejdict
 attaint	(法律上)〈人〉‘の'私権を剥奪(はくだつ)する|《古》〈名誉など〉'を'汚す|私権喪失|《古》汚名	ejdict
 myelogram	脊髄造影像	wnjpn
