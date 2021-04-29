@@ -108,7 +108,7 @@ support	支持する|援助する|(家族など)を養う|を立証する|裏付
 user	ユーザー|使う人|消費者	anc
 school	学校|授業	anc
 order	注文|命令|順序|秩序|に命令する|を注文する	anc
-know	を知っている|(You know|などの間投詞的な使用が多い)	anc
+know	を知っている	original
 just	ちょうど|まさに|たった今|ただ～だけ	anc
 over	〜を越えて|〜の上を覆って|〜の上方に	original
 video	ビデオ	anc
@@ -200,7 +200,7 @@ research	調査する|研究|探求|調査|捜索|研究する	anc
 place	場所|余地|を置く	anc
 address	住所|(仕事などに)取り組む|に話しかける|演説	anc
 full	いっぱいの|満腹である	anc
-long	長い|長く|(long jump|走幅跳)	anc
+long	長い|長く	original
 general	一般的な|全体的な|概略の|大将|軍司令官	anc
 under	〜の下に	original
 open	開ける|開く|オープン	anc
@@ -223,7 +223,7 @@ technology	テクノロジー|科学技術|工芸学	anc
 item	品目|項目|条項|細目|種目|アイテム	anc
 international	国際的な|インターナショナル(国際労働者同盟)	anc
 must	〜しなければならない|〜に違いない	original
-form	書類の様式|フォーム|(スポーツ選手などの体の)調子|形|外観|成形	anc
+form	書類の様式|フォーム|形|外観	original
 account	アカウント|勘定書|預金口座|説明する	anc
 guide	案内人|案内書|を案内する	anc
 process	プロセス|過程|経過	anc
@@ -389,7 +389,7 @@ allow	許可する|許す|を可能にする	anc
 material	材料|材質|資料|物質的な|肉体的な|重要な|実質的な	anc
 increase	増える|増やす|増加|(反)decrease	anc
 cover	覆う|カバーをかける|償う	anc
-hand	手|(the back of one's hand|手の甲|cf|palm手のひら)|手渡す|時計の針	anc
+hand	手|手渡す	original
 different	ちがう|別々の|異なる	anc
 around	〜の周りに	original
 field	(野球)球をさばく|処理する	anc
@@ -443,7 +443,7 @@ easy	簡単な|やさしい	anc
 body	身体|死体|本体|本文	anc
 professional	知的職業の|プロ|専門的職業の|専門家|職業的な|商売の|本職の|玄人|教授の|学者ぶった|独断的な|故意の	anc
 cart	荷車	anc
-yahoo	野蛮な人間|Yahoo(会社)|田舎者|やっほー	original
+yahoo	野蛮な人間|田舎者|やっほー	original
 memory	記憶装置|記憶|記憶力|思い出|記念	anc
 film	フィルム|被膜	anc
 medical	医学の|内科の|医学生	anc
@@ -566,7 +566,7 @@ id	身分証明書	original
 welcome	ようこそ|いらっしゃい|歓迎(する)	anc
 analysis	分析|詳細な検討|分解|解析|見方|解析学	anc
 association	組合|連想|会|教会|連合|合同|関連性	anc
-period	ピリオド|期間|時代|周期|段階|終わり|年代物の|月経(=menstrual|婉曲に)	anc
+period	ピリオド|期間|時代|周期|段階|終わり|年代物の	original
 amount	量|に等しくなる|総計|総額|額	anc
 common	一般的な|共通の	anc
 position	位置|場所|立場|境遇|状態|地位|身分|職業|姿勢|位置させる	anc
@@ -588,7 +588,7 @@ match	に匹敵する|に調和する|試合|競争相手|好敵手|釣り合う
 society	社会	anc
 charge	料金|非難(する)|充電(する)|突撃(する)|告訴(する)|(義務など)を負わせる|請求する|つけにする	anc
 vote	投票する|投票数|投票用紙|投票権	anc
-child	子ども|(複数形はchidren)	anc
+child	子ども	original
 tour	ツアー|周遊する|旅行する|巡業する|観光旅行	anc
 entry	入ること|記入(事項)	anc
 similar	同様な|同じように|よく似た|類似の|同様の	anc
@@ -636,7 +636,7 @@ risk	危険|損害の恐れ|敢えてする|を危うくする|冒険	anc
 improve	改善する|向上させる|向上する|進歩する	anc
 least	最少の|最も価値の少ない|最少|最少限度	anc
 safety	安全装置|安全|無事	anc
-pro	前に|を経て|賛成の|職業人|(pros and cons|賛否両論|甲論乙駁)	anc
+pro	前に|を経て|賛成の|職業人	original
 sure	確信して|信じて|確かに|本当に	anc
 machine	機械|組織|乗り物	anc
 supply	を供給する|支給する|供給	anc
@@ -988,7 +988,7 @@ woman	女性|女の人	anc
 fill	満たす	anc
 forward	でしゃばりの|差し出がましい|前へ|急進的な|前方の	anc
 middle	まん中の|中央の|中程度の|胴|中道|中央に置く	anc
-summer	夏(Sumer|シュメール文明|別綴り)	anc
+summer	夏	original
 certificate	証明書|付保証明書|免許証|証券|株券|卒業証書|を認証する|与える	anc
 medicine	薬|医学	anc
 dance	踊る|ダンス	anc
@@ -1002,18 +1002,18 @@ count	重要である|とみなす|計算|伯爵	anc
 brown	茶色の	booqs
 stage	舞台|ステージ|上演する|段階|行なう	anc
 mix	混ぜる|交際する|混ぜて作る|混ざる|混合	anc
-floor	床|底|立会所|(床運動|floor exercise)	anc
+floor	床|底|立会所	original
 couple	カップル|夫婦	anc
 assessment	評価	anc
 module	モジュール|基準寸法|基本単位|組み立てユニット|(IT)基本ソフト	anc
 basis	基礎|主成分|土台|原理	anc
-listen	聞く(意思を持ってきくこと|listen to me)	anc
+listen	聞く	original
 alternative	代替案|選択肢|二者択一の|代わりの(方法)|新しい	anc
 wine	ブドウ酒|ワイン|をブドウ酒でもてなす|ワインを飲む	anc
 telephone	電話(をする)	anc
 rank	階級|身分|地位|並べる|地位を占める|悪臭を放つ|全くひどい|(雑草などが)はびこった	anc
 potential	可能性のある|可能な|潜在力のある|電位の|潜在的な	anc
-cancer	癌(ガン)|(C-)蟹座|北回帰線(Tropic of Cancer)	anc
+cancer	癌(ガン)|(C-)蟹座	original
 hi	やあ|こんにちは	booqs
 senior	年上の(人)|上級の(人)|先任の(人)|先輩|最上級生	anc
 outside	〜の外側へ	original
@@ -1072,7 +1072,7 @@ attack	攻撃する|到達する|襲う|着手する|(N)攻撃|発作|糺弾|指
 retail	小売り商の|小売り|小売りで|を言いふらす|小売店	anc
 abstract	理論的な|抽出する|抽象的な|難解な	anc
 kitchen	台所|キッチン	anc
-inch	インチ(1インチは2|54cm)	anc
+inch	インチ(1インチは2.54cm)	original
 mount	取り付ける|昇|乗る|取りつける|上演する|標本にする|山	anc
 rating	評価|格付け	anc
 valley	谷|谷間|渓谷|大河の流域|くぼみ|みぞ	anc
@@ -1113,14 +1113,14 @@ overview	概観|通覧	anc
 pattern	パターン|模範|原型|模様|柄|型|傾向|模様をつける	anc
 century	世紀|100年間	anc
 worldwide	世界的な(規模の)|世界中に広まった|世界中あまねく	anc
-hair	かみ(の毛)|毛髪|(hair whirl|つむじ)	anc
+hair	髪の毛	original
 anti	反対	anc
 measure	ものさし|寸法|測定器具|手段|はかる|評価する|(基準などに)達する	anc
 min	分	anc
 roll	回転する|走る|過ぎ去る|よろめく|押し進める|朗々という|巻く|ロールパン(和製英語)	anc
 traffic	交通|交通の	anc
 mission	使命|使節|伝道|特別任務|派遣する|派遣団|特命	anc
-bin	(ふた付の)大箱|(石炭|穀物の)置き場	anc
+bin	(ふた付の)大箱|(石炭	original
 tel	電話番号	anc
 sponsor	スポンサー|後援する|保証人|引受人|名付親|番組提供者|広告主	anc
 task	に負担をかける|仕事|に仕事を課する|職務|事業	anc
@@ -1227,7 +1227,6 @@ achieve	を達成する|を完成する	anc
 variety	多様性|変化|多種|変化に富むこと|相違|種類	anc
 election	選挙	anc
 assistance	援助	anc
-rape	強姦する|(遠まわしにはviolate|assaultなどを使う)|アブラナ|菜種	anc
 father	父	anc
 path	小道|通路|細道|散歩道|進路|方針	anc
 chemical	化学作用による|科学薬品|化学の|化学薬品	anc
@@ -1429,7 +1428,7 @@ palm	掌|手のひら(状の物)|手尺|あて革|ヤシ|シュロ|シュロの�
 advantage	好都合|有利|利益|長所|便宜|利点|強み	anc
 mouse	ハツカネズミ(ratはドブネズミで大きい)|臆病物|かわいい子	original
 employee	従業員	anc
-lee	残りかす|保護|物陰|風下の|風下(反|windward|風上の)	anc
+lee	残りかす|保護|物陰|風下の|風下	original
 revenue	国家の歳入|都市|国税庁|利益|総収入|所得|財源|税務局|国税局	anc
 satellite	衛星|人工衛星|衛星国|衛星の|衛星中継する	anc
 tag	に下げ札をつける|決まり文句|荷札|金具|尾|巻き毛|ナンバープレート	anc
@@ -1503,7 +1502,7 @@ dynamic	動力の|動的な|力学の|動的	anc
 actual	事実上の|現在の|現実の	anc
 spot	スポット|地点|しみ|吹き出物|見つける|見抜く|しみがつく	anc
 configuration	形状|配列|認識|(天文)星座|(IT)機器構成	anc
-foot	(複数形feet)|足|フィート(1フィートは約305cm|12inches)	anc
+foot	足|フィート(1フィートは約305cm	original
 rich	豊かな|お金持ちの	anc
 patient	がまん強い|忍耐強い|辛抱強い|根気よく働く|患者	anc
 lodge	泊まる|を預ける|提起する|を提供する|ゆだねる|観光地の旅館|山小屋|(弾が)入って止まる|(矢が)付き刺さる	anc
@@ -1541,7 +1540,7 @@ plastic	プラスチック(の)|ビニール(の)	anc
 forget	を忘れる	anc
 operate	手術する|作動する|操作する|経営する	anc
 freedom	自由|自主|免除	anc
-cent	1セント|セント(米国などの通貨単位 = 1|100 dollar)	anc
+cent	1セント|セント(米国などの通貨単位 = 1/100 dollar)	original
 minute	分|(角度の単位)分 1/60度|覚え書き|議事録|少しの間|ささいな	original
 surgery	外科|手術室	anc
 route	の道順を決める|道|通路|路線|ルート|経路	anc
@@ -1549,7 +1548,7 @@ laboratory	研究室(所)|実験室|試験室	anc
 bus	バス	anc
 marine	海の|船舶の|海軍の|海事|海兵隊員	anc
 administrator	管理者|行政官	anc
-smart	スマートな|利口な|ずきずき痛む|苦悩|厳しく|痛み|苦痛|(This cut smarts|切り傷が痛む)	anc
+smart	スマートな|利口な|ずきずき痛む|苦悩|厳しく|痛み|苦痛	original
 respond	に返答する|反応する	anc
 obtain	を得る	anc
 apparel	衣服|衣料	anc
@@ -1565,7 +1564,7 @@ contractor	建築請負人	anc
 investor	投資家	anc
 cap	帽子･ふた 2|山羊座(Capricornの略)	anc
 stick	棒|突き出す|を貼りつける|くっつく|我慢する	anc
-solid	固体(の)|硬い|頑丈な|しっかりした|(固体化|solid-state)|中が詰まった	anc
+solid	固体(の)|硬い|頑丈な|しっかりした|中が詰まった	original
 prime	首位の|根本的な|一流の|最上の|青春|全盛|火薬を詰める|準備する	anc
 strike	打つ(こと)|襲う|突き当たる|思いつく|ストライキ	anc
 heavy	重い	anc
@@ -1634,7 +1633,7 @@ hole	穴をあける|穴|われめ|巣穴|苦境	anc
 disability	障害|身体障害	anc
 myself	私自身|自分自身	anc
 initiative	主導権|第一歩|発議権|国民発案	anc
-arm	腕|(the upper arm|二の腕)	anc
+arm	腕	original
 meter	メートル	anc
 iron	鉄	original
 truth	事実|真実|真理|真偽|実体|誠実	anc
@@ -1744,7 +1743,7 @@ patent	専売特許の|特許(権)|特許の|の特許権をとる	anc
 crystal	水晶の|結晶	anc
 marriage	結婚(生活)|結婚式|(密接な)結合	anc
 warm	暖かい|温かい|思いやりのある	anc
-examine	調査する|検査する|試験する|(=look into|go over)	anc
+examine	調査する|検査する|試験する|(=look into	original
 spread	を広げる|広がる|広がり|広めること|スプレッド	anc
 applicable	適用できる	anc
 reduction	減少|削減|割引 2|還元(酸化oxidation)	anc
@@ -1778,7 +1777,7 @@ node	節点|結び目|こぶ|節(ふし)|(劇などの筋の)もつれ	anc
 wing	翼|羽|党派|飛行隊|を飛ばす|フェンダー|即興で何かをする	anc
 false	正しくない|仮の|誤っている|嘘を言う|不誠実な|偽りの|人工の	original
 portfolio	大臣の職･地位|(所有する)有価証券(一覧表)|紙ばさみ	anc
-pump	ポンプ|揚水機|心臓|汲む|水を揚げる|ポンプでくみだす|(pl|)パンプス(女性用のヒモのない靴)	anc
+pump	ポンプ|揚水機|心臓|汲む|水を揚げる|ポンプでくみだす|パンプス(女性用のヒモのない靴)	original
 relative	相対的な|比較上の|対応する|親戚|関係を示す|関係詞	anc
 void	からの|を放出する|排泄する|放尿する|うつろな|持ち主の無い|空間|真空	anc
 celebrity	有名人|名士|名声|テレビによくでる有名人	anc
@@ -1984,7 +1983,7 @@ soccer	サッカー	anc
 calculator	計算機	anc
 tune	曲|ふし|旋律|調べ|正しい調子|の調子を合わせる	anc
 serial	(番号などが)連続的な|連載の|連載物|続き物|連続番組|連続もの	anc
-resume	再会する|回復する|占める|を取り返す|履歴書(=curriculum vitae|C|V|)	anc
+resume	再会する|回復する|占める|を取り返す|履歴書(=curriculum vitae)	original
 decrease	減る|減らす|減少|(反)increase	anc
 lift	解除する|向上させる|持ち上げる|高揚|昇進|助力|リフト	anc
 specialty	専門|名物|特徴	anc
@@ -2014,7 +2013,7 @@ contemporary	現代の|最新の|同時代の|同時期の人|同年齢の人	an
 cartridge	カートリッジ|パトローネ|薬包|弾薬筒	anc
 blonde	金髪の	anc
 mill	ひき臼|製粉機|水車場|工場|圧搾機|製粉する	anc
-alpha	(第1ギリシア文字)アルファ|Α|α|α星(星座の中で1番明るい星 cf|β星)	anc
+alpha	(第1ギリシア文字)アルファ|Α|α	original
 cream	クリーム|乳脂|最良の部分	anc
 exit	出口	anc
 percentage	パーセンテージ|百分率|割合|手数料|利益	anc
@@ -2031,7 +2030,7 @@ bureau	官庁の局|事務局(an information bureau案内所)|化粧ダンス	an
 accident	天災|偶然|事故|災難	anc
 building	建物	anc
 customize	を注文で特製する	anc
-miller	粉屋|製粉業者|フライス盤(a milling machine|a miller)|(fraise(仏) 穿孔器の意)	anc
+miller	粉屋|製粉業者|フライス盤	original
 adobe	日干しレンガ	original
 exhibit	展覧する|公開する|展示品|展示する|証拠	anc
 header	(くぎなどの)作頭機|穂摘み機|(俗)さかさ飛込み|ヘッディングによるシュート(パス)	anc
@@ -2123,7 +2122,7 @@ wash	洗う|を押し流す	anc
 bathroom	バスルーム|トイレ	anc
 gnu	ヌー|ウシレイヨウ	anc
 prince	王子|王|皇族|皇子|プリンス|公爵|君主	anc
-visa	査証|裏書き|ビザ|旅券に裏書きをする|ビザを与える|VISA(クレジット会社)	original
+visa	査証|裏書き|ビザ|旅券に裏書きをする|ビザを与える	original
 appendix	付属物|(俗)盲腸	anc
 transit	通過する|運送|推移|通過|経過|通行|運搬|輸送	anc
 hop	跳躍|ぴょんと跳び越す|(植物)ホップ|ホップの実(ビールの苦味をつける)|麻薬|阿片	anc
@@ -2176,7 +2175,7 @@ governor	統治者|知事|総督|親方|雇い主|支配者	anc
 fox	キツネ|狐|狡猾な人|すごい美人	anc
 mathematics	数学|計算|数学の|全く厳密な	anc
 plane	飛行機	anc
-lie	(自動詞|lie-lay-lain-lying)横たわる|横になる|寝る|うそ|詐欺	anc
+lie	横たわる|横になる|寝る|うそ|詐欺	original
 dean	学部長	anc
 explorer	探検家	anc
 shock	衝撃|打撃|電撃|をぎょっとさせる|を憤慨させる	anc
@@ -2287,7 +2286,7 @@ historic	歴史上重要な|歴史上の|歴史的に有名な|歴史に残る	a
 appreciate	感謝する|高く評価する|鑑賞する|理解する	anc
 upcoming	来るべき	anc
 instructor	インストラクター	anc
-echo	反響|おうむ返しに言う|(Echo)エコー(森の精|ギリシア神話)	anc
+echo	反響|おうむ返しに言う	original
 exact	正確な|的確な|綿密な|を要求する|(税など)を搾り取る	anc
 catholic	カトリック|普遍	wnjpn
 destroy	を破壊する|を殺す|滅ぼす	anc
@@ -2299,7 +2298,7 @@ mention	について述べる|言及する|refer to	anc
 rack	棚|枠|苦しめる|ちぎれ雲	anc
 shadow	影|陰|ごくわずか|まねっこごっこ	anc
 gap	裂け目|すき間|とぎれ	anc
-narrow	面積が)狭い|(幅|面積が)狭い|狭くなる|狭い部分	anc
+narrow	(幅や面積が)狭い|狭くなる|狭い部分	original
 scholarship	学問|学識|博学|奨学金	anc
 sin	(主に宗教的な)罪(を犯す)|過失|ばかげたこと	anc
 cabinet	キャビネット|飾り戸棚|箱|私室|閣議室|秘密の|(C-)内閣	anc
@@ -2318,7 +2317,7 @@ messenger	使者|使い走り	anc
 eliminate	を削除する|を無視する|を排泄する|取り除く	anc
 neither	もまた～ない	anc
 championship	選手権	anc
-rail	レール(jump the rails|脱線する)|横木|手すり|欄干|罵る|非難する|クイナ(鳥)	anc
+rail	レール|横木|手すり|欄干|罵る|非難する|クイナ(鳥)	original
 translate	言い換えられる|を翻訳する|を変える|を移す|を動かす|を訳す|を解釈する|を説明する	anc
 micro	極端に小さい|顕微鏡でしか見えない|超ミニの|極小の|超ミニスカート	anc
 offline	オフラインで	anc
@@ -2331,7 +2330,7 @@ prefer	をより好む	anc
 babe	すっごい美人 (=dish)	anc
 recognize	を識別する|を認める|だとわかる	anc
 equation	均衡	anc
-traveler	旅行者|旅客|外交員|移動販売員 (英|traveller)	anc
+traveler	旅行者|旅客|外交員|移動販売員	original
 objective	客観的な|事実に基づく|目的(の)|目的格の	anc
 merchandise	商品|を商業化する|売買する|宣伝する	anc
 laugh	笑う	anc
@@ -2340,8 +2339,8 @@ gray	青ざめた|灰色|青白さ|灰色の|白髪の|灰色の服	anc
 formal	公式の|形の|正式の|形式的な	anc
 classification	分類	anc
 craft	クラフト|航空機|技術|手技	anc
-journey	(通常陸上の|比較的長い)旅行|(人生などの)行路|遍歴	anc
-dragon	竜(翼|爪を持ち|火を吐く伝説の怪獣でキリスト教では罪と悪の象徴)	anc
+journey	(通常陸上の	original
+dragon	竜	original
 potter	陶工|焼き物師|陶芸家	anc
 relation	関係	anc
 recognition	認識|承認	anc
@@ -2420,7 +2419,7 @@ retain	を実行しつづける|雇っておく|抱える|を保つ|保持する
 crop	刈り込む|群れ|産出高	anc
 simulation	シミュレーション|擬態|物まね	anc
 rice	米|こめ	anc
-animation	生気|活気|活発|(speak with animation 熱心に話す)|動画|アニメーション	anc
+animation	生気|活気|活発|動画|アニメーション	original
 tomorrow	明日	anc
 behalf	利益	anc
 gourmet	料理や酒の味の鑑識力のある人|食通|グルメ|美食家	anc
@@ -2552,7 +2551,7 @@ infant	未成年者|幼児|赤子|幼少の|幼い	anc
 completion	完了|完全さ	anc
 float	浮くもの|浮かぶ|浮く	anc
 shot	発射|弾丸|射手|shootの過去･過去分詞	anc
-parallel	平行の|平行線|類似点|と平行する|と似ている|(parallel bars|平行棒)	anc
+parallel	平行の|平行線|類似点|と平行する|と似ている	original
 consolidation	整理|硬化|強化|合併	anc
 bet	に賭ける|賭け|賭	anc
 cosmetic	表面的な|化粧品	anc
@@ -2624,7 +2623,7 @@ prison	刑務所|監獄|拘置所|監禁|禁固|幽閉	original
 charity	慈善|思いやり	anc
 leg	足	anc
 dispute	議論|に異議をさしはさむ|論争する|反抗する|抵抗する|(言い)争う	anc
-grey	灰色になる|灰色の|(UK英語|米はgrey)	anc
+grey	灰色になる|灰色の	original
 bold	ずうずうしい|大胆な|勇敢な|ずぶとい|奇抜な|顕著な|厚かましい	anc
 bomb	爆撃する|爆弾	anc
 grace	優雅|飾る|猶予(期間)	anc
@@ -2739,13 +2738,13 @@ encounter	に遭遇する|出会う|遭遇する	anc
 compete	競争する|匹敵する	anc
 inner	内部の	anc
 dry	乾燥した|無味乾燥な|面白くない|退屈な|乾かす|辛口の(酒)|(俗)禁酒	anc
-jr	ジュニア(Jr|)|二世	anc
+jr	ジュニア(Jr.)|二世	original
 disclosure	暴露|発覚|発表|打ち明け話|明細|公開	anc
 danger	危険	anc
 calculation	勘定|計算|予測	anc
 locate	位置する|ある|場所を見つける	anc
 navigate	を航行する|(船･飛行機)を操縦する	anc
-oracle	神託|神官|賢人|Oracle(会社)	original
+oracle	神託|神官|賢人	original
 facial	美顔術|顔の|顔に用いる|美顔用の	anc
 supervisor	指揮者|監督者|管理者	anc
 rod	魔法の杖|棒(権力･支配力の象徴)|(俗)ピストル|釣り竿|ものさし|ロッド(単位)|桿状菌	original
@@ -2761,13 +2760,13 @@ operational	使用できる|操作上の	anc
 handbook	手引き|便覧|旅行案内|賭金帳(競馬)	anc
 cache	貯蔵所|貯蔵物|隠し場|隠してある貴重品	anc
 par	同等|平価|標準|基準|パー|基準打数	anc
-shoulder	肩|(道路の)路肩|(shoulder blade|肩甲骨=scapula)	anc
+shoulder	肩|(道路の)路肩	original
 vinyl	ビニール	anc
 statute	法令|法規|規則|法|法律|成文律	anc
 discharge	放電する|降ろす|放出(する)|開放(する)|解雇(する)	original
 fetish	物神|呪物|迷信の対象|盲目的崇拝物	anc
 intervention	市場介入|調停|仲裁|介入|干渉|内政干渉|売惜しみ	anc
-blade	刃|(俗)ナイフ|(blade は刃の全部をさす|edgeは刀先)|羽根|タービン翼|(草の)葉	anc
+blade	刃|(俗)ナイフ|羽根|タービン翼|(草の)葉	original
 rep	代表(= representative)	anc
 qualify	に資格を与える･得る|適格とする|限定する|修飾する	anc
 aviation	航空術|航空学	anc
@@ -2788,7 +2787,7 @@ ongoing	継続中の|(現在)進行中の|現行の|発達中の	anc
 publish	出版する|を発表する	anc
 ill	病気で|悪く|不親切に|不幸な|悪|不運	anc
 reliability	信頼|頼もしさ|信頼性|信憑性|確度|確実	anc
-devil	悪魔(=devil|daemon|Satan|fiend)	anc
+devil	悪魔(=devil	original
 dangerous	危険な	anc
 citation	引用	anc
 mad	怒った	booqs
@@ -2823,7 +2822,7 @@ principle	原理|主義|原則|公理|方針|信条|道義|本質|本源	anc
 talent	才能|天分|素質|手腕	anc
 globe	地球儀|球体|天球|球|地球	anc
 digest	(食物を)消化する|要約する|知識を会得する|要約|摘要	anc
-probe	(próʊb)|徹底的な調査|査察|(=investigation他)|探り針|試験|探る|厳密に調査する 	anc
+probe	徹底的な調査|査察(=investigation他)|探り針|試験|探る|厳密に調査する	original
 differ	異なる	anc
 combat	と戦う|戦う|論戦|と闘う	anc
 tall	高い	anc
@@ -2881,7 +2880,7 @@ warehouse	を倉庫に入れる|を保税倉庫に預ける|商品保管所|卸�
 portrait	ポートレート|肖像画|似顔絵	anc
 pound	ポンド|16 ounce|453|6g|100 pence|(駐車違反車の)留め置き場|(馬の)囲い|ドンドン打つ|つき砕く	anc
 planner	立案者|プランナー	anc
-twist	をねじる|を曲げる|を縫っていく|よじれ|より糸|寝違える(crick one's neck|twist one's neck|)	anc
+twist	をねじる|を曲げる|を縫っていく|よじれ|より糸	original
 attract	(人･注意)を引きつける|魅惑する	anc
 trim	刈込む|整備(する)|削減する|を装飾する|(身体の)調子|気分|きちんとした	anc
 hunt	捜索する|捜す|追う|探求(する)|狩る|狩猟(する)	anc
@@ -3012,7 +3011,7 @@ excel	しのぐ|優る	anc
 chase	を追う|を追跡する|を追い払う|追撃|狩り	anc
 subsequent	それに続く|その後の|次の|後に来る	anc
 viewer	見る人|見物人|検査官|テレビ視聴者|聴視者|観覧者	anc
-radiation	放射線|放射|輻射|放熱|(放射能事故a radiation accident)	anc
+radiation	放射線|放射|輻射|放熱	original
 shade	陰|光(熱)をさえぎるもの|陰影|わずかな違い|を陰にする|サングラス	anc
 grain	穀物|種子|粒|少量|1粒|グレイン|粒にする|木目	anc
 moral	道徳の|道徳的な|精神的な|教訓|品行	anc
@@ -3026,7 +3025,7 @@ powder	パウダー|粉	anc
 hence	それゆえに|今から先|故に|今後	anc
 tap	こつこつ叩く|開発する|引き出す|栓を抜く|靴の音|飲み口|栓|蛇口|盗聴|電話盗聴(傍受)装置|盗聴する	original
 entirely	全く	anc
-throat	のど|咽喉|喉|気管|食道|clear throat(咳払いする)	anc
+throat	のど|咽喉|喉|気管|食道	original
 rider	ライダー	anc
 cure	を治療する|(悪い習慣など)を直す|治療法	anc
 ion	イオン	original
@@ -3050,7 +3049,7 @@ effectiveness	有効	anc
 abroad	外国で|外国へ	anc
 urge	強く迫る|説得する	anc
 ebony	(ほめて)漆黒の|真っ黒の|黒檀(こくたん)(の)	anc
-cord	コード|紐|(spinal cord|脊髄|vocal cord|声帯)	anc
+cord	コード|紐	original
 lifetime	生涯(の)|一生(の)	anc
 overseas	海外|海外の	booqs
 hybrid	混成語|雑種|合いの子|ハイブリッド|混成物	anc
@@ -3129,7 +3128,7 @@ casual	さりげない|くだけた|偶然の|不用意の|のんきな|臨時�
 methodology	方法論	anc
 rebate	手数料|リベート	anc
 nest	に巣をつくってやる|巣|巣を造る|隠れ場所|悪事の温床	anc
-fairly	相当に|公平に|正しく|かなり|完全に|全く|(fairyは妖精|別綴)	anc
+fairly	相当に|公平に|正しく|かなり|完全に|全く	original
 coastal	海岸の	anc
 intelligent	知的な	anc
 rick	積みわら	anc
@@ -3140,7 +3139,7 @@ deserve	を受けるに足る|に値する	anc
 latter	後者|後の方の|近ごろの	anc
 transformation	変換|変形|変化|変容|変質|変態|変圧	anc
 advise	に忠告する|に助言する|通知する	anc
-triple	3倍の|3重の|三重の|三種類の|三塁打|(三段跳び|triple jump)	anc
+triple	3倍の|3重の|三重の|三種類の|三塁打	original
 intermediate	中間にある|中間の|媒介物|仲裁人|中間体	anc
 suspension	負債の返済不納|吊すこと|停止|宙吊り|未決定|停職	anc
 debug	除虫する|の欠陥を捜して直す|デバッグする|から盗聴器を取り除く	anc
@@ -3167,7 +3166,7 @@ transcript	写し|複写|転写物|謄本	anc
 bat	コウモリ|強打	anc
 funeral	葬儀|葬式(の)|葬列|告別式	anc
 killer	殺し屋|殺す動物(器械)|殺人鬼	anc
-opt	選択する|(n|option)	anc
+opt	選択する	original
 shopper	買物客|(商店の)広告ビラ|広告専用雑誌	anc
 entrance	入口	anc
 bull	乱暴なことをする|がっしりした男|頑固な|強気筋|雄牛|雄|ブルドック	anc
@@ -3373,7 +3372,7 @@ sh	しー!	anc
 teenage	十代	anc
 constitute	構成する|制定する|の構成要素となる	anc
 inkjet	インクジェット	anc
-bubble	泡(立てる･立つ)|実態のないもの|みせかけ|(babbleはぺちゃくちゃしゃべる)	anc
+bubble	泡(立てる･立つ)|実態のないもの|みせかけ	original
 decor	(仏語)装飾|舞台装置	anc
 unusual	異常な|一風変わった|珍しい|見かけない	anc
 spouse	配偶者	anc
@@ -3417,8 +3416,8 @@ disposal	支配権|配置|配列|処理|売却	anc
 thesis	論文|主張|議題|論題|題目|卒業論文|命題	anc
 entrepreneur	起業家|企業家|事業主|興行主|請負人|仲介者	anc
 documentary	ドキュメンタリー|文書の|ドキュメンタリー映画|事実を記録した|記録もの	anc
-knit	編んだ|組む|編む|(nit|シラミと同音語)	anc
-proxy	代理(権|人)|委任状|代用となるもの	anc
+knit	編んだ|組む|編む	original
+proxy	代理(権	original
 verification	検証|査察	anc
 corps	軍団|部隊|兵団	anc
 aside	側に|別に	original
@@ -3483,7 +3482,7 @@ attractive	魅力的な	anc
 aggregate	集まった|骨材|集合|集める|統合する|総計～となる	anc
 electron	電子|宇宙を構成するレプトンに分類される素粒子|記号はe−で表される	anc
 recording	レコーディング|収録|録音|記録する|自動記録仕掛の	anc
-bee	ハチ|ミツバチ|働き者|(仕事|娯楽の)会合|集まり	anc
+bee	ハチ|ミツバチ|働き者|(仕事	original
 victim	犠牲|犠牲者|いけにえ|詐欺にかかった人|被災者	anc
 semiconductor	半導体	anc
 careful	注意深い	anc
@@ -3508,18 +3507,18 @@ conclude	と結論づける|を終わりにする|しめくくる	anc
 gym	屋内体操場|体育館|体操|体育	anc
 ranch	大牧場|農場|農園	anc
 fisher	漁師|フィッシャーテン(の毛皮)	anc
-pie	パイ(パイ生地|crustで包んだ焼き菓子)|総額|楽なこと|カササギ|(円グラフa pie chart)	anc
+pie	パイ(食べ物)|総額|楽なこと|カササギ	original
 alphabetical	アルファベットの	anc
 camel	ラクダ|駱駝	anc
 rally	再び集める|元気づける|回復(する)|反騰(する)|大会|集会	anc
 bride	花嫁|新婦	anc
-tear	涙|引き裂く|(tore(過去)|torn(過去分詞))	anc
+tear	涙|引き裂く|tore(過去形)	original
 tracker	獲物を追う猟師|警察犬|追跡者|砲撃目標追跡装置|引き船|船引き人	anc
 complexity	複雑さ	anc
 fare	料金|運賃|旅をする|暮らす|ごちそう	anc
 midnight	真夜中|真夜中の	anc
 voluntary	自発的な|自由意志による|有志の|無償の	anc
-gel	ゲル|膠(こう)化体(コロイド系がゼリー状に固化したもの|固まったゼラチン|寒天など)	anc
+gel	ゲル|膠(こう)化体	original
 greatly	大いに|偉大に	anc
 partition	区画|分割|分配|区分|分離|を分割する	anc
 potato	じゃがいも	anc
@@ -3544,7 +3543,7 @@ reputation	名声|世評|評判|好評	anc
 wedding	結婚式|結婚記念日|融合|結婚(式)	anc
 lawn	芝生	anc
 suddenly	突然に	anc
-scratch	スクラッチする|ひっかくこと|ひっかく|傷をつける|ひっかき傷|体を掻く(scratch one's back|)	anc
+scratch	スクラッチする|ひっかくこと|ひっかく|傷をつける|ひっかき傷	original
 cookie	クッキー(焼き菓子)(俗)やつ|魅力的な女	original
 merely	ただ|たかが～に過ぎない|ただ～だけの|単に	anc
 magnet	磁石|引付ける物	anc
@@ -3558,7 +3557,7 @@ ranking	ランキング	anc
 puppy	子犬	anc
 tongue	演奏する|を舌で触る|なめる|舌|言葉|言語能力|言葉使い|国語	anc
 headquarters	本部員|本部|指令部|本拠|司令部(員)|本社	anc
-ruby	ルビー|ルビー色の|紅玉(7月の誕生石)|深紅色|赤ぶどう酒|真紅の|ルビ(5|5ポイント活字)	anc
+ruby	ルビー|ルビー色の|紅玉(7月の誕生石)|深紅色|赤ぶどう酒|真紅の|ルビ(振り仮名用の活字)	original
 tumor	腫瘍|膨らみ|出っ張り	anc
 invoice	インボイス|送り状	anc
 roulette	(仏語)ルーレット	anc
@@ -3627,7 +3626,7 @@ fame	名声	anc
 attach	くっつける|付属させる	anc
 drain	排水|流れる|富を使い果たす|を飲み干す|を徐々に排出させる	anc
 symposium	シンポジウム	anc
-fusion	核融合|融解|融合|溶融|合併|連合|統合|(fission核分裂|fusion核融合)	anc
+fusion	核融合|融解|融合|溶融|合併|連合|統合	original
 tunnel	トンネル|地下道|坑道|穴|巣	anc
 anchor	錨|しんがり|定着させる|固定させる	anc
 companion	対の片方|仲間|相手|伴侶|話し相手|気の合った友	anc
@@ -3638,7 +3637,7 @@ photoshop	フォトショップ	anc
 possession	所有|所持|占有|所有権|財産|領地	anc
 logical	道理にかなった|論理的な|当然な|論理学の	anc
 retrieve	検索する|引き出す|取り戻す|償う|回収する|回復する	anc
-phenomenon	現象|驚くべき物(事)　(複数phenomena)	anc
+phenomenon	現象|驚くべき物(事)|(複数形phenomena)	original
 mathematical	数学的|数学(上)の|全く正確な|非常に正確な	anc
 authorization	権限の委任|承認	anc
 medal	メダル|勲章|記章|メダルを授与する	anc
@@ -3669,7 +3668,7 @@ afraid	心配して|怖がって	anc
 royalty	王室の人々|王族|王の身分|王位|王権|荘厳|著作権使用料|管轄権|採掘権|印税	anc
 initially	初めに|はじめ(のうち)は	anc
 indicator	メーター|指示薬|ウィンカー|方向指示灯	anc
-queue	(主にUK英語|USはline)行列して待つ|待行列|列|おさげ髪|弁髪(jump the queue列に割り込む)	anc
+queue	行列して待つ|待行列|列|おさげ髪	original
 cave	陥没する|ほら穴|横穴を掘る	anc
 priest	聖職者|司祭|祭司|奉仕者	anc
 geek	(生きたヘビや鶏の首を食いちぎってみせる)奇態な見せ物師|(俗)変態|異常者|酔っぱらい	anc
@@ -3707,7 +3706,7 @@ borrow	を借りる	anc
 instantly	ただちに	anc
 gen	generalの省略形	original
 prospective	見込みのあった|将来の|期待される	anc
-horizontal	地平線の|水平の|(horizontal bar|鉄棒)	anc
+horizontal	地平線の|水平の	original
 gem	宝石|逸品|珠玉|〜を飾る	original
 unlock	の錠をあける|を開く|打ち明ける|鍵が開く	anc
 breath	息|呼吸	anc
@@ -3777,7 +3776,7 @@ constantly	絶えず	anc
 nursery	子ども部屋|育児室|苗床|養成所|(悪の)温床|託児所	anc
 microwave	マイクロウェーブ|電子レンジ	anc
 presidential	大統領の	anc
-rocky	(打ちのめされ|または酒を飲み過ぎて)ふらふらの|グロッキーの|岩のような|頑固な	anc
+rocky	ふらふらの|グロッキーの|岩のような|頑固な	original
 dock	ドックに入れる|ドッキングする|(植物)スカンポの類	anc
 authentic	信頼できる|信憑性のある|本物の	anc
 deer	シカ|鹿	anc
@@ -3785,7 +3784,7 @@ butter	バター	anc
 thru	(米略式)through	anc
 vaccine	ワクチン(の)|痘苗(の)	anc
 loud	大声の|大声で	anc
-divide	割る|分割する|6 divided by 2 is(equals) 3	anc
+divide	割る|分割する	original
 lobby	ロビーに出入りする|議員に働きかける|の通過運動をする|圧力団体|ロビー|大廊下	anc
 silence	沈黙|静けさ|黙祷|を沈黙させる|を静める	anc
 cv	履歴書	wnjpn
@@ -3821,7 +3820,7 @@ snake	陰険な人|くねる|ヘビ|くねって歩く|をくねらせる	anc
 correspondence	文通|通信|交通	anc
 turbo	turbochargerターボチャージャー|内燃機関の熱効率を高めるために利用される過給機の一方式	anc
 um	えーと|うーん|ほー|ふむ|いや|へー	anc
-dialog	(US英語|UK英語|はdialogue)|対話|問答	anc
+dialog	(UK英)dialogue|対話|問答	original
 punch	に穴をあける|を殴る|一撃|パンチ|穴開け器|穿孔機	anc
 thereof	その|それの	anc
 pillow	枕|まくら(をする)	anc
@@ -3830,7 +3829,7 @@ consist	構成されている|存在する	anc
 intensity	緊張|強烈にする	anc
 dale	(広い)谷|盆地|人名	anc
 repository	貯蔵所|倉庫|納骨堂|埋葬所|(知識などの)宝庫	anc
-traveller	(英)旅行者|(米traveler)	anc
+traveller	旅行者|(US英)traveler	original
 comparative	匹敵する|比較の|(文法)比較級	anc
 reunion	再結合|再会|親睦(しんぼく)会	anc
 wanna	したい|(=want to 口語)	anc
@@ -3875,7 +3874,7 @@ cancellation	取り消し	anc
 mandate	の統治を委任する|命令|為政権|指図|委任統治	anc
 demographic	人口統計学の	anc
 cylinder	シリンダー|円筒	anc
-hammer	たたく|を槌で打つ|槌|金槌|ハンマー|(ハンマー投げ|hammer throw)	anc
+hammer	たたく|を槌で打つ|槌|金槌|ハンマー	original
 rover	立ち見の人|漂流者|流浪者|海賊|歩き回る人	anc
 suggestion	提案|暗示	anc
 uncertainty	不確実さ|疑い|半信半疑|不確定|不安	anc
@@ -3926,12 +3925,12 @@ dare	あえて～する|に立ち向かう|挑戦|あえてすること	anc
 glen	谷間|(G-)グレン(人名)	anc
 yo	やあ	anc
 swim	泳ぐ	anc
-lotus	ロータス|蓮|ハス(の実) 2|(ギリシア神話)ロートス(その実を食べれば浮き世の苦しみを忘れるという伝説の木)	anc
+lotus	ロータス|蓮|ハス(の実)|(ギリシア神話)ロートス(その実を食べれば浮き世の苦しみを忘れるという伝説の木)	original
 biotechnology	生命工学|生物工学|バイオテクノロジー|人間工学|ergonomics	anc
 brunette	(女)ブルネットの	anc
 daddy	お父さん	anc
 bless	を神聖にする|感謝する|祝福する|恩恵を与える|清める|恵む|賛美する|十字を切る|祈る	anc
-pledge	誓約|質入|乾杯|を誓う|人質|(hostage|pawn|pledge|captive)|保証する	anc
+pledge	誓約|質入|乾杯|を誓う|人質|保証する	original
 actress	女優	anc
 toxic	有毒な|中毒の	anc
 weapon	対抗手段|武器|兵器	anc
@@ -3951,12 +3950,12 @@ victor	勝利者|征服者	anc
 offshore	沖合い|沖で|(風など)沖に向かう|海外の	anc
 bolt	稲妻|かんぬきで締まる|ふるいわける|ボルトで締める|かんぬきをかける|(B-)人名	anc
 occasionally	たまに|時折	anc
-jail	刑務所|投獄する|Ex|He is in prison-in jail-in quod-for doing evil|悪いことをして監獄へ入っている	anc
+jail	刑務所|投獄する	original
 emission	排出|放出|排気|放射|発射	anc
 spec	思惑|投機|演芸|仕様明細書	anc
 fountain	泉	anc
 realty	不動産	anc
-apparent	明らかな(叙述用法:apparent to|apparent thatなど)|外見上の(限定用法)	anc
+apparent	明らかな(叙述用法:apparent to	original
 instructional	教育の	anc
 outreach	奉仕活動	anc
 traveling	移動	wnjpn
@@ -3969,7 +3968,7 @@ roller	(地ならし･印刷･圧延用)ローラー|大波|ヘアカーラー
 shed	(血や涙を)流す|を脱ぐ|(動・植物が)葉・角・皮・毛・羽などを(自然に)落とす|生えかえる|脱皮する|(体重)を落とす|倉庫|小屋|車庫	anc
 canal	運河	anc
 excuse	言い訳	anc
-fraction	破片|一部分|端数|比|割合|分数(fraction)の分子(numerator)を基数cardinal numberで|分母(denominator)を序数ordinal numberで表す例文	anc
+fraction	破片|一部分|端数|比|割合|分数	original
 sandwich	サンドイッチ	anc
 sunny	晴れわたった|陽気な|日当たりのいい	anc
 poison	毒|毒薬|毒物|弊害|に毒を盛る|を毒する	anc
@@ -3982,7 +3981,7 @@ relocation	(米語)(第二次大戦中の日系人)強制収容|再配置|移転
 settle	を置く|を落ち着かせる|を清算する|定住する|据える	anc
 leak	を漏らす|情報漏れ|漏電	anc
 timely	適時の|時期を得た|折りの良い|折りよく	anc
-explicit	率直な|明白な|あからさまな|(反|implicit)	anc
+explicit	率直な|明白な|あからさまな(反義語implicit)	original
 cuisine	料理|料理法|料理場|厨房	anc
 radius	飛行半径|半径|輻射線|区域|範囲	anc
 sept	7の意味(Septemberは9月に転じた)	anc
@@ -3992,10 +3991,10 @@ cube	3乗する|立方体	anc
 exemption	免税|課税控除	anc
 translator	翻訳者|通訳|翻訳機|翻訳家	anc
 bingo	当たり|ビンゴ	anc
-whilst	一方|(=while)	anc
+whilst	一方(=while)	original
 spatial	空間的な|空間の	anc
 uv	紫外線	wnjpn
-unto	の方へ|(古･詩)へ|に|まで	anc
+unto	の方へ(=toの古い用法)|〜まで|〜に	original
 coral	珊瑚の	anc
 snapshot	スナップ写真	anc
 precious	気取った|貴重な|高価な|尊い|大事な|こりすぎた	anc
@@ -4005,12 +4004,12 @@ xanax	アルプラゾラム	wnjpn
 lawsuit	訴訟|告訴	anc
 synthesis	総合|統合|合成|組み立て	anc
 heater	ヒーター|暖房	anc
-mug	(人を暗闇で)襲って金品を奪う|(俗)がり勉する|大型コップ|マグ|ジョッキ|(俗)つら|顔写真を作る|不良|まぬけ|(magはmagazineの略)	anc
+mug	(人を暗闇で)襲って金品を奪う|(俗)がり勉する|大型コップ|マグ|ジョッキ|(俗)つら|顔写真を作る|不良|まぬけ	original
 replica	模造品|複製	anc
 unavailable	得られない|利用できない|不在の	anc
 footwear	履き物	anc
 withdrawal	取り消し|引っ込めること|回収|脱退|撤退|預金の引き出し|払い戻し	anc
-theorem	(θíːərəm)|法則|定理(=axiom)|原則	anc
+theorem	法則|定理(=axiom)|原則	original
 advocacy	主張|弁護|支持	anc
 prairie	(特にミシシッピー川流域の)『大草原』	ejdict
 essentially	本質的に|元来|本来の|実質的に	anc
@@ -4062,12 +4061,12 @@ sacred	神聖な	anc
 internship	インターンシップ	anc
 homework	宿題|家庭でする仕事	anc
 lambda	(第11ギリシア文字)ラムダ|Λ|λ	anc
-badge	バッジ|記章|袖章|BADGE (base air defense ground environment)半自動防空警戒管制組織	anc
+badge	バッジ|記章|袖章	original
 decoration	装飾	anc
 booth	屋台店|模擬店|小さく仕切った部屋|電話ボックス|ボックス席	original
 heather	ヒース属の植物	anc
 retention	保持(率)|保有|滞留|うっ滞(性)	anc
-barrel	容器|樽(1barrel=約117|3リットル) 2|銃身|胴体の意	anc
+barrel	容器|樽(1barrel=約117.3リットル)|銃身|胴体	original
 workstation	ワークステーション	anc
 undefined	あいまいな|未定義の	anc
 unemployment	失業	anc
@@ -4096,7 +4095,7 @@ mba	経営学修士	wnjpn
 physiology	生理学|生理|生理機能|生理現象	anc
 triangle	三角定規|三角形|三人組み	anc
 participant	参加者|関係者|関与する	anc
-cardinal	枢機卿|深紅色の|基本的な|主要な|分数(fraction)の分子(numerator)を基数cardinal numberで|分母(denominator)を序数ordinal numberで表す	anc
+cardinal	枢機卿|深紅色の|基本的な|主要な	original
 recreational	レクリエーションの|娯楽の|気晴らしの|休養の	anc
 sacrifice	いけにえにする|犠牲になる|供え物|いけにえ･犠牲|を犠牲にする	anc
 sunshine	日向|日光	anc
@@ -4181,7 +4180,7 @@ cage	骨組み|鳥篭|監獄|ゴール|かご(にいれる)|(ボール･パッ�
 invalid	効力のない|病弱者|病人|病弱な|傷病兵|無効な	anc
 validation	検証	anc
 prototype	プロトタイプ|原型|手本|試作|模範	anc
-polo	ポロ(乗馬で球を打つスポーツ) 2|服飾メーカー名 3|(車名)	anc
+polo	ポロ(乗馬で球を打つスポーツ)|POLO(服飾メーカー名)|Polo(車名)	original
 pest	厄介な人･物|害毒|有害な小動物･虫|悪疫|ペスト	anc
 witch	魔女|醜い女|に魔法をかける	anc
 buzz	がやがや言う|ざわめき|音|ブンブン|ハチの音|ブザーで呼ぶ	anc
@@ -4196,7 +4195,7 @@ nonprofit	非営利的な	anc
 circular	円形の|円の|丸い|巡回の|ちらし|回状|循環する	anc
 therapist	療法士	anc
 undergo	経験する|(試験･手術などを)受ける|(災難などを)被る	anc
-martial	好戦的な|軍の|戦争の|軍人らしい|(martial art|格闘技)	anc
+martial	好戦的な|軍の|戦争の|軍人らしい	original
 unity	統一	anc
 payroll	給料支払表|従業員数|給料支払い名簿	anc
 climb	登る|昇る|上る	anc
@@ -4207,7 +4206,7 @@ decorative	飾りになる|装飾の|装飾的な	anc
 genome	ゲノム|生殖細胞に含まれる染色体または遺伝子全体|ある生物の持つ全ての核酸上の遺伝情報	anc
 belly	腹|食欲|胃|腹部|ふくらます	anc
 bounce	はねる|弾む|活気	anc
-lap	座った時の腰からひざ頭まで|子供等のせる場所|(knee は足のひざまたは膝関節)|(猫|犬などが)なめること|さざ波の音|(競技)走路の一周	anc
+lap	座った時の腰からひざ頭まで|子供等のせる場所|(猫	original
 vii	七|セブン|七つ|７	wnjpn
 wax	ろう|ろう状物質|ワックス|レコード|耳あか|激怒|大きくなる|かんしゃく|満ちる	anc
 nudist	ヌーディスト|裸体主義(者)|ヌーディストの|裸体主義の	anc
@@ -4245,7 +4244,7 @@ freight	貨物運送|空路運送|船荷|普通便|運賃|船賃	anc
 reasonably	合理的に	anc
 harmony	ハーモニー|調和|一致|平和|和声	anc
 cattle	ウシ|牛	anc
-flush	ほおがぱっと赤らむ|(空が)ばら色になる|(flush the toilet|トイレに水を流す)|メモリをクリアする|a flush deck平らな甲板|(ポーカー)フラッシュ(同一組の 5 枚揃いの手)	anc
+flush	ほおがぱっと赤らむ|(空が)ばら色になる|メモリをクリアする	original
 stir	混乱|かき回すこと|かき混ぜる|を動かすをかき回す|を奮起させる|動く	anc
 monetary	貨幣の|金銭上の|金融の	anc
 nu	(第13ギリシア文字)ニュー|Ν|ν	anc
@@ -4270,9 +4269,9 @@ norm	基準労働量|標準	anc
 fairy	妖精|(俗)ホモ	anc
 actively	活発に	anc
 ciao	(伊)チャオ|さようなら|おはよう|こんにちは	anc
-chem	(略語)chemistry|chemical|chemist	anc
+chem	(略語)chemistry	original
 taxpayer	納税者	anc
-wound	傷つける|心の傷|wind(巻く|吹く)の過去･過去分詞	anc
+wound	傷つける|心の傷|wind(巻く	original
 unlikely	ありそうもない|しそうもない|見込みのない	anc
 ballot	投票用紙|(無記名)投票(する)	anc
 terrace	段地	anc
@@ -4303,7 +4302,7 @@ thereby	それによって|その結果	anc
 fade	衰えさせる|さめる	anc
 particle	微少量|粒子|微粒子|微量|不変化詞(前置詞･接続詞･接頭(接尾)辞など)	anc
 strive	努力する|戦う	anc
-harbour	港(英式綴)|harbor(米式綴)	anc
+harbour	港|(US英)harbor	original
 renaissance	ルネッサンス|文芸復興	anc
 donna	イタリアの貴婦人	anc
 breach	絶交|(法律などの)違反|裂け目|破棄|侵害|中断|突破口|(俗)不履行	anc
@@ -4320,7 +4319,7 @@ chess	チェス	anc
 curtain	幕で覆う|カーテン	anc
 token	しるし|印|徴候|証拠|記念品|土産|表象|記念の品|(形容詞的に)形だけの	anc
 dolphin	イルカ	anc
-amino	アミノ基|-NH2基(the radical -NH2)を持つ|アンモニアから生じた窒素の有機化合物群	anc
+amino	アミノ基の	original
 alignment	照準|配列|アラインメント|一直線|配置|整列	anc
 vest	ベスト|男子用のチョッキ|婦人･子供用下着|男子用肌着|与える	anc
 validate	有効にする	anc
@@ -4353,7 +4352,7 @@ publicly	公に|公然と	anc
 hourly	1時間ごとの|たびたびの	anc
 patriot	愛国者	anc
 linen	亜麻布|亜麻糸	anc
-ala	悲しいかな|ALA(American Library Assoc|米国図書館協会)|(鳥･コウモリ･昆虫の)翼	anc
+ala	悲しいかな|(鳥･コウモリ･昆虫の)翼	original
 veterinary	獣医の|獣医	anc
 dancer	踊る人	anc
 adviser	助言者|忠告者|顧問	anc
@@ -4361,7 +4360,7 @@ informal	正式でない|非公式の|略式の|変則の	anc
 relevance	(当面の問題との)関連(性)|適切さ|妥当性	anc
 incentive	刺激的な|鼓舞する|激励|動機|奨励金|刺激|動機づけ	anc
 heavily	重く|重そうに|激しく|濃密に|ひどく|重々しく|密に|のっそり|猛烈|物物しい	anc
-gallon	ガロン(約3|8リットル)	anc
+gallon	ガロン(約3.8リットル)	original
 crush	押しつぶすこと|粉砕	anc
 porcelain	磁器製の|磁器|磁器製品	anc
 rid	を自由にする|免れさせる|を取り除く|を駆逐する	anc
@@ -4429,7 +4428,7 @@ sonic	音響の	anc
 marble	おはじき|大理石|大理石の彫刻|知恵	anc
 confusion	混乱|混同|当惑	anc
 nervous	いらいらする|神経質な|臆病な|神経の	anc
-vault	金庫|貴重品保管室|丸天井|地下室|貯蔵所|(pole vault|棒高跳び|vault|跳馬)	anc
+vault	金庫|貴重品保管室|丸天井|地下室|貯蔵所	original
 col	コル|鞍部|気圧の谷|鞍形等圧線	anc
 transcription	写すこと|複写|転写|コピー	anc
 regulate	を規定する|を制限する|を調整する|を調節する	anc
@@ -4447,9 +4446,9 @@ lamb	子羊|柔和な人	anc
 freak	奇形|変種|気まぐれ|～気違い(～が大好きな人)|奇人|変人	anc
 counselor	カウンセラー|相談役|弁護士	anc
 inappropriate	不適当な	anc
-levy	課税(する)|(強制的に)課する|impose|差し押さえる|seize	anc
+levy	課税(する)|(強制的に)課する(=impose)|差し押さえる(=seize)	original
 ugly	醜い|(道徳的に)悪い|(天候)荒模様の	anc
-hydrogen	水素|元素記号H|(Hydrogen bomb|水素爆弾)	anc
+hydrogen	水素	original
 vocational	職業(上)の|職業教育の	anc
 deed	行為|行い	anc
 nasty	むかつくような|いかがわしい|汚い|ひどく不潔な|いやな|わいせつな	anc
@@ -4460,7 +4459,7 @@ remark	と述べる|言う|意見|言葉	anc
 transsexual	性転換者|両性具有の人･動物	anc
 fin	(魚の)ひれ	anc
 resist	に抵抗する|に耐える|を追い払う	anc
-asthma	喘息(ぜんそく|アズマ)	anc
+asthma	喘息	original
 frost	つや消しにする|霜で履う|寒気|厳寒|凍結|冷淡|冷酷|霜	anc
 developmental	開発の|開発的な|発生の|発達上の|発展的な	anc
 bound	縛られた|～する義務がある|はずむ|躍動する|境界|限度|範囲	anc
@@ -4489,7 +4488,7 @@ thong	革の細ひも|ひも	anc
 spike	大くぎ|(塀の)忍び返し|(競技用の靴の)スパイク|(植物)穂	anc
 overhead	オーバーヘッド|頭上の|頭上で|頭上にある	anc
 vertex	最高点|頂上|山頂|頭頂	anc
-eco	エコ|ecology(生態学|環境問題対策)|economyの略|架空の人物名|エコ(西アフリカで計画されている通貨)	anc
+eco	エコ|economyの略|架空の人物名|エコ(通貨)	original
 glow	燃えるような色|輝く|ほてり|ここちよい満足|熱情|光を放つ	anc
 earl	伯爵	anc
 mistress	女主人|主婦|女教師|女性の大家|情婦	anc
@@ -4532,7 +4531,7 @@ civilization	文明|文化|教化	anc
 oops	うわっ! しまった!	anc
 deficiency	不足|欠乏|欠陥|lack|insufficiency	anc
 stomach	食欲|胃|腹|好み|～したいという気持ち	anc
-trio	トリオ|三重奏(曲|団)|三人組み|三重唄(曲|団)	anc
+trio	トリオ|三重奏(曲	original
 statue	像|彫像|塑像	anc
 fireplace	暖炉	anc
 behavioral	行動の	anc
@@ -4615,7 +4614,7 @@ chronicle	年代記|記録|年次報告|歳史|書き止める	anc
 crest	ネジ山の頂|とさか|頂点|絶頂	anc
 flux	絶え間ない変化|不安定|流れ|流量|溶剤	anc
 ladder	はしご|地位|(パンストの)伝線(run)	anc
-sq	平方(square)の略|平方ミリメートルの略(mm²|電線の断面積など)	anc
+sq	平方(square)の略	original
 sync	同調	anc
 arctic	北極(地方)|Arctic北極の	original
 ambassador	大使|使節	anc
@@ -4631,17 +4630,17 @@ appreciation	感謝|高い評価|正しい認識|鑑賞	anc
 oval	楕円|卵形の|長円形の	anc
 aggressive	積極的な|攻撃的な|迫力たっぷりの	anc
 leverage	てこの作用|借入金で投資する|利用する|utilize	anc
-swear	(swore|sworn)誓って言う|誓う|断言する|Cf|swear words(卑語|罰当りな言葉)|swearwordsも	anc
+swear	swore(過去形)	original
 caption	に見出しをつける|(記事などの)表題|(ページなどの)見出し|字幕|説明文|キャプション	anc
 vent	(気体･液体用の)穴|通気孔|抜け口|出口|はけ口を与える|水面に顔を出す	anc
 bud	つぼみ|芽	anc
 chorus	コーラス	anc
-dominant	優勢な(反|recessive)|主要な|有力な	anc
+dominant	優勢な(反義語recessive)|主要な|有力な	original
 headline	見出し	anc
 pastor	牧師	anc
 lightweight	ライト級|標準体重以下の人(物)|(競技)ライト級の選手|(口)つまらない人	anc
 pharmacology	薬理学|薬物学|薬学	anc
-boulevard	大通り|並木道(仏|Boulevard)	anc
+boulevard	大通り|並木道(仏語Boulevard)	original
 gravity	重大さ|厳粛さ|危険|重力|重量|比重 (Universal Gravity万有引力)	anc
 consistently	首尾一貫して	anc
 powerpoint	パワーポイント(プレゼン用ソフト)	anc
@@ -4697,7 +4696,7 @@ orbit	軌道|行路|眼窩|眼球孔|の周りを回る|軌道を周回する	an
 barn	納屋|物置|倉庫	anc
 skate	(アイス)スケートをする|(アイス)スケート靴|(魚)ガンギエイ	anc
 beneficial	ためになる|有益な	anc
-stain	(コーヒー|ジュース|血などによる)しみ|汚れ|汚点	anc
+stain	しみ|汚れ|汚点	original
 boutique	ブティック	anc
 necessity	不可欠な存在|必需品|必要|日用品|必要性|貧乏	anc
 robust	丈夫な|健全な|頑丈な|体力のいる|粗野な|強い	anc
@@ -4785,7 +4784,7 @@ render	(人にあることを)する|にならしめる|与える|払う(give)|�
 warn	に警告する	anc
 landlord	家主|地主	anc
 incomplete	不完全な	anc
-rand	ランド(南アフリカの通貨単位|複数形rand)	anc
+rand	ランド(南アフリカの通貨単位	original
 chubby	まるまる太った|丸ぽちゃの	anc
 prohibit	禁止する|を禁じる|を制止する|を妨げる|予防する	anc
 epic	叙事詩の|英雄的な|叙事詩(のような)|大作|超大作	anc
@@ -4888,7 +4887,7 @@ gothic	黒字|ゴシック建築|野蛮|古めかしい	wnjpn
 cue	手掛り|合図	anc
 satin	サテン(なめらかで光沢のある絹織物)|しゅす(織)	anc
 sailor	船員|水夫	anc
-acre	エーカー(面積の単位|4840 平方ヤード|約4047 平方メートル)|略a|(複数形で)土地|地所|broad acres(広い土地)	anc
+acre	エーカー(面積の単位:約4047㎡)|(複数形で)土地|地所	original
 adapt	を適応させる|慣れさせる|適応する|を改変する	anc
 aqua	水	anc
 pavilion	大型テント|展示館|パビリオン|観覧席|別棟	anc
@@ -4935,7 +4934,7 @@ metadata	非常に大量のデータ	anc
 makeup	組み立て|構造|性質|化粧	anc
 somerset	にとんぼ返りをさせる|投げてひっくり返す	anc
 thoroughly	すっかり|完全に|全く|徹底的に	anc
-canoe	カヌー|(canoeing|カヌー競技)	anc
+canoe	カヌー	original
 intimate	親密な|懇意の|(婉曲語)性的関係のある	anc
 qualification	資格|免許|能力|制限	anc
 namely	すなわち	anc
@@ -4981,7 +4980,7 @@ cumulative	累積の|累積|次第に増加する	anc
 crane	ツル|鶴|クレーン	anc
 arbitrary	独断的な|任意の|気まぐれの|恣意的な|不定の	anc
 prominent	目立った|重要な|著名な|突出した|浮き彫りの	anc
-titanium	チタン(titaniumタイタニウム)|元素記号Ti|地球の地殻の成分として9番目に多い元素	anc
+titanium	チタン	original
 cio		wnjpn
 caravan	キャラバン|隊商|幌馬車|移住民の車馬隊|キャンピングカー(和製英語)	anc
 dumb	口のきけない|おしの|唖然とした|黙っている	anc
@@ -4998,23 +4997,23 @@ resin	(rézn)|(樹脂|脂|松脂|松ヤニ|(=rosin)	anc
 primer	点火装置|活字|雷管|入門書|手引書	anc
 cascade	滝|滝のように落ちる|カスケード|波状レース飾り|(菊の)懸崖づくり|(電気)縦つなぎ	anc
 casa	(スペイン語)カーサ|家	anc
-ramp	ランプ(高速道路出入口)|建物の連絡用傾斜路|(旅客機用)移動タラップ(boarding ramp	anc
+ramp	ランプ(高速道路出入口)|建物の連絡用傾斜路	original
 sediment	沈澱物|沈殿物|堆積物	anc
-explicitly	明示的|(反|implicitly)	anc
+explicitly	明示的(反義語implicitly)	original
 petite	(女性が)小柄な|小柄でこぎれいな|小柄で均整のとれた	anc
 idle	遊んでいる|怠ける|怠惰な|仕事のない|何もしない|暇な	anc
 triumph	大勝利|勝利|大成功|功績|大業績|勝ち誇り|勝利をおさめる|成功する	anc
 relieve	を救う|を和らげる	anc
 informative	知識(情報)を与える|有益な	anc
 nil	ゼロ	anc
-scuba	スキューバ|水中自動呼吸機器|(スキューバ･ダイビングscuba diving)	anc
+scuba	スキューバ|水中自動呼吸機器	original
 shepherd	シェパード(犬種)|羊飼い|牧師|の番をする|を指導する	anc
 utilization	利用	anc
 induction	就任式|帰納法|誘発	anc
 estimation	見積|評価|判断	anc
 dosage	投薬|調剤|1回分の投薬(服用)量|適量|添加香味料|用量決定	anc
 courage	勇気	anc
-yeast	酵母|イースト菌|真核で単細胞性の微生物|運動性や光合成能力はなく|栄養は外部の有機物を分解吸収する|酵素を作る|出芽または分裂によって増える	anc
+yeast	酵母|イースト菌	original
 batman	(映画)バットマン	anc
 chromosome	染色体	anc
 fleece	からだまし取る|巻き上げる|(一匹分の)羊毛	anc
@@ -5052,7 +5051,7 @@ feather	羽	anc
 precisely	精密に|正確に|几帳面に	anc
 appoint	を任命する	anc
 emperor	天皇|皇帝	anc
-acne	にきび|座瘡(ざそう|にきびpimpleなどの皮膚病)|「ACNE」(アクネ)|スウェーデン発のファッションブランド	anc
+acne	にきび|座瘡	original
 ballet	バレエ(団･曲)	anc
 drift	漂流する|押し流す|ドリフト|趣旨	anc
 widespread	行き渡った|広げた|広範囲に及ぶ|広く行きわたった|いっぱいに広げた(翼)|広まった	anc
