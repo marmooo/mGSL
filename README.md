@@ -3,7 +3,7 @@ marmooo's General Service List (English).
 mGSL provides a huge list with less noise and accurate statistics.
 
 ## Demo
-- [E3](https://marmooo.github.io/e3/) (mGSL based English vocabulary training app)
+- [Vocabee](https://marmooo.github.io/vocabee/) (mGSL based English vocabulary training app)
 
 ## Installation
 - ```npm install```
