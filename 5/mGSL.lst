@@ -716,7 +716,7 @@ determine	決定する|決心する	anc
 matter	問題|事柄|重要である	anc
 manage	管理する|経営する|うまく取り扱う|何とかやり遂げる	anc
 true	本当の|真実の|当てはまる	original
-far	遠くに|はるかに|ドレミのファ	original
+far	遠くに|はるかに|ドレミのファ(Doe,Ray,Me,*,Sew,La,Tea)	original
 fish	魚	anc
 cable	有線テレビ|ケーブル	anc
 else	その他に	anc
@@ -1120,7 +1120,7 @@ min	分	anc
 roll	回転する|走る|過ぎ去る|よろめく|押し進める|朗々という|巻く|ロールパン(和製英語)	anc
 traffic	交通|交通の	anc
 mission	使命|使節|伝道|特別任務|派遣する|派遣団|特命	anc
-bin	(ふた付の)大箱|(石炭	original
+bin	(ふた付の)大箱|(石炭, 穀物の)置き場	original
 tel	電話番号	anc
 sponsor	スポンサー|後援する|保証人|引受人|名付親|番組提供者|広告主	anc
 task	に負担をかける|仕事|に仕事を課する|職務|事業	anc
@@ -1147,7 +1147,7 @@ thus	このように|こんな風に|だから|従って	anc
 especially	特に	anc
 theory	理論|理屈|学説|意見|仮定|持論	anc
 situation	状態|場所|位置|立場|情勢	anc
-amazon	アマゾン川|(ギリシア神話)アマゾン(勇猛な女戦士)|女丈夫|アマゾン(社名)	original
+amazon	アマゾン川|(ギリシア神話)アマゾン(勇猛な女戦士)|女丈夫	original
 operation	操作|手術|活動|軍事行動	anc
 upgrade	上り坂|(質を)よくする|グレードアップ(和製英語)	anc
 produce	を作る|を生み出す	anc
@@ -1502,7 +1502,7 @@ dynamic	動力の|動的な|力学の|動的	anc
 actual	事実上の|現在の|現実の	anc
 spot	スポット|地点|しみ|吹き出物|見つける|見抜く|しみがつく	anc
 configuration	形状|配列|認識|(天文)星座|(IT)機器構成	anc
-foot	足|フィート(1フィートは約305cm	original
+foot	足|フィート(1フィートは約305cm, 12inches)	original
 rich	豊かな|お金持ちの	anc
 patient	がまん強い|忍耐強い|辛抱強い|根気よく働く|患者	anc
 lodge	泊まる|を預ける|提起する|を提供する|ゆだねる|観光地の旅館|山小屋|(弾が)入って止まる|(矢が)付き刺さる	anc
@@ -1619,7 +1619,7 @@ ft	(単位)フィート|footの複数形	anc
 eastern	東の	anc
 regard	みなす|思う	anc
 desire	を要求する|を欲する|求める|と頼む|願望|欲求|要望	anc
-ray	放射線|光線|光明|ひらめき|熱線|半径|(魚)エイ|ドレミのレ	original
+ray	放射線|光線|光明|ひらめき|熱線|半径|(魚)エイ|ドレミのレ(Doe,*,Me,Far,Sew,La,Tea)	original
 administrative	行政上の|経営上の	anc
 serious	まじめな|真剣な|生真面目な|厳粛な|本気の|重大な|深刻な	anc
 labor	詳しく論じる|労働(者)|仕事|働く|労務|労働する|骨折る|(乗物などが)骨折って進む	anc
@@ -1743,7 +1743,7 @@ patent	専売特許の|特許(権)|特許の|の特許権をとる	anc
 crystal	水晶の|結晶	anc
 marriage	結婚(生活)|結婚式|(密接な)結合	anc
 warm	暖かい|温かい|思いやりのある	anc
-examine	調査する|検査する|試験する|(=look into	original
+examine	調査する|検査する|試験する|(=look into, go over)	original
 spread	を広げる|広がる|広がり|広めること|スプレッド	anc
 applicable	適用できる	anc
 reduction	減少|削減|割引 2|還元(酸化oxidation)	anc
@@ -1931,7 +1931,7 @@ extend	を広げる|延長する|広がる|伸びる	anc
 static	静止した|空電|静的な	anc
 proof	証明|証拠|試験|論証|に耐える|検査済みの|保証付きの|校正刷り	anc
 factory	工場|代理店	anc
-tea	茶|ドレミのシ	original
+tea	茶|ドレミのシ(Doe,Ray,Me,Far,Sew,La,*)	original
 accuracy	精密さ|正確|精度	anc
 shower	に水を注ぐ|にわか雨|夕立	anc
 specify	明白に記す|記入する|を明細に述べる|を指定する|を明細書に記入する	anc
@@ -2339,7 +2339,7 @@ gray	青ざめた|灰色|青白さ|灰色の|白髪の|灰色の服	anc
 formal	公式の|形の|正式の|形式的な	anc
 classification	分類	anc
 craft	クラフト|航空機|技術|手技	anc
-journey	(通常陸上の	original
+journey	(通常陸上の, 比較的長い)旅行|(人生などの)行路|遍歴	original
 dragon	竜	original
 potter	陶工|焼き物師|陶芸家	anc
 relation	関係	anc
@@ -2453,7 +2453,7 @@ cloud	雲	anc
 arrival	到着	anc
 tiger	トラ|乱暴者|強敵|狂暴な(残酷な)人|歓呼|喝采	anc
 finding	発見|結論|(裁判官|陪審)認定|決定|裁定|結果|事実認定|付属品類	anc
-bb		wnjpn
+bb	a small pellet fired from an air rifle or BB gun	wneng
 registry	記載|登録|登録事項|登録所	anc
 enemy	かたき|敵|敵国	anc
 temporary	一時的な|はかない|仮の|当座の|臨時の	anc
@@ -2787,7 +2787,7 @@ ongoing	継続中の|(現在)進行中の|現行の|発達中の	anc
 publish	出版する|を発表する	anc
 ill	病気で|悪く|不親切に|不幸な|悪|不運	anc
 reliability	信頼|頼もしさ|信頼性|信憑性|確度|確実	anc
-devil	悪魔(=devil	original
+devil	悪魔(=daemon, Satan, fiend)	original
 dangerous	危険な	anc
 citation	引用	anc
 mad	怒った	booqs
@@ -3417,7 +3417,7 @@ thesis	論文|主張|議題|論題|題目|卒業論文|命題	anc
 entrepreneur	起業家|企業家|事業主|興行主|請負人|仲介者	anc
 documentary	ドキュメンタリー|文書の|ドキュメンタリー映画|事実を記録した|記録もの	anc
 knit	編んだ|組む|編む	original
-proxy	代理(権	original
+proxy	代理(権, 人)|委任状|代用となるもの	original
 verification	検証|査察	anc
 corps	軍団|部隊|兵団	anc
 aside	側に|別に	original
@@ -3482,7 +3482,7 @@ attractive	魅力的な	anc
 aggregate	集まった|骨材|集合|集める|統合する|総計～となる	anc
 electron	電子|宇宙を構成するレプトンに分類される素粒子|記号はe−で表される	anc
 recording	レコーディング|収録|録音|記録する|自動記録仕掛の	anc
-bee	ハチ|ミツバチ|働き者|(仕事	original
+bee	ハチ|ミツバチ|働き者|(仕事, 娯楽の)会合|集まり	original
 victim	犠牲|犠牲者|いけにえ|詐欺にかかった人|被災者	anc
 semiconductor	半導体	anc
 careful	注意深い	anc
@@ -3512,7 +3512,7 @@ alphabetical	アルファベットの	anc
 camel	ラクダ|駱駝	anc
 rally	再び集める|元気づける|回復(する)|反騰(する)|大会|集会	anc
 bride	花嫁|新婦	anc
-tear	涙|引き裂く|tore(過去形)	original
+tear	涙|引き裂く|tore(過去形), torn(過去分詞)	original
 tracker	獲物を追う猟師|警察犬|追跡者|砲撃目標追跡装置|引き船|船引き人	anc
 complexity	複雑さ	anc
 fare	料金|運賃|旅をする|暮らす|ごちそう	anc
@@ -3925,7 +3925,7 @@ dare	あえて～する|に立ち向かう|挑戦|あえてすること	anc
 glen	谷間|(G-)グレン(人名)	anc
 yo	やあ	anc
 swim	泳ぐ	anc
-lotus	ロータス|蓮|ハス(の実)|(ギリシア神話)ロートス(その実を食べれば浮き世の苦しみを忘れるという伝説の木)	original
+lotus	ロータス|蓮|ハス(の実)|ロートス(伝説の木)	original
 biotechnology	生命工学|生物工学|バイオテクノロジー|人間工学|ergonomics	anc
 brunette	(女)ブルネットの	anc
 daddy	お父さん	anc
@@ -3955,7 +3955,7 @@ emission	排出|放出|排気|放射|発射	anc
 spec	思惑|投機|演芸|仕様明細書	anc
 fountain	泉	anc
 realty	不動産	anc
-apparent	明らかな(叙述用法:apparent to	original
+apparent	明らかな(叙述用法:apparent to, apparent thatなど)|外見上の(限定用法:be apparent)	original
 instructional	教育の	anc
 outreach	奉仕活動	anc
 traveling	移動	wnjpn
@@ -3981,7 +3981,7 @@ relocation	(米語)(第二次大戦中の日系人)強制収容|再配置|移転
 settle	を置く|を落ち着かせる|を清算する|定住する|据える	anc
 leak	を漏らす|情報漏れ|漏電	anc
 timely	適時の|時期を得た|折りの良い|折りよく	anc
-explicit	率直な|明白な|あからさまな(反義語implicit)	original
+explicit	率直な|明白な|あからさまな|(反義語)implicit	original
 cuisine	料理|料理法|料理場|厨房	anc
 radius	飛行半径|半径|輻射線|区域|範囲	anc
 sept	7の意味(Septemberは9月に転じた)	anc
@@ -4206,7 +4206,7 @@ decorative	飾りになる|装飾の|装飾的な	anc
 genome	ゲノム|生殖細胞に含まれる染色体または遺伝子全体|ある生物の持つ全ての核酸上の遺伝情報	anc
 belly	腹|食欲|胃|腹部|ふくらます	anc
 bounce	はねる|弾む|活気	anc
-lap	座った時の腰からひざ頭まで|子供等のせる場所|(猫	original
+lap	座った時の腰からひざ頭まで|子供等のせる場所|(猫, 犬などが)なめること|さざ波の音|(競技)走路の一周	original
 vii	七|セブン|七つ|７	wnjpn
 wax	ろう|ろう状物質|ワックス|レコード|耳あか|激怒|大きくなる|かんしゃく|満ちる	anc
 nudist	ヌーディスト|裸体主義(者)|ヌーディストの|裸体主義の	anc
@@ -4269,9 +4269,9 @@ norm	基準労働量|標準	anc
 fairy	妖精|(俗)ホモ	anc
 actively	活発に	anc
 ciao	(伊)チャオ|さようなら|おはよう|こんにちは	anc
-chem	(略語)chemistry	original
+chem	(略語)chemistry, chemical, chemist	original
 taxpayer	納税者	anc
-wound	傷つける|心の傷|wind(巻く	original
+wound	傷つける|心の傷|wind(巻く, 吹く)の過去･過去分詞	original
 unlikely	ありそうもない|しそうもない|見込みのない	anc
 ballot	投票用紙|(無記名)投票(する)	anc
 terrace	段地	anc
@@ -4330,7 +4330,7 @@ approximate	おおよその|接近する|隣接の|近似の|近付く|近似値
 hypothesis	前提|仮説|仮定|憶測	anc
 miracle	奇跡|奇跡的な出来事	anc
 hobby	道楽|趣味|ホビー	anc
-patio	(米語)パティオ(テラス	original
+patio	(米語)パティオ(テラス,中庭)	original
 consortium	協会|組合|コンソーシアム	anc
 colony	植民地|移民	anc
 cognitive	認識の	anc
@@ -4419,7 +4419,7 @@ bizarre	変な|奇妙な|odd|風変りな|異様な	anc
 thriller	ぞっとさせる物|スリラー物|スリルを与えるもの|スリラーもの	anc
 colonial	植民地の	anc
 lip	に唇をあてる|を穴のふちにあてる|唇を使う|をつぶやく|唇の|口先だけの|生意気な言葉|唇	original
-doe	(シカ・カモシカ・ヤギ・ウサギなどの)雌	ejdict
+doe	鹿,ウサギ,羊等の雌(反義語buck)|ドレミのミ(*,Ray,Me,Far,Sew,La,Tea)	original
 tuner	調律師	anc
 gorgeous	華麗な|豪華な|見事な	anc
 realm	範囲|領域|部門|王国|国土	anc
@@ -4531,7 +4531,7 @@ civilization	文明|文化|教化	anc
 oops	うわっ! しまった!	anc
 deficiency	不足|欠乏|欠陥|lack|insufficiency	anc
 stomach	食欲|胃|腹|好み|～したいという気持ち	anc
-trio	トリオ|三重奏(曲	original
+trio	トリオ|三重奏(曲, 団)|三人組み|三重唄(曲, 団)	original
 statue	像|彫像|塑像	anc
 fireplace	暖炉	anc
 behavioral	行動の	anc
@@ -4558,7 +4558,7 @@ officially	公式に|職務上	anc
 battlefield	戦場	anc
 mighty	大きい|非常に|力強い|強力な|巨大な|並外れた|膨大な|重大な|多量の	anc
 cheerleader	チアリーダー	anc
-alto	女性の低音部歌手	original
+alto	アルト(女性の低音部歌手)	original
 ought	～すべきである	anc
 carb	炭水化物(carbohydrateの略)	anc
 delicious	おいしい	anc
@@ -4630,7 +4630,7 @@ appreciation	感謝|高い評価|正しい認識|鑑賞	anc
 oval	楕円|卵形の|長円形の	anc
 aggressive	積極的な|攻撃的な|迫力たっぷりの	anc
 leverage	てこの作用|借入金で投資する|利用する|utilize	anc
-swear	swore(過去形)	original
+swear	swore(過去形), sworn(過去分詞)|誓って言う|誓う|断言する	original
 caption	に見出しをつける|(記事などの)表題|(ページなどの)見出し|字幕|説明文|キャプション	anc
 vent	(気体･液体用の)穴|通気孔|抜け口|出口|はけ口を与える|水面に顔を出す	anc
 bud	つぼみ|芽	anc
@@ -4784,7 +4784,7 @@ render	(人にあることを)する|にならしめる|与える|払う(give)|�
 warn	に警告する	anc
 landlord	家主|地主	anc
 incomplete	不完全な	anc
-rand	ランド(南アフリカの通貨単位	original
+rand	ランド(南アフリカの通貨単位, 複数形rand)	original
 chubby	まるまる太った|丸ぽちゃの	anc
 prohibit	禁止する|を禁じる|を制止する|を妨げる|予防する	anc
 epic	叙事詩の|英雄的な|叙事詩(のような)|大作|超大作	anc
@@ -4893,7 +4893,7 @@ aqua	水	anc
 pavilion	大型テント|展示館|パビリオン|観覧席|別棟	anc
 accord	調和(する)|協定|合意(する)|一致|与える|agreement	anc
 bunny	(俗)プレイガール|うさぎちゃん	anc
-suv		wnjpn
+suv	a high-performance four-wheel drive car built on a truck chassis	wneng
 tilt	傾ける|斜めにする|に突撃する|構える|突き出す|傾き|斜面|討論|攻撃|馬上やり試合|やりで突く	anc
 roughly	おおよそ	anc
 sticker	ステッカー|広告ビラ|固執者|刺し手	anc
@@ -4981,7 +4981,7 @@ crane	ツル|鶴|クレーン	anc
 arbitrary	独断的な|任意の|気まぐれの|恣意的な|不定の	anc
 prominent	目立った|重要な|著名な|突出した|浮き彫りの	anc
 titanium	チタン	original
-cio		wnjpn
+cio	a federation of North American industrial unions that merged with the American Federation of Labor in 1955	wneng
 caravan	キャラバン|隊商|幌馬車|移住民の車馬隊|キャンピングカー(和製英語)	anc
 dumb	口のきけない|おしの|唖然とした|黙っている	anc
 superintendent	監督(指揮)する|監督者|最高責任者|監督･指揮する	anc
@@ -4999,7 +4999,7 @@ cascade	滝|滝のように落ちる|カスケード|波状レース飾り|(菊�
 casa	(スペイン語)カーサ|家	anc
 ramp	ランプ(高速道路出入口)|建物の連絡用傾斜路	original
 sediment	沈澱物|沈殿物|堆積物	anc
-explicitly	明示的(反義語implicitly)	original
+explicitly	明示的|(反義語)implicitly	original
 petite	(女性が)小柄な|小柄でこぎれいな|小柄で均整のとれた	anc
 idle	遊んでいる|怠ける|怠惰な|仕事のない|何もしない|暇な	anc
 triumph	大勝利|勝利|大成功|功績|大業績|勝ち誇り|勝利をおさめる|成功する	anc
@@ -5072,7 +5072,7 @@ delegate	(仕事を)人に任せる|代理を立てる|委任する|代理人|�
 abide	がまんする|とどまる|待つ|従う|住む|規則を守る	anc
 gasoline	(米語)ガソリン	anc
 mud	泥|つまらぬもの	anc
-heath	ヒース(ツツジ科のエリカなど|英国の荒地に生える背の低い植物の総称)|(ヒースのおい茂った)荒れ野	anc
+heath	ヒース(植物)|(ヒースのおい茂った)荒れ野	original
 penetration	侵入|進出|広告効果|貫通|浸透|洞察力	anc
 ppm	百万分の1単位|parts per millionの頭文字|百万分率	anc
 mailbox	郵便ポスト	anc
@@ -5098,7 +5098,7 @@ jenny	紡績機|移動式起重機|ロバの雌	anc
 criterion	(pl|criteria)|規準|基準|(判断･批評の)標準|特徴	anc
 walnut	クルミ|クルミ材	anc
 pale	色を失った|青ざめる|青白い|(色に関して)薄い|迫力がない|薄くなる|見劣りする	anc
-cursor	位置表示機構(目盛り線を正確に読みとるように目盛りの上に重ねてすべらせる)|線を引いたガラス板|カーソル	anc
+cursor	位置表示機構|線を引いたガラス板|カーソル	original
 tremendous	ものすごい|途方もない|途方もなく大きい|ばかでかい	anc
 convertible	変えられる|転換可能な	anc
 continuity	連続性	anc
@@ -5154,13 +5154,13 @@ conscious	自覚している|気付いている|慎重な|意識のある	anc
 substrate	基板|(生化学)基質(酵素の作用で化学反応を起こす物質)	anc
 nitrogen	窒素|元素記号N	anc
 saddle	課す|サドル|負わせる|鞍|に鞍をつける	anc
-referee	(特に決定･解決を)委託された人|調停者|(ゲーム･スポーツなどの)審判|レフェリー	anc
+referee	(特に決定･解決を)委託された人|調停者|審判|レフェリー	original
 ambient	周囲の|ぐるりを取り巻く	anc
 predator	食肉動物|略奪者|捕食者	anc
 auburn	赤褐色(の)	anc
 navigator	ナビゲーター|航海長|操縦者|海洋探検家	anc
-willow	ヤナギ|柳|やなぎば色(柳の葉の色に似たややくすんだ淡い黄みどり色)	anc
-widget	規格品|小型装置|部品|ウインドウズを構成する部品(ダイアログボックス|ボタンなど)	anc
+willow	ヤナギ|柳|やなぎば色	original
+widget	規格品|小型装置|部品	original
 differently	異なって|異なるように	anc
 fatty	脂肪質の|油っこい|脂肪性の|脂肪の|デブ	anc
 assay	含有量(率)を示す|試金(含有量の検査)する|評価する|検定する	anc
@@ -5170,20 +5170,20 @@ override	覆す|無効にする	anc
 operative	働く|活動する|(法律が)効力のある|(薬が)ききめのある|有効な|職人|スパイ	anc
 retrieval	取り返し|挽回|回復|修正|検索	anc
 sally	出撃する|突撃|小旅行|打って出る|反撃する	anc
-scary	おどろきやすい|恐ろしい|驚きやすい|臆病な|(scaly|うろこ状|は別語)	anc
+scary	おどろきやすい|恐ろしい|驚きやすい|臆病な	original
 tendency	傾向|癖	anc
 terrain	(自然地理･軍事上から見た)地域|地勢|地形	anc
 charitable	慈悲深い	anc
-remainder	(rɪméɪndə)|(算数)余り|残余|残留者|残り物|遺跡|継承権	anc
+remainder	(算数)余り|残余|残留者|残り物|遺跡|継承権	original
 opening	開いている|開始|始め|広場|穴|空き|開始の|すきま|開き	anc
-pork	豚肉|(米連邦･州政府が政治的意図で地方の自治体に与える)援助金|職務|利権	anc
+pork	豚肉|(US俗語)援助金|職務|利権	original
 peel	皮|をはがす|むける|はがれる|皮をむく|オレンジなどの皮	anc
 researcher	研究者	anc
 transplant	移植|移住|移住者|移植された植物|を移植する|移住させる|移住する	anc
 nominee	任命された人	anc
 safeguard	予防手段|防護手段(対策)|緊急輸入制限	anc
 prejudice	先入観|害|偏見|先入主|偏愛|ひがみ|損害|被害|迷惑	anc
-granny	おばあちゃん|(=nan|nana|nanny|granny|grandma|granma|gran)	anc
+granny	おばあちゃん(=nan, nana, nanny, granny, grandma, granma, gran)	original
 sperm	精子	anc
 violin	バイオリン|バイオリン奏者	anc
 emerge	現れる|台頭する	anc
@@ -5201,7 +5201,7 @@ alot	たくさん	anc
 jade	ヒスイ|痩せ馬|疲れ果てさせる	anc
 redhead	赤毛の人|大学1年生	anc
 subset	部分集合	anc
-corpus	(kˈɔɚpəs) (pl|corpora) 文章の収集|集成|死体	anc
+corpus	文章の収集|集成|死体	original
 daisy	(植物)ヒナギク|すばらしい物(人)|ホモ	anc
 herb	草本|草|香料(薬用)植物|(俗)マリファナ	anc
 dependence	依存|従属	anc
@@ -5228,7 +5228,7 @@ interfere	利害が衝突する|相容れない|妨害する|邪魔する|仲裁
 advancement	傷心|進歩|促進	anc
 vineyard	ぶどう園|(特に高度の精神的な)仕事場	anc
 confront	に立ち向かう|直面させる|直面する|立ち向かう	anc
-marry	結婚する|(名前のメアリーはMary)	anc
+marry	結婚する	original
 sewer	下水道|下水管	anc
 bark	howl遠ぼえする|whineクンクンなく|yelp|yapキャンキャン吠える|growl怒って唸る|snarl歯をむき出して唸る)|樹皮	anc
 hotspot	ホットスポット	anc
@@ -5257,8 +5257,8 @@ manually	手動で	anc
 diaper	おむつ|ひし形模様(のある布)	anc
 antigen	抗原	anc
 lance	切開する|槍	anc
-blah	不快な|憂鬱な|blah-blah-blahどうでもいいことを省略する時の表現|Bla bla blaと同じ	anc
-peso	(pesos)ペソ(フィリピン･中南米諸国の通貨単位)	anc
+blah	不快な|憂鬱な|つまらない(こと)|blah-blah-blah などなど, かくかくしかじか|Blah! ちぇ!, くだらない!	original
+peso	ペソ(通貨, 複数形pesos)	original
 vine	つる|ぶどうの木|つる植物|つる草	anc
 casualty	死傷者|戦争犠牲者|被害者	anc
 appellant	上訴人|控訴人	ejdict
@@ -5305,7 +5305,7 @@ shortage	数量の不足|不足|欠点	anc
 stool	丸椅子|腰掛け|足のせ台|2便器|大便(=excrement)	anc
 elimination	削除|除去|予選|排除|排泄|淘汰|消去	anc
 toss	を投げる|寝返りをうつ|を激しく動揺させる	anc
-jumper	跳躍する人|跳躍選手|跳びはねる虫(ノミ他)|障害馬|(ブラウスなどの上に着る)プルオーバー|ジャンパー(作業用上着)|(日本語のジャンパーはwindbreaker|jacket)	anc
+jumper	跳躍する人|跳躍選手|跳びはねる虫(ノミ他)|障害馬|(ブラウスなどの上に着る)プルオーバー|作業用上着 (日本語のジャンパーはwindbreaker, jacket)	original
 marijuana	マリファナ	anc
 adaptive	適用可能な	anc
 wheelchair	車いす	anc
@@ -5332,10 +5332,10 @@ umbrella	傘|雨傘	anc
 pony	ポニー|小型の馬	anc
 brutal	けものの|残忍な|野蛮な|無茶な	anc
 velvet	ベルベット製の|ビロード|ベルベット|ビロード状のもの|丸もうけ	anc
-zinc	亜鉛(元素記号Zn)|亜鉛でメッキをする|人体の必須ミネラル16種の一つ|銅との合金は黄銅(真鍮)として用いられる|亜鉛めっき鋼板(トタン)は防錆力が強い	anc
+zinc	亜鉛|亜鉛でメッキをする	original
 removable	移動できる	anc
 anthropology	人類学|人間学|文化人類学	anc
-kinda	いくぶん|ちょっと|(類似語|sorta)	anc
+kinda	いくぶん|ちょっと|(類似語sorta)	original
 funky	悪臭のする|かびくさい|(ジャズ)ファンキーな	anc
 lotion	ローション|外用水薬|化粧水	anc
 suburban	偏狭な|郊外の	anc
@@ -5344,14 +5344,14 @@ clutch	を掴む|にしがみつく|把握|クラッチ|ピンチ	anc
 booster	昇圧器	anc
 widow	未亡人|余分の手札|未亡人になる	anc
 proudly	高慢に|威張って|堂々と|立派に	anc
-pix	pic写真|絵(＝picture)の複数形	anc
-obesity	(oʊbíːsəṭi)(医)肥満|肥満体	anc
+pix	写真|絵|(pic=picture)の複数形	original
+obesity	(医)肥満|肥満体	original
 closet	密談させる|戸棚|人に知られていない|隠れた	anc
 fracture	骨折する|骨折|破砕する|割れ|砕け|破砕(する)|破る	anc
 enroll	登録する|名簿に記載する|会員にする|enrol	anc
 hike	ハイキングをする|引き上げる|値上げする|increase|raise	anc
 cleanup	掃除|一掃|浄化運動|(俗)大もうけ|4番打者(の)	anc
-hepatitis	(ヘパタイティス)肝炎	anc
+hepatitis	肝炎	original
 maiden	少女|未婚の|初めての|処女	anc
 nationally	全国的に	anc
 tomato	トマト|女|娘	anc
@@ -5359,7 +5359,7 @@ peptide	ペプチド|決まった順番で様々なアミノ酸がつながっ�
 heal	なおす|治す|いやす|救う|いえる|治る|治癒する	anc
 imply	を(暗に)意味する|ほのめかす	anc
 unwrap	包装を解く	anc
-sic	原文のまま(疑わしいまたは誤った原文をそのまま引用するときにつける)	ejdict
+sic	(疑わしいまたは誤った文章を) 原文のまま引用	original
 trauma	精神的外傷|精神的ショック|(日常生活に支障を生じるような)深い心の傷	anc
 surrender	降伏(する)|を放棄する|引き渡し|明渡し(する)|自首	anc
 impairment	(価値･美点･健康を)減じる|害する|そこなう|傷つける	anc
@@ -5373,7 +5373,7 @@ painful	痛い|骨の折れる|苦しい|切ない	anc
 examiner	試験官	anc
 nowhere	どこにも～ない|どこにもない場所	anc
 residual	残余の|剰余の|残りの	anc
-lime	わなをかける|石灰|石灰をまく|ライム果|シナノキ|鳥もち|(lime果物のライム|lymeライム病|rhyme押韻)	anc
+lime	わなをかける|石灰|石灰をまく|ライム果|シナノキ|鳥もち	original
 distress	苦しめる|苦痛|苦悩|困窮|遭難	anc
 lately	近ごろ|最近	anc
 hypothetical	仮定上の|仮定の|仮想の|仮説の	anc
@@ -5403,7 +5403,7 @@ contamination	堕落させるもの|汚すこと|よごれ|汚染|悪影響|汚�
 reimbursement	＜reimburse|弁償	anc
 concord	調和|一致|協定|(国家間の)意見の一致	anc
 pretend	ふりをする|make believe	anc
-hl	a metric unit of volume or capacity equal to 100 liters	wneng
+hl	100リットル(=hectoliters)	original
 unnecessary	不必要な|余計な|無益な|無用な	anc
 dramatically	劇的に	anc
 scrub	ごしごし洗う(こと)|ごしごし磨く(こと)|つまらぬ人|低木の雑木林	anc
@@ -5435,7 +5435,7 @@ hatch	(ひなを)かえす|昇降口|孵化する|ハッチ|床窓	anc
 dissertation	論文|学位論文|学術論文	anc
 gently	育ちがよく|穏やかに|徐々に	anc
 spoon	スプーン	anc
-wan	青ざめた|病弱な|かすかな|WAN(Wide Area Network|ワイドエリアネットワーク)	anc
+wan	青ざめた|病弱な|かすかな	original
 intern	拘禁|抑留する|教育実習生|インターン	anc
 controversial	議論好きの|議論の|論争上の	anc
 erotica	エロティカ|性愛の文学作品	anc
@@ -5446,7 +5446,7 @@ voyage	航海|船旅|飛行|航海記|航海する|(海を)渡る	anc
 notable	注目に値する|著しい|著名な|名士|著名な事物	anc
 petitioner	原告|請願者	anc
 sedan	セダン|セダン型自動車	anc
-checker	照合係|(携帯品)一時預かり|レジ係|格子縞(にする)|色とりどりにする|(チェス盤の意から)チェッカー(ゲーム|西洋飛び碁)に使う平たい丸い駒	anc
+checker	照合係|(携帯品)一時預かり|レジ係|格子縞(にする)|色とりどりにする|チェッカー(ボードゲーム)	original
 defensive	防御の	anc
 accelerate	の速度を速める|加速する|速める|促進する|増進する	anc
 pear	西洋ナシ|西洋梨	anc
@@ -5474,7 +5474,7 @@ conditional	条件付きの|条件的な|(文法)条件文|条件語句(節･�
 arbor	高木|軸|あずまや	anc
 simulator	シミュレータ	anc
 bacon	『ベーコン』	ejdict
-buffet	打撃|(風波･運命の)翻弄|打つ|食器棚|ビュッフェ･立食　(人名 は別綴|cf|Warren Buffett)	anc
+buffet	打撃|(風波･運命の)翻弄|打つ|食器棚|ビュッフェ･立食	original
 hometown	故郷の町|現在住んでいる町	anc
 kw	キロワット	wnjpn
 exhibitor	出品人|奨学資金寄贈者	anc
@@ -5501,12 +5501,12 @@ encompass	取り囲む|含む|包含する	anc
 breeze	そよそよ吹く|微風|そよ風|動揺	anc
 conductor	添乗員|(バス･電車などの)車掌|導線|伝導体|揮者	anc
 renovation	修復	anc
-dia	直径(diameter|cf|radius半径)|DIA|(Defense Intelligence Agency米国国防情報局)	anc
+dia	直径(diameter) cf. 半径(radius)	original
 seq	Sequenceの短縮形|配列　他	anc
 relaxation	気晴らし|くつろぎ|息抜き|ゆるみ|弛緩|緩和	anc
 psychiatry	精神病学|精神医学|精神科	anc
 playback	録音(録画)再生(装置)	anc
-err	(éɚ)誤る(＜error)	anc
+err	誤る(=error)	original
 persistent	固執する|しつこい|持続する|永続的な|不屈の|頑固な|永続性の|不変の	anc
 terrier	テリヤ(犬種)	anc
 absorption	吸収|吸着|吸着量	anc
@@ -5524,7 +5524,7 @@ prozac	プロザック|抗うつ剤(商品名)	anc
 inhibit	することを禁ずる|を抑制する|妨げる	anc
 reign	支配する|主権を握る|在位期間|治世|御代|支配|統治|君臨	anc
 solicitor	懇願者|事務弁護士|勧誘員|個別訪問の販売員	anc
-neon	ネオン(希ガス元素)|元素記号Ne	anc
+neon	ネオン(元素記号Ne)	original
 glucose	ぶどう糖	anc
 squeeze	締めつける|を絞る|圧迫する|強制する|規制|圧搾	anc
 competence	能力|権限	anc
@@ -5594,7 +5594,7 @@ certify	証明する	anc
 creature	動物|生物|生き物	anc
 ours	わたしたちのもの	anc
 lone	ひとりぼっちの|連れのない|孤独な|寂しい|人里離れた|独身の	anc
-aluminium	アルミニウム|元素記号Al|化合物のかたちで分布し|ケイ素や酸素とともに地殻を形成する主な元素|熱|電気伝導性を持ち|酸化されやすいが表面にできたコランダムの膜で保護される	anc
+aluminium	アルミニウム	original
 webcast	インターネット放送	anc
 evanescence	(物・気持ちなどが)次第に消えていくこと	ejdict
 cheer	声援|を励ます	anc
@@ -5631,7 +5631,7 @@ accession	追加|就任|増加|到達|即位|相続|取得	anc
 pier	防波提|桟橋|橋脚|窓間壁	anc
 cert	確実なこと|現実に起こること|必ず起きること|本命|本命馬	anc
 sufficiently	十分に	anc
-iris	(pl|irides|irises) (眼球の)虹彩(こうさい)|アヤメ|アイリス	anc
+iris	(眼球の)虹彩(こうさい)|アヤメ|アイリス	original
 racer	競走者|レーサー|競走用自転車|競走馬	anc
 altitude	高度|高さ	anc
 conceptual	概念上の	anc
@@ -5684,7 +5684,7 @@ kinetic	(物理学)動的な	anc
 unused	使用されない|使わない|使ったことがない|新しい|不慣れの	anc
 dart	投げ矢|突進する|すばやく動く|飛んで行く|(衣服)ダーツ(ヒダ)をつける	anc
 alcoholic	アルコール中毒|アルコールの	anc
-daemon	悪鬼|鬼|悪魔(=demon|devil|daemon|Satan|fiend)	anc
+daemon	悪鬼|鬼|悪魔|(=demon, devil, Satan, fiend)	original
 bestselling	最もよく売れている	ejdict
 aesthetic	(芸術の)美の|美学の|審美的な|趣味のよい|芸術的な	anc
 garnet	ガーネット|ザクロ石(1月の誕生石)|暗紅色	anc
@@ -5696,7 +5696,7 @@ boil	煮えくり返る|沸騰する|ゆでる|沸く|煮沸する	anc
 forthcoming	近くにやってくる|すぐ手に入る|積極的な|近刊予定の	anc
 oversee	を監視する|を監督する|watch over	anc
 postgraduate	大学院生	anc
-vitro	in vitro(ラテン語)|試験管内で(=生体外で)|(in vitro fertilization体外受精･試験管内受精|略IVF)|反意語in vivo(in the body)	anc
+vitro	in vitro 試験管内で(=生体外で)|in vivo (in the body) 生体内で	original
 consolidate	強固にする|合併整理する|合併する|統一する	anc
 complementary	補完的な	anc
 executable	可能|実行可能	wnjpn
@@ -5728,7 +5728,7 @@ quartz	クオーツ|石英	anc
 pirate	海賊|略奪者|を略奪する|著作権を侵害する	anc
 kindergarten	幼稚園	anc
 humour	humorのUK式綴	anc
-nay	《古》いな|いや(no)|《文》そればかりでなく|それどころか|拒絶|否定|反対投票;反対投票者	ejdict
+nay	《古語》否,いや(no)|《文語》そればかりでなく,それどころか|拒絶|否定|反対投票(者)	original
 reactor	(陽性)反応を示す人|反応者|反応器|反応炉|原子炉	anc
 rave	夢中になって話す|たわごとを言う|どなる|わめく|怒号する	anc
 jaw	あご	anc
@@ -5760,11 +5760,11 @@ inadequate	不適当な|不十分な|無力な	anc
 toxicity	毒性	anc
 socialist	社会主義者|社会主義(者)の	anc
 considerably	かなり	anc
-mol	モル(mole|記号mol)は国際単位系(SI)における物質量の単位|名前はmolecule(分子の意)に由来	anc
+mol	モル(物質量の単位)	original
 cough	咳をする|せき|咳	anc
 ambulance	救急車	anc
 rotten	腐った|不愉快な	anc
-lemma	言語学で|形態は異なるが同じ語と考えられ語の集合を語彙素(Lexeme)|語彙素を代表する基本形をLemma(見出し語)と呼ぶ|例|go-goes-went-gone-goingのgo)	anc
+lemma	(言語学で)語彙素(lexeme)を代表する基本形	original
 popup	(野球の)ポップフライ	ejdict
 habit	習慣|癖	anc
 bulb	真空管|電球|球根	anc
@@ -5838,7 +5838,7 @@ lighthouse	灯台|燈台	anc
 mediation	調停|和解	anc
 alphabetically	アルファベット順に|ABC順に	anc
 allocate	配分する	anc
-delphi	an ancient Greek city on the slopes of Mount Parnassus; site of the oracle of Delphi|an ancient Greek city on the slopes of Mount Parnassus|site of the oracle of Delphi	wneng
+delphi	神託地|デルファイ(古代ギリシャのアポロンの神話地)	original
 orchard	果樹園	anc
 chandler	雑貨商人	anc
 followup	フォローアップ	anc
@@ -5877,7 +5877,7 @@ spinal	とげの|背骨の	anc
 scar	傷跡になる|そこなう|傷跡|心の傷跡	anc
 telegraph	電信|電信機|電報|電報で～を知らせる|電報を打つ	anc
 itinerary	旅行日程表|道程|旅行記|旅日記|旅行案内	anc
-hail	歓迎する|を認める|(タクシーなどを)呼び止める|ひょう(雹|主に5mm以上の氷粒)|あられ(霰|5mm未満の氷粒)	anc
+hail	歓迎する|を認める|(タクシーなどを)呼び止める|ひょう,あられ	original
 plush	フラシ天|豪華な	anc
 solvent	溶媒|溶解力のある|解決方法|支払能力がある	anc
 insult	侮辱する|侮辱	anc
@@ -5895,7 +5895,7 @@ newsroom	ニュース編集室|報道室	anc
 brewer	醸造者	anc
 supermarket	スーパーマーケット	anc
 continuation	延長|継続|連続	anc
-cola	〈C〉コーラの木(熱帯産の木)|〈U〉コーラの木の実からつくった炭酸飲料(Coca-Cola|Pepsi Colaなど)	ejdict
+cola	〈C〉コーラの木(熱帯産の木)|〈U〉コーラの木の実からつくった炭酸飲料(Coca-Cola, Pepsi Colaなど)	original
 blunt	鈍い|無遠慮な|無愛想な|鈍くする	anc
 successor	後継者|後任者	anc
 chili	アメリカ産トウガラシ	anc
@@ -5910,9 +5910,8 @@ rex	国王|王	anc
 infinity	無限領域	anc
 torch	たいまつ|光|カンテラ	anc
 traditionally	伝統的に|古来	anc
-webb	English writer and a central member of the Fabian Society (1858-1943)|English sociologist and economist and a central member of the Fabian Society (1859-1947)	wneng
 soy	大豆|しょうゆ	anc
-kc	kilocycle[s]	ejdict
+kc	1000サイクル(=kilocycle[s])	original
 solicitation	懇願|請願|勧誘|誘惑	anc
 cane	ステッキ|籐杖	anc
 hen	メンドリ|雌鶏|(鳥･魚の)雌|女	anc
@@ -5936,7 +5935,7 @@ hurry	急ぐ|を急がせる|急ぎ	anc
 papa	パパ|おとうさん	anc
 grief	悲嘆|(深い)悲しみ|嘆きの種	anc
 objectionable	反対すべき	anc
-xt		wnjpn
+xt	the presence of an unwanted signal via an accidental coupling	wneng
 simplicity	単純|平易|質素|純真	anc
 shrimp	小エビ|ちび|とるに足らない物	anc
 hyperlink	ハイパーリンク	anc
@@ -5946,10 +5945,9 @@ gradient	こう配|変化度|勾配	anc
 dolby	ドルビー	wnjpn
 dew	露|しずく|みずみずしさ	anc
 condominium	分譲アパート|共同管理|マンション	anc
-blossom	(特に果実の)花が咲く|開花する|発展する|(The apricot blossom is fine this year|今年はアンズの花がきれいだ)	anc
+blossom	(特に果実の)花が咲く|開花する|発展する	original
 reinforce	部隊を強化する|を補強する|を強める|強化する	anc
-duplex	重複の|二連の|(マンションが)部屋の中で上下2 階の(複式の)|a duplex apartment	anc
-ukrainian	the Slavic language spoken in the Ukraine|of or relating to or characteristic of Ukraine or its people or culture	wneng
+duplex	重複の|二連の	original
 plea	嘆願|陳述|弁解|抗弁	anc
 drake	雄のカモ(male duck)|カゲロウ(mayfly)|カゲロウ型毛針|人名	anc
 concurrent	同時の|同時に起こる|同意見の|に伴う|兼務の|共同に作用する|協力の(cooperating)	anc
@@ -6013,25 +6011,25 @@ breakthrough	突破口|現状打開|躍進|成功|大発見	anc
 presenter	司会者|申告者|推薦者|贈呈者	anc
 ruler	主権者|支配者|君主	anc
 beck	手招き	anc
-tome	大きな本|大作|学術書 (usually large and scholarly book)	anc
+tome	大きな本|大作|学術書	original
 taxable	課税	anc
 malaria	マラリア|(湿地から出る)毒気	anc
 loyal	忠誠な|忠義な|忠実な|忠臣	anc
 dentistry	歯科学|歯科医術(業)	anc
 bomber	爆撃機	anc
-baton	バトン|警棒|(Baton Twirlingバトントワリング)	anc
+baton	バトン|警棒	original
 renal	腎臓|腎臓(部)の	anc
 esteem	尊重(する)|重んじる|尊ぶ	anc
 sampler	見本集|選書|取り合わせたもの	anc
 spite	にもかかわらず|悪意|恨み	anc
-capita	per capita|一人当たり(の)|頭割りで|(=by heads)|annual per capita consumption of beer 一人当たりの年間ビール消費量	anc
+capita	per capita 一人当たり(の)|頭割りで(=by heads)	original
 shutter	シャッター|閉じる人(物)|よろい戸(を閉める)|雨戸	anc
 guideline	指針	anc
 unite	結合する|結合させる|を一つにする|連合させる|一体となる|合体する	anc
 accelerator	(車の)アクセル	anc
 superstore	スーパーストア	anc
 wholly	全体的に|完全に|全く	anc
-vivo	(ラテン語)生体内|(in vivo(生体内で)|in vitro(生体外で)の用語として|生命科学やIT用語で多用される)	anc
+vivo	in vitro 試験管内で(=生体外で)|in vivo (in the body) 生体内で	original
 elbow	肘|ひじで押す|ひじ	anc
 duct	導管	anc
 accumulation	集積|蓄積	anc
@@ -6051,7 +6049,7 @@ pogo	(音楽に合せ)飛び上がって踊る	anc
 riot	暴動に加わる|放蕩する|ふける|暴動|反乱|一揆|多種多様	anc
 prevalence	普及|流行|(医)有病性|率	anc
 subunit	サブユニット	anc
-pentagon	五角形|五辺形|《the P-》ペンタゴン(Arlingtonにある米国国防総省の五角形の巨大な建物)	ejdict
+pentagon	五角形|五辺形|ペンタゴン(米国国防総省の建物)	original
 honestly	いやはや|正直に|誠実に|正当に|正直に打ち明けて|まとも|実直|真面目	anc
 salsa	サルサ(ダンスの名)	anc
 upstream	上流の|上流へ|流れにさからって	anc
@@ -6063,11 +6061,11 @@ pagan	異教徒(の)|異端者|多神教者|不信者の|無宗教者	anc
 bookshop	書店	anc
 duff	落葉枝|ごまかす|だます	anc
 empower	権限を与える	anc
-reboot	cause to load (an operating system) and start the initial processes; "boot your computer"|cause to load (an operating system) and start the initial processes	wneng
+reboot	再起動	original
 rejection	拒絶|拒否	anc
 erect	直立した|強ばった|勃起した|組み立てる	anc
 biochemistry	生化学|生理化学|生物化学	anc
-equatorial	赤道の(付近の)|赤道儀|(光害のある都市から離れ美しい星の写真を撮影するために設計された架台)	anc
+equatorial	赤道の(付近の)|赤道儀	original
 clarification	明確化	anc
 critic	批評家|評論家	anc
 deg	度|=degree	anc
@@ -6090,7 +6088,7 @@ closeout	見切りバーゲンセール|蔵払い	anc
 subway	地下道|地下鉄	anc
 neighbourhood	近所の人々	anc
 amusement	楽しみ|娯楽	anc
-biomedical	生物医学|医療従事者が|薬物|放射線|外科手術を用いて症状や疾患を治療するシステム|conventional medicine(伝統医学)他とも呼ばれる	anc
+biomedical	生物医学|医療従事者が|薬物|放射線	original
 motif	主題|モチーフ|基調|動機|飾り	anc
 colonel	連隊長|大佐|部長	anc
 conquer	奪取する|克服する|征服する|打ち勝つ|獲得する	anc
@@ -6101,7 +6099,7 @@ opener	開幕試合|缶切り|栓抜き	anc
 willie	ペニス|ちんちん|男根	anc
 brokerage	証券会社|周旋業|仲買手数料	anc
 nih	アメリカ国立衛生研究所	wnjpn
-hoc	アドホック(ad hoc)は|「特定目的」などのラテン語|adは「～について」|hocは「これ」	anc
+hoc	これ|adhoc 特定の問題(hoc) について(ad)	original
 wherein	どこに	anc
 elastic	融通のきく|伸縮自在の|flexible|快活な	anc
 hex	16進法|まじない|ジンクス|呪い|魔女|魔力|16進法の|魔法を行う|に不幸をもたらす|魔法をかける|魅する	anc
@@ -6112,7 +6110,7 @@ rag	みすぼらしい人|ぼろ|紙片|新聞|紙幣|叱る	anc
 domination	支配	anc
 mock	偽の|からかい|嘲り|嘲る|真似てからかう|馬鹿にする|無視する|まねる	anc
 lego	レゴ	wnjpn
-weakness	弱さ|弱点|衰弱|不十分|(精神的な)弱さ→好きでたまらないもの|大好物	anc
+weakness	弱さ|弱点|衰弱|不十分	original
 observatory	天文台|気象台|展望台	anc
 puppet	あやつり人形|傀儡|手先	anc
 humble	つつましやかな|身分の低い|謙虚な|卑しい|地位が低い|質素な	anc
@@ -6136,7 +6134,6 @@ molecule	分子|微量|微分子	anc
 wreck	難破|難破船|破損|廃人|破壊する|難破させる	anc
 woody	木質の	anc
 sore	痛い	anc
-mcgraw	United States baseball player and manager (1873-1934)	wneng
 vapor	蒸気|蒸発気(湯気|水蒸気など)|空想|妄想|蒸発する|水蒸気|気相|気体	anc
 blaze	輝く|炎|火炎|灼熱|火災	anc
 islander	島の住民|島民|島国民	anc
@@ -6144,13 +6141,13 @@ abbey	修道院|僧院	anc
 barbecue	バーベキュー	anc
 sincerely	誠実に|心から	anc
 surveyor	鑑定人|検査者|測量師	anc
-supra	(ｷﾞﾘｼｱ語)スープラ|越えて|上に|トヨタ自動車の車名の一つ	anc
+supra	越えて|上に	original
 dent	へこみ|へこませる	anc
 proximity	近接|近似	anc
 homemade	自家製の	anc
-cdc		wnjpn
+cdc	a federal agency in the Department of Health and Human Services; located in Atlanta; investigates and diagnoses and tries to control or prevent diseases (especially new and unusual diseases)|a federal agency in the Department of Health and Human Services|located in Atlanta|investigates and diagnoses and tries to control or prevent diseases (especially new and unusual diseases)	wneng
 swell	膨らむ|を膨らませる|隆起(する)|増大(する)|(口)すてきな	anc
-strait	(通常-sで)難局|困難|海峡	anc
+strait	(複数形で)難局|困難|海峡	original
 refuge	避難する|避難|保護|避難所|隠れ家	anc
 residency	専門医学実習生の身分(期間)|居住	anc
 topical	話題の|論題の|題目の|原則的な|時事問題の|局部的な	anc
@@ -6160,7 +6157,7 @@ whistle	笛|警笛|口笛を吹く|口笛|汽笛|ヒューと音をたてる|を
 schoolgirl	女生徒|女子生徒	anc
 admire	に感服する|を賞賛する|尊敬する	anc
 responsive	すぐ反応する|敏感な	anc
-molly	Molly|(mάli|mˈɔli)|モリー(女性名Maryの愛称)|人気がある観賞魚(グッピーの異表記)	anc
+molly	モリー(女性名Maryの愛称)|人気がある観賞魚(グッピーの異表記)	original
 limb	の手足(翼)を断つ|手足|大枝|縁|節	anc
 mitigation	緩和	anc
 keynote	基調|基本方針	anc
@@ -6176,12 +6173,12 @@ soak	を浸す|ずぶ濡れ(になる)|(浴びるように)酒を飲む	anc
 chop	打撃|ぶった切り|を切る|たたき切る|を切り刻む	anc
 timeout	タイム[アウト](試合の一時中止);休憩	ejdict
 hoover	電気掃除機(をかける)|英国Hoover社の電気掃除機	anc
-muse	熟考する|物思いにふける|瞑想|(M-|ギリシャ神話)|ミューズ|(詩歌･音楽･舞踊･芸術･学問をつかさどる九女神の一人でZeusの娘)|ミューズの神々|詩神|詩才	anc
-rechargeable	capable of being recharged; "a rechargeable battery"|capable of being recharged	wneng
+muse	熟考する|物思いにふける|瞑想|(古代ギリシャの)詩神|詩才	original
+rechargeable	充電できる	original
 culinary	台所の|料理の	anc
 huh	ふん(質問･驚き･軽蔑)|はあ	anc
 flap	ぴしっとたたく|ひらひらする|はためく|羽ばたく|はためかせる|平手うち|興奮状態|騒動	anc
-scarface	カポネ	wnjpn
+scarface	傷や痘痕のある顔	original
 accountant	会計係|会計士	anc
 boiler	ボイラー	anc
 ale	エール酒|ビール|エール(ビールの一種)	anc
@@ -6209,7 +6206,6 @@ stein	スタイン(陶器製のビール用ジョッキ)|ジョッキ1杯の量	
 motive	動機|目的|主題|原動力となる	anc
 cruel	悲惨な|残酷な	anc
 prom	(口)(特に高校･大学などで公式に行う)ダンスパーティー	anc
-albanian	a native or inhabitant of Albania|the Indo-European language spoken by the people of Albania|of or relating to Albania or its people or language or culture	wneng
 stimulation	刺激|興奮|激励|鼓舞	anc
 issuer	発行者	anc
 hath	haveの直説法現在第三人称単数形	anc
@@ -6230,14 +6226,13 @@ sup	(スープ･流動食)少しずつ口に入れる|夕食を供する	anc
 chin	あご|あご先	anc
 freestyle	(競技)自由型|フリースタイル(の)	anc
 migrant	移住者|移住性の	anc
-lipitor	an oral drug (trade name Lipitor) that is effective in lowering triglycerides; potent in reducing LDL cholesterol because higher doses can be given|an oral drug (trade name Lipitor) that is effective in lowering triglycerides|potent in reducing LDL cholesterol because higher doses can be given	wneng
 remodeling	改造	anc
 intuitive	直観の|直感的な|直観力のある	anc
 rigid	厳格な|かたくなな	anc
 soda	ソーダ(水)	anc
 awake	目覚めさせる|悟らせる|起きる|気づく|起こす	anc
 regiment	連隊|組織化する|厳しく統制する	anc
-nucleotide	ヌクレオチド|塩基+糖+リン酸の構造をもつ化合物|エネルギー代謝の役割を果す|語源はnucleo(核の)tide(結ばれた)|核酸は多数重合したポリヌクレオチドである	anc
+nucleotide	ヌクレオチド(化合物)	original
 orthodox	正統派の|ユダヤ教正統派の|伝統的な|正統の|ギリシア正教の	anc
 disposable	使い捨てにできる|使い捨ての|自由に使える	anc
 holistic	総称的な	anc
@@ -6249,7 +6244,7 @@ fest	(にぎやかな)会合|祭り	anc
 bamboo	竹|(家具や杖などに使う)竹材|竹の	anc
 refugee	亡命者|難民	anc
 cosmic	秩序整然とした|宇宙の	anc
-chunk	(チーズ･パン･肉片･木材などの)大きいかたまり|厚切|大量|たくさん|厚切り|大きな塊	anc
+chunk	厚切|大量|たくさん|厚切り|大きな塊	original
 headache	頭痛がする|頭痛|悩みの種	anc
 marital	夫婦の|夫の|結婚の	anc
 bait	餌をつける|誘惑する|悩ます|餌|誘惑	anc
@@ -6259,7 +6254,7 @@ lumber	木材|不要品|厄介な人･物|を(がらくたで)一杯にする|�
 notwithstanding	〜にも関わらず	original
 feasible	実現可能な|可能な|適した|便利な	anc
 credibility	真実性|信頼性|信ぴょう性|信用できること	anc
-notch	切り目(をつける)|刻み目|山峡|V字形の刻み目|山あい|段|級|(目印のために)刻み目をいれる cf|knot(結び目|結ぶ)	anc
+notch	切り目(をつける)|刻み目|山峡|V字形の刻み目|山あい|段|級	original
 thrust	を突き刺す	anc
 tease	にねだる|じらす|悩ます|いじめる	anc
 defective	不良の	anc
@@ -6317,7 +6312,7 @@ presley	エルビスプレスリー|プレスリー	wnjpn
 dignity	尊厳|威厳|高位|爵位	anc
 insane	気が違った|狂気の	anc
 weaver	織り手|織工|織布業者|(鳥)ウソ|ミズスマシ|(人名･姓)ウィーバー	anc
-proton	プロトン|陽子|(水素の原子核は1個の陽子のみで構成される|電子が離れてイオン化した水素イオンは陽子そのものであり|水素イオンをプロトンと呼ぶ)	anc
+proton	陽子	original
 overtime	時間外の|超過勤務時間|時間外|残業手当|OT	anc
 transitional	移り変わりの	anc
 changer	オートチェンジャー	wnjpn
@@ -6345,7 +6340,7 @@ durability	耐久力	anc
 hitler	総統|アドルフ・ヒットラー|ヒットラー	wnjpn
 ay	はい|aye|yes	anc
 coaster	沿岸貿易船|滑降そり|(遊園地の)(グラス受けの)コースター	anc
-gran	おばあちゃん|(=nan|nana|nanny|granny|grandma|granma|gran)	anc
+gran	おばあちゃん(=nan, nana, nanny, granny, grandma, granma)	original
 apprentice	年季奉公人|見習生|徒弟|実習生	anc
 flare	ゆらゆら燃える|かっと怒り出す|ゆらめき|パッと燃え上がる	anc
 furnace	厳しい試練|炉|かまど|暖炉|溶鉱炉|猛烈に熱い所	anc
@@ -6368,7 +6363,6 @@ oblique	斜行進する|間接の|斜めの|遠まわしの	anc
 wardrobe	衣装だな|持ち衣装|洋服タンス|衣服|衣装管理係	anc
 endowment	寄付金|基金|天性|才能	anc
 dilemma	ジレンマ|板ばさみ	anc
-sioux	スー族	wnjpn
 automate	自動化する	anc
 flop	失敗|ばたりと倒れる|どさりと落す	anc
 goo	(米語)(うんざりするような)感傷	anc
@@ -6393,7 +6387,7 @@ rupee	ルピー(インドなどの通貨単位)	anc
 activist	活動家|運動家	anc
 mould	鋳型|流し型|骨組み|鋳物|性質|作る|肥土|土|かび	anc
 cellar	地下室|貯蔵室|最下位	anc
-advent	出現|到来|キリスト降臨|(the advent of a new age 新時代の到来)	anc
+advent	出現|到来|キリスト降臨	original
 hum	ブンブン音をたてる|鼻唄をうたう|景気がよい|ぶんぶんいう音|buzz	anc
 mayo	mayonnaise	anc
 cellphone	携帯電話	anc
@@ -6423,7 +6417,7 @@ nonetheless	それにもかかわらず|やはり	anc
 mystic	神秘主義者|秘伝の|神秘的な|秘教の	anc
 expectation	予期|期待	anc
 severely	厳しく	anc
-loft	屋根裏|(=|attic|garret|loft)|ハト小屋|屋根裏に貯蔵する|打ち上げる	anc
+loft	屋根裏(=attic, garret)|ハト小屋|屋根裏に貯蔵する|打ち上げる	original
 wont	習慣|し慣れた	anc
 liberation	解放	anc
 masterpiece	傑作|名人芸	anc
@@ -6433,19 +6427,19 @@ ancestry	(集合的)祖先|家系|家柄	anc
 luxurious	快楽を追い求める|贅沢な|豪華な|ありあまるほどの	anc
 squid	イカ	anc
 indirectly	間接に|二次的に|暗に|間接|それとなく|当て付ける|やんわりと	anc
-ark	箱舟(Noah が乗って大洪水をのがれた)|Noah's Ark	anc
+ark	箱舟 (ノアの箱舟)	original
 variability	変動性	anc
 gardener	植木屋|外野手	anc
 litre	(=liter)|リッター|リットル	anc
 asleep	眠って	anc
 razor	かみそり	anc
-potassium	カリウム(Kalium独)|医学・薬学分野では英語のポタシウム(Potassium)が使われる|肥料|火薬など広い用途に使われ|植物の生育に欠かせない肥料3要素の一つ	anc
+potassium	カリウム(独Kalium)	original
 accidental	偶然の	anc
 abnormal	異常な	anc
 delicate	きゃしゃな|繊細な|優美な|おいしい|かすかな	anc
 whoever	だれでも|だれであっても|する人は誰でも|だれが～しようとも|いったいだれが	anc
 frustration	欲求不満	anc
-troll	トロール(北欧民話で洞穴に住む巨人･小人)　2|陽気に歌う|輪唱する|流し釣りする　cf|trawl(トロール漁法は別綴り)	anc
+troll	トロール(北欧民話で洞穴に住む巨人･小人)|陽気に歌う|輪唱する|流し釣りする	original
 bake	焼く	anc
 wrapper	カバー|包む人|包装紙|帯封|本のカバー	anc
 preventive	予防的な|予防法	anc
@@ -6461,14 +6455,12 @@ persist	固執する|やり通す|主張する|続く|残る	anc
 plague	伝染病|天災|災難|疫病神|を苦しめる|悩ます	anc
 sentinel	歩哨|を見張りに立てせる	anc
 markup	値上げ	anc
-glacier	氷河|温暖化による氷河の後退(glacial recession|glacial retreat)が問題化している	anc
+glacier	氷河	original
 tolerate	許容する|容認する|大目に見る|我慢する|寛大な|耐性のある|寛大に取り扱う	anc
 suede	スエード皮	anc
 append	添える	anc
 calculus	石|結石|計算法|微積分学	anc
 congestion	港での船混み|密集|混雑|人口密集|うっ血	anc
-gop	共和党|ＧＯＰ	wnjpn
-cbc		wnjpn
 outpatient	外来患者|(病院の)外来(科)	anc
 locus	場所|位置|遺伝子座(染色体中の遺伝子が占める位置)	anc
 ambition	功名心|大望|大きな望み	anc
@@ -6506,7 +6498,7 @@ footer	フッター(脚注)	anc
 autism	自閉症	anc
 deli	デリカテッセン|調製食料品(店)|delicatessen	anc
 meridian	子午線|絶頂|放物線|経線の|正午の|頂点の	anc
-madden	(人を)発狂させる|激怒させる|(make mad)|Madden(人名|姓)マデン	anc
+madden	(人を)発狂させる|激怒させる	original
 inability	不可能	anc
 cor	あっ!|うわっ!あら!|えっ!	anc
 coronary	冠状の|冠動脈	anc
@@ -6530,7 +6522,7 @@ chic	上品な|スタイル|上品さ|いき	anc
 grease	グリースを塗る|脱脂しない生羊毛|油脂|獣脂|グリース|潤滑油|(俗)ダイナマイト|ニトログリセリン	anc
 taxonomy	分類学	anc
 puma	ピューマ	anc
-proliferation	増殖|急増|拡散|(生物)分芽|分裂|増殖|the proliferation of nuclear weapons(核兵器拡散=diffusion)	anc
+proliferation	増殖|急増|拡散|(生物)分芽|分裂|増殖	original
 shutdown	(工場などの)一時休業(閉鎖)|操業停止	anc
 sentiment	感情|心情|心証|感傷|涙もろさ|(複数形で)意見|感想	anc
 autonomous	自治の|自治権のある	anc
@@ -6570,7 +6562,7 @@ deductible	控除できる	anc
 gaze	じっと見つめる|をじっと見つめる|注視|凝視	anc
 amplitude	振幅	anc
 rainfall	雨量|降雨	anc
-shear	を刈る|はさみを入れる|奪い取る|剥奪する|大ばさみ|(羊毛の)刈り込み|(sheaシアバターの木|は別語)	anc
+shear	を刈る|はさみを入れる|奪い取る|剥奪する|大ばさみ|(羊毛の)刈り込み	original
 straightforward	率直な|まっすぐな|まっすぐに	anc
 simultaneous	同時の|同時に起こる	anc
 evolve	展開する|発展させる|導きだす|発展する	anc
@@ -6608,7 +6600,7 @@ horoscope	星占い|ホロスコープ	anc
 invasive	侵略的な	anc
 prosperity	繁栄|繁盛|成功|幸運	anc
 lantern	ランタン|カンテラ|提灯	anc
-rodeo	(牧牛の)かり集め|ロデオ(カウボーイが荒馬を乗り回したり|投げなわで牛を捕らえたりする公開競技会)	ejdict
+rodeo	(牧牛の)かり集め|公開競技会	original
 inconsistent	矛盾した|一貫してない	anc
 seemingly	一見したところ|うわべは	anc
 epidemic	流行性の|はやりの|病気の流行|流行病|思想のはやり	anc
@@ -6653,17 +6645,17 @@ homeowner	自家所有者	anc
 vale	(おもに詩)谷|谷間|現世|苦悩の世界|浮き世	anc
 geometric	幾何学的な	anc
 subsystem	サブシステム|コンポーネントシステム|下位組織	anc
-submarine	潜水艦|海底の|(原子力潜水艦|a nuclear (powered) submarine)	anc
+submarine	潜水艦|海底の	original
 intrusion	侵入|押しつけること|侵害	anc
 greenwood	緑林	anc
 nonlinear	非線形の	anc
 batter	(野球)連打する|バッター|たたきつぶす	anc
 ghetto	スラム街	anc
-radioactive	放射能の|放射性の|(放射能汚染radioactive contamination(pollution))	anc
+radioactive	放射能の|放射性の	original
 rocker	ロックを演奏する人|ゆする人	anc
 complainant	原告|告訴人	anc
 mania	マニア|躁病|異常な熱意|熱中させるもの	anc
-kayak	カヤック|(カヤック競技|kayaking)	anc
+kayak	カヤック	original
 lam	逃走|ずらかる|叩く|やっつける|打ちすえる|脱走する|殴る	anc
 ideology	空想すること|イデオロギー|観念形態|観念学(論)|空論	anc
 misuse	誤用|悪用|誤用する|虐待する	anc
@@ -6672,7 +6664,7 @@ inference	推論	anc
 thrill	をぞくぞくさせる|ぞくぞくする|を感動させる|震え|振動|スリル	anc
 tasty	おいしい|味のいい	anc
 chalet	シャレー|シャレー風の家|バンガロー|羊飼いの山小屋	anc
-liter	リットル(1|000cc)	anc
+liter	リットル(1000cc)	original
 voyager	ボイジャー	anc
 spit	吐いた|つばを吐く|を吐く|つば(を吐く)	anc
 flashlight	懐中電灯	anc
@@ -6681,9 +6673,9 @@ carrot	ニンジン	anc
 reflective	反射による|反射する|照り返す|考え深い|内省的な|考え込む	anc
 outerwear	上着	anc
 stance	姿勢	anc
-grandma	おばあちゃん|(=nan|nana|nanny|granny|grandma|granma|gran)	anc
+grandma	おばあちゃん(=nan, nana, nanny, granny, granma, gran)	original
 switchboard	代表電話番号|配電盤|交換台	anc
-carcinoma	癌腫|上皮細胞由来の悪性腫瘍でいわゆる癌(Cancer)の大半を占める|非上皮性組織由来の悪性腫瘍は肉腫(Sarcoma)と呼ばれ|癌腫とは異なるが悪性腫瘍に含まれる	anc
+carcinoma	癌腫	original
 descriptor	記述子|デスクリプター(対象の類別・索引に用いる記号)	anc
 rugged	ごつごつした|でこぼこの|ぎざぎざの|岩だらけの|厳しい	anc
 practise	習慣|練習	anc
@@ -6710,7 +6702,7 @@ influenza	インフルエンザ	anc
 compose	を組み立てる|(曲･文)を作る	anc
 femme	(仏語)レズの女役	anc
 flick	軽く打つ(こと)|はじき飛ばす|軽くたたく|(pl|で)映画	anc
-creed	(=credoラテン語)|信条|信念|教義|(Apostles' Creed|信徒の信条)は|キリスト教のうち西方教会(カトリック教会|聖公会|プロテスタント)における基本信条のひとつ	anc
+creed	(=credoラテン語)|信条|信念|教義	original
 transporter	運送者	anc
 cavalier	騎士|無頓着な	anc
 excite	興奮させる|刺激する|エキサイト	anc
@@ -6721,10 +6713,9 @@ heavenly	すばらしい|天の	anc
 grievance	苦情(の種)|不平	anc
 electrode	電極	anc
 faucet	(水道などの)じゃ口|コック|飲み口|蛇口|水道栓	anc
-hasting	ヘイスティング|haste(急ぐ・急く)の現在分詞|Hastings(地名|ニュージーランドやイギリス)	anc
 racist	人種差別主義の|人種差別論者	anc
 willingness	快く(喜んで)すること	anc
-implicit	暗黙の|暗示的な|絶対の|絶対的な|(反|explicit)	anc
+implicit	暗黙の|暗示的な|絶対の|絶対的な|(反義語)explicit	original
 patriotic	愛国心の強い|愛国的な|半島	anc
 terrific	恐ろしい|大変な|ひどい|すごい	anc
 laguna	潟	anc
@@ -6752,11 +6743,10 @@ pooh	ばかな! フン|くまのプーさん	anc
 pesticide	農薬|殺虫剤	anc
 sophomore	2年目の人|2年生	anc
 guilt	有罪	anc
-nash	ナッシュ	wnjpn
 avid	どん欲な|貪欲な|熱心な	anc
 inflammatory	扇動的な|怒りをかきたてる|感情を刺激する|激昂させる|煽動的な	anc
 chemotherapy	化学療法	anc
-cookware	a kitchen utensil made of material that does not melt easily; used for cooking|a kitchen utensil made of material that does not melt easily|used for cooking	wneng
+cookware	料理用具:pots,pans,bowls (utensilはknife,fork)	original
 autobiography	自伝|自叙伝	anc
 tempo	テンポ|速度	anc
 scrutiny	精密な調査|精査	anc
@@ -6764,14 +6754,13 @@ regeneration	再建|復興|復活|改革|刷新|再生	anc
 lunar	月の影響による|月の|太陰暦の	anc
 environmentally	環境的に	anc
 nonsense	たわごと|無意味	anc
-ore	鉱石|原鉱|(複数形ore)|オーレ(スウェーデン･デンマークなどの通貨単位 =1/100krona (krone))	anc
+ore	鉱石|原鉱|(複数形ore)|オーレ(通貨)	original
 lattice	格子	anc
 ripper	引き裂く人|道具|縦びきのこ|人をめった切りにする狂人|バラバラ殺人犯|二連ぞり|すてきな人|素晴らしい|自派に有利な改造を許す	anc
 dispenser	調剤師|分配者	anc
 motivate	に動機を与える|動機を与える|やる気にさせる	anc
 toggle	(縄の端の輪や鎖の輪などに通す)留め金|留め棒|(洋服のボタン代りに使う)細長い棒状の飾りボタン	ejdict
 mare	雌馬|雌ロバ|(月･火星などの)海	anc
-sle		wnjpn
 ultrasound	超音波	anc
 sausage	ソーセージ|ソーセージ形のもの	anc
 och	おお	anc
@@ -6785,7 +6774,6 @@ regency	摂政の|執権職|摂政時代|摂政政治	anc
 pant	息を切らす|あえぐ|熱望する|どきどきする|をあえぎながら言う|ズボン|パンツ	anc
 tarot	タロット占い	anc
 synchronization	同期化	anc
-diazepam	ジアゼパム|抗不安薬|抗けいれん薬|催眠鎮静薬|筋弛緩作用もある|世界保健機関 (WHO) による必須医薬品|乱用される薬物でもあり|日本では処方せん医薬品	anc
 clerical	聖職者の|書記	anc
 mitigate	和らげる|緩める	anc
 kart	(競走・娯楽用)ゴーカート	ejdict
@@ -6830,7 +6818,7 @@ tapestry	つづれ織り|タペストリー	anc
 dull	苦痛を和らげる|(切れ味や頭が)鈍い|わかりの遅い|鈍感な|動作がのろい	anc
 bengal	ベンガル	wnjpn
 goodman	一家のあるじ|《Goodman》=Mr.	ejdict
-nan	インドの粘土オーブンで焼かれた発酵パン|おばあちゃん|(=nan|nana|nanny|granny|grandma|granma|gran)|子守|乳母	anc
+nan	インドの粘土オーブンで焼かれた発酵パン|おばあちゃん(=nana, nanny, granny, grandma, granma, gran)|子守|乳母	original
 manifold	種々の|多数の|多様性|複写する|(内燃機関の吸排気をする)マニホールド管(多岐管)	anc
 lac	ラック(ワニスの原料)	anc
 influential	影響力のある|有力な	anc
@@ -6842,7 +6830,7 @@ crate	わく箱に詰める|木枠|木箱	anc
 dismiss	解雇する|fire|立ち去らせる|追放する|解散する|(本来なら考慮すべきことを)忘れる	anc
 fidelity	忠実	anc
 sidewalk	歩道	anc
-beard	(通常pl|beards)|あごひげ|ふさ毛	anc
+beard	(通常複数形)あごひげ|ふさ毛	original
 thunderbird	サンダーバード|雷鳴と稲妻の精霊|巨大な鳥の形と先住アメリカ人に信じられている	anc
 emergence	出現	anc
 pigeon	ハト|鳩|若い娘|だまされやすい人|だます	anc
@@ -6854,17 +6842,17 @@ recap	recapitulate(要約する)	anc
 almond	アーモンド	anc
 diversion	気晴らし|気分転換	anc
 extensively	広く|手広く|大々的	anc
-attic	屋根裏|(=|attic|garret|loft)	anc
+attic	屋根裏(=garret, loft)	original
 syrup	シロップ	anc
-checksum	a digit representing the sum of the digits in an instance of digital data; used to check whether errors have occurred in transmission or storage|a digit representing the sum of the digits in an instance of digital data|used to check whether errors have occurred in transmission or storage	wneng
+checksum	データの信頼性を確認する検出符号	original
 gadget	小さな機械装置|機械装置|付属品|便利な機械装置	anc
 behold	見る|眺める|注意して見る	anc
-dong	ドン|ベルのように鐘を鳴らす音('ding dong'|like a bell)	anc
+dong	ベルのように鐘を鳴らす音	original
 teaspoon	茶さじ	anc
 glimpse	ちらりと見えること|一瞥(いちべつ)|ちらりと見る	anc
 jockey	騎手|操作する|だます	anc
 trivial	つまらない|平凡な|とるに足らない|些細な|普通の	anc
-deco	デコレーションdecoration|心不全(decompensated congestive heart failure)の略	anc
+deco	デコレーションdecoration	original
 sensible	(人行動など)分別のある|目的にかなった|賢明だ|顕著な|思慮のある|賢明な	anc
 unlawful	不法の|非合法的な|私生(児)の	anc
 accountable	説明のつく|責任がある	anc
@@ -6872,9 +6860,9 @@ imp	鬼の子|小鬼|イムプ|腕白小属|(古語)子ども	anc
 procedural	手続きの	anc
 delightful	喜びを与える|愉快な|楽しい	anc
 discography	ディスコグラフィー|椎間板造影(法)	anc
-lifecycle	生活環(受精卵から始まり次代の子を産むまでの生物の過程)	ejdict
+lifecycle	生活環	original
 simulate	擬態する|のふりをする|をまねる	anc
-zodiac	《the ~》黄道帯|獣帯|十二宮図(黄道帯を12等分し|一つずつ星座を配した図;占星術に用いる)	ejdict
+zodiac	《the ~》黄道帯|獣帯|十二宮図(占星術)	original
 pediatrics	小児科|小児科学	anc
 bilingual	二つの言語を話す	anc
 sushi	すし	anc
@@ -6892,7 +6880,7 @@ scholarly	学者らしい|学術的な|学問的な	anc
 chap	男|あかぎれ|ひび(あかぎれ)を作る|(手などが)荒れる|(動物の)あご|ほお	anc
 spectator	見物人|傍観者|観客|傍聴人	anc
 swimwear	水泳着|スウィムスーツ|海水着|水着|スイムスーツ	wnjpn
-circa	(sˈɚːkə)(年代･日付の前に用い)およそ(略c|ca)|He was born c|1600	anc
+circa	(年代･日付の前に用い)およそ(略c., ca.)	original
 treadmill	踏み車|単調な仕事	anc
 surrounding	周囲の|付近の	anc
 attendant	付添いの|係員|コンパニオン(和製英語)	anc
@@ -6906,14 +6894,14 @@ flea	ノミ|蚤のように跳ぶ小虫|くだらない奴|こうるさい奴	an
 readiness	素早さ|用意|準備|迅速|快諾|進んで	anc
 secular	俗人の|世俗の|非宗教的な|修道院外の|修道院外の僧侶	anc
 tout	客引きする|勧誘する|大げさに宣伝する|客引き|運動員|(競馬の)予想屋|(泥棒の)見張り	anc
-apostle	使徒|Apostles' Creedは|キリスト教のうち西方教会(カトリック教会|聖公会|プロテスタント)における基本信条のひとつ	anc
+apostle	使徒	original
 converge	一点に集める|収束する|集まる|合流|一点に集まる	anc
 fishery	漁業	anc
 temptation	誘惑|誘惑物	anc
 pewter	白鑞|シロメ(錫･鉛などの合金)	anc
 plum	西洋スモモ|プラム|すばらしいもの|濃い紫色	anc
 notably	明白に|著しく	anc
-nanny	おばあちゃん|(=nan|nana|nanny|granny|grandma|granma|gran)|ばあや|乳母|子守|雌ヤギ	anc
+nanny	おばあちゃん(=nan, nana, granny, grandma, granma, gran)|ばあや|乳母|子守|雌ヤギ	original
 showroom	陳列室	anc
 secondly	第2に	anc
 ohm	オーム(電気抵抗の単位)	anc
@@ -6964,7 +6952,6 @@ shaker	振る人(もの)|シェーカー	anc
 emailed	電子メールで送信	anc
 wander	歩き回る|ぶらつく	anc
 collegiate	大学(カレッジ)の|大学生らしい|大学生用の|大学(組合)組織の	anc
-eff	EFF|Electronic Frontier Foundation電子フロンティア財団(IT関連の言論の自由やプライバシー保護に取り組む非営利組織) 2|Extended Fund Facility拡大信用供与措置	anc
 remotely	およそ|遠く離れて|関係が薄く|時間が遠く隔たって|間接的に|よそよそしく|冷淡に|これっぽちも	anc
 alkaline	アルカリ性	anc
 characterize	の特性を示す	anc
@@ -7004,7 +6991,7 @@ elm	ニレ(花言葉は威厳)|ニレの木	anc
 morality	道徳|道徳性|徳行	anc
 usable	使用できる	anc
 lohan	羅漢|阿羅漢	wnjpn
-decoder	デコーダ|コード化を元に戻すもの・ソフト(反)coder	anc
+decoder	デコーダ|コード化を元に戻すもの|(反義語)coder	original
 readable	おもしろく読める(書かれた)|読みやすい	anc
 glide	グライダーで飛ぶ|滑空(する)|すべる(こと)|すべり台|(文法)わたり	anc
 stub	使い残り|引抜く|切株|吸い殻|切り株|をぶつける	anc
@@ -7038,9 +7025,8 @@ airborne	空輸の|空挺の|空輸された|空気電送|空中の	anc
 honorable	名誉となる|尊敬すべき|名誉ある|恥を知る|高貴な|身分のある	anc
 sewage	下水|汚水	anc
 dominion	支配権|主権|支配|統制|所有権	anc
-guiana	ギアナ	wnjpn
 mack	ゴム引きの生地で作った防水のレインコート|ポン引き|殺し文句|プレイボーイ|言い寄る|取り持つ|食べる|人名(Mack)	anc
-snoop	のぞき回る(snoop around)|捜し回る|せんさくする(snoop into a person's private life|) (=snooper)かぎ回る人|探偵・スパイ|詮索好きの人|おせっかい屋	anc
+snoop	のぞき回る|捜し回る|詮索する|探偵・スパイ|詮索好きの人|おせっかい屋	original
 hallmark	顕著な特徴|太鼓判	anc
 shortcut	近道	anc
 choke	窒息する|を絞殺する|窒息させる|の息の根を止める|の成長を阻止する|閉塞|チョーク	anc
@@ -7049,7 +7035,6 @@ endure	に持ちこたえる|がまんする|苦痛に耐える|を我慢する	
 hog	ブタ|大型車|むさぼる|独り占めする	anc
 profitability	収益性	anc
 wee	ちっぽけな|ちっちゃな	anc
-ang	a civilian reserve component of the United States Air Force that provides prompt mobilization during war and assistance during national emergencies	wneng
 globally	全体的に	anc
 inflatable	ふくらませられる	anc
 bearing	方向|態度|ベアリング	anc
@@ -7109,10 +7094,10 @@ nap	昼寝|うたた寝する|油断する	anc
 rectangle	長方形|四辺形|矩形	anc
 thrice	3倍に|三度|三回|三重に	anc
 resale	再び売ること|再販(売)|再売却|追加販売|転売	anc
-emulator	競争者; 見習う人; エミュレータ (ある機種用のプログラムを別の機種に解読・実行させるためのハードウェアやソフトウェア)	ejdict
+emulator	競争者|見習う人|エミュレータ	original
 musing	物思い(にふけって)	anc
 filler	filler 詰める人(もの)|(重さ･量などを増すための)混ぜ物|詰め物|充填材|注入器	anc
-gemini	(astrology) a person who is born while the sun is in Gemini|a person who is born while the sun is in Gemini|a zodiacal constellation in the northern hemisphere between Taurus and Cancer on the ecliptic|the third sign of the zodiac; the sun is in this sign from about May 21 to June 20|the third sign of the zodiac|the sun is in this sign from about May 21 to June 20	wneng
+gemini	双子座|双子座生まれの人	original
 amnesty	恩赦|特赦|大赦	anc
 ringer	囲う人･もの|(輪投げ式のゲームで)輪を柱に向かって投げる人|輪投げの輪|生き写し|替え玉	anc
 footprint	足あと	anc
@@ -7126,7 +7111,7 @@ contractual	契約(上)の	anc
 unchanged	不変の|変わらない|変化していない	anc
 hatred	憎しみ|憎悪	anc
 squadron	戦車大隊|飛行中隊|中隊|小艦隊|飛行編隊	anc
-ounce	1オンスは28|3グラム|1ポンド=16オンス=454グラム|体積の単位 1液量オンス(fluid ounce|fl oz)=29|57ml(約30cc)	anc
+ounce	1オンスは28.3グラム	original
 ally	同盟(させる)|同盟国|同盟者|連合国	anc
 suspicion	容疑|疑い	anc
 tragic	悲劇の|悲劇的な|悲劇に関する|悲劇を演じる|悲惨な	anc
@@ -7147,8 +7132,7 @@ mutually	相互に|双方で	anc
 drummer	ドラマー	anc
 buff	打撃|～狂|(熱狂的な)ファン	anc
 incidental	ありがちな	anc
-exodus	《時にan exodus》(多数の人々が)国を出て行くこと|《the E-》(モーセ(Moses)に率いられたイスラエル民族の)エジプト脱出|《E-》出エジプト記(イスラエル民族のエジプト脱出を記述した旧約聖書中の一書)	ejdict
-cunningham	カニングハム	wnjpn
+exodus	《時にan exodus》(多数の人々が)国を出て行くこと|モーセの出エジプト(記)	original
 supervisory	監督上の	anc
 disrupt	分裂させる|中断させる|崩壊させる	anc
 chiropractic	脊柱指圧療法|カイロプラクティック	anc
@@ -7163,14 +7147,12 @@ recess	奥まったところ･場所|休会|休み時間|休憩|休み|休暇|�
 blueprint	設計図|青写真	anc
 reciprocal	相互交換の|お返しの|報いの|相互作用(関係)を表わす	anc
 whichever	どちらでも|どちらの～でも	anc
-hostage	宿泊所|抵当|入質|(hostage|pawn|pledge|captive)	anc
+hostage	宿泊所|抵当|入質(=pawn, pledge, captive)	original
 attribution	帰属|属性|権能	anc
-tuscany	トスカナ	wnjpn
 disruption	分裂|崩壊|混乱	anc
 unspecified	不特定	anc
 unreal	実存しない|虚偽の|真実性のない|幻想的な|空想的な	anc
 physiological	生理学上の|生理的な|生理学の	anc
-zeppelin	ツェッペリン	wnjpn
 unprecedented	前例のない|先例がない|空前の|無類の|新奇な|未曾有の|異例|破格|空前|前代未聞	anc
 dummy	ダミー|モデル台	anc
 financially	財政的に	anc
@@ -7185,17 +7167,16 @@ crank	変人	anc
 collectively	集合的に	anc
 capitalist	資本主義者	anc
 pep	元気|活力|気力|を元気づける|を活気づかせる	anc
-roach	ゴキブリ(roach|cockroach)|ローチ(コイ科の魚)|マリファナの吸いさし|(loachはドジョウ)	anc
+roach	ゴキブリ(=cockroach)|ローチ(コイ科の魚)|マリファナの吸いさし	original
 solidarity	団結|連帯|一致	anc
 px	a commissary on a United States Army post	wneng
 housewife	主婦	anc
-hud	the United States federal department that administers federal programs dealing with better housing and urban renewal; created in 1965|the United States federal department that administers federal programs dealing with better housing and urban renewal|created in 1965	wneng
 marlin	マカジキ(魚)	anc
 pilgrim	巡礼者|巡礼の|巡礼する|流浪する	anc
 crochet	カギ針編み	anc
 allegedly	(真偽のほどはわからないが)伝えられるところによると	anc
 congressman	議員	booqs
-incubus	インキュバス|悪夢|心配事|夢魔(むま)|淫魔|キリスト教の悪魔|夢の中に現れ性交を行う|男性型Incubusは睡眠中の女性を妊娠させる	anc
+incubus	インキュバス|悪夢|心配事|夢魔(むま)|淫魔	original
 corvette	コルベット艦(商船護送用快速艦)	anc
 lad	少年|若者|やつ|男	anc
 wrench	ねじる|(事実を)曲げる|歪曲する|もぎ取る|レンチ|かなしみ	anc
@@ -7210,7 +7191,7 @@ knowledgeable	知性のある|よく知っている	anc
 critically	きわどく|危うく|危なく|危篤状態に|酷評して|批判して|批評的に	anc
 carte	アラカルト	anc
 spicy	薬味を入れた|香ばしい|香辛料のきいた|気のきいた|きわどい	anc
-neutron	中性子|原子核を構成する無電荷の粒子|記号n|平均寿命は約15分でβ崩壊を起こし陽子となる|(中性子爆弾という核爆弾|a nuclear bomb called neutron bomb)	anc
+neutron	中性子	original
 felony	重罪(強盗･殺人など)	anc
 chant	詠唱する|シュプレヒコール	anc
 squirrel	リス|リスの毛皮	anc
@@ -7232,15 +7213,13 @@ countless	無数の	anc
 abusive	悪用された|口汚くののしって	anc
 warehousing	倉庫保管	anc
 stranger	よその人|他人|見知らぬ人|奇妙な	anc
-celebrex	a Cox-2 inhibitor (trade name Celebrex) that relieves pain and inflammation without harming the digestive tract	wneng
-glamour	魅惑|グラマー|(glamorの綴りより一般的)|(grammar文法|glamour魅力)	anc
+glamour	魅惑|グラマー(=glamor)	original
 hype	詐欺|誇大な宣伝･広告(をする)|だます|興奮させる|皮下注射|麻薬常用者	anc
-tate	United States poet and critic (1899-1979)	wneng
 neuroscience	神経科学	anc
 berg	氷山	anc
 abdominal	腹部|腹部の	anc
 mri	磁気共鳴映像法	wnjpn
-blaster	a workman employed to blast with explosives	wneng
+blaster	光線銃	original
 extern	通勤医師	wnjpn
 hanger	格納庫	anc
 prima	気難しい女|主役女性歌手|プリマドンナ|主なる|首位の|第一の	anc
@@ -7248,7 +7227,6 @@ shave	ひげそり|をそる|を薄く削る|ひげをそる(こと)|ひげそ�
 frankly	率直に	anc
 chronological	年代順の	anc
 entrepreneurship	起業家精神	anc
-gpa	a measure of a student's academic achievement at a college or university; calculated by dividing the total number of grade points received by the total number attempted|a measure of a student's academic achievement at a college or university|calculated by dividing the total number of grade points received by the total number attempted	wneng
 dispose	配列する|配置する	anc
 volcano	火山|噴火口	anc
 oath	神名濫用|のろい|悪罵|誓い|宣誓	anc
@@ -7305,16 +7283,16 @@ fetal	胎児の	anc
 someday	いつか	anc
 quantify	量を定める	anc
 billboard	《米》掲示板|広告板(《英》hoarding)|(ラジオ・テレビの)番組紹介	ejdict
-metaphor	比喩(他に置き換えて表現すること)|隠喩(a metaphor=比喩)|直喩(a simile)|代喩(a metonymy|=換喩)|寓話(a parable)などがある	anc
+metaphor	比喩|隠喩|暗喩(類似語simile 直喩)	original
 reportedly	伝えるところによると|聞くところによれば	anc
 countdown	カウントダウン	anc
 prose	散文的な|散文|散文的な文章|無味乾燥な話し|平凡|単調	anc
 tiff	もめごと|争い|quarrel|dispute	anc
 farewell	別れ(の挨拶)|送別会|さようなら|さらば!	anc
-improper	不適切な|不道徳な|不規則な|improper fractions(仮分数)分子が分母と等しいか大きい分数 a fraction whose numerator is equal to or greater than its denominator	anc
+improper	不適切な|不道徳な|不規則な	original
 coyote	コヨーテ	anc
 relocate	移転させる|立ち退かせる	anc
-sew	を縫う|縫い物をする|を縫い付ける|ドレミのソ(Doe|Ray|Me|Far|Sew|La|Tea)	anc
+sew	を縫う|縫い物をする|を縫い付ける|ドレミのソ(Doe,Ray,Me,Far,*,La,Tea)	original
 taper	だんだん細くなる|次第に細くなる|次第に小さくなる|漸減|次第に細くする	anc
 facsimile	ファクシミリ(で送る)|複写(する)|複製|模写	anc
 plunge	突っ込む(こと)|突入|陥る	anc
@@ -7322,7 +7300,7 @@ filtration	ろ過	anc
 teaching	教育|授業|教え|教義	anc
 lotto	ロット|賭けゲームの一種	anc
 friction	摩擦|不和	anc
-electromagnetic	電磁力の|(電磁力electromagnetic force)	anc
+electromagnetic	電磁力の	original
 fundraiser	募金活動	anc
 affirm	肯定する|断言する|確認する|確信する	anc
 dope	(俗)麻薬|マリファナ|薬物|薬物常用者	anc
@@ -7350,7 +7328,7 @@ energetic	精力のある|エネルギッシュ	anc
 genital	生殖の|性器の	anc
 avalanche	雪崩|殺到(する)	anc
 terrestrial	地上の|地球上の	anc
-scalable	スケーラブル	wnjpn
+scalable	拡張性のある	original
 intra	(接頭辞)内に|内部に|内方に	anc
 spontaneous	自発的な|自然な|自然に起きる|自然に起こる	anc
 glossy	光沢のある|見栄えのする|もっともらしい	anc
@@ -7385,11 +7363,11 @@ purifier	ピュリファイア|清浄器	anc
 natl	national	ejdict
 imperative	命令的な|避けられない|緊急の|絶対に必要な|強制的な|(文法)命令法(の)	anc
 brewery	ビール醸造所|醸造所	anc
-mule	ラバ(騾馬|雄のロバと雌のウマの交雑種の家畜|逆の組合せのHinnyより大きく育てやすい)|頑固者|雑種の動植物|(pl形)つっかけ式スリッパ	anc
+mule	ラバ(家畜)|頑固者|雑種の動植物|つっかけ式スリッパ	original
 birch	バーチ(家具用材)|カバの木	anc
 formulate	定式化する	anc
 haired	髪	anc
-matte	(mˈæt)|つや消しの|(色･つやが)鈍い|つや消し(面)(dull finish)|表面をつや消しにする	anc
+matte	つや消しの|(色･つやが)鈍い	original
 directional	方向の	anc
 cyclone	温帯性低気圧|つむじ風	anc
 lethal	致命的な|致死の	anc
@@ -7402,12 +7380,12 @@ jug	水入れ	anc
 spectroscopy	分光法	anc
 expat	国外居住者	anc
 militant	攻撃的な|好戦的な(人)|交戦中の|交戦状態	anc
-tho	(=though)|だけどね|の意(口語)	anc
+tho	(=though)|だけどねの意(口語)	original
 blanc	(仏語)ブラン|白い	anc
 moan	うめき声|不平|うめき声を出す	anc
 slab	厚板でおおう|石板	anc
 massacre	大虐殺	anc
-rosemary	ローズマリー(スパイスの一種)|その葉(常緑低木で香水･調味料などに用いられる|花言葉は記憶|貞節)	anc
+rosemary	ローズマリー(スパイスの一種)	original
 maroon	くり色|えび茶色(の)|(警報用)花火|マルーン(西インド諸島の山中に住む黒人･もとは脱走奴隷)|孤島に捨てられた人	anc
 abstraction	抽象作用|抽象	anc
 turquoise	トルコ石(12月の誕生石)|青緑色	anc
@@ -7417,7 +7395,7 @@ seismic	地震の|地震性の	anc
 liar	うそをつく人|うそつき	anc
 baccarat	バカラ|おいちょかぶに似たトランプ賭博	anc
 paperwork	ペーパーワーク	anc
-vie	(vάɪ) (vied|vying)優劣を争う|競う(=compete)|(She was surrounded by men all vying for her attention|)|優劣がない(They vied in wit|機知で伯仲していた)	anc
+vie	優劣を争う|競う(=compete)	original
 teenager	ティーンエイジャー(語源はteenの付く13才から19才まで)	anc
 nestle	気持ちよく横たわる|寄添う|心地よく横たわる|すり寄る|～身を落ちつける	anc
 suburb	郊外|近郊	anc
@@ -7427,17 +7405,15 @@ purity	清浄|混じり気のないこと|純粋|純度|清潔|純潔|清廉|正
 orphan	孤児|親のない	anc
 rigorous	厳格な|綿密な|きわめて厳密な|severely exact or accurate|precise	anc
 poke	を突く|を突き出す|突っ込む	anc
-aftermath	余波|結果 (the aftermath of war戦争の余波)	anc
+aftermath	余波	original
 demolition	破壊|取り壊し	anc
-clarion	爽やかな(声･音)|明快な|クラリオン(社名)	anc
+clarion	爽やかな(声･音)|明快な	original
 repeal	を無効にする|を取り消す|取り消し|廃止(する)|撤廃|無効に(する)	anc
 deb	スケ番|突っ張り娘 (debutanteの略)	anc
 enthusiastic	熱心な	anc
 continuum	(物質･事件などの)連続(体)	anc
-goldberg	United States cartoonist who drew intricate diagrams of very complicated and impractical contraptions that accomplished little or nothing (1883-1970)	wneng
 invariant	不変の	anc
 wink	まばたきする|ウインクする|きらめく|をまばたきさせる|目くばせ|きらめき	anc
-soho	ソーホー	wnjpn
 plead	弁護する|弁論する|申し立てる|嘆願する	anc
 natal	出生(出産|分娩)の	anc
 pasture	を放牧する|牧場|牧草(地)|外野|食う	anc
@@ -7447,7 +7423,7 @@ factual	事実上の|事実の|実際の|事実に基づく	anc
 subordinate	を従属させる|副次的な|下位の|従属の	anc
 inconvenience	不自由|不便|迷惑	anc
 revive	を生き返らせる|回復させる|を元気にする|を復興させる	anc
-unregistered	(of animals) not recorded with or certified by an official breed association; "unregistered dairy cattle"|(of animals) not recorded with or certified by an official breed association|not registered; "an unregistered citizen"|not registered|(a boat or vessel) not furnished with official documents|not furnished with official documents	wneng
+unregistered	未登録の	original
 payload	打上げ荷重|(会社などの)給料支払い用経常負担金	anc
 standby	待機|頼りになる人(物)|交替要員|キャンセル待ちの(客)	anc
 prone	の傾向がある|のくせがある|しがちな|うつぶせの	anc
@@ -7457,7 +7433,7 @@ orient	東洋|東に向ける|適応する|真珠の光沢	anc
 equitable	公平な|公正な|衡平法上の|衡平法上有効な	anc
 dwell	移住する|住む	anc
 perennial	多年生の|絶え間ない|四季を通じての|年中絶えない|永続的な	anc
-canary	〈C〉『カナリア』|(また 『canary yellow』)〈U〉カナリア色|淡黄色|(また 『canary wine』)〈U〉カナリア諸島産ぶどう酒|カナリア色の	ejdict
+canary	カナリア|カナリア色の	original
 bookshelf	書棚|本棚|(個人の)蔵書	anc
 amid	〜の真っ最中に	original
 proactive	先のことを考えた	anc
@@ -7469,15 +7445,14 @@ worthwhile	それ相応の|やりがいのある|むだではない	anc
 anxious	心配している|しきりに～したがって|切望して	anc
 imprisonment	投獄|監禁|留置|禁固|懲役	anc
 pastry	ねり菓子	anc
-cervical	(sˈɚːvɪkəl)|子宮頸管の|頚部の	anc
-cutlery	刃物類|食卓用金物(ナイフ|フォーク|スプーンなど)	anc
+cervical	子宮頸管の|頚部の	original
+cutlery	刃物類|食卓用金物(ナイフ, フォーク, スプーンなど)	original
 trench	にみぞを掘る|塹壕を掘る|掘る|塹壕|堀|掘割	anc
 seminary	学校|神学校	anc
 devotion	深い愛情|献身	anc
 refinement	精練|精製|純化|上品|精妙	anc
 orbital	軌道の	anc
 yep	yes	anc
-yuan	(複数形yuan)元(中国の通貨単位)|元|the Yüan dynasty(1271-1368)|蒙古族が支配した史上最大の帝国	anc
 reclaim	取り戻す|改善(する)|矯正(する)|を埋め立てる|を開墾する	anc
 harp	ハープ(竪琴)	anc
 flirt	異性に対して面白半分に気を引く	anc
@@ -7497,7 +7472,6 @@ contradiction	矛盾|否定|反対	anc
 regain	取りもどす|回復(奪還)する	anc
 nautical	航海の	anc
 installment	分割払い込み金|分割払い|月賦	anc
-gutenberg	グーテンベルグ	wnjpn
 splice	重ね継ぐ|組み継ぎ(する)|結婚させる	anc
 subtract	を控除する|引算をする|を引く|減じる|取り去る	anc
 axe	解雇する	anc
@@ -7519,7 +7493,7 @@ dynamically	動的に	anc
 giveaway	景品	anc
 comprise	包含する|包む|含む|意味する|構成する|成り立つ	anc
 harmonic	調和した|和声の	anc
-tort	私犯|不法行為|=legal liability|(トートバッグのtote(背負う)は別語)	anc
+tort	私犯|不法行為(=legal liability)	original
 registrant	登録者	wnjpn
 manson	マンソン	wnjpn
 typo	誤植(typographical error)|印刷工|印刷技術者(typographer)	anc
@@ -7527,11 +7501,11 @@ thug	悪党|暴力団	anc
 enrichment	豊かにすること|価値を高めること|質を向上させること|富裕|濃縮	anc
 disregard	無視する|軽視する	anc
 unpaid	未払いの	anc
-arithmetic	(一般的な)計算力|数値に強い|(読み書きそろばんの類で科目ではない)|Math|Algebra|Geometry図形|Calculus微積分が科目名	anc
+arithmetic	(一般的な)計算力|数値に強い	original
 mustard	カラシ|マスタード|カラシ色|カラシナ	anc
 transistor	トランジスター	anc
 locality	産地|ある土地|現場|ある場所に位置すること	anc
-soprano	ソプラノ|女性高音部|(次の順に高くなる|bass|baritone|tenor|alto(女声)|treble(女声soprano)	anc
+soprano	ソプラノ(女性の高音部歌手)	original
 substantive	名詞相当語句(形容詞句|節など)|実詞	anc
 stride	大股で歩く|またぐ|一またぎ|進歩	anc
 broadly	露骨に	anc
@@ -7544,12 +7518,12 @@ etiology	病因(学)|因果関係学	anc
 swimsuit	水着	anc
 dispersion	散乱|分散|散布	anc
 autonomy	自主性|自治権|自治体|自律性	anc
-diode	ダイオード|整流作用(電流を一定方向にしか流さない作用)を持つ電子素子|最初のダイオードは2極真空管で|後に半導体ダイオードが開発された	anc
+diode	ダイオード|整流作用(電流を一定方向にしか流さない作用)を持つ電子素子	original
 manifestation	発現|明らかにすること|政策表明|徴候	anc
 shack	掘っ立て小屋|部屋|同棲する|一夜を共にする	anc
 repay	払いもどす|金を返す|返金する|に報いる|を返す	anc
 fulfillment	充足感|達成感|実現(主に米)	anc
-biomass	生物量|バイオマス|生態学で|特定の時点のある空間に存在する生物(bio-)の量を|質量あるいはエネルギー量で数値化したもの	anc
+biomass	生物量|バイオマス|生態学で	original
 unresolved	未解決	anc
 sesame	ゴマ(の実)	anc
 hep	(俗)進んでいる|事情に明るい	anc
@@ -7576,7 +7550,7 @@ hierarchical	階級の	anc
 slogan	スローガン|標語	anc
 rhino	リノ(犀 サイ=rhinoceros)|金|現金|上陸艦艇	anc
 specificity	特異度|特定性|特異性|無病正診率	anc
-scramble	はい登る|奪い合う|をごちゃ混ぜにする(scrambled egg いり卵)|(盗聴予防に)周波数を変える|緊急発進する|(つる草などが)はびこる	anc
+scramble	はい登る|奪い合う|をごちゃ混ぜにする|(盗聴予防に)周波数を変える|緊急発進する|(つる草などが)はびこる	original
 affection	愛情|感情|気質|影響|体調|障害|疾患	anc
 incur	負う|被る|を受ける|にぶつかる	anc
 helpdesk	ヘルプデスク	wnjpn
@@ -7590,7 +7564,6 @@ fraternity	同業者仲間|共済組合|友愛会|友愛団体|友愛|兄弟愛	
 schematic	概要の|図解の|構造図|回路図	anc
 uncommon	まれな|珍しい|異常の|非凡な|非常に	anc
 dread	恐怖|を心配する|恐い|を(非常に)恐れる	anc
-ov		wnjpn
 subgroup	下位群	anc
 sovereignty	主権|統治権|支配権|独立|君主であること|独立国	anc
 endpoint	エンドポイント	anc
@@ -7603,10 +7576,10 @@ genetically	遺伝的に	anc
 corona	コロナ|光冠	anc
 supposedly	たぶん|おそらく	anc
 chimney	煙突	anc
-saw	seeの過去形 2|のこぎり(で切る)	anc
+saw	seeの過去形|のこぎり(で切る)	original
 jabber	ぺちゃくちゃしゃべる|きゃっきゃっと叫ぶ|早口にしゃべる|おしゃべり	anc
-yay	ヤイ	wnjpn
-captive	捕らわれた|人質(=hostage|pawn|pledge|captive)|とりこ(の)	anc
+yay	いえーい	original
+captive	捕らわれた|人質(=hostage, pawn, pledge, captive)|とりこ(の)	original
 contra	反対に|コントラ|右派の反対者|反対の側|反対意見	anc
 pity	哀れと思う|残念な事|あわれみ|哀れみ|(～を)かわいそうに思う|かわいそうなこと	anc
 videotape	ビデオテープ(に録画する)	anc
@@ -7614,12 +7587,11 @@ recruiter	リクルーター	anc
 preach	説教する|を伝道する|を説く	anc
 enamel	エナメル|ほうろう|(陶器の)上ぐすり	anc
 helm	かじ|操舵装置	anc
-lug	強く引く|持ち出す(He lugged the subject in|その話題を取ってつけたように持ち出した)|突起(a lug bolt耳付きボルト)	anc
+lug	強く引く|持ち出す|突起	original
 fortress	安全地域|要塞|要塞地|大規模な要塞|とりで|砦	anc
 cashier	現金出納係|帳場係|出納係|レジ係|免職する|を解雇する	anc
 genomic	ゲノムの	anc
 archery	アーチェリー	anc
-serbian	セルビア人|セルビア人	wnjpn
 qualifier	限定詞|修飾語句	anc
 grassroots	一般人|民衆|基本的事実	ejdict
 vegan	ヴィーガン(Vegan)|完全菜食主義者|乳製品|蜂蜜等も含む動物性の食品を一切摂らず|革製品等の動物の利用も避ける人々	anc
@@ -7736,7 +7708,7 @@ disappointment	落胆	anc
 chandelier	シャンデリア	anc
 tango	タンゴ(を踊る)|赤橙色	anc
 weave	織る|よろめく|編む|編み込む|仕組む|張る|まとめあげる|(物語･計画などを)作り上げる	anc
-hn		wnjpn
+hn	a colorless explosive liquid that is volatile and poisonous and foul-smelling	wneng
 biometric	生物認証の|生物測定の	anc
 keypad	キーパッド	wnjpn
 motivational	やる気を起こさせる	anc
@@ -8801,7 +8773,7 @@ gin	ジン|大麦|ライ麦|ジャガイモなどを原料とした蒸留酒|綿
 ceiling	天井|最高価格|最高限度	anc
 writ	(古語)writeの過去･過去分詞|(法律)令状|a writ of summons召喚状	anc
 marcel	(髪の)マーセルウエーブ(をかける)	anc
-kp		wnjpn
+kp	an enlisted person who is assigned to assist the cooks	wneng
 unsafe	安全でない|危険な|不安な	anc
 ibis	トキ|アイビス	anc
 unidentified	身元不祥の|正体未確認の	anc
@@ -9044,7 +9016,7 @@ unicef	an agency of the United Nations responsible for programs to aid education
 rivet	注意を集中する|をくぎ付けにする|をリベットで留める|リベット|鋲|くぎづけにする	anc
 devise	工夫する	anc
 ammonia	アンモニア	anc
-bpm		wnjpn
+bpm	the pace of music measured by the number of beats occurring in 60 seconds	wneng
 actuator	アクチュエータ|作動装置	wnjpn
 coward	臆病者	anc
 systematically	体系的に|組織的に|整然と|意図的に	anc
@@ -9430,7 +9402,7 @@ dino	ディノ|恐竜(の)	anc
 homogeneous	同種の|同質の|同性の|均一の|等質の|均質の	anc
 bonsai	盆栽	wnjpn
 forte	強み|長所|得手|おはこ|特長	anc
-spf		wnjpn
+spf	the degree to which a sunscreen protects the skin from the direct rays of the sun	wneng
 ding	ジャン|ゴーン(と鳴る･鳴らす)|くどくど話す	anc
 convection	伝達|対流	anc
 outright	完全に|率直な	anc
@@ -9895,7 +9867,7 @@ transnational	多国籍企業|国家を越えた|国境を越えた|多国籍の
 motorway	(UK英)高速道路	anc
 clog	の動きを妨げる|ふさぐ|動きを妨げる|詰まらせる|邪魔者|おもり|木靴	anc
 obscene	わいせつな|反道徳的な	anc
-me	私を|私に 2|Maineメイン州|ME|ドレミのミ(Doe|Ray|Me|Far|Sew|La|Tea)	anc
+me	私を|私に|ドレミのミ(Doe,Ray,*,Far,Sew,La,Tea)	original
 continual	繰り返される	anc
 polymorphism	ポリモーフィズム|オブジェクト指向プログラミング言語の性質のひとつ|「多相性」「多様性」などの意	anc
 axial	軸の(ような)|軸の方向の	anc
@@ -9980,7 +9952,7 @@ digger	掘削機|鉱員	anc
 collectable	収集価値のあるもの|マニアが収集するもの	anc
 shortfall	不足|不足分(額)	anc
 suitcase	スーツケース	anc
-sse		wnjpn
+sse	the compass point midway between south and southeast	wneng
 bulge	ふくらませる|膨らむ|ふくらみ|ふくらむ|出っ張る	anc
 straighten	をまっすぐにする|まっすぐになる|整える|整備する	anc
 imposition	賦課物|税|負担|詐欺|ぺてん|(印刷)整版	anc
@@ -10127,7 +10099,7 @@ flatware	皿類;(特に)銀食器	ejdict
 torment	に肉体的苦痛を与える|を困らせるを苦しめる|を悩ます|苦労の種|苦痛|苦悩|拷問	anc
 parenthood	親であること	anc
 anarchist	無政府主義者	anc
-pom		wnjpn
+pom	a disparaging term for a British person	wneng
 hitter	打者	anc
 sable	黒貂|クロテン(の毛皮)	anc
 outset	手始め|発端	anc
@@ -10186,6 +10158,7 @@ poser	難題|難問 2|気取り屋|ポーズをとる人	anc
 crossing	線引き|逆らう	anc
 handspring	(手を地に着けてする)とんぼ返り	ejdict
 aquarius	(astrology) a person who is born while the sun is in Aquarius|a person who is born while the sun is in Aquarius|a zodiacal constellation in the southern hemisphere; between Capricornus and Pisces|a zodiacal constellation in the southern hemisphere|between Capricornus and Pisces|the eleventh sign of the zodiac; the sun is in this sign from about January 20 to February 18|the eleventh sign of the zodiac|the sun is in this sign from about January 20 to February 18	wneng
+pawn	担保|質(に入れる)|を賭ける|を賭けて誓う|人質(=hostage, pledge, captive)	original
 bootleg	(酒などを)密輸する|密売(する)|違法の|不正な	anc
 yank	ぐいと引っぱる|引っること	anc
 psychedelic	サイケ調の|陶酔の	anc
@@ -10462,7 +10435,7 @@ downside	下(底)側(の)|(株価など)下がる傾向(の)|不利な(否定的
 leftist	左翼の人|急進派の人	anc
 reconstruct	再構成する|再建する	anc
 strangely	異様に|奇妙に|不思議なことに|変に|妙に|不思議に	anc
-gy		wnjpn
+gy	the SI unit of energy absorbed from ionizing radiation; equal to the absorption of one joule of radiation energy by one kilogram of matter; one gray equals 100 rad|the SI unit of energy absorbed from ionizing radiation|equal to the absorption of one joule of radiation energy by one kilogram of matter|one gray equals 100 rad	wneng
 pharaoh	ファラオ(古代エジプト王の称号;聖書訳では「パロ」)	ejdict
 anonymity	匿名|無名(の人)	anc
 responsiveness	反応性	anc
@@ -11030,7 +11003,7 @@ quintet	五重奏	anc
 affordability	値ごろ感	anc
 sloppy	だらしのない|水っぽい	anc
 recourse	頼ること|償還	anc
-abb		wnjpn
+abb	an urban hit squad and guerrilla group of the Communist Party in the Philippines; formed in the 1980s|an urban hit squad and guerrilla group of the Communist Party in the Philippines|formed in the 1980s	wneng
 contradictory	矛盾した	anc
 gearbox	変速装置|ギアボックス	anc
 informant	通知者|情報提供者|密告者|(文法)資料提供者	anc
@@ -11098,7 +11071,7 @@ oft	often|しばしば	anc
 impend	〈物事が〉(〜の上に)今にも起ころうとしている|切迫している《+『over』+『名』》	ejdict
 levee	沖積堤|堤防|土手|(米語)大統領の接見会	anc
 drown	ずぶ濡れになる|溺れる|を溺れさせる|溺死する|を水浸しにする|を消す	anc
-ifc		wnjpn
+ifc	a United Nations agency that invests directly in companies and guarantees loans to private investors; affiliated with the World Bank|a United Nations agency that invests directly in companies and guarantees loans to private investors|affiliated with the World Bank	wneng
 mutt	あほ|ばか|(雑種の)犬	anc
 immature	未熟な|未熟の	anc
 uterine	子宮	anc
@@ -12854,7 +12827,7 @@ ogre	オーガ(オーグル|オグレ)|伝承や神話に登場する人食い�
 devoid	欠けていて	anc
 extraordinarily	異常に|並外れて|異例に|特別に|法外に	anc
 jogger	ジョギングする人	anc
-idf		wnjpn
+idf	the ground and air and naval forces of Israel	wneng
 thingy	あれ|何とかいうもの|名前を忘れたときの代名詞|物の|物質の|物体の	anc
 fielder	(野球)野手	anc
 olympian	堂堂たる|荘重|尊厳|荘厳|壮重|堂々たる|厳威|威風堂々たる|いかめしい|堂々|異例|素晴しい|素晴らしい|特別|非常|優長|例外的|特異|格別|莫大	wnjpn
@@ -14669,7 +14642,7 @@ nog	ノッグ(英国の強いビール)|eggnog	anc
 firsthand	直仕入れの|直接の|直接に	anc
 accretion	(発育･付着･包含などによる)増大|付着|融合|合体	anc
 turbidity	混濁|濃密	ejdict
-atf		wnjpn
+atf	the law enforcement and tax collection agency of the Treasury Department that enforces federal laws concerning alcohol and tobacco products and firearms and explosives and arson	wneng
 zzz	グーグー(いびきの音)	ejdict
 trier	tryする人|いつも最善を尽くす人|サンプル抽出器|検査員|試験装置|陪審員忌避審判官	anc
 ano	a Palestinian international terrorist organization that split from the PLO in 1974; has conducted terrorist attacks in 20 countries; "in the 1980s the Fatah-RC was considered the most dangerous and murderous Palestinian terror group"|a Palestinian international terrorist organization that split from the PLO in 1974|has conducted terrorist attacks in 20 countries	wneng
@@ -14869,7 +14842,7 @@ diseased	病気の|病的な	anc
 grandparent	祖父母	anc
 demonic	悪魔的な|魔力をもった	anc
 curie	キュリー(放射能の古い単位|今はベクレス)|キュリー夫人の名に由来	anc
-nrl		wnjpn
+nrl	the United States Navy's defense laboratory that conducts basic and applied research for the Navy in a variety of scientific and technical disciplines	wneng
 unman	〜‘の'勇気をくじく|〜'を'めめしくする	ejdict
 dahlia	ダリア(キク科ダリア属の多年生草本植物)	anc
 causality	因果関係	anc
@@ -18407,7 +18380,7 @@ houseware	家庭用品	anc
 disburse	(金)を支払う|(金･費用を)支払う|支出する	anc
 fractionation	分割|分画法|フラクショネーション|分別作用|分割放射線療法	anc
 brattleboro	ブラトルバラ	wnjpn
-fmri		wnjpn
+fmri	a form of magnetic resonance imaging of the brain that registers blood flow to functioning areas of the brain	wneng
 dandruff	(頭の)ふけ	anc
 leaved	「〜枚の葉のある」「〜枚の」の意を表す	ejdict
 proximate	近似の|最も近い|直前の	anc
@@ -18492,7 +18465,7 @@ traineeship	訓練期間手当	wnjpn
 thresh	(からざおで)〈穀物〉‘を'打つ|(脱穀機で)〈もみがら〉‘を'取る《+名+with+名》|《まれ》〜‘を'打つ(thrash)|脱穀する|激しく打つ	ejdict
 tartar	酒石(ワイン製造時の沈殿物)|歯石	anc
 slither	ずるずる滑る	anc
-gsr		wnjpn
+gsr	a change in the electrical properties of the skin in response to stress or anxiety; can be measured either by recording the electrical resistance of the skin or by recording weak currents generated by the body|a change in the electrical properties of the skin in response to stress or anxiety|can be measured either by recording the electrical resistance of the skin or by recording weak currents generated by the body	wneng
 reefer	マリファナ|マリファナタバコ|(鉄道の)冷凍車|冷蔵トラック|冷蔵船|リーファー(丈夫な通例青い布製のダブルの上着)	anc
 pragmatism	実用主義|道具主義	anc
 mortgagee	抵当権者	ejdict
@@ -20832,7 +20805,7 @@ tokio	江戸|東京|日本の首都	wnjpn
 asio	エイジオ	wnjpn
 boniface	セントボニフェス|亭主	wnjpn
 conjunctivitis	結膜炎	anc
-imu		wnjpn
+imu	a terrorist group of Islamic militants formed in 1996; opposes Uzbekistan's secular regime and wants to establish an Islamic state in central Asia; is a conduit for drugs from Afghanistan to central Asian countries|a terrorist group of Islamic militants formed in 1996|opposes Uzbekistan's secular regime and wants to establish an Islamic state in central Asia|is a conduit for drugs from Afghanistan to central Asian countries	wneng
 ejector	射出装置|放出(排出)器	ejdict
 tremolo	トレモチ(同一音を細かく震わせた発声または弦楽器で同じ音を繰り返す音|その奏法)|(オルガンの)トレモロを出す装置	ejdict
 workweek	週の労働時間、週間労働時間	ejdict
@@ -34942,7 +34915,7 @@ protoplasm	原形質	ejdict
 linum	a herbaceous plant genus of the family Linaceae with small sessile leaves	wneng
 pipefish	ヨウジウオ	wnjpn
 bluebottle	アオバエ(光沢のある青いハエ)|ヤグルマギク	ejdict
-triga		wnjpn
+triga	type genus of the Triglidae	wneng
 dyspeptic	消化不良の	anc
 saliency	特徴|突極性	wnjpn
 moosewood	maple of eastern North America with striped bark and large two-lobed leaves clear yellow in autumn|deciduous shrub of eastern North America having tough flexible branches and pliable bark and small yellow flowers	wneng

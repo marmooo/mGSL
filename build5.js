@@ -20,8 +20,8 @@ readEachLineSync('filter-original.lst', 'utf8', (en) => {
 });
 
 const original = {};
-readEachLineSync('def.csv', 'utf8', (line) => {
-  const [en, ja] = line.split(',');
+readEachLineSync('def.tsv', 'utf8', (line) => {
+  const [en, ja] = line.split('\t');
   original[en] = ja;
 });
 
@@ -152,7 +152,9 @@ readEachLineSync('Abbreviations/sources.txt', 'utf8', (line) => {
 const wnjpn = {};
 readEachLineSync('wnjpn.txt', 'utf8', (line) => {
   const [en, ja] = line.split('\t');
-  wnjpn[en] = ja;
+  if (ja != '') {
+    wnjpn[en] = ja;
+  }
 });
 
 // 固有名詞のノイズが多い
