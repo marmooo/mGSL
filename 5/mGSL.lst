@@ -59,7 +59,7 @@ state	状態|はっきり述べる|国家(の)|州|独立国|主権国|様子|�
 day	日|1日|曜日	anc
 out	外へ	original
 view	眺め|見方|を見る|と見なす	anc
-go	行く|(本来を離れて別の場･状態に)行く|至る	anc
+go	行く	original
 any	いくつかの|いく人かの|いかなる|どの	anc
 work	働く|(うまく)動く|仕事	anc
 there	そこ|そこに|そこで	anc
@@ -129,7 +129,7 @@ most	最も	anc
 music	音楽	anc
 forum	評議会|大広場|フォーラム|公開討論の場	anc
 file	綴じ込む|(書類など)を提出する	anc
-set	セットする|(イメージ:特定の位置･状態に置く)|準備が出来ている|ready	anc
+set	セットする|(定められた場所に)置く|準備が出来ている(ready)	original
 datum	資料|データ	wnjpn
 part	一部|部分|役割|分かれる|を分ける	anc
 rate	レート|割合|率|速度|を評価する	anc
@@ -162,7 +162,7 @@ way	道|方法	anc
 plan	計画|を計画する|計画する	anc
 man	男|男性|男の人	anc
 want	を望む|を欲しい|必要|不足	anc
-come	来る|(イメージ:到達点に焦点:ある対象に近づいていく･くる)	anc
+come	来る	original
 where	どこに|どこで|どこへ|どこ	anc
 type	型|タイプ|をタイプする	anc
 book	本	anc
@@ -217,7 +217,7 @@ family	家族	anc
 dvd	ビデオディスク|ヴィデオディスク|DVD	wnjpn
 code	暗号(にする)|慣例|法典|規約|符号|国際規約	anc
 real	本当の|実在する	anc
-say	言う|言う|たとえば|言い分|発言の機会|(the say)決定権	anc
+say	言う|言ってみれば(例えば)	original
 office	事務所|役所	anc
 technology	テクノロジー|科学技術|工芸学	anc
 item	品目|項目|条項|細目|種目|アイテム	anc
@@ -358,7 +358,7 @@ thread	細い線|糸|繊維|細いもの|スレッド|寿命|を貫く	anc
 drive	駆り立てる|原動力|意欲|運動	anc
 seller	売れるもの|売り手|よく売れるもの	anc
 party	会|パーティ|政党	anc
-tell	伝える|(イメージ:ある内容を相手に伝達することに焦点)|言う|区別する	anc
+tell	伝える|言う|区別する	original
 non	非|否定|拒否	anc
 quality	良質な|質|品質|優良性|特色|上流社会の	anc
 shall	相手の意向を尋ねる	anc
@@ -382,7 +382,7 @@ person	人|人称	anc
 private	私用の|個人の|私有の|秘密の|(反)public	anc
 act	作用する|行動する|行為|議定書	anc
 little	小さい|少し|かわいい|年少の|若い	anc
-keep	保つ|キープする(イメージ:時間的幅をもってもの･状態を保つ)	anc
+keep	保つ|キープする	original
 paper	紙|答案|試験用紙	anc
 fund	資金|たくわえ|財源	anc
 allow	許可する|許す|を可能にする	anc
@@ -434,7 +434,7 @@ series	シリーズ|連続|一組	anc
 log	測定器|丸太|鈍重な人|航海日誌|を切り倒して丸太にする|を航海日誌に書き込む|を航走する	anc
 result	結果|成績|結果として生じる	anc
 yes	はい	anc
-talk	話す|(イメージ:相手の存在 + 双方向)論ずる|トーク	anc
+talk	話す	original
 movie	映画	anc
 update	更新する	anc
 comment	論評する|注釈|論評|意見	anc
@@ -503,7 +503,7 @@ early	早い|早く(時間･時期)	anc
 break	損なう	anc
 mark	記号|目標|印(をつける)|跡(を残す)|値段をつける|特徴づける|マルク(ドイツの通貨単位)	anc
 password	パスワード|合い言葉|合言葉|入場許可を得る手段	anc
-sound	聞こえる|音|測る(sound the depth of a river)	anc
+sound	聞こえる|音	original
 question	質問|問い	anc
 purchase	を買う|購入(品)	anc
 choose	選ぶ	anc
@@ -557,7 +557,7 @@ mean	を意味する|卑怯な	anc
 cause	原因|を引き起こす	anc
 agency	代理店|機関|媒体|作用	anc
 edition	版	anc
-put	置く|付ける(イメージ:ある所･状態に～を置く)	anc
+put	置く	original
 event	行事|出来事	anc
 holiday	祝日|休日|祭日	anc
 receive	を受け取る	anc
@@ -764,7 +764,6 @@ various	さまざまな	anc
 express	表現する|急行	anc
 channel	TV等のチャンネル|(話題の)方向|通信路|媒介|海峡|水路|溝	anc
 frame	(計画などを)たくらむ|を罪に陥れる|言葉を発する|構造|(建物の)骨組み|体格|枠台|組み立てる|構成する	anc
-linux	Linux|リナックス	wnjpn
 character	人格|登場人物|個性|性質|特徴|品性|評判|人物|文字	anc
 exchange	を交換する|交流|両替|為替	anc
 construction	建築様式|建造|建築|構成|(文法)構文|解釈|説明	anc
@@ -1380,7 +1379,7 @@ proposal	申し込み|提案|プロポーズ	anc
 designer	デザイナー|設計者	anc
 icon	聖像|像|肖像|イコン|偶像|アイコン	anc
 campaign	キャンペーン|運動|軍事行動|政治運動|競争|作戦行動|従軍|勧誘|遊説(する)	anc
-replace	に取って代わる|を取り替える|take the place of|をもとの場所に戻す	anc
+replace	に取って代わる|を取り替える|(=take the place of)|をもとの場所に戻す	original
 contribute	に貢献する|の一因となる|寄付する|提供する	anc
 spirit	アルコールの|元気づける|心･精神|霊(魂)|気分	anc
 destination	目的地|行き先|観光目的地|宛て先|目的	anc
@@ -4981,7 +4980,6 @@ crane	ツル|鶴|クレーン	anc
 arbitrary	独断的な|任意の|気まぐれの|恣意的な|不定の	anc
 prominent	目立った|重要な|著名な|突出した|浮き彫りの	anc
 titanium	チタン	original
-cio	a federation of North American industrial unions that merged with the American Federation of Labor in 1955	wneng
 caravan	キャラバン|隊商|幌馬車|移住民の車馬隊|キャンピングカー(和製英語)	anc
 dumb	口のきけない|おしの|唖然とした|黙っている	anc
 superintendent	監督(指揮)する|監督者|最高責任者|監督･指揮する	anc
@@ -32872,6 +32870,7 @@ terrycloth	テリークロス(両面のけば(毛羽)の輪奈を切らずに残
 torchbearer	たいまつを持つ人|啓蒙する人|文化人	ejdict
 macroevolution	evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups	wneng
 epimedium	イカリソウ	wnjpn
+leav	去る|残して去る|許可|休暇	original
 dislocate	〜‘の'場所を移す|位置をずらす|〜‘を'脱臼(だっきゅう)させる(disjoint)|〈正常な状態〉‘を'乱す|混乱させる	ejdict
 aspirator	a pump that draws air or another gas through a liquid	wneng
 reverential	敬けんな|恭(うやうや)しい|慎重な	anc
