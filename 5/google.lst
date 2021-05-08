@@ -46,7 +46,7 @@ use	を使う|使用	anc
 out	外へ	original
 into	〜の中へ	original
 man	男|男性|男の人	anc
-go	行く|(本来を離れて別の場･状態に)行く|至る	anc
+go	行く	original
 good	よい|よろしい|楽しい|おいしい|うまい|じゅうぶんな	anc
 about	およそ|〜について	original
 up	上へ|上がる	anc
@@ -56,7 +56,7 @@ know	を知っている	original
 than	〜よりも	original
 may	〜してもよい|～かもしれない|～であろう	original
 only	唯一の|ただ～だけの|最適の|ただし	anc
-come	来る|(イメージ:到達点に焦点:ある対象に近づいていく･くる)	anc
+come	来る	original
 then	それから|その次に|そのとき|それなら|そうすれば	anc
 we	私たち|私たちは	anc
 such	そのような|このように|そんなに	anc
@@ -91,7 +91,7 @@ before	〜の前に	original
 life	生活|一生|人生|生命|命	anc
 long	長い|長く	original
 between	〜の間に	original
-say	言う|言う|たとえば|言い分|発言の機会|(the say)決定権	anc
+say	言う|言ってみれば(例えば)	original
 must	〜しなければならない|〜に違いない	original
 give	与える|(イメージ:手元から出す)	anc
 much	ずっと|はるかに|非常に|多くの|多量の	anc
@@ -139,7 +139,7 @@ power	力|有力な人|(機械などに)動力を供給する	anc
 study	勉強する|を研究する	anc
 end	終わり|終わる|を終える	anc
 law	法律|法則	anc
-set	セットする|(イメージ:特定の位置･状態に置く)|準備が出来ている|ready	anc
+set	セットする|(定められた場所に)置く|準備が出来ている(ready)	original
 again	再び|また|もう一度	anc
 name	名前|名づける	anc
 large	大きい|(数･量が)多い	anc
@@ -163,7 +163,7 @@ head	頭(の働き)|頭脳	anc
 off	〜から離れて|休みの日	original
 small	小さい	anc
 question	質問|問い	anc
-keep	保つ|キープする(イメージ:時間的幅をもってもの･状態を保つ)	anc
+keep	保つ|キープする	original
 open	開ける|開く|オープン	anc
 shall	相手の意向を尋ねる	anc
 face	顔|直面する	anc
@@ -211,7 +211,7 @@ speak	話す	anc
 why	なぜ|どうして	anc
 second	第2の|(日付の)2日|2番目|秒	anc
 effect	効果|影響|結果	anc
-tell	伝える|(イメージ:ある内容を相手に伝達することに焦点)|言う|区別する	anc
+tell	伝える|言う|区別する	original
 force	強制する|力|暴力|violence|軍隊	anc
 increase	増える|増やす|増加|(反)decrease	anc
 thus	このように|こんな風に|だから|従って	anc
@@ -221,7 +221,7 @@ information	情報	anc
 return	帰る|戻る|を返す	anc
 cause	原因|を引き起こす	anc
 something	何か|あるもの	anc
-put	置く|付ける(イメージ:ある所･状態に～を置く)	anc
+put	置く	original
 among	〜の間で	original
 read	読む	anc
 problem	問題	anc
@@ -307,7 +307,7 @@ research	調査する|研究|探求|調査|捜索|研究する	anc
 national	国の|国立の	anc
 above	〜より上に	original
 method	方法|筋道|秩序|規則正しさ	anc
-talk	話す|(イメージ:相手の存在 + 双方向)論ずる|トーク	anc
+talk	話す	original
 almost	ほとんど	anc
 position	位置|場所|立場|境遇|状態|地位|身分|職業|姿勢|位置させる	anc
 true	本当の|真実の|当てはまる	original
@@ -410,7 +410,7 @@ character	人格|登場人物|個性|性質|特徴|品性|評判|人物|文字	a
 hard	熱心に|いっしょうけんめいに|激しく|(生活などが)つらい|苦しい|難しい	anc
 hear	聞く|(受動的に、ばくぜんと)聞こえる|耳にする	anc
 necessary	必要な|欠くことのできない|必然的な|必需品	anc
-sound	聞こえる|音|測る(sound the depth of a river)	anc
+sound	聞こえる|音	original
 sure	確信して|信じて|確かに|本当に	anc
 difference	違い	anc
 influence	影響|影響力|支配力|に影響を与える	anc
@@ -488,6 +488,7 @@ watch	を見る|注視する|腕時計	anc
 desire	を要求する|を欲する|求める|と頼む|願望|欲求|要望	anc
 seek	を求める|得ようとする	anc
 list	リスト|名簿に記入する|載る|記入する|表|目録	anc
+miss	女性|小娘|(独身女性の姓の前で)～さん|失敗|ミス|(機会等)逸す	anc
 lie	横たわる|横になる|寝る|うそ|詐欺	original
 complete	完全な|完成した|全くの|を完成する	anc
 direct	指示する|(道)を教える|(注意)をむける|まっすぐに	anc
@@ -1462,7 +1463,6 @@ limit	を制限する|限定する|制限|限定	anc
 nevertheless	それにもかかわらず|それでも|やはり	anc
 literary	文学に通じた|文学の|文芸の	anc
 household	家中のもの|家族|王室|世帯|所帯|家庭|日常の	anc
-miss	女性|小娘|(独身女性の姓の前で)～さん|失敗|ミス|(機会等)逸す	anc
 port	砲門|港|貿易港|商港|港町	anc
 consumer	消費者	anc
 afternoon	午後	anc
@@ -2328,7 +2328,7 @@ dominant	優勢な(反義語recessive)|主要な|有力な	original
 spell	正しく書く|を綴る|後退|呪文|一続き(の期間)|期間	anc
 acquire	を習得する|を獲得する	anc
 emergency	緊急事態	anc
-replace	に取って代わる|を取り替える|take the place of|をもとの場所に戻す	anc
+replace	に取って代わる|を取り替える|(=take the place of)|をもとの場所に戻す	original
 tear	涙|引き裂く|tore(過去形), torn(過去分詞)	original
 platform	(党の)綱領|主義|プラットホーム|演壇|教壇|乗降口|壇|政策の基本プラン	anc
 confusion	混乱|混同|当惑	anc
@@ -6843,7 +6843,6 @@ irrational	不合理な|理性のない|道理のわからない|無理数(の)	
 summon	を招集する|を呼び出す|勧める|命令する|要求する	anc
 unlawful	不法の|非合法的な|私生(児)の	anc
 empress	皇后|女王|女王的な存在|国母	anc
-linux	Linux|リナックス	wnjpn
 malice	悪意|恨み	anc
 cricket	コオロギ	anc
 deploy	展開(する･させる)|配備(する･させる)|分散(する･させる)	anc
@@ -12710,7 +12709,6 @@ chopper	(俗)入れ歯|ヘリコプター|改造オートバイ|肉切り包丁	
 collage	コラージュ(画面に新聞紙の切り抜きや写真をはりつけ特殊な効果をねらう技法)	original
 germinate	(種子など)が芽を出す|成長する|発生する|発生させる|芽を出す	anc
 lamentable	悲しむべき|悲しい	anc
-cio	a federation of North American industrial unions that merged with the American Federation of Labor in 1955	wneng
 midline	正中線	anc
 unrestrained	抑制のない|無制限の|気ままな	anc
 rife	(好ましくないものが)豊富な|広まって	anc
@@ -38064,6 +38062,7 @@ computerize	コンピュータ化する	anc
 tabi	足袋	wnjpn
 slouchy	lacking stiffness in form or posture; "a slouchy sweater"|lacking stiffness in form or posture	wneng
 phenacetin	フェナセチン(鎮痛・解熱剤)	ejdict
+leav	去る|残して去る|許可|休暇	original
 highhanded	高圧的な|高飛車の|横暴な	ejdict
 redraft	a draft for the amount of a dishonored draft plus the costs and charges of drafting again	wneng
 malvasia	used to make malmsey wine	wneng

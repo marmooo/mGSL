@@ -52,16 +52,17 @@ booqsFilepaths.forEach(filepath => {
   });
 });
 
-const lemmatization = { constructor:'constructor' };  // Node.js bug?
+const lemmatizationDict = { constructor:'constructor' };  // Node.js bug?
 readEachLineSync('ECDICT/lemma.en.txt', 'utf8', (line) => {
   let [to, froms] = line.split(' -> ');
   if (froms) {
     to = to.split('/')[0];
     froms.split(',').forEach(from => {
-      lemmatization[from] = to;
+      lemmatizationDict[from] = to;
     });
   }
 });
+delete lemmatizationDict['miss'];
 
 const anc = {};
 readEachLineSync('anc.tsv', 'utf8', (line) => {
@@ -94,7 +95,7 @@ atoz(alphabet => {
     let [en, ja] = line.split('\t');
     if (en in ejdict === false) {
       // 過去形などのノイズを消す (消しすぎてしまうが仕方ない)
-      if (en in lemmatization === false) {
+      if (en in lemmatizationDict === false) {
         ejdict[en] = ja.replace(/…/g, '〜').split(/\s*[,/]\s*/).join('|');
       }
     }

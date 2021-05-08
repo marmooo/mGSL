@@ -10,6 +10,7 @@ readEachLineSync('ECDICT/lemma.en.txt', 'utf8', (line) => {
     });
   }
 });
+delete dict['miss'];
 
 const gsl = { constructor:0 };
 readEachLineSync('2/mGSL.lst', 'utf8', (line) => {
