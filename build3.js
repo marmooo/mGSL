@@ -3,19 +3,21 @@ const readEachLineSync = require('read-each-line-sync');
 const dict = { an:'a' };
 readEachLineSync('agid-2016.01.19/infl.txt', 'utf8', (line) => {
   const [toStr, fromStr] = line.split(': ');
-  const [to, toPos] = toStr.split(' ');
-  let froms = [];
-  fromStr.split(' | ').forEach(forms => {
-    forms.split(', ').forEach(entry => {
-      if (!entry.match(/[~<!?]/)) {
-        const word = entry.split(' ')[0];
-        froms.push(word);
-      }
+  if (!toStr.includes('?')) {
+    const [to, toPos] = toStr.split(' ');
+    let froms = [];
+    fromStr.split(' | ').forEach(forms => {
+      forms.split(', ').forEach(entry => {
+        if (!entry.match(/[~<!?]/)) {
+          const word = entry.split(' ')[0];
+          froms.push(word);
+        }
+      });
     });
-  });
-  froms.forEach(from => {
-    dict[from] = to;
-  });
+    froms.forEach(from => {
+      dict[from] = to;
+    });
+  }
 });
 
 const gsl = {};

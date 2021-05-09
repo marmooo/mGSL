@@ -55,17 +55,19 @@ booqsFilepaths.forEach(filepath => {
 const lemmatizationDict = { an:'a' };
 readEachLineSync('agid-2016.01.19/infl.txt', 'utf8', (line) => {
   const [toStr, fromStr] = line.split(': ');
-  const [to, toPos] = toStr.split(' ');
-  let froms = [];
-  fromStr.split(' | ').forEach(forms => {
-    forms.split(', ').forEach(entry => {
-      const word = entry.split(/[~<!? ]/)[0];
-      froms.push(word);
+  if (!toStr.endsWith('?')) {
+    const [to, toPos] = toStr.split(' ');
+    let froms = [];
+    fromStr.split(' | ').forEach(forms => {
+      forms.split(', ').forEach(entry => {
+        const word = entry.split(/[~<!? ]/)[0];
+        froms.push(word);
+      });
     });
-  });
-  froms.forEach(from => {
-    lemmatizationDict[from] = to;
-  });
+    froms.forEach(from => {
+      lemmatizationDict[from] = to;
+    });
+  }
 });
 
 const anc = {};
