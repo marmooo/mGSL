@@ -7,7 +7,7 @@ mGSL provides a huge list with less noise and accurate statistics.
 
 ## Installation
 - ```npm install```
-- install [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) licensed under the MIT
+- install [AGID](http://wordlist.aspell.net/agid-readme/) licensed under the [AGID License](http://wordlist.aspell.net/agid-readme/)
 - install [kujirahand/EJDICT](https://github.com/kujirahand/EJDict) licensed under the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 - install [datasets/world-cities](https://github.com/datasets/world-cities) licensed under the [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 - install [smashew/NameDatabases](https://github.com/smashew/NameDatabases) licensed under the Unlicense
@@ -28,17 +28,16 @@ bash build1.sh    # preprocessing
 node build2.js    # generate frequency list
 ```
 
-3. pre-cleanup
+3. Cleanup
 ```
-node build3.js    # remove noise & lemmatization
-node build4.js    # remove unknown words
+node build3.js    # lemmatization
 ```
 
-4. cleanup & generate en-ja list
+4. Generate en-ja list
 ```
 node wnjpn.js > wnjpn.txt
 node wneng.js > wneng.txt
-node build5.js  # remove bad words and generate en-ja list
+node build4.js  # remove bad words and generate en-ja list
 ```
 
 ## License
