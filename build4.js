@@ -69,6 +69,7 @@ readEachLineSync('agid-2016.01.19/infl.txt', 'utf8', (line) => {
     });
   }
 });
+delete lemmatizationDict['danger'];
 
 const anc = {};
 readEachLineSync('anc.tsv', 'utf8', (line) => {

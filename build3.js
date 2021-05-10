@@ -1,6 +1,6 @@
 const readEachLineSync = require('read-each-line-sync');
 
-const dict = { an:'a' };
+const lemmatizationDict = { an:'a' };
 readEachLineSync('agid-2016.01.19/infl.txt', 'utf8', (line) => {
   const [toStr, fromStr] = line.split(': ');
   if (!toStr.includes('?')) {
@@ -15,17 +15,18 @@ readEachLineSync('agid-2016.01.19/infl.txt', 'utf8', (line) => {
       });
     });
     froms.forEach(from => {
-      dict[from] = to;
+      lemmatizationDict[from] = to;
     });
   }
 });
+delete lemmatizationDict['danger'];
 
 const gsl = {};
 readEachLineSync('2/mGSL.lst', 'utf8', (line) => {
   let [lemma, count] = line.split('\t');
   count = parseInt(count);
-  if (lemma in dict) {
-    const newLemma = dict[lemma];
+  if (lemma in lemmatizationDict) {
+    const newLemma = lemmatizationDict[lemma];
     if (newLemma in gsl) {
       gsl[newLemma] += count;
     } else {
