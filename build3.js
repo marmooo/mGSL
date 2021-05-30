@@ -1,7 +1,7 @@
 const readEachLineSync = require('read-each-line-sync');
 
 const lemmatizationDict = { an:'a' };
-readEachLineSync('agid-2016.01.19/infl.txt', 'utf8', (line) => {
+readEachLineSync('vendor/agid-2016.01.19/infl.txt', 'utf8', (line) => {
   const [toStr, fromStr] = line.split(': ');
   if (!toStr.includes('?')) {
     const [to, toPos] = toStr.split(' ');

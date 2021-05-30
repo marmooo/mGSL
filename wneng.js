@@ -1,5 +1,5 @@
 const SQLite3 = require('better-sqlite3');
-const db = new SQLite3(__dirname + '/wnjpn.db');
+const db = new SQLite3(__dirname + '/vendor/wnjpn.db');
 const readEachLineSync = require('read-each-line-sync');
 
 
@@ -41,7 +41,7 @@ function uniq(array) {
   return [...new Set(array)];
 }
 
-readEachLineSync('mGSL.lst', 'utf8', (line) => {
+readEachLineSync('3/mGSL.lst', 'utf8', (line) => {
   const [lemma, freq] = line.split('\t');
   const [defs, words] = getWordsEng(lemma);
   // if (words.length != 0) {

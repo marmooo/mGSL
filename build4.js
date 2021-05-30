@@ -12,11 +12,13 @@ function atoz(callback) {
 const filterNGSL = {};
 readEachLineSync('filter-ngsl.lst', 'utf8', (en) => {
   filterNGSL[en] = true;
+  filterNGSL[en.toLowerCase()] = true;
 });
 
 const filterOriginal = {};
 readEachLineSync('filter-original.lst', 'utf8', (en) => {
   filterOriginal[en] = true;
+  filterOriginal[en.toLowerCase()] = true;
 });
 
 const original = {};
@@ -26,7 +28,7 @@ readEachLineSync('def.tsv', 'utf8', (line) => {
 });
 
 const basicDict = {};
-const basicFilepaths = ['ja/ngsl/ngsl.tsv', 'ja/ngsl/nawl.tsv', 'ja/ngsl/bsl.tsv', 'ja/ngsl/toeic.tsv'];
+const basicFilepaths = ['vendor/ngsl/ngsl.tsv', 'vendor/ngsl/nawl.tsv', 'vendor/ngsl/bsl.tsv', 'vendor/ngsl/toeic.tsv'];
 basicFilepaths.forEach(filepath => {
   readEachLineSync(filepath, 'utf8', (line) => {
     const row = line.split('\t');
@@ -39,7 +41,7 @@ basicFilepaths.forEach(filepath => {
 });
 
 const booqs = {};
-const booqsFilepaths = ['ja/booqs/NGSL.csv', 'ja/booqs/NAWL.csv', 'ja/booqs/BSL.csv', 'ja/booqs/TSL.csv'];
+const booqsFilepaths = ['vendor/booqs/NGSL.csv', 'vendor/booqs/NAWL.csv', 'vendor/booqs/BSL.csv', 'vendor/booqs/TSL.csv'];
 booqsFilepaths.forEach(filepath => {
   const csv = csvParse(fs.readFileSync(filepath));
   csv.forEach(row => {
@@ -53,7 +55,7 @@ booqsFilepaths.forEach(filepath => {
 });
 
 const lemmatizationDict = { an:'a' };
-readEachLineSync('agid-2016.01.19/infl.txt', 'utf8', (line) => {
+readEachLineSync('vendor/agid-2016.01.19/infl.txt', 'utf8', (line) => {
   const [toStr, fromStr] = line.split(': ');
   if (!toStr.endsWith('?')) {
     const [to, toPos] = toStr.split(' ');
@@ -72,7 +74,7 @@ readEachLineSync('agid-2016.01.19/infl.txt', 'utf8', (line) => {
 delete lemmatizationDict['danger'];
 
 const anc = {};
-readEachLineSync('anc.tsv', 'utf8', (line) => {
+readEachLineSync('vendor/anc.tsv', 'utf8', (line) => {
   const row = line.split('\t');
   const en = row[0];
   if (!en.match(/^[A-Z]+$/)) {
@@ -95,7 +97,7 @@ readEachLineSync('anc.tsv', 'utf8', (line) => {
 
 const ejdict = {};
 atoz(alphabet => {
-  readEachLineSync(`EJDict/src/${alphabet}.txt`, 'utf8', (line) => {
+  readEachLineSync(`vendor/EJDict/src/${alphabet}.txt`, 'utf8', (line) => {
     let [en, ja] = line.split('\t');
     if (en in ejdict === false) {
       // 過去形などのノイズを消す (消しすぎてしまうが仕方ない)
@@ -107,27 +109,27 @@ atoz(alphabet => {
 });
 
 const badWords = {};
-readEachLineSync('List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/en', 'utf8', (lemma) => {
+readEachLineSync('vendor/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/en', 'utf8', (lemma) => {
   badWords[lemma] = true;
 });
 
 const profanityWords = {};
-readEachLineSync('Google-profanity-words/list.txt', 'utf8', (lemma) => {
+readEachLineSync('vendor/Google-profanity-words/list.txt', 'utf8', (lemma) => {
   profanityWords[lemma] = true;
 });
 
 const names = {};
-readEachLineSync('NameDatabases/NamesDatabases/surnames/all.txt', 'utf8', (line) => {
+readEachLineSync('vendor/NameDatabases/NamesDatabases/surnames/all.txt', 'utf8', (line) => {
   const lemma = line.toLowerCase();
   names[lemma] = true;
 });
-readEachLineSync('NameDatabases/NamesDatabases/first names/all.txt', 'utf8', (line) => {
+readEachLineSync('vendor/NameDatabases/NamesDatabases/first names/all.txt', 'utf8', (line) => {
   const lemma = line.toLowerCase();
   names[lemma] = true;
 });
 
 const cities = {};
-readEachLineSync('world-cities/data/world-cities.csv', 'utf8', (line) => {
+readEachLineSync('vendor/world-cities/data/world-cities.csv', 'utf8', (line) => {
   const row = line.split(',');
   const city = row[0].toLowerCase();
   const country = row[1].toLowerCase();
@@ -148,14 +150,14 @@ delete chemicals['os'];  // 骨
 // 省略形は複数の原形を持つため、lemmatization と同様に扱うと統計値がずれる
 // oct, nov など頻度の高いものも削除されるので注意は必要
 const abbrevs = {};
-readEachLineSync('Abbreviations/sources.txt', 'utf8', (line) => {
+readEachLineSync('vendor/Abbreviations/sources.txt', 'utf8', (line) => {
   const lemma = line.split(' ')[1].toLowerCase();
   abbrevs[lemma] = true;
 });
 
 // 固有名詞のノイズが多い
 const wnjpn = {};
-readEachLineSync('wnjpn.txt', 'utf8', (line) => {
+readEachLineSync('vendor/wnjpn.txt', 'utf8', (line) => {
   const [en, ja] = line.split('\t');
   if (ja != '') {
     wnjpn[en] = ja;
@@ -164,12 +166,12 @@ readEachLineSync('wnjpn.txt', 'utf8', (line) => {
 
 // 固有名詞のノイズが多い
 const wneng = {};
-readEachLineSync('wneng.txt', 'utf8', (line) => {
+readEachLineSync('vendor/wneng.txt', 'utf8', (line) => {
   const [en, ja] = line.split('\t');
   wneng[en] = ja;
 });
 
-const websters = JSON.parse(fs.readFileSync('dictionary/dictionary.json'));
+const websters = JSON.parse(fs.readFileSync('vendor/dictionary/dictionary.json'));
 
 
 readEachLineSync('3/mGSL.lst', 'utf8', (line) => {
