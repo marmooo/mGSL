@@ -16,6 +16,8 @@ mGSL provides a huge list with less noise and accurate statistics.
 - install [fangpsh/Abbreviations](https://github.com/fangpsh/Abbreviations) licensed under the [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
 - install [SQLite3 DB](http://compling.hss.ntu.edu.sg/wnja/data/1.1/wnjpn.db.gz) from [日本語 WordNet](http://compling.hss.ntu.edu.sg/wnja/) licensed under the [Japanese WordNet License](http://compling.hss.ntu.edu.sg/wnja/license.txt) and [WordNet 3.0 License](https://wordnet.princeton.edu/license-and-commercial-use)
 - install [adambom/dictionary](https://github.com/adambom/dictionary) licensed under the MIT and  [Project Gutenberg License](http://www.gutenberg.org/policy/license.html)
+- install [umpirsky/country-list](https://github.com/adambom/dictionar) licensed under the MIT
+- install [umpirsky/language-list](https://github.com/umpirsky/language-list) licensed under the MIT
 
 ## Build
 1. Choose datasets.
@@ -24,19 +26,19 @@ mGSL provides a huge list with less noise and accurate statistics.
 
 2. Generate frequency list when you choose Google n-gram.
 ```
-bash build1.sh    # preprocessing
-node build2.js    # generate frequency list
+bash build1.sh  # preprocessing
+node build2.js  # generate frequency list
 ```
 
 3. Cleanup
 ```
-node build3.js    # lemmatization
+node build3.js  # lemmatization
 ```
 
 4. Generate en-ja list
 ```
-node wnjpn.js > wnjpn.txt
-node wneng.js > wneng.txt
+node wnjpn.js > wnjpn.txt  # optional
+node wneng.js > wneng.txt  # optional
 node build4.js  # remove bad words and generate en-ja list
 ```
 
