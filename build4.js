@@ -12,7 +12,6 @@ function atoz(callback) {
 const filterNGSL = {};
 readEachLineSync('filter-ngsl.lst', 'utf8', (en) => {
   filterNGSL[en] = true;
-  filterNGSL[en.toLowerCase()] = true;
 });
 
 const filterOriginal = {};
@@ -128,6 +127,21 @@ readEachLineSync('vendor/NameDatabases/NamesDatabases/first names/all.txt', 'utf
   names[lemma] = true;
 });
 
+const langs = {};
+readEachLineSync('vendor/language-list/data/en/language.csv', 'utf8', (line) => {
+  const [lang1, lang2] = line.split(',');
+  names[lang1] = true;
+  names[lang2] = true;
+  names[lang2.toLowerCase()] = true;
+});
+
+const countries = {};  // 省略名だけ登録
+readEachLineSync('vendor/country-list/data/en/country.csv', 'utf8', (line) => {
+  const [country1, country2] = line.split(',');
+  names[country1] = true;
+  names[country1.toLowerCase()] = true;
+});
+
 const cities = {};
 readEachLineSync('vendor/world-cities/data/world-cities.csv', 'utf8', (line) => {
   const row = line.split(',');
@@ -182,16 +196,14 @@ readEachLineSync('3/mGSL.lst', 'utf8', (line) => {
     // console.log(line);
   } else if (lemma in filterNGSL) {
     // console.log(line);
-  } else if (lemma in booqs || lemma in basicDict) {
-    if (lemma in original) {
-      console.log(lemma + '\t' + original[lemma] + '\t' + 'original');
-    } else if (lemma in anc) {
-      console.log(lemma + '\t' + anc[lemma] + '\t' + 'anc');
-    } else if (lemma in booqs) {
-      console.log(lemma + '\t' + booqs[lemma] + '\t' + 'booqs');
-    } else if (lemma in basicDict) {
-      console.log(lemma + '\t' + basicDict[lemma] + '\t' + 'basic');
-    }
+  } else if (lemma in original) {
+    console.log(lemma + '\t' + original[lemma] + '\t' + 'original');
+  } else if (lemma in anc) {
+    console.log(lemma + '\t' + anc[lemma] + '\t' + 'anc');
+  } else if (lemma in booqs) {
+    console.log(lemma + '\t' + booqs[lemma] + '\t' + 'booqs');
+  } else if (lemma in basicDict) {
+    console.log(lemma + '\t' + basicDict[lemma] + '\t' + 'basic');
   } else {
     if (lemma in original) {
       console.log(lemma + '\t' + original[lemma] + '\t' + 'original');
@@ -205,6 +217,10 @@ readEachLineSync('3/mGSL.lst', 'utf8', (line) => {
       console.log(lemma + '\t' + anc[lemma] + '\t' + 'anc');
     } else if (lemma in abbrevs) {  // 以下は anc のほうが精度が高い
       // console.log(line);
+    // } else if (lemma in langs) {
+    //   // console.log(line);
+    // } else if (lemma in countries) {
+    //   // console.log(line);
     } else if (lemma in cities) {
       // console.log(line);
     } else if (lemma in names) {
@@ -215,14 +231,14 @@ readEachLineSync('3/mGSL.lst', 'utf8', (line) => {
       console.log(lemma + '\t' + basicDict[lemma] + '\t' + 'basic');
     } else if (lemma in ejdict) {
       console.log(lemma + '\t' + ejdict[lemma] + '\t' + 'ejdict');
-    } else if (lemma in wnjpn) {
-      console.log(lemma + '\t' + wnjpn[lemma] + '\t' + 'wnjpn');
+    // } else if (lemma in wnjpn) {  // noisy
+    //   console.log(lemma + '\t' + wnjpn[lemma] + '\t' + 'wnjpn');
     } else if (lemma in websters) {
       let def = websters[lemma].replace(/\n/g, ' ');
       def = def.split(/;\s*/).join('|');
       console.log(lemma + '\t' + def + '\t' + 'websters');
-    } else if (lemma in wneng) {
-      console.log(lemma + '\t' + wneng[lemma] + '\t' + 'wneng');
+    // } else if (lemma in wneng) {  // noisy
+    //   console.log(lemma + '\t' + wneng[lemma] + '\t' + 'wneng');
     } else {
       // console.log(line);
     }
