@@ -267,21 +267,29 @@ async function loadAbbrevs() {
   return abbrevs;
 }
 
-// // 固有名詞のノイズが多い
-// const wnjpn = {};
-// readEachLineSync("vendor/wnjpn.txt", "utf8", (line) => {
-//   const [en, ja] = line.split("\t");
-//   if (ja != "") {
-//     wnjpn[en] = ja;
-//   }
-// });
-//
-// // 固有名詞のノイズが多い
-// const wneng = {};
-// readEachLineSync("vendor/wneng.txt", "utf8", (line) => {
-//   const [en, ja] = line.split("\t");
-//   wneng[en] = ja;
-// });
+async function _loadWnjpn() {
+  // 固有名詞のノイズが多い
+  const wnjpn = new Map();
+  const fileReader = await Deno.open("vendor/wnjpn.txt");
+  for await (const line of readLines(fileReader)) {
+    const [en, ja] = line.split("\t");
+    if (ja != "") {
+      wnjpn[en] = ja;
+    }
+  }
+  return wnjpn;
+}
+
+async function _loadWneng() {
+  // 固有名詞のノイズが多い
+  const wneng = new Map();
+  const fileReader = await Deno.open("vendor/wnjpn.txt");
+  for await (const line of readLines(fileReader)) {
+    const [en, ja] = line.split("\t");
+    wneng[en] = ja;
+  }
+  return wneng;
+}
 
 const filterNGSL = await loadFilterNGSL();
 const filterOriginal = await loadFilterOriginal();
@@ -299,6 +307,8 @@ const countries = await loadCountries();
 const cities = await loadCities();
 const chemicals = await loadChemicals();
 const abbrevs = await loadAbbrevs();
+// const wnjpn = await _loadWnjpn();
+// const wneng = await _loadWneng();
 
 const websters = JSON.parse(
   await Deno.readTextFile("vendor/dictionary/dictionary.json"),
