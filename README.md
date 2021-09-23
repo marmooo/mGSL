@@ -10,7 +10,6 @@ noise and accurate statistics.
 
 ## Installation
 
-- `npm install`
 - install [AGID](http://wordlist.aspell.net/agid-readme/) licensed under the
   [AGID License](http://wordlist.aspell.net/agid-readme/)
 - install [kujirahand/EJDICT](https://github.com/kujirahand/EJDict) licensed
