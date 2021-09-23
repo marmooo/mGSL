@@ -1060,6 +1060,7 @@ friendly	友好的な|親切な|親善試合	anc
 independent	独立の|他に依存しない|自立の|自治の|自由な	anc
 conduct	振舞う|管理する|導く|行なう|案内する|行為|処置|経営	anc
 zone	地帯|地域|区域|区画する	anc
+smith	かじ屋;金属細工人|製造(製作)人	ejdict
 couple	カップル|夫婦	anc
 repair	を修理する|を修復する|修理	anc
 eg	(ラテン語)「for example」(例えば)の意	anc
@@ -4167,6 +4168,7 @@ toddler	よちよち歩きの幼児|歩き始めの子|1～2才児	anc
 owe	負う|おかげだ|借りている	anc
 equality	等しいこと|平等|同等	anc
 tier	層|列|階段	anc
+pope	ローマ教皇(法王)	ejdict
 complement	補足|全数量|補足物|(文法)補語|補文|補数	anc
 needle	針|注射針|を針で縫う|をいらだたせる|針葉樹の葉	anc
 terrace	段地	anc
@@ -4353,6 +4355,7 @@ fade	衰えさせる|さめる	anc
 particle	微少量|粒子|微粒子|微量|不変化詞(前置詞･接続詞･接頭(接尾)辞など)	anc
 lip	に唇をあてる|を穴のふちにあてる|唇を使う|をつぶやく|唇の|口先だけの|生意気な言葉|唇	original
 strive	努力する|戦う	anc
+dm	decimeter〜decameter	ejdict
 harbour	港|(US英)harbor	original
 renaissance	ルネッサンス|文芸復興	anc
 donna	イタリアの貴婦人	anc
@@ -5025,6 +5028,7 @@ cumulative	累積の|累積|次第に増加する	anc
 crane	ツル|鶴|クレーン	anc
 arbitrary	独断的な|任意の|気まぐれの|恣意的な|不定の	anc
 prominent	目立った|重要な|著名な|突出した|浮き彫りの	anc
+sans	なしに(で)	ejdict
 titanium	チタン	original
 sediment	沈澱物|沈殿物|堆積物	anc
 superintendent	監督(指揮)する|監督者|最高責任者|監督･指揮する	anc
@@ -5257,6 +5261,7 @@ contributor	寄付者	anc
 grateful	ありがたくおもう|感謝して|楽しい	anc
 gradually	ゆっくりと|だんだんと|徐々に	anc
 desirable	魅力がある|価値のある|望ましい|好ましい	anc
+marsh	沼地|湿地(swamp)	ejdict
 journalist	ジャーナリスト|新聞記者	anc
 memorandum	備忘録|覚え書き|メモ|摘要|規約|定款	anc
 lend	貸す	anc
@@ -5353,6 +5358,7 @@ adaptive	適用可能な	anc
 wheelchair	車いす	anc
 convergence	一点に集まること|収束|輻輳	anc
 phantom	幽霊|幻|幻影|幻像|人体模型|幻の|想像上の	anc
+constructor	建設者|建設者	ejdict
 humanitarian	人道主義者|人道主義の	anc
 nirvana	サンスクリットの仏教用語で|涅槃･解脱のこと	anc
 til	〜まで	original
@@ -5464,6 +5470,7 @@ induce	勧誘する|人に勧めて～させる|を引き起こす|(反)exclude|
 scandal	スキャンダル|醜聞|恥ずべきこと	anc
 masturbation	手淫|オナニー	anc
 explode	爆発させる(する)|打破する|破裂する|感情が激発する|評判を覆す	anc
+leu	レウ(ルーマニアの貨幣単位)	ejdict
 peripheral	周辺の|末梢性の	anc
 negotiation	交渉|話し合い|(小切手など)譲渡|談判|流通	anc
 domino	ドミノ服(仮装舞踏会用)|ドミノ牌|(単数扱い)ドミノ(28の牌の点合わせ遊び)	anc
@@ -5488,6 +5495,7 @@ voyage	航海|船旅|飛行|航海記|航海する|(海を)渡る	anc
 notable	注目に値する|著しい|著名な|名士|著名な事物	anc
 petitioner	原告|請願者	anc
 sedan	セダン|セダン型自動車	anc
+aw	(抗議・嫌悪などを表して)おお|うわあ	ejdict
 elf	(小)妖精|小人|小妖精	anc
 defensive	防御の	anc
 accelerate	の速度を速める|加速する|速める|促進する|増進する	anc
@@ -5499,6 +5507,7 @@ subaru	スバル(車名)	anc
 pouch	小袋|袋|を袋に入れる|ポーチ	anc
 vanilla	バニラ|バニラの実|バニラエッセンス	anc
 chancellor	ドイツの首相	anc
+cw	clockwise	ejdict
 nucleus	細胞核|核|心|中軸	anc
 practitioner	開業医師|熟練家	anc
 flute	フルートを吹く|フルート(横笛)	anc
@@ -5852,6 +5861,7 @@ shuffle	(足)をひきずって歩く|を移し替える	anc
 spacious	広い範囲の|広々とした|雄大な	anc
 toast	トースト|乾杯(する)	anc
 cheek	ほお	anc
+chapman	(昔の)行商人|呼び売り人	ejdict
 archaeology	考古学	anc
 beloved	最愛の	anc
 sometime	いつか	anc
@@ -6427,6 +6437,7 @@ cellphone	携帯電話	anc
 wont	習慣|し慣れた	anc
 silicone	シリコーン	anc
 initiation	開始|着手|創始|手ほどき|奥義伝授|入会(式)	anc
+rabbi	ユダヤの律法学者|ユダヤ教の聖職者;その尊称	ejdict
 overload	に荷を積みすぎる	anc
 supervise	を監督(管理)する	anc
 fabrication	作り話|でっち上げ|組立	anc
@@ -6886,6 +6897,7 @@ accountable	説明のつく|責任がある	anc
 battalion	大隊|大部隊	anc
 procedural	手続きの	anc
 delightful	喜びを与える|愉快な|楽しい	anc
+todo	(〜についての)大騒ぎ|騒動 = to-do 《+about(over)+名(doing)》	ejdict
 simulate	擬態する|のふりをする|をまねる	anc
 zodiac	《the ~》黄道帯|獣帯|十二宮図(占星術)	original
 ay	はい|aye|yes	anc
@@ -7269,6 +7281,7 @@ savvy	精通した|抜け目のない|知る|わかる	anc
 equestrian	馬術の|馬の|乗馬姿の|(名詞)乗馬者|騎手	anc
 instinct	本能	anc
 tangible	具体的な|明白な|はっきりと理解できる|実体のある	anc
+welch	=welsh	ejdict
 veterinarian	獣医	anc
 bowel	腸|内臓	anc
 dime	10セント銀貨	anc
@@ -7311,6 +7324,7 @@ tiff	もめごと|争い|quarrel|dispute	anc
 vous	(仏)あなた|の意	anc
 improper	不適切な|不道徳な|不規則な	original
 coyote	コヨーテ	anc
+moor	《英》荒れ地|荒野(こうや)(特にイングランド・スコットランド地方のヒース(heather)などが一面に生えた湿地)	ejdict
 relocate	移転させる|立ち退かせる	anc
 sew	を縫う|縫い物をする|を縫い付ける|ドレミのソ(Doe,Ray,Me,Far,*,La,Tea)	original
 facsimile	ファクシミリ(で送る)|複写(する)|複製|模写	anc
@@ -7541,6 +7555,7 @@ obsession	妄想|取り付かれること|脅迫観念	anc
 housewife	主婦	anc
 scarlet	深紅色|緋|緋色の|緋色(の)(ひいろ)|ひ色(濃い明かるい赤色)|あかね色	anc
 depict	(いきいきと言葉で)描写する|叙述する|描く	anc
+marshal	(英国|その他いくつかの国の)軍司令官|元帥|将官|《米》連邦裁判所の執行官|《米》警察(消防)署長|儀式(パレードなどの)準備担当者|〈兵隊など〉‘を'整列させる|結集させる|〈事|特に事実・考え〉‘を'整理する|整とんする|(所定の位置に)〈人〉‘を'案内する《+『名』〈人〉+『into』+『名』》	ejdict
 cranberry	ツルコケモモ	anc
 reckon	計算する|数える|勘定に入れる|判断する|みなす|思う	anc
 lei	レイ|花輪	anc
@@ -7660,6 +7675,7 @@ reissue	再発刊物|再発行|新版|再び出る|に再発行する|再支給�
 rash	発疹|軽率な	anc
 bravo	喝采のの言葉|ブラボー!	anc
 rehearsal	リハーサル|試演|練習|暗唱	anc
+martini	マーティニ(ジンまたはウオツカとベルモットで作るカクテル)	ejdict
 vague	ばく然とした|曖昧な|ぼんやりした|あいまいな	anc
 hemisphere	半球|半球体|大脳(小脳)	anc
 redevelopment	再開発|再開発区域|再興|再建	anc
@@ -7818,6 +7834,7 @@ shoreline	海岸線|湖岸線|(=coastline)	anc
 endurance	持久力|忍耐|がまん	anc
 pager	ポケットベル|ポケベル|携帯電話|携帯用小型無線呼出し機	anc
 soar	舞い上がる|急に上がる|そびえたつ|高く昇る|急上昇する|急騰する	anc
+tang	(〜の)ぴりっとした味|ぶんとくるにおい《+of+名》	ejdict
 torah	律法	anc
 symmetric	対称の|対称的な|シンメトリック	anc
 appellate	上訴(控訴･上告)の|上訴(控訴･上告)を処理する	anc
@@ -8087,6 +8104,7 @@ thereto	そこへ|それに(加えて)	anc
 tycoon	(資産と権力のある)実業界の大立て者|《しばしば T-》大君(徳川幕府の将軍に対する外人の呼称)	ejdict
 bully	いじめる|いじめっ子	anc
 toby	おきな型ビールジョッキ(toby jug|太った老人の顔をしたジョッキ)|細長い安葉巻|フグ|街道|地域|追いはぎ	anc
+reopen	再開する|再び始める	anc
 soluble	溶解できる|(物質が)溶けやすい|溶性の|(問題が)解決できる(=solvable)	anc
 radiant	輝くばかりの|うれしそうな|凛然とした	anc
 yearbook	年鑑|年報|卒業記念アルバム	anc
@@ -8914,6 +8932,7 @@ pneumonia	肺炎('p'はsilent)	anc
 drunken	酔った|酔っぱらった|酔っぱらい	anc
 spoiler	スポイラー	anc
 distraction	精神錯乱|気晴らし	anc
+rein	手綱|統制|手段|拘束|指揮|制御する	anc
 baroque	バロック式の(16世紀の半ばから18世紀にかけてヨーロッパに流行した美術・建築様式)|《時にB-》バロック[風]の(特にBachやHandelの時代の音楽についていう)|《しばしばthe B-》〈U〉バロック式建築;バロック音楽|〈C〉バロック式の作品	ejdict
 madam	奥様|(俗)めかけ	anc
 entropy	エントロピー(物質の熱変化による自由度の関数･情報の欠如･不確実性を表わす量)	anc
@@ -9277,6 +9296,7 @@ hive	ミツバチの巣箱(=beehive)	anc
 repeater	リピータ(繰り返す人|客)	anc
 fob	フォッブ|策略|ごまかす|無視する|つかませる	anc
 fam	家族	anc
+technologist	科学技術者	anc
 experimentation	試すこと|実験	anc
 dealing	分配する	anc
 pathetic	哀れな|感傷的な|無価値な	anc
@@ -9308,6 +9328,7 @@ chit	幼児|子供|小娘|(飲食の)伝票|短い手紙|メモ|(chit-chatおし
 starch	澱粉|糊|のり	anc
 leash	(犬などを)つなぐひも|鎖	anc
 elicit	引き出す|導きだす	anc
+divider	分割機|分割者|分配者|分裂のもと|離反者|仕切りページ|大活字|小見出し	anc
 grenade	手りゅう弾|手榴弾|催涙弾	anc
 sanity	正気|(思想･判断などの)健全さ	anc
 pragmatic	実用主義の|実際的な	anc
@@ -9411,6 +9432,7 @@ outbound	外国行きの	anc
 scrabble	ひっかき回す|手さぐりする	anc
 restless	絶えず動いている|落ち着かない|不安な|やむことのない	anc
 unanswered	未回答	anc
+sprawl	ばらばらに広がる|だらしなく伸びる|手足を延ばす|大の字に寝そべる|這い歩く|スプロール現象	anc
 cameo	カメオ(瑪瑙･大理石･貝殻などに横顔を浮き彫りにした装身具)	anc
 courtroom	法廷	anc
 bolster	強める|支持(する)|長まくら(pillowの下の)	anc
@@ -9553,6 +9575,7 @@ modal	様式の|様態の|形式上の|形態上の	anc
 ratification	批准|承認	anc
 ooh	アア|ウー|オー|ワー|アッと驚く	anc
 vial	ガラスびん|水薬びん	anc
+awning	日よけ	anc
 lucent	光る|輝く	anc
 orthopedic	整形外科の|整形外科	anc
 familiarity	親密	anc
@@ -9583,6 +9606,7 @@ loosely	しまりがなく|ゆるく|大まかに	anc
 hertz	ヘルツ	anc
 firefighter	消防士	anc
 digestion	消化	anc
+collide	衝突する|ぶつかる|一致しない	anc
 puck	(アイスホッケーの)パック	ejdict
 propulsion	推進(力)	anc
 allotment	割当て|分配	anc
@@ -9659,10 +9683,12 @@ piazza	広場|市場|ベランダ|回廊	anc
 notepad	メモ用紙|はぎ取り式ノート	anc
 optimism	楽天主義|楽観主義	anc
 unusually	いつになく|異常に|著しく|一風変わって|非常に|ひどく	anc
+buoy	浮標|ブイ	anc
 impotence	インポテンス|性的に不能の	anc
 constable	警官 	anc
 depletion	使い尽くすこと|枯渇|減損|減価償却	anc
 wrangler	口論する人|言い争う人	anc
+gam	(特に女性の)魅力的な脚|すんなりした脚	ejdict
 alligator	アメリカワニ|ワニ皮	anc
 intravenous	静脈内の|静脈(注射)(の)	anc
 hereafter	今後(は)	anc
@@ -10152,6 +10178,7 @@ unsatisfactory	不満足な|満足できない|十分でない|中途半端な	a
 filament	単繊維|糸状のもの|(おしべの)花糸|(電球の)フィラメント	anc
 fluent	ゆったりとした|流れる|流暢な|雄弁な|文章のうまい|ゆるやかな|流れるような	anc
 coulter	(kóʊltɚ)鋤(すき)の歯|人名	anc
+minivan	ミニバン	anc
 cheesecake	チーズケーキ|お金|(俗)女性の脚線美の写真|性的魅力のある若い女	anc
 blacklist	ブラックリスト	anc
 chunky	ずんぐりした|がっちりした|厚ぼったい	anc
@@ -10266,6 +10293,7 @@ thrift	倹約|繁茂|幸運|ハマカンザシ	anc
 brighten	明るくなる|輝かせる|輝く	anc
 bookkeeping	簿記	anc
 fluctuate	動揺する|変動する|揺動する	anc
+tinker	(機械などを)下手に･間に合わせに修繕する|Tinker Bell|ティンカーベル(Tinkerbell|ピーターパンに出てくる妖精)	anc
 inefficient	役に立たない	anc
 parasite	寄生動物|寄生植物|宿り木|居候|寄生虫	anc
 ransom	身代金(を払う)|賠償金|解放|受け渡し	anc
@@ -10320,6 +10348,7 @@ nee	旧姓は	anc
 nautilus	オウムガイ|アオイガイ	anc
 articulation	調音|個々の音をはっきり発音すること|明確な発音|話しぶり|関節|(文法)分節|接合	anc
 radically	完全に|根本的に|徹底的に|急進的に	anc
+coupler	(車両の)連結器	ejdict
 accrual	＜accrue|生じること･もの|発生|増加|定期的に累増する金額|見越し額|金利発生型の	anc
 dedicate	捧げる|打ち込む|専念する|献げる	anc
 preamble	序文|前文|序言|緒言	anc
@@ -10456,6 +10485,7 @@ undesirable	好ましくない|望ましくない|不快な	anc
 anatomical	解剖の	anc
 eccentric	普通でない|変人|一風変った|常軌を逸している	anc
 airbus	エアバス	anc
+injector	注射器(=syringe)	anc
 salle	ホール|広間|室	anc
 infra	(書物・論文で)以下に|下に|あとに	ejdict
 implicitly	暗黙のうちに|それとなく|暗に|絶対的に|(反|explicitly)	anc
@@ -10498,6 +10528,7 @@ entice	誘惑する|誘う	anc
 tartan	タータン|格子じま|(スコットランド高地人の)格子じま毛織物	anc
 bile	胆汁|かんしゃく|不機嫌	anc
 rarity	まれなこと	anc
+chariot	(古代の)一人乗り軽三輪戦車|立派な馬車|(俗)古くて大きな自動車	anc
 rendition	演奏|演出|公演|翻訳	anc
 gecko	ヤモリ|(banded geckos 縞模様のヤモリ)　(外見は似ているが|ヤモリは爬虫類でイモリは両生類 )	anc
 transcriptional	転写の	anc
@@ -10518,6 +10549,7 @@ fad	一時的流行|気まぐれ|気紛れ	anc
 waitress	ウエイトレス|女性の給仕	anc
 brilliance	ブリリアンス(高域の再生度)|(頭の･腕の)冴え|華|明敏さ|すぐれた才能|音の輝かしさ|光輝	anc
 welder	溶接機|溶接工	anc
+modulus	係数|率|絶対値(absolute value)|標準|規準(norm)	anc
 infarction	梗塞	anc
 respectable	品位のある|立派な|尊敬すべき|有徳の|堅気の|上品な|相当な	anc
 lesion	障害|病変|外傷|損傷|病気による組織の変形	anc
@@ -10563,6 +10595,7 @@ expedite	促進させる|を素早く片づける|(手紙など)を急送する	
 sideways	横へ|横から|斜めに|横向きに|横の|斜めの|横向きの	ejdict
 devious	素直でない|心の曲がった|遠回りの	anc
 seduction	誘惑	anc
+forester	林務官|森林の住人	anc
 redo	装飾を変える	anc
 caddy	茶筒|小形容器|caddie	anc
 ordinate	縦座標,縦軸	booqs
@@ -10622,6 +10655,7 @@ existent	存在する|実在する|現存する|生きている;現在の	ejdict
 phosphatase	ホスファターゼ|リン酸モノエステルの分解酵素のこと|リン酸モノエステルまたはポリリン酸化合物を加水分解し|リン酸と水酸基を持つ化合物とに変換する(=脱リン酸化)	anc
 inset	インセット|はめ込み|折り込み広告|挿入画|にはめ込む|挿入する	anc
 killing	殺す|致死の|枯らす|死にそうな|骨の折れる	anc
+seaman	船員	anc
 perpendicular	垂直の|垂線|垂直|直角をなす|直立した	anc
 rectify	調整する|誤りを修正する	anc
 salmonella	サルモネラ菌	anc
@@ -10648,6 +10682,7 @@ tortoise	カメ|のろい人|リクガメ	anc
 flax	(植物)|アマ(亜麻)|麻の繊維|亜麻布|リンネル	anc
 conformation	一致|均整のとれた配列|形態|構造|整合|組織|適合|配座|配置|立体配座	anc
 fray	論争|口論|乱闘|(神経)をすり減らす	anc
+werewolf	狼人間|狼男	anc
 baba	ラム酒入りケーキ	anc
 electorate	選挙民|有権者	anc
 podium	石造りの土台|演壇|指揮台	anc
@@ -10763,6 +10798,7 @@ crawler	這う人|はいはいする乳児|這って歩く動物|爬虫類|ご�
 indefinite	限界のない|不明瞭な|不正確な|(文法)不定の	anc
 thine	なんじのもの|汝の	anc
 superiority	優越	anc
+disgrace	の両目を失わせる|恥辱|不名誉	anc
 ambience	環境|雰囲気	anc
 equinox	春分|秋分|昼夜平分時|春秋分点|(春分の日Spring Equinox Day|Vernal(春の)Equinox Day|秋分の日Autumnal Equinox Day)	anc
 obstruct	遮断する|ふさぐ|妨げる	anc
@@ -10927,6 +10963,7 @@ embarrassment	困惑|困難	anc
 monarchy	君主政治|君主国	anc
 nativity	出生|誕生	anc
 complicate	面倒にする|を複雑にする|困難にする	anc
+lefty	左利き	anc
 kohl	コール墨|アンチモニーの粉末でアラビア婦人などがまぶたを黒く染める|人名	anc
 bestseller	ベストセラー	anc
 trimester	主に妊娠期間の)3か月間|(米国)(3学期制の)1学期	anc
@@ -10948,6 +10985,7 @@ chiefly	とりわけ|主に|たいてい	anc
 rial	リアル(イランの通貨の単位)	ejdict
 noodle	(料理)ヌードル|(俗)頭|ばか	anc
 restitution	賠償|返却|返還|損害賠償	anc
+moot	議論の余地がある|未決定の|議題にのせる|討論する	anc
 postpone	を延期する|を延ばす|put off|を下位に置く	anc
 snowflake	雪片|スズランズイセン	anc
 cocoon	まゆ|繭	anc
@@ -10992,6 +11030,7 @@ slay	殺害する|を殺す|を圧倒する	anc
 constipation	便秘	anc
 appropriateness	妥当性	anc
 splendor	輝き|豪華	anc
+treatise	学術論文|論文|報告書	anc
 negotiator	交渉者	anc
 candida	カンジダ菌|-症|カンジダは酵母(単細胞性菌類)の属名|出芽で増殖|カンジダ･アルビカンス(C|albicans)はカンジダ症を起こす病原体|消化管|膣粘膜に棲み|体調が悪い時日和見感染を起こす	anc
 homage	忠誠の誓い|敬意|忠誠|主従関係|臣従の誓い	anc
@@ -11143,6 +11182,7 @@ dinghy	救命ボート|小舟|付属船	anc
 unitary	単一の|一元の|単位として用いる|単位の|単一政府制の|中央集権制の	anc
 chez	～で|(仏語)	anc
 admittedly	明らかに|正直なところ	anc
+giraffe	キリン	anc
 microelectronics	マイクロ電子工学	ejdict
 observational	観測の	anc
 angst	不安|苦悩	anc
@@ -11193,6 +11233,7 @@ planter	栽培者|植民者|大農園主|種蒔き機|プランター	anc
 minimally	最小限	anc
 tendon	腱|the Achilles' tendonアキレス腱	anc
 immaculate	汚れていない|欠点のない|無傷の|純潔な	anc
+inbreed	同系交配する	anc
 salty	辛らつな|塩辛い	anc
 mailing	郵送	anc
 beachfront	ビーチフロント|浜辺沿いの	anc
@@ -11223,6 +11264,7 @@ evangelist	福音伝道者|伝道師|巡回説教者|俗人の伝道者	anc
 seine	地引き網|〈魚〉‘を'地引き網でとる|地引き網で漁をする	ejdict
 smut	汚す|塊り|黒穂病	anc
 ginseng	薬用ニンジン|朝鮮人参|アメリカニンジン	anc
+chimp	chimpanzeeチンパンジー	anc
 delinquency	非行行為	anc
 occured	発生した	anc
 profoundly	心から|深く|大いに	anc
@@ -11245,6 +11287,7 @@ astral	星の(ような)|星形の	anc
 discontinuity	途切れ|隔たり|支離滅裂|切れ目|断絶|不連続|不連続点|裂け目	anc
 transduction	形質導入|特定の増殖様式を有するファージ(細菌を宿主にするウイルス)が感染した細菌の遺伝子を粒子内に取り込み|次に感染する細菌内に導入する現象	anc
 aortic	大動脈の	anc
+announcer	アナウンサー	anc
 quasar	クェーサー|準星|恒星状天体|(quasi-stellar object|quasi類似の|準|-stellar星の)|非常に離れた距離で極めて明るく輝き|光学望遠鏡では恒星のような点光源に見える天体	anc
 corrugate	〜‘に'波形をつける;〈皮膚や顔〉‘に'しわを寄せる|波形になる;しわが寄る	ejdict
 matador	(スペイン語)マタドール|闘牛士	anc
@@ -11266,6 +11309,7 @@ literate	読み書きできる|文学通の|文献	anc
 harlequin	《H-》ハーレクィン|アルルカン(無言劇などの道化役)|〈C〉道化師|道化もの	ejdict
 birthdate	生年月日	anc
 measles	麻疹|はしか(ミーズルズ)	anc
+ointment	軟膏	anc
 upbeat	上向き|陽気な|楽天的な|上拍(指示)|好景気	anc
 amenity	快適さ|礼儀|生活を楽しくするもの|(人柄)感じのよさ	anc
 blockade	封鎖|妨害	anc
@@ -11562,6 +11606,7 @@ reagent	試薬	anc
 conglomerate	コングロマリット|集塊状の|複合企業	anc
 achievable	達成可能な	anc
 westward	西向きの|西へ	anc
+redress	弊害を除く|直す|不正を償う|改善|ただすこと	anc
 glamorous	魅惑的な|魅力的な	anc
 ruff	切り札で切る|ひだえり(魚|スズキの類)	anc
 frantic	気違いじみた|狂気じめた|半狂乱の|死にものぐるいの	anc
@@ -11571,6 +11616,7 @@ breezy	そよ風の吹く|快活な	anc
 cheesy	チーズ質の|(俗)低級な	anc
 chute	(ʃúːt)|落とし樋|(郵便投下装置|a letter chute レターシュート)|急流|落下傘(=parachute)	anc
 mundane	世俗的な|ありふれた	anc
+hemorrhage	出血|(資産･頭脳の)流出|多量に出血する	anc
 dioxin	ダイオキシン	anc
 spearhead	の先頭に付く|槍の穂|先頭|先陣	anc
 discredit	の信用を落とす|疑う|不名誉	anc
@@ -11609,6 +11655,7 @@ deceptive	人をだますような|ごまかしの	anc
 undertaking	仕事|引き受けた事|請け負った仕事|企業|約束	anc
 petrochemical	石油化学製品	anc
 soloist	ソリスト|独奏者|独演者	anc
+thatcher	屋根を葺く人・屋根葺き職人	ejdict
 sumo	相撲	anc
 ell	L字形のもの|Lの字|エル|直角エルボー	anc
 dilute	薄める|希釈する|薄くする	anc
@@ -11651,6 +11698,7 @@ oversize	特大サイズ|網上|大き過ぎる|特大の|必要以上に大き�
 ligament	靭帯(じんたい)	anc
 caribou	カリブー(北米産トナカイ)	anc
 tequila	(ｽﾍﾟｲﾝ語)テキーラ|メキシコ産の蒸留酒	anc
+montage	モンタージュ(技法)	anc
 expansive	広大な|発展的な|膨張力のある|膨張性の|拡張的な|展開的な	anc
 craftsmanship	技能	anc
 stratus	層雲	ejdict
@@ -11671,6 +11719,7 @@ woodpecker	キツツキ|啄木鳥	anc
 sphinx	〈C〉(古代エジプトの)スフィンクス;《the S-》(ピラミッド近くの)大スフィンクス|《S-》(ギリシア神話で)スフィンクス(女の頭とライオンの胴に翼をもった怪物で|通行人になぞをかけ解けない者を殺したという)|〈C〉不可解な人物|なぞの人	ejdict
 esoteric	秘密の|難解な|奥義に達した|深遠な	anc
 luxe	贅沢|華美	anc
+whine	すすり泣く|ぐちをこぼす|哀れっぽい声|犬の鳴き声	anc
 crotch	(人体･ズボンの)股|(樹木の)叉(fork)|二股	anc
 tux	タキシード|tuxedo	anc
 landing	着陸|上陸	anc
@@ -11956,6 +12005,7 @@ ensign	旗|国旗	anc
 ashtray	灰皿	anc
 unattached	結合されていない	anc
 negligent	怠慢な|無頓着な|不注意な	anc
+arson	放火(犯)	anc
 woe	悲痛|苦悩|悲哀|災難|悩みの種	anc
 hasten	急いでする|急ぐ|急いで～する|急がせる|せきたてる	anc
 tranquility	静けさ|静かなこと|平和|平静|安寧	anc
@@ -11977,9 +12027,11 @@ racquetball	ラケットボール|壁に囲まれたコートでボールを壁�
 glycol	グリコール	anc
 sinner	罪人|罪を犯した人	anc
 ergo	(ラテン語)(それ)ゆえに	anc
+payback	資本回収	anc
 conduction	伝導	anc
 countess	伯爵婦人	anc
 crafty	狡猾な	anc
+dill	ディル|ヒメウイキョウ(セリ科の植物で|実と葉はピクルスなどの香味料)	anc
 fella	fellow|ヤツ	anc
 gritty	ほこり(砂)だらけの|砂のような|砂利の入ったような	anc
 coronation	戴冠式	anc
@@ -12009,6 +12061,7 @@ sarge	=sergeant	ejdict
 battleship	戦艦	anc
 backlash	バックラシュ|跳ね返り|非難|反発	anc
 drapery	(ひだのついた)掛け布|織物|生地	anc
+cappuccino	泡立てクリームをのせたエスプレッソコーヒー	anc
 humid	湿度の高い|多湿の|むしむしする	anc
 domicile	住居|居所|居住地|家|住所|定住させる	anc
 stint	仕事を割り当てる|を制限する|出し惜しみ|制限|割当|ハマシギ(鳥)	anc
@@ -12027,6 +12080,7 @@ piranha	ピラニア|ピラニヤ	anc
 smog	スモッグ|煙霧	anc
 unattended	付き添いのない	anc
 inauguration	就任式|開始|開会|就任(式)	anc
+monsieur	様	anc
 alder	ハンノキ|(カバノキ科の広葉樹)|家具材に使用	anc
 dissipation	浪費|消散|放蕩|道楽	anc
 executor	指定遺言執行者|執行者	anc
@@ -12044,6 +12098,7 @@ marketer	マーケティング担当者	anc
 shudder	震える|身震いする|(建物･船などが)揺れる	anc
 resend	再送する	anc
 baffle	まごつかせる|挫折|調節板|挫折させる|迷わせる|くじく	anc
+masthead	マストの先|マストの先の見張人|マストヘッド|新聞名|発行人欄	anc
 gelatin	ゼラチン	anc
 adenosine	アデノシン(RNAを構成するヌクレオシドで|神経伝達物質)	anc
 dissection	切開|解剖|分析|解体	anc
@@ -12061,6 +12116,7 @@ ere	で|において|前|以前	anc
 abacus	そろばん	anc
 richly	十分に	anc
 fowl	(fάʊl)|ニワトリ|鶏	anc
+chilli	トウガラシ|唐辛子|(薬味の)チリ (国名のチリはChile)	anc
 resentment	憤慨|恨み|憤り|立腹	anc
 priori	先験的な	anc
 vaguely	漠然と|あいまいに|ぼんやりと	anc
@@ -12122,7 +12178,9 @@ interlude	合間(の出来事)	anc
 whim	気まぐれ|気まぐれな思いつき|巻き上げ機	anc
 appetizer	食前酒	anc
 generality	一般的な考え	anc
+azimuth	(æzəməθ)|(天文)方位角|方位|発射方位|アジマス	anc
 telemetry	テレメーター法(遠隔測定法)	anc
+fodder	まぐさ(馬草)|にまぐさを与える	anc
 consumable	消耗品|消費できる	anc
 bran	ぬか|ふすま	anc
 touche	一本あり|参った!|うまい!	anc
@@ -12130,6 +12188,7 @@ boardroom	役員室	anc
 veal	子牛の肉	anc
 creatively	創造的に	anc
 tremendously	途方もなく	anc
+geeky	おかしな	anc
 primrose	サクラソウ|淡緑黄色	anc
 oscillation	(ὰsəléɪʃən)振動|振幅|変動|車体動揺|(心などの)動揺|ためらい	anc
 interfaith	異宗派間の	ejdict
@@ -12193,64 +12252,128 @@ sniffer	くんくんかぐ人(動物)|におい探知器	ejdict
 hermit	世捨て人|隠者|隠遁者|世捨人	anc
 corso	大通り	anc
 wrongly	不正に|誤って|間違って|不当に	anc
+quantification	定量化	anc
+falsely	偽って	anc
+adultery	不倫|姦通|密通	anc
 parkland	風致地区	anc
 brainstorm	突然思い浮かぶ妙案(インスピレーション)|ブレインストーム	anc
+midwestern	中西部の	anc
+charisma	カリスマ(性)(神授の力)|権威|人々を信服させる教祖的な指導力	anc
+patronage	後援|(ペｲﾄｩﾛﾆｯｼﾞ)(顧客の)ひいき|愛顧|保護|いばった態度|商店へのひいき	anc
 tern	三つ揃い|三つ組|3数の組み合わせによるくじ|3本マストのスクーナー|アジサシ(鳥)|インターン|実習医	anc
 misfortune	不運|不幸な|災難	anc
+impetus	勢い|刺激|推進力|起動力|はずみ	anc
 gripe	絶えず不平を言う|腹痛をおこす|(俗)不平|怒り	anc
+malnutrition	栄養失調	anc
+intercultural	異文化間の	ejdict
+superfamily	生物上科(科の上)	anc
+functionally	機能的に	anc
+rabies	狂犬病	anc
+readability	読みやすさ;おもしろく読めること|判読できること	ejdict
 assemblage	(仏語)隣接物件のまとめ買い|一括遺物|アッサンブラージュ|寄せ集め構成(の抽象画)|寄せ集め作品	anc
+transatlantic	大西洋の向うの|大西洋横断の	anc
+glutathione	グルタチオン|3つのアミノ酸から成るトリペプチド|抗酸化物質の1つ	anc
 multiplicity	重複|多様性	anc
 ebb	引き潮|衰退|干潮|減退|衰退期	anc
+angina	狭心症	anc
 manatee	マナティー|海牛(水生ほ乳動物)	anc
+cayenne	(粉)トウガラシ|トウガラシの実	anc
 centrifuge	遠心機|遠心分離機|を遠心分離機で分離する|遠心分離機にかける	anc
 nightingale	ナイチンゲール|さよなきどり(夜歌う鳥)|美声の女性	anc
 detour	迂回	anc
+balboa	バルボア(パナマ共和国の貨幣単位)	ejdict
 quadrangle	四角形|中庭|陸地区画	anc
 hoof	ひづめ|足	anc
+wainwright	荷車製造	anc
 microchip	極小チップ|マイクロチップ	anc
+brilliantly	あかあかと|あざやかに|キラキラと|すばらしく|水際だって	anc
+ionization	イオン化	anc
 succumb	屈服する|圧倒される|敗ける|死ぬ	anc
 annexation	付加(物)|併合(領土)	anc
+congregational	集合の|集団の	anc
+waterfowl	(集合的に)水鳥|(fowl にわとり)	anc
 bongo	ボンゴ(大小2つの片面太鼓をつなぎ合わせた打楽器|bongo drum)	anc
 likeness	類似|画像|肖像|外見	anc
 physique	体格|体形	anc
 pullover	(頭からかぶる)プルオーバー	anc
 winger	ウィングの選手	anc
+madras	マドラス木綿(インド原産;しまやチェックあや織りで|シャツやドレス用)	ejdict
 feud	敵意|不和(になる)|論争(=dispute)|(封建時代の)領地	anc
+faro	銀行|賭けトランプの一種	anc
 calibrate	に目盛りをつける|較正する|目盛りを決める	anc
+skepticism	懐疑論|懐疑主義|懐疑的な態度|無神論	anc
 reliever	救済者	anc
 ratify	(条約)を批准する	anc
+simplistic	極度に単純化した|簡単に割り切りすぎた	anc
+psychotic	精神異常者|精神病の|病性の	anc
+individuality	個性	anc
 eggplant	ナス(=aubergine)	anc
+freehold	(不動産などの)自由保有権|自由保有不動産	anc
 wince	いやな顔をする|たじろぐ|ひるむ|たじろぎ|怯む	anc
 casket	小箱|棺|かんおけ|ひつぎ(coffinの遠回し語)	anc
 alp	高山|高峰	ejdict
+agar	テングサ|寒天(培養基)	anc
 energize	元気づける|活動させる	anc
 sarcoma	肉腫|(非上皮性組織由来の悪性腫瘍)	anc
 fascia	帯状のもの|バンド|ひも|包帯|(店頭上部の)看板|筋膜(筋肉や内臓を包む膜)	anc
 pate	頭|脳天|Pâté(仏)|料理名パテ(すりつぶした肉やレバーを調味した料理)	anc
+polycarbonate	ポリカーボネート樹脂	anc
+placer	砂鉱床	anc
 cartoonist	漫画家	anc
 reprise	(主題などの)反復|繰り返す	anc
 consonant	調和する|一致して|(文法)子音	anc
+irritable	おこりっぽい	anc
+scum	浮きかす|屑|灰汁(あく)|かすが浮かぶ|の浮きかすをすくう|くず|かす|泡|温めた牛乳に張る膜	anc
+cunning	抜け目のない|ずるい	anc
 mouthpiece	マウスピース|送話口|口金|代弁者	anc
+associative	連合の|連想の|結合の	anc
 aeon	永劫|エオン(時間の単位=10億年)	anc
 subfamily	亜科	anc
 tribulation	苦悩|苦難	anc
 anthropologist	人類学者	anc
+westside	ウェストサイド物語(映画名)	anc
 mogul	モーグル(スキー競技名)|(M-)ムガール人(16 世紀にインドを征服したモンゴル族と子孫)|重要人物|権力者	anc
 fag	(俗)男性同性愛者|ゲイ|ホモ|あくせく働く	anc
+occidental	西洋(人)の	anc
+vigor	元気|力|活力|活気|迫力|勢い|(植物などの)生長力	anc
 warlock	魔法使い(男)|占い師|手品師|魔術師	anc
+evasion	言い逃れ|回避|くぐりぬけ|脱税	anc
+matrimonial	結婚の|夫婦の	anc
+tween	トゥイーン(MS Windowsで作動するTwitterのアプリケーション)	anc
+hydraulics	水力学|水理学	anc
+boucher	バウチャー|証書	anc
+prostitute	金のために売る|売春婦	anc
 denounce	公然と非難する|告発する|糾弾する|訴える	anc
+warmer	暖める人|加湿器	anc
 homemaker	主婦	anc
+halftime	ハーフタイム	anc
+giro	郵便振替	anc
+tenderness	柔らかさ|もろさ|敏感|愛情	anc
 convent	修道院	anc
+ocular	目の|視覚による|ocular proof 目に見える証拠|接眼鏡	anc
+sandman	睡魔	anc
 pizzeria	ピッツェリア|ピザパイを売る店	anc
+dung	肥料(manure)|糞	anc
+conclusive	結論的な|決定的な|最終的な	anc
 curtail	切り詰める|短縮する|省略する|削減する	anc
 fling	放り投げる|(軍隊など)を投入する|急に～する|情事	anc
 guerilla	ゲリラ(兵)|不正規兵	anc
 breakup	解散|崩壊	anc
 peri	ペリ|イラン神話|翼があり魔法を使う妖精|男は威厳があり女は美しく|火から生まれ麝香(じゃこう)やシタンの香りを食べる|ペリの女性が人間の男と結婚する事もある	anc
+brutality	横暴さ	anc
+plentiful	たくさんの|豊富な|多くの|豊富の|たっぷりの	anc
+massively	大規模	anc
+stately	威厳のあった|威厳のある|堂々と	anc
+lunchtime	昼食の時間	anc
+aeronautical	航空の	anc
 resonate	鳴り響く	anc
 linguist	諸外国語に通じた人|言語学者	anc
+circumcision	割礼(ユダヤ教などで宗教的儀式として男性の陰茎包皮を切り取ること)|《Circumcision》(カトリックで)キリスト割礼の祝日|(聖公会で)受割礼日(1月1日)	ejdict
 neuter	中性(の)	anc
 jest	しゃれ|冗談|戯れ|からかい|物笑い(の種)	anc
+exhibitionism	自己宣伝癖|露出症	anc
+redux	戻ってきた	anc
+compensatory	償いの|賠償的な|報酬の	anc
 guardianship	後見人の身分(役目|期間)	ejdict
 whisk	をさっと払う|をさっと動かす|を泡立てる|すばやい動き|泡立て器	anc
 agate	めのう(瑪瑙)	anc
@@ -12259,6 +12382,7 @@ fawn	じゃれつく|子鹿	anc
 recapture	取返す	anc
 disjoint	の関節を外す|脱臼させる|バラバラにほぐす|支離滅裂にする|交わらない|解体する|ちぐはぐにする	anc
 binge	ばか騒ぎ|どんちゃん騒ぎ(spree)|過剰な飲食	anc
+rayon	レーヨン|絹に似せて作った繊維|人絹(人造絹糸)や|ステープル･ファイバーからスフと呼ばれていた|Rayonは光線(ray)と綿 (cotton) の合成語	anc
 hacienda	(中･南米で住宅のある)農園|(農園･牧場の)住居	anc
 granddaughter	孫娘	anc
 thump	強い打撃|を打つ|にぶつかる|ゴツン|げんこつの音	anc
@@ -12267,23 +12391,34 @@ spectre	可視光|紫外線|赤外線などを分光器で分解し|波長の順
 cutout	切り抜き|安全器	anc
 anode	(電気の)陽極(positive pole)	ejdict
 anesthetic	麻酔剤|麻酔の|感覚が麻痺した|無感覚な|鈍感な	anc
+concurrence	一致	anc
 gully	谷川|峡谷|溝|下水	anc
 categorization	カテゴリー化	anc
 lunatic	精神異常者の|狂気の|精神異常者|愚人	anc
+troublesome	やっかいな|骨の折れる	anc
 freedman	(奴隷から解放された)自由民	anc
+eucharist	聖餐(式)|聖餐用のパンとブドウ酒	anc
 interceptor	妨害者(物)|(軍)迎撃機	anc
+objectivity	客観性	anc
 retard	遅らせる|送らせるもの|遅延|阻害|抑制剤	anc
 blacksmith	かじ屋|鍛冶屋	anc
 coffeehouse	コーヒー店	anc
+hereto	これに|この点(場所|事)へ	ejdict
+magnetism	磁力|魅力|磁気|人を引きつける力|磁気学	anc
+inventive	発明の才のある	anc
 clinician	臨床医	anc
 eyeball	眼球	anc
 further	さらにずっと|さらに先に|一層遠く|その上|更に	anc
 shorty	ちび|短い服|背の低い人|丈の短い	anc
+chromosomal	染色体の	anc
 velour	ベロア|ビロード布の一種|ソフトな感じの布|ぬいぐるみの人形などに使われる|ベロアの帽子	anc
 ostrich	ダチョウ|駝鳥|現実逃避者	anc
 tuba	チューバ(低音金管楽器)	anc
 elixir	霊薬|特効薬(イリクサ)|万能薬|不老不死の薬	anc
+cutting	割って入る	anc
+cyclical	周期的な(に起る)|循環する|循環株	anc
 lurker	潜んでいる人	anc
+mechanically	機械で|無意識的に	anc
 dike	みぞ|ditch|水路|堤防|土手道|堤防を築く|溝|土手	anc
 wiener	ウィンナソーセージ(語源|Vienna|Austria)|フランクフルト|ホットドッグ	anc
 fantasia	幻想曲|fantasy	anc
@@ -12293,77 +12428,156 @@ neoplasm	(体内にできる)新生物|腫瘍	anc
 crackdown	(違法行為の)取り締まり|弾圧|手入れ|断固たる処置	anc
 sharpener	とぐ人|削る道具	ejdict
 bonfire	焚火	anc
+calumet	カルメット(北米インディアンが和解の印としてタバコを回し吸いする長い飾りパイプ)	ejdict
+doggie	(幼児語)わんちゃん	anc
 lymphocyte	リンパ球	anc
+futile	無益な|無駄な|くだらない|役に立たない	anc
 preheat	予熱する	anc
 paddock	小牧地|パドック	anc
+elliptic	=elliptical	ejdict
+experimentally	実験的に	anc
 testis	睾丸	anc
 humanist	人間主義者|人文主義	anc
 cysteine	システイン|アミノ酸の1つ	anc
+musculoskeletal	筋骨格系の	anc
 cocker	甘やかす|大事にする	anc
 bequest	遺贈|遺産|伝わったもの|遺贈物|形見	anc
+affluent	豊富な|よどみなく流れる|裕福な|流れ込む	anc
+lonesome	寂しい|人里離れた	anc
 lifespan	寿命	anc
+unconventional	慣例にとらわれない|自由な|(服装など)略式の	anc
 determinant	決定力のある|決定する原因	anc
 solubility	溶解性	anc
+jacquard	《しばしばJ-》ジャガード織り(一種の紋織り物)	ejdict
 hangar	飛行機の格納庫	anc
+heartfelt	心からの	anc
 gallop	ギャロップ|馬の駆け足(4足とも宙に浮く全力走行)	anc
 inflate	膨張させる(反)deflate	anc
 heresy	異教|異端|異説|反論	anc
+telluride	テルル化物	anc
+victorious	勝利の|勝利を得た|勝った|戦勝の	anc
+mocha	コーヒー色|チョコレート色|モカ|上等のコーヒー|モカ革|モカ風味のケーキ|暗褐色|手袋用なめし革	anc
+sylvan	樹木の茂った|森の|森に住む	anc
 trawl	トロール網で魚を取る|トロール網 troll(輪唱する|流し釣りする) cf|troll(北欧民話の巨人)	anc
+unnatural	不自然な|不思議な|人情にそむく|異常な	anc
+alphabetic	アルファベット順の	anc
 groundwork	基礎|土台	anc
+thrombosis	血栓症	anc
 bursary	(大学などの)会計課|奨学金(scholarship)	ejdict
 tabernacle	仮の住まい|テント小屋|住み家	anc
+symphonic	音の類似した|交響曲の|調和した	anc
+nae	=no|not|=no	ejdict
+modernity	現代性|現代的なもの	anc
 relinquish	を放棄する|をやめる|断念する	anc
 reaffirm	再確認する|であると再び断言する	anc
 slime	どろどろした物|ねば土|ヘドロ|粘液|を泥で覆う	anc
+gangsta	ギャングスタ(テレビアニメ名)	anc
+luscious	(味･香りが)よい|おいしい|甘い	anc
 slipper	スリッパ(かかとの付いた靴)|(日本で言うスリッパはmule|scuff)|部屋履き|スリッパでひっぱたく	anc
+ethos	(特定の民族･社会･時代･文化などの)気風|精神|思潮|エトス	anc
+bil	billionの略|10億	anc
+argyle	(対照的な色を用いた)ひし形編み模様|ひし形模様編みの短靴下	ejdict
+prophetic	予言的な	anc
 bouncer	(俗)酒場|ナイトクラブなどの用心棒	anc
+consequent	当然の|結果	anc
+neutrality	(国家の)中立|中立政策|中立･不偏不党の状態	anc
+ovulation	排卵	anc
+euthanasia	安楽死|安死術|安らかな死	anc
+liter	リットル(1000cc)	original
+fume	蒸発する|煙|蒸気|煙霧|熱気|怒気|煙を出す|をいぶす	anc
+unitarian	ユニテリアン派(プロテスタントの一派|三位一体の教義(The doctrine of the Trinity|父と子と聖霊)を排して唯一の神格を主張し|キリストを神としない)クリスチャン	anc
+lowercase	小文字	anc
+goldfish	金魚	anc
+irreversible	逆にできない|逆転できない|取り消しできない	anc
 baa	メー(ヒツジの鳴き声)[擬声語]|〈ヒツジが〉メーと鳴く	ejdict
 woofer	ウーファー|低音スピーカー|低いうなり声を出す人･動物	anc
+understanding	物わかりのよい|理解|知力|思慮|相互の理解|一致	anc
 seaport	海港	anc
 mallet	木づち	anc
 loophole	(窓などにあけた)小窓|(法律などの)抜け道|抜け穴|に小窓を付ける	anc
+postpartum	分娩後の	anc
 connective	(文法)連結詞	anc
 cheater	眼鏡|サングラス|(バスト)パッド	anc
+dove	ハト|ハト派	anc
 landowner	土地所有者	anc
 furl	〈旗・帆など〉‘を'巻く;〈傘・扇子・翼など〉‘を'畳む|巻かれる|畳まれる	ejdict
 proofread	校正する	anc
+glib	口の軽い|口の達者な|ベラベラしゃべる|口のうまい|行き当たりばったりの	anc
 plunder	略奪|略奪品|利益|を略奪する|をこっそり盗む	anc
 speck	小さい点|小粒|小さなしみ|小さな腐りきず|ちり|小片	anc
 downfall	大降り|失脚|滅亡|没落|落下	anc
+fictitious	架空の|偽の|創作上の|虚構|虚偽|架空	anc
+immortality	不死	anc
+saffron	サフラン|鮮黄色(の)	anc
 connoisseur	鑑定家|目きき|くろうと	anc
+peerless	無比の|無類の	anc
+improbable	ありそうもない	anc
 inefficiency	非効率	anc
 hornet	スズメバチ|すずめばち(=wasp)	anc
+atypical	異常な	anc
+excessively	過度に	anc
 slumber	無為に過す|眠り|うとうとする|活動を休止している	anc
 ogre	オーガ(オーグル|オグレ)|伝承や神話に登場する人食い鬼|女性はオーガス|動物や物に姿を変える|スカンジナビア半島ではオーガはトロールtrollと関連して出てくる	anc
+devoid	欠けていて	anc
+extraordinarily	異常に|並外れて|異例に|特別に|法外に	anc
 jogger	ジョギングする人	anc
 fielder	(野球)野手	anc
 shunt	変える|他へ向ける(こと)|血液を別の路へ流す	anc
 suture	(頭蓋の)縫合線|傷の縫い合わせ|縫合|縫合糸	anc
 revamp	を刷新する|改造する|修理する|を改良する|を改訂する|を繕う	anc
 apprehension	気づかい|不安|理解|逮捕	anc
+dishonest	不正直な	anc
+mailbag	郵便袋;郵便かばん(《英》postbag)	ejdict
+inert	(人など)のろい|生気のない|鈍い|不活性の	anc
+favorably	好意を持って|好意的に|好都合に|順調に|都合よく|有望に|有利に	anc
 discontent	不満な|不満	anc
 beehive	ミツバチの巣(箱)|盛り上げた女性の髪型|人込み	anc
+postwar	戦後の	anc
 yogi	ヨガの行者	anc
 implantation	移植	anc
 epistle	(形式ばった)書簡|手紙	anc
+unfavorable	都合の悪い|不運な|不利な|逆の|好意的でない|好ましくない	anc
 forgery	偽造|偽物|捏造|いんちき|偽造罪	anc
+anomalous	異常な|変則の|例外的な	anc
+jitter	(〜についての)神経過敏《+『about』+『名』》|いらいらする	ejdict
 commonplace	普通の|平凡な(こと)|陳腐な(ことば)	anc
 generalize	一般的に扱う	anc
+feminization	女性化	anc
+frugal	節約する|倹約な|質素な|つましい	anc
+extremist	過激派	anc
+starry	星の多い|星のように輝いた|星形の	anc
 dislocation	脱臼|混乱	anc
 elaboration	綿密な仕上げ|精巧さ|推敲|苦心の作	anc
+multipurpose	多目的の	anc
+cohesive	(日常などに)密接した|粘着性のある|結合性のある|密着する	anc
 corral	家畜囲い	anc
 tonne	メートルトン	booqs
+caster	投げる人|配役係|鋳造者|(ピアノ|いすなどの)足車|キャスター|news casters(=news anchors)ニュース番組司会	anc
+medial	中間の|平均の|並みの|(文法)語中の	anc
+colossal	巨大な|素晴らしい|途方もない	anc
+conversational	会話の	anc
 battleground	戦場	anc
+brio	活気|元気	ejdict
 scaffold	足場を設ける|(建築場の)足場|絞首台|処刑台|(野外の)組立て舞台	anc
+screener	審査官|しゃへい装置|スクリーナー	anc
+hanukkah	ハヌカー(ユダヤ教の祭り)	anc
+adsorption	吸着|吸着量	anc
 travail	骨折り|苦痛|辛苦|苦労する|骨折る	anc
 dissatisfaction	不平|不満	anc
+cumbersome	扱いにくい|邪魔な|やっかいな	anc
 refresher	飲食物|元気を回復させる人	anc
 mousse	ムース|卵とクリームで作られるクリーミーなデザート	anc
 pancake	パンケーキ	anc
+transmembrane	膜貫通	anc
 jumble	ごたまぜにする|よせ集め|がらくた|ごちゃまぜにする	anc
 scarab	スカラベ|フンコロガシ|コガネムシ	anc
+firth	河口|入り江|湾	anc
 leapfrog	馬跳び(をする)	anc
 incision	切込み	anc
+undated	日付のない	anc
+alternately	交互に|一つおきに|互い違い|ちゃんぽん|交互	anc
+technologically	技術的に	anc
+gracefully	優雅に|淑やかに	anc
 anaerobic	anaerobic(bacteria|digestion|mud|fermentation|decomposition) 嫌気性(菌|消化|泥|はっ酵|分解)	anc
 antagonist	アンタゴニスト(拮抗薬)|Autoradiography(放射線写真法)で生体内の特定のレセプター(receptor|受容体)に作用し受容体の活動を抑制する薬剤	anc
 scorn	軽蔑する|あなどる|(軽蔑して)拒絶する|嘲笑|あざけり	anc
@@ -12408,6 +12622,7 @@ enquirer	(=inquirer) 尋ねる人|質問者	anc
 landau	ランドー|ランドー型自動車|ランドー馬車	anc
 disappoint	を失望させる	anc
 libel	誹謗する|名誉毀損	anc
+swami	ヒンズー教の学者(聖職者)(の尊称)	ejdict
 colonization	植民地化|入植	anc
 agitation	動揺	anc
 lactation	乳の分泌|授乳期間	ejdict
@@ -12538,6 +12753,7 @@ oneness	(思想・信念・目的などが)一つであること;同一性|単�
 glimmer	ほのかに見える|かすかな光|微かな光	anc
 renounce	要求を正式に放棄する|をやめる|捨てる|を否定する|を拒否する	anc
 incompatibility	両立しがたい(相反する)こと|性格の不一致	anc
+climber	登山者|はい登る植物(ツタなど)|出世主義者	anc
 recoverable	取り戻せる|元に戻せる|(体が)回復できる|全快できる	ejdict
 headband	ヘッドバンド	anc
 intellectually	知的に	anc
@@ -12578,9 +12794,12 @@ sterilization	不妊にすること|断種(手術)|殺菌|消毒	anc
 intron	(遺伝学)イントロン|介在配列|転写はされるが最終的にスプライシング反応によって除去される塩基配列|(スプライシングによって除去されず残る部位はエクソン)	anc
 ovation	熱烈な歓迎|大かっさい	anc
 carpal	手根骨の|腕骨の|腕骨	anc
+avenger	復讐者	anc
 undocumented	文書化されていない	anc
 poncho	ポンチョ|ポンチョ風のレインコート	anc
 gloomy	憂うつな|暗い|薄暗い|悲観的な|うっとうしい	anc
+encapsulate	カプセルに包む|(事実･情報などを)要約する	anc
+evacuate	避難する|撤退する|疎開する|立ち退かせる|明け渡す|避難|退去|撤退	anc
 complexion	形勢|外観	anc
 nutritious	栄養の	anc
 marguerite	マーガレット(花の名|白菊)|人名	anc
@@ -12633,6 +12852,7 @@ cochin	コーチン|アジア産の肉用の鶏	anc
 disproportionate	不つりあいな	anc
 bally	(UK英)ひどい	anc
 sawmill	製材工場|製材所|大型製材のこぎり	anc
+grout	(石の接合に用いる)うすとろ|セメント糊(のり)	ejdict
 wither	しおれさせる|しぼむ|枯れる|衰退する|弱る	anc
 carving	彫刻物|彫刻(術)	anc
 gallant	勇ましい|勇敢な|雄々しい	anc
@@ -12704,6 +12924,8 @@ sorcery	魔法 	anc
 edema	水腫|浮腫	anc
 confidently	確信して|自信を持って|大胆に	anc
 blackbird	ブラックバード	anc
+reunite	再び結合する|仲直りさせる(する)	anc
+restrain	抑制する|を押さえる|を制止する|防止する	anc
 dangerously	危険なほど	anc
 carotid	頚動脈	anc
 scraper	どろかき|こする人|スクレーパ	anc
@@ -12791,6 +13013,7 @@ rut	轍|細長いくぼみ|定例|発情|さかり|性的に興奮する	anc
 tylenol	タイレノール|ジョンソン・エンド・ジョンソン社が販売する解熱鎮痛剤	anc
 gaseous	ガスの	anc
 displace	取ってかわる|免職する	anc
+tremble	震動する|(体が)震える|身震いする|おののく|揺れ動く|そよぐ|おののき	anc
 plethora	過多|過度|(a plethora of problems多くの問題)|(医学)多血症|赤血球過多症	anc
 rejoin	に再会する|再結合する|応答する	anc
 cabriolet	1頭立て2人乗りほろ馬車	ejdict
@@ -12888,6 +13111,7 @@ sativa	大麻	anc
 lawfully	合法的に	anc
 adjuvant	アジュバント|主剤に対する補助剤|補助薬|免疫増強剤|抗原増強剤|補助|補助療法の意	anc
 potable	(水)飲用に適した	anc
+antidepressant	抗うつ剤	anc
 heparin	ヘパリン|特に肝臓や肺に多くある抗凝血成分	anc
 bodywork	(車の)車体	ejdict
 girdle	ガードル|帯を締める	anc
@@ -12944,6 +13168,7 @@ emigration	(国外への)移住|海外への移民|(集合的)移民	anc
 conscientious	良心的な|誠実な	anc
 ecclesiastical	教会の|聖職の	anc
 belvedere	見晴らし台|展望台|望楼	anc
+tabor	テイバー(昔|竪笛の伴奏に用いたタンバリンに似た小太鼓)	ejdict
 acetyl	酢酸を構成する有機基(CH3CO-)|アセチル基|アセチルと呼ばれる	anc
 basalt	玄武岩	anc
 boomer	(一時的な)人気者|熱烈なファン	anc
@@ -13073,6 +13298,7 @@ cartography	地図製作[法]	ejdict
 zeitgeist	時代精神|時代思潮	ejdict
 nickelodeon	セント映画|セント劇場(nickel=5cent)	anc
 shaggy	毛深い|毛むくらじゃの|むさくるしい|毛羽立った	anc
+astronomer	天文学者	anc
 incompetence	無能	anc
 mishap	不幸|不運|災難|不運な事故	anc
 midsize	中型の	anc
@@ -13111,6 +13337,7 @@ iridium	イリジウム(金属元素|元素記号Ir)	anc
 topper	topするもの|上積み|上層|上部のもの|短いオーバー|シルクハット|高いバウンドのゴロ|いい奴|優れたもの|傑作|ピックアップ･トラックの荷台の上に取り付ける	anc
 deferral	延期|繰延べ|据え置き|徴兵猶予	anc
 informally	非公式に	anc
+underwriter	保険引受人	anc
 sarcastic	皮肉な|皮肉の|当てこすりの|皮肉|あてこすり	anc
 isoform	アイソフォーム|イソ型|機能が類似しているがアミノ酸配列の異なる蛋白質	anc
 chimpanzee	チンパンジー	anc
@@ -13418,6 +13645,7 @@ jerky	乾燥肉|ぐいと動く|がたがた動く|つっかえがちの|(米)�
 proportionate	比例した	anc
 algo	アルゴリズム	anc
 statistician	統計学の専門家	anc
+inhale	吸い込む	anc
 corkscrew	らせん状の(に進ませる)|コルク栓抜き	anc
 drifter	流れ者|漂流者	anc
 autopilot	自動操縦装置	anc
@@ -13660,6 +13888,7 @@ layoff	一時帰休	anc
 dodger	ぺてん師|小さいビラ	anc
 merciful	慈悲ぶかい|情け深い|慈悲深い|安堵を与える	anc
 lollipop	棒付きキャンディー|ペロペロキャンディー	anc
+mitre	=miter	ejdict
 springtime	春(の)|春期	anc
 euphoria	幸福(感)|多幸|上機嫌|陶酔	anc
 acuity	鋭さ	anc
@@ -13689,6 +13918,7 @@ radioactivity	放射能|(空気中の放射能atmospheric radioactivity)	anc
 howdy	ハウディ|こんちわ|やあ	anc
 eastward	東方へ	anc
 haggard	やつれた	anc
+parr	サケの幼魚	ejdict
 northward	北に向かって|北に向かう|北方|北に向いた|北方への|北方へ	anc
 archeological	考古学の	anc
 logarithmic	対数の	anc
@@ -13856,6 +14086,7 @@ faithless	あてにならない|信仰のない|不実な|不貞な	anc
 monorail	モノレール	anc
 blasphemy	不敬|冒涜	anc
 prerogative	特権を持つ|大権|特権|特典	anc
+shim	詰め物|かい物(物を水平にしたり|すき間に入れるくさび形の木片など)	ejdict
 stateroom	個室|特別室	anc
 overuse	過度の使用|酷使|乱用|使い過ぎる|乱用する	anc
 potpourri	ポプリ|混合曲	anc
@@ -13932,6 +14163,7 @@ starlet	売出中の若手女優|小星|小さい星	anc
 gambit	手初め|開戦の手|手始め|いとぐち|切出しのことば|話題|策略|作戦	anc
 disassemble	分解される|バラバラになる|散らばる|分解する|取り外す|バラバラにする	anc
 bock	(ドイツ製)黒ビール	anc
+drinker	酒飲み|飲む人|家畜用の給水機	anc
 dumpster	(有蓋･無蓋の四角い鉄製大型ゴミ容器|機械操作で清掃車にゴミを移す)|ダンプスター	anc
 bellow	大声でどなる	anc
 schoolhouse	校舎	anc
@@ -13991,6 +14223,7 @@ interment	埋葬|土葬	anc
 cairn	ケルン(記念塚)	anc
 nomadic	遊牧の|cf|nomad(遊牧民)	anc
 wrongdoing	悪事	anc
+immerse	没頭させる|浸す|沈める|つける	anc
 meson	中間子|(クォークおよび一つの反クォークで構成された不安定な亜原子粒子)	anc
 racetrack	競技場	anc
 decompression	減圧	ejdict
@@ -14026,6 +14259,7 @@ returnable	返却できる|返還すべき	ejdict
 mnemonic	記憶の(を助ける)	anc
 resuscitation	救急蘇生法	anc
 chaise	軽装2人乗り2輪馬車	anc
+appraise	の価値を決める|を見積もる|評価する|見積もる|値踏みする|査定する	anc
 baguette	四角形カット|長方形カット|細長いフランスパン	anc
 grumman	Northrop Grumman Corporation|ノースロップがグラマンを買収し誕生|ロッキード･マーティン|BAE(英)|ボーイングに次ぎ世界4位の軍需メーカー|軍艦メーカーとしては最大	anc
 beater	ビーター|泡立て器|(ミキサーの)回転する刃|打つ人|勢子|打ちたたく器具|(ドラムの)ばち|下宣伝員	anc
@@ -14039,6 +14273,7 @@ mouthful	一口|口一杯|1口分|一口分|少量	anc
 fireside	炉ばた	anc
 verifiable	検証できる	anc
 bacterium	バクテリア	anc
+refrigerate	冷却する|冷やしておく	anc
 tenderloin	テンダーロイン|ヒレ肉|盛り場|不法の街	anc
 watchman	夜警|ガードマン(和製英語)	anc
 wanderer	歩き回る人|さまよう人|放浪者|さすらい人|邪道に踏み込んだ人|歩き回る動物	anc
@@ -14061,6 +14296,7 @@ reorganize	再編する|(企業などを)再建する	anc
 tasteless	趣のない|まずい|無味の|味がない	anc
 ploy	策略|計略|遠征	anc
 instructive	教訓的な	anc
+shingle	小さな看板|屋根板|小看板|を屋根板でふく|を短く刈る	anc
 mathematically	数学的に	anc
 catamaran	いかだ舟|ガミガミ女	anc
 iconic	象徴的な	anc
@@ -14085,6 +14321,7 @@ pita	ピタパン(地中海沿岸|中東|北アフリカで広く見られる食
 hiker	ハイカー|架線工事作業員|町の保安官|徒歩旅行者	anc
 maul	大きな木製の槌|かけや	anc
 frigate	フリゲート艦	anc
+zloty	ズローティー(ポーランドのニッケル貨および貨幣単位)	ejdict
 osmosis	浸透性|浸透作用	anc
 expedient	好都合の|ご都合主義の|政略の|方便|急場しのぎの方法	anc
 purr	のどを鳴らす|ゴロゴロ|猫の鳴き声	anc
@@ -14092,6 +14329,7 @@ clandestine	秘密の|内々の|人目につかない	anc
 outrigger	アウトリガー|舷外材|アウトリガー付きボート|クラッチ受け	anc
 recalculate	計算し直す	anc
 porosity	〈U〉有孔性|通気性|〈C〉多孔率	ejdict
+chiropractor	脊柱指圧(調整)療法師	anc
 obsidian	黒曜石|十勝石	anc
 unduly	過度に	anc
 dresser	化粧ダンス|着付け係	anc
@@ -14105,6 +14343,7 @@ transcribe	転写する|書換える|を書き写す|を複写する|を筆記�
 seashore	海浜|海岸	anc
 onstage	ステージ上の	anc
 copolymer	共重合体(2種類以上の単量体の重合による高分子化合物)	ejdict
+invertebrate	脊椎のない|無脊椎動物(の)|気骨のない	anc
 anagram	アナグラム(単語または文中の文字をいくつか入れ替えて全く別の意味にさせる遊び) cf|palindrome(回文)	anc
 rebellious	反抗する|反逆する|反抗的な|(病気など)治療しにくい	anc
 tastefully	趣味がいい	anc
@@ -14218,6 +14457,7 @@ rouble	=ruble	ejdict
 illustrious	すぐれた|傑出した|秀抜な|高名な|著名な|輝かしい|はなばなしい	anc
 fishy	魚臭い|いかがわしい	anc
 cringe	ぺこぺこする|媚びへつらう|(恐怖などで)すくむ|萎縮する|縮み上がる	anc
+automaton	自動化|ロボット化	anc
 quack	いんちきな|いかさまの|騒音|偽医者|ほらふき|ガーガー|アヒルが鳴く|アヒルの鳴き声	anc
 materiel	(仏)物質的材料|(軍の)物的装備	anc
 leasehold	借地;借地権	ejdict
@@ -14498,6 +14738,7 @@ paleontology	古生物学	anc
 unbroken	不屈の|こわれていない|(記録など)破られない	anc
 hygienist	衛生学者|保健師	anc
 addressee	受信人	anc
+tropic	回帰線|熱帯の|熱帯地方の	anc
 cameraman	写真家	anc
 aficionado	熱烈な愛好者	anc
 entourage	側近(attendants)	anc
@@ -14562,6 +14803,7 @@ vellum	ベラム|上質皮紙|模造皮紙	anc
 wreak	漏らす|をぶちまける|(復讐)をする	anc
 bitterly	ひどく|はなはだしく|冷酷に	anc
 provocation	怒らすこと|刺激|怒らせること|挑発|怒り|立腹|興奮	anc
+perpetrator	加害者|犯人|下手人	anc
 actionable	実用的な	anc
 cleverly	うまいこと|器用に	anc
 misunderstanding	考え違い|誤解|不和|勘違い	anc
@@ -14717,6 +14959,7 @@ mythic	神話の	anc
 crystallization	結晶化	anc
 someplace	どこかに	anc
 extremism	過激主義	anc
+macrophage	マクロファージ|白血球の一種|生体内をアメーバ様運動する食細胞|死んだ細胞や破片|体内に生じた変性物質や侵入した細菌などの異物を捕食し消化する	anc
 aptly	適切に	anc
 alleviation	軽減|(the alleviation of tension(s)緊張の緩和)	anc
 liege	(封建制度下の)君主|王侯|君主たる|至上の	anc
@@ -14748,6 +14991,7 @@ manitou	マニトウ(アメリカインディアンの崇拝する超自然力�
 cytometry	血球数の測定|細胞数の測定|(微細な粒子を流体中に分散させ|その流体を細く流し|個々の粒子を光学的に分析する手法)	anc
 superfluous	必要以上の|十二分の|不必要な|余分な	anc
 systolic	シストリック(医|心臓収縮の)	anc
+sot	大酒飲み|のんだくれ	ejdict
 tacit	暗黙の|潜在的な|無言の|言葉に表さない	anc
 singlet	袖無しのTシャツ|タンクトップ|ベスト|ランニングシャツ	anc
 parenthesis	かっこ|挿入語句|丸括弧|余談|幕間	anc
@@ -14775,6 +15019,7 @@ parochial	地方的|教区の	anc
 ketone	ケトン|有機化合物群|除光液として用いられるアセトンなど	anc
 tenement	保有財産|住宅|家屋|アパート|借地|借家	anc
 pall	ひつぎ|棺衣|大司教用肩衣	anc
+disqualify	無資格にする|資格を奪う|失格させる	anc
 comprehensively	総合的に	anc
 deference	服従|意見に従うこと|敬意	anc
 smock	スモック|作業服|上っ張り	anc
@@ -15007,6 +15252,7 @@ edict	命令|勅令|布告	anc
 boundless	限りない	anc
 hopelessly	望みを失って|絶望して	anc
 sceptre	=scepter	ejdict
+amphibian	両生類(の)|水陸両用の|水陸両用飛行機･戦車|両生動物	anc
 grandchild	孫	anc
 ribosome	リボソーム(リボゾーム)|あらゆる生物の細胞内に存在する構造|mRNAの遺伝情報を読み取ってタンパク質へと変換する翻訳が行われる場である	anc
 indignation	憤り|義憤|憤慨|悲憤	anc
@@ -15021,6 +15267,7 @@ coney	=cony	ejdict
 degas	〜‘から'ガスを抜く	ejdict
 presidio	米国南西部にスペイン人によって設置された要塞|砦|囚人植民地	anc
 transfection	トランスフェクション|人為的にDNAやウイルスなどを細胞に取り込ませる手法	anc
+roux	ルー(小麦粉をバターでいためたもので|スープやソースにとろみをつけるのに用いる)	ejdict
 windward	風上の|風上へ|(反|Lee風下へ|風下の)	anc
 delirium	精神錯乱|せん妄	anc
 collaborator	協力者|共編者|敵国協力者	anc
@@ -15052,6 +15299,7 @@ platypus	カモノハシ	anc
 thereunder	その下に|それ以下に	ejdict
 pacifier	調停者|(赤ん坊用)ゴム乳首|おしゃぶり	anc
 mohair	アンゴラヤギから作られる織物	anc
+basso	〈C〉低音歌手|〈V〉低音	ejdict
 chore	家庭での雑用|雑用|雑役	anc
 crockery	陶器類	anc
 preemptive	先制の|先買の|先買権のある先制の	anc
@@ -15118,6 +15366,7 @@ wop	《禁句》|外人としてのイタリア人|イタリア系外人	ejdict
 forsake	をやめる|捨てる|を放棄する	anc
 sliver	細長く裂く|縦に長く切る	anc
 tinnitus	耳鳴り	anc
+batsman	(クリケットの)打者(batter)	ejdict
 collusion	共謀|なれ合い|野合|通謀詐害(両当事者の間に対立がないのに双方の合意のうえで訴訟を起こすこと)	anc
 downer	(俗)鎮静剤|(特に)バルビツール剤|気の滅入るような場面|経験|退屈な人物	anc
 burl	節|試してみること|やってみること|トライ	anc
@@ -15602,6 +15851,7 @@ canvass	遊説|(投票などを)依頼する|勧誘して回る	anc
 persistently	しつこく|永続的に	anc
 meander	(miˈændɚ)|蛇行(する)|あてどなく歩く|曲りくねった道|曲がりくねって流れる	anc
 rusk	ラスク(ビスケットの一種)	anc
+bola	2個以上の鉄玉付きの投げなわ;(おもに南米南部で|獣の脚に投げつけ|からませて捕える道具)	ejdict
 rhododendron	シャクナゲ|ツツジ	anc
 horrendous	恐ろしい|ものすごい	anc
 eyeglass	めがねのレンズ	anc
@@ -15609,6 +15859,7 @@ cyberpunk	サイバーパンク|サイバーパンク作家	anc
 waterside	水辺	anc
 nucleon	核子(かくし|陽子および中性子をいう)	anc
 antifungal	抗真菌剤	anc
+grime	不潔	anc
 extortion	無理強い|強奪|揺すり|強要|ゆすり	anc
 scrooge	守銭奴	anc
 colorless	生気のない|青ざめた	anc
@@ -15845,8 +16096,10 @@ sortie	空中戦|出撃	anc
 ladle	取鍋|ひしゃく|おたまですくう|ひしゃくでくむ	anc
 seahorse	タツノオトシゴ(竜の落し子)	anc
 impasse	袋小路|難局|行き詰まり|手詰まり	anc
+taint	汚れ|汚点|汚名|病毒|汚れる|を汚す	anc
 reticulum	細網	anc
 coronal	(特に貴金属の)冠|王冠;(頭にかぶる)花(葉)の冠	ejdict
+chine	背骨|(料理用の)肉付きの背骨	ejdict
 transparently	透過的に	anc
 disobey	に従わない	anc
 fatherhood	父権|父としての責任|(集合的)父	anc
@@ -15859,9 +16112,11 @@ pistachio	ピスタシオノキ|ピスタシオ(ナッツ)	anc
 delicately	きめ細かに	anc
 irritability	被刺激性	anc
 lustrous	光沢のある	anc
+molto	(音楽用語で)非常に	ejdict
 propylene	プロピレン(無色の引火性ガス)	ejdict
 aphrodisiac	催淫薬|媚薬	anc
 superlative	最上級(の語･形)|誇張した表現|最高(の)	anc
+mahatma	マハトマ|(バラモン教の)大知識|大聖|《Mahatma》インドで高貴な人の名に添える敬称	ejdict
 dictyostelium	細胞性粘菌	anc
 inadvertent	不注意の|うっかりした|不慮の接触	anc
 homophobia	同性愛(者)嫌い	anc
@@ -15932,6 +16187,7 @@ sultry	焼けつくような|蒸し暑い|官能的な	anc
 concatenation	連結(すること)|(事件などの)結びつき|連続|連鎖	anc
 globular	球形の	anc
 unreadable	読んでおもしろくない|退屈な|読む価値のない|読むに適しない	anc
+balsa	〈U〉バルサ材(軽く強いので|救命用具・いかだ・模型飛行機などに用いる)|〈C〉バルサの木(熱帯アメリカ産)	ejdict
 retaliate	仕返しする|復讐する	anc
 annihilate	全滅させる|滅ぼす	anc
 engraving	彫刻	anc
@@ -16033,6 +16289,7 @@ ghoul	イスラム諸国の伝説で墓に埋められた死人の肉を食う�
 beryllium	ベリリウム(金属元素;化学記号は『Be』)	ejdict
 principality	王国|王政	anc
 scrutinize	注意深く調べる|綿密に検査する	anc
+wold	高原|丘陵	ejdict
 watchtower	監視塔|観点|見張り塔|灯台|望楼	anc
 falconer	タカ匠	anc
 stoppage	停止|中止すること|閉塞	anc
@@ -16383,6 +16640,7 @@ disassembly	解体	anc
 flagpole	旗ざお	anc
 catalyze	触媒作用を及ぼす	anc
 distillate	蒸留液|真髄|粋|石油製品|留出油	anc
+restock	(返品された商品を)在庫に戻す|仕入れ直す|新たに仕入れる|補充する	anc
 indulgent	気ままにさせる|寛大な|やさしい|甘い	anc
 offseason	オフシーズン	anc
 pounce	に飛びかかる|飛び付く|急に襲いかかる|突然入ってくる	anc
@@ -16599,6 +16857,7 @@ verandah	ベランダ|縁側	anc
 outfield	(野球)外野	anc
 carcinogenesis	発癌	anc
 legalization	合法化	anc
+woodcock	ヤマシギ	ejdict
 orthodontist	歯科矯正士	anc
 kamikaze	神風特攻隊のような|無茶な	anc
 bilge	船底の湾曲部|ばかげた談話	anc
@@ -16707,6 +16966,7 @@ hapless	不運な|数奇な|あわれな	anc
 sagebrush	ヨモギの一種(北米西部産)	anc
 proteome	プロテオーム|ある生物種|細胞の状態のタンパク質の総体|プロテオームを扱う解析がプロテオミクス	anc
 ably	りっぱに|巧みに	anc
+incubate	熟考する|卵を抱く	anc
 chooser	選ぶ人|選挙人|選択者	anc
 mitosis	有糸分裂	anc
 gunman	(銃器所持の)暴漢|殺し屋|拳銃の名手	anc
@@ -17016,6 +17276,7 @@ penalize	罰する	anc
 isometric	等大の|等距離の	anc
 retraction	引っ込ませること|取り消し|撤回	anc
 loveless	愛のない;愛させない;かわいげのない	ejdict
+grebe	カイツブリ(尾のない水鳥)	ejdict
 demarcation	境界|分界|区分|管轄|縄張り|限界	anc
 cerebrospinal	脳脊髄の|中枢神経系の	anc
 impure	澄んでいない|混ざり物のある|不純な	anc
@@ -17029,6 +17290,7 @@ alms	施し物|信施|施し|慈善	anc
 meditative	瞑想的な	anc
 pica	異食症|栄養価の無いもの(土・紙・毛・氷・チョークなど)を無性に食べたくなる症候|小児と妊婦に多い|(picaはラテン語でカササギ)	anc
 quell	鎮圧する|抑えつける|止める|鎮める|抑える	anc
+pollute	を汚染する|を汚す|を堕落させる|の神聖を汚す	anc
 equivalently	同等に	anc
 incase	=encase	ejdict
 stringed	弦のある;《複合語を作って》;弦の	ejdict
@@ -17179,6 +17441,7 @@ exemplify	範例となる|例示する|典型的に示す|体現する	anc
 quiche	キッシュ|キシュ(パイの一種)	anc
 pitchfork	熊手	anc
 animosity	敵意|憎悪|憎しみ|恨み	anc
+segregate	分離する|差別する|隔離する|人種差別する	anc
 hairpin	ヘヤピン|ヘアピン|U字形の	anc
 unprofessional	専門外の	anc
 corroborate	確証する|確認する	anc
@@ -17340,6 +17603,7 @@ firmness	確固不動|強硬|決意の固さ|堅さ|堅固|堅実|断固とし�
 petticoat	ペチコート|短いスカート|スカート型のもの	anc
 swindle	だます|詐欺(を働く)|を詐取する	anc
 unequivocally	明白に	anc
+karst	カルスト地形(浸食された石灰岩台地)	ejdict
 selfless	無私の	anc
 scrip	1ドル札|仮株券|仮社債|軍票|(代用)紙幣|臨時紙幣|処方箋	anc
 whoop	大声で叫ぶ|叫び声|喚声|ホーホー鳴く(声)	anc
@@ -17351,6 +17615,7 @@ mirth	陽気|歓楽|歓喜	anc
 moiety	半分|一部分|(一人の)分け前	anc
 tasting	試食|試飲|味見	anc
 livable	住むのに適した|住みやすい	anc
+snore	いびきをかく|いびき|をぐうぐう寝て過す	anc
 earpiece	《通例複数形で》(帽子の)耳おおい|《通例複数形で》(眼鏡の)耳づる|〈C〉受話器;イヤホーン	ejdict
 counterproductive	逆効果の(を招く)	anc
 tusk	tusk(切歯由来の牙|象･イノシシ･セイウチ･カバ等)|牙で突く	anc
@@ -17442,6 +17707,7 @@ pearly	真珠のような|真珠で飾った	anc
 letterbox	=mailbox	ejdict
 polemic	論争の|論客|論争	anc
 dietician	栄養学者|栄養士|食事療法士	anc
+kirsch	チェリーブランデー(さくらんぼを原料としたブランデー)	ejdict
 roadhouse	街道沿いの旅館|居酒屋	ejdict
 minefield	地雷(機雷)敷設面|地雷原(機雷)原	anc
 doublet	(文法)accusative case対格|名詞がもつ格のひとつ|他動詞の直接目的語を示す時使われる(ご飯を作る|など)|対格は全印欧語族に存在	anc
@@ -17478,6 +17744,7 @@ gavel	(議長･裁判官･競売人などが静粛を促すときに卓上を�
 moonshine	(俗)密造ウイスキー	anc
 centimeter	センチメートル	anc
 idolatry	偶像(邪神)崇拝|盲目的崇拝|心酔	anc
+llano	(中南米諸国の)樹木のほとんどない大草原	ejdict
 firework	花火|才気のひらめき	anc
 involuntarily	無意識に|思わず知らずに	anc
 aggravate	悪化させる|怒らせる|悩ませる	anc
@@ -17678,6 +17945,7 @@ proportionality	比例	anc
 espouse	採用する|支持する|結婚する	anc
 sordid	むさくるしい|汚い|卑しむべき|くすんだ色の|いやしむべき|浅ましい	anc
 medico	医師|医学生	ejdict
+guillemot	北部海域に住むウミバトの類の海鳥	ejdict
 crud	かす|がらくた|屑|無価値なもの|CRUD|データベースの重要4機能(作成Create|読み出しRead|更新update|削除Delete)を表すことば	anc
 commie	共産党員	anc
 semblance	外見|うわべ|見せかけ|類似	anc
@@ -17751,6 +18019,7 @@ stuffy	風通しの悪い|詰まった|面白くない	anc
 cocky	気取った|うぬぼれた	anc
 pyrite	黄鉄鉱(fool's gold)	ejdict
 beano	=bingo	ejdict
+toiletry	洗面化粧品	booqs
 flamboyant	色鮮やかな|炎のような|燃えるような|派手な	anc
 exchangeable	交換可能な	anc
 stretchy	伸びる|伸びやすい|伸び縮みする|伸縮性のある|弾力のある|胴の長い|伸び過ぎる	anc
@@ -18006,6 +18275,7 @@ belligerent	好戦的な|けんか腰の|けんか好きの|交戦中の|交戦�
 intergalactic	銀河系（宇宙）間の	ejdict
 phosphorous	リンの|(特に)3価のリンを含む	ejdict
 sterility	不作	anc
+raga	ラーガ(インド音楽の旋律の一つ;その曲)	ejdict
 amiable	人当たりのよい|愛想のよい|気だてのよい|素直な	anc
 sitting	座(ってい)ること	anc
 cistern	貯水槽|水槽|地下貯水タンク|溜池	anc
@@ -18161,6 +18431,7 @@ admirably	りっぱに	anc
 nightfall	たそがれ|日暮れ|夕方	anc
 sourdough	〈U〉《米西部・カナダ》パン種(パンを焼くときイースト菌の代りに用いる発酵した生パン)|〈C〉(カナダ北部・アラスカの)探鉱者|開拓者	ejdict
 stairwell	階段吹き抜け(階段を入れ(てあ)る井戸状の空間)	anc
+wack	おい|君	ejdict
 poof	ホモ|男の同性愛者|なよなよした男|女々しい男|パッ|フッ|プーッ|キスする	anc
 xenophobia	外国人(人)嫌い|外国(人)恐怖症|排外主義	anc
 guardrail	手すり|ガードレール	anc
@@ -18323,6 +18594,7 @@ ampicillin	アンピシリン(ペニシリンに似た抗生物質)	ejdict
 fizzle	(最初はうまくいくが)失敗に終わる|しくじる|弱く消えてしまうようにシューシューと音を出す	anc
 wasn	wasn'tの略(俗語)	anc
 dissect	分析する|解剖する|切り裂く	anc
+wale	むちで打たれた跡|みみずばれ|(織物などの)うね|〈皮膚〉‘を'みみずばれにする	ejdict
 tranche	一部分|分割払い込み金	booqs
 clang	カラーン|ガランと鳴る音|金属がぶつかる音	anc
 unconstrained	拘束されない	anc
@@ -18450,6 +18722,7 @@ bluntly	無作法に|ぶっきらぼうに|無下に	anc
 harlot	《古》売春婦(prostitute)・みだらな女・あばずれ女	ejdict
 corky	コルクの[ような]|《俗》元気のよい|浮かれた	ejdict
 defensible	防御できる	anc
+berk	(特に男の)まぬけ|とんま	ejdict
 tach	tachometer|タコメーター	anc
 vagrant	浮浪者|宿無し|放浪の|流浪の|転々とする|《おもに文》(考えなどが)気まぐれな|取り留めのない	ejdict
 anticancer	抗がん物質	anc
@@ -18632,6 +18905,7 @@ outermost	最も外側の|最も遠くの	ejdict
 buccaneer	海賊(を働く)	anc
 myopia	近視眼|近眼	anc
 naturopathy	自然療法医|食餌(しょくじ)療法医	ejdict
+quint	=quintuple　5倍　5倍の量　5倍の　5重の　5つの部分から成る	ejdict
 beanbag	お手玉	ejdict
 flagrant	言語道断の|極悪の|目に余る|はなはだしい|紛れもない|名うての	anc
 outgrow	より大きくなる|(衣服などを)着られないほど大きくなる|成長して～を脱する	anc
@@ -18759,6 +19033,7 @@ deplete	消耗させる|使い尽くす|枯渇させる|奪う	anc
 uppermost	(階級･権力)最高の|最優位の|最上の	anc
 hermetic	密封した	anc
 showing	展示(会)|外観|説明|できばえ	anc
+frankfurter	フランクフルトソーセージ(牛肉または牛肉と豚肉で作る)	ejdict
 tare	カラスノエンドウ(牧草)|《通例複数形で》有毒な雑草(新約聖書「マタイによる福音書」から)	ejdict
 cardamom	カルダモン|ショウガ科の多年草	anc
 seedy	種の多い	anc
@@ -18905,6 +19180,7 @@ loggerhead	アカウミガメ(大西洋産)|《おもに方言》ばか者	ejdic
 slowness	遅いこと|緩慢	anc
 xylophone	木琴	anc
 disband	解散する	anc
+sufferer	苦しむ人|被災者|病人	anc
 lectern	講演者用の机|(教会の)聖書台	ejdict
 more	より多くの|もっと多くのこと	anc
 sanctification	神聖化|奉納|罪を清める(清められる)こと	ejdict
@@ -19154,6 +19430,7 @@ megaphone	メガホン|拡声器	anc
 immunoassay	免疫測定法	anc
 ruck	多数|多量|がらくた|大衆|しわ|ひだ	anc
 invigorate	元気づける|爽快にする|鼓舞する|新鮮な気持ちにする	anc
+rigger	船の装備をする人;(飛行機・車などの)整備員	ejdict
 ferric	第二鉄の|鉄の|鉄質の|鉄分を含む	anc
 needful	必要な|入用な	anc
 campaigner	運動員	anc
@@ -19230,6 +19507,7 @@ mercurial	活発な|気まぐれな|水星の|水銀の|水銀剤	anc
 repugnant	いやな|矛盾して|不快な	anc
 lowball	(俗)故意に安い値段を付けた|故意に安く見積もった|(グラスの)背が低い|ローボール	anc
 citron	シトロン(の木･実)|その皮の砂糖漬け	anc
+clave	cleaveの過去形	ejdict
 bestiary	(ヨーロッパ中世の)動物説話集[の本]	ejdict
 exterminator	害虫駆除業者	anc
 rulebook	〈C〉規則書;就業規則書|《the rulebook》(競技などの)規則集	ejdict
@@ -19293,6 +19571,7 @@ worthiness	価値のあること|ふさわしさ|立派さ	ejdict
 lazily	怠けて|穏やかに	anc
 foliar	葉の|葉のような	ejdict
 troposphere	対流圏(海抜7マイルまでの大気層)	ejdict
+farrier	蹄鉄(ていてつ)工|鍛冶屋(blacksmith)	ejdict
 jailhouse	刑務所	anc
 cuesta	ケスタ(片側は急で他方はゆるやかな傾斜の尾根)	ejdict
 ween	(wíːn)|(I weenで挿入句的に)だと思う|と想像する|期待(予期)する	anc
@@ -19682,6 +19961,7 @@ urinalysis	検尿	anc
 maintainability	継続(維持)が可能であること|扶養できること|主張(断言)できること	ejdict
 nectarine	ネクタリン	anc
 councilwoman	(女の)市(町)農議員	ejdict
+curate	(おもに英国国教会の)牧師補|副牧師(rectorまたはvicarの助手または代理);(カトリックの)助任司祭	ejdict
 transference	(感情の)転移	anc
 pliable	成形しやすい|柔軟な	anc
 inevitability	避けられないこと|必然性|やむを得ないこと	anc
@@ -19743,6 +20023,7 @@ milepost	(ある場所との距離を示した)マイル標|里程標	ejdict
 pushy	押しの強い	anc
 brogan	くるぶしまである作業靴	ejdict
 sheaf	束|を束にする	anc
+juju	(西アフリカ原住民の)お守り|まじない|魔よけ	ejdict
 nihilism	虚無主義|ニヒリズム	anc
 splurge	誇示する|収入以上の金を使う|贅沢にふける|散財する|大きな顔をしている|のけぞり返っている|贅沢三昧をする	anc
 thorium	トリウム(金属元素;化学記号は『Th』)	ejdict
@@ -19951,6 +20232,7 @@ malamute	《時に『M-』》(そりを引く)アラスカ犬	ejdict
 invitrogen	インビトロジェン(逆転写試薬の一種)	anc
 lotsa	a lot of	anc
 cytoskeletal	細胞骨格の	anc
+miler	1マイル競走者(馬)	ejdict
 periscope	潜望鏡	anc
 uric	尿	anc
 lethality	致死性	anc
@@ -19970,6 +20252,7 @@ sterilize	を不妊にする|を殺菌する|を不毛にする	anc
 workhouse	《米》感化院|《英》救貧院|貧民収容施設	ejdict
 rotavirus	ロタウイルス|2層のタンパク質の殻に覆われた2本鎖RNAウイルス|乳児下痢症･嘔吐の原因として知られている	anc
 senile	老年の|老衰した|もうろくした|老衰の	anc
+millisecond	ミリ秒	anc
 tourniquet	駆血|止血帯	anc
 interjection	不意の投入|不意の叫び|嘆声|(文法)感嘆詞|間投詞	anc
 eschatology	終末論(死･審判･天国･地獄を述べる)	anc
@@ -20303,6 +20586,7 @@ omniscient	博識の|賢い|全 知の	anc
 gladness	喜ばしさ|うれしさ	ejdict
 frisky	はね回る|元気に飛び回る	anc
 ballistics	(単数扱い)弾道学	anc
+condolence	悔み|哀悼|悔やみ	anc
 bogle	幽霊|おばけ|こわいもの|かかし	anc
 birdbath	(庭などに設けた)小鳥の水浴び盤	ejdict
 inimitable	まねのできない|独特の|無比の|無類の	anc
@@ -20453,6 +20737,7 @@ maim	(人を)不具にする|不具になる|損なう	anc
 immunoreactivity	免疫反応性	anc
 flail	殻竿(で打つ)|からざお	anc
 misappropriation	着服|横領	anc
+gilder	金めっき師|金ぱく師	ejdict
 resound	音で満ちる|反響する|こだまする|鳴り響く|鳴り続く|轟く|響きわたる	anc
 scrubber	床の掃除人|ごしごし洗う剛毛ブラシ|スクラッバー|集塵器|洗浄器|ガス洗浄装置|洗浄工	anc
 defile	汚す|よごす|不潔にする|の美観をそこなう	anc
@@ -20557,6 +20842,7 @@ pectoral	胸の|胸筋の	anc
 phlox	フロックス|ハナシノブ科の植物で花が美しい|67種が知られており|越冬性一年草のものと多年生のものがある	anc
 oaf	とんま|のろま|取替え子|(希に)低能児	anc
 bondsman	(主に米)保釈保証業者(裁判所･刑務所近くに事務所を持ち職業として保釈金を貸したり保証人になったりする人)	anc
+knocker	ノックする人|(また『doorknocker』)(玄関の)ノッカー|たたき金	ejdict
 underfoot	足もとに	anc
 unhinge	乱す|狂乱させる|蝶番(ちょうつがい)をはなす|混乱させる	anc
 primeval	原始時代の|太古の|原始	anc
@@ -20606,6 +20892,7 @@ acidification	酸性化	anc
 regurgitation	逆流|(未消化食物の)吐きもどし|反芻(はんすう)|血液の逆流	ejdict
 alfresco	戸外で|戸外の	ejdict
 elucidation	解明|説明	anc
+junker	(廃品同様の)ポンコツ車	ejdict
 infectivity	伝染力	anc
 vender	=vendor	ejdict
 mousetrap	ネズミ捕り|おとし穴|においの強いチーズ|安いチーズ|小さな家|場末のナイトクラブ|二流の小劇場	anc
@@ -20645,6 +20932,7 @@ chapbook	呼び売り本(昔|行商人が売った通俗読み物の小冊子)	e
 thoughtless	無分別な|思慮のない|軽率な|不注意な	anc
 blasphemous	冒涜的な|不敬な	anc
 unaided	助けを受けない	anc
+dervish	(イスラム教の苦行派の)修道僧	ejdict
 squishy	フワフワな|グニャグニャな|ビショビショな	anc
 washout	流失箇所|流失|決壊|大失敗|落第者	anc
 empathize	感情移入する|共感する	anc
@@ -21183,6 +21471,7 @@ radiofrequency	無線周波数	anc
 prelate	官長|僧侶|高位聖職者	anc
 wearily	疲れて|うんざりして	anc
 northernmost	最北	anc
+sunder	〜‘を'分ける|切り離す|(〜から)分かれる|離れす《+from+名》	ejdict
 theistic	有神論の	ejdict
 unscientific	科学的知識のない|非科学的な	anc
 warrantee	被保証人	ejdict
@@ -21537,6 +21826,7 @@ pith	(植物の茎の中の)髄;(果実などの)やわらかい部分|《the ~�
 gladden	〈人〉‘を'喜ばせる	ejdict
 retrovirus	レトロウイルス|RNAウイルス類の中で逆転写酵素を持つ種類の総称|レトロウイルス科とも呼ばれる	anc
 flambeau	たいまつ	ejdict
+biro	=ballpoint pen	ejdict
 smooch	キスする|愛撫する|抱擁する	anc
 powwow	(病気回復|猟の成功|戦いの勝利などを祈る)北米インディアンの儀式|北米インディアンの会議|《おどけて》(一般に長ったらしい)会議|集会|〈北米インディアンが〉儀式を行う|《おどけて》会合する	ejdict
 penitent	悔い改めた|後悔している|罪を悔いる人	anc
@@ -21551,6 +21841,7 @@ revascularization	血行再建	anc
 parsimony	極度の倹約|けち	anc
 recto	(印刷で)右[側の]ページ	ejdict
 ashen	灰の|灰白色の	anc
+seigneur	封建君主	ejdict
 thiol	チオール|水素化された硫黄を持つ有機化合物|別名メルカプタン(mercaptan)|アルコールの酸素が硫黄で置換されたもの(=チオアルコール)|チオール基(置換基)	anc
 unlinked	連結されていない	anc
 broadsheet	一枚刷|新聞用フルサイズ紙	anc
@@ -21748,6 +22039,7 @@ saddler	馬具屋	ejdict
 smallish	小さめの	anc
 portent	きざし|前兆|兆し	anc
 gorse	ハリエニシダ	anc
+louse	シラミ(複数形lice)	anc
 bluster	怒号|荒れ狂う|猛り狂う|どなりちらす	anc
 organelle	細胞器官	anc
 lobelia	ロベリア(キキョウ科の観賞用植物)	ejdict
@@ -21857,6 +22149,7 @@ angstrom	オングストローム|1000万分の1mm	anc
 premeditate	〜‘を'前もって考える(計画する)	ejdict
 neomycin	ネオマイシン	anc
 poliomyelitis	小児麻痺	ejdict
+faun	フォーン(ローマ神話の林野・牧畜の神で半人半羊の姿をし|みだらな性質をもつといわれる;ギリシア神話ではsatyrと呼ばれる)	ejdict
 sentimentality	感傷的なこと|感傷的な考え|感傷癖	anc
 tenable	持続できる	anc
 chaplet	頭飾りの花輪|小さなじゅず|(一般に)ビーズ飾り|玉飾り	ejdict
@@ -22021,6 +22314,7 @@ astride	にまたがって|に跨って	anc
 dichotomous	二分する	anc
 introvert	内向する|内へ向ける|内省させる|内向的な人	anc
 glitzy	けばけばしい|派手な	anc
+lade	〈特に|荷など〉‘を'積む|〜‘を'ひしゃく(スプーン)ですくう|荷を積む|ひしゃく(スプーン)ですくう	ejdict
 railroader	鉄道従業員|鉄道職員	ejdict
 rapt	心を奪われた|うっとりした	anc
 conjunctive	結合(接合)の|結合する|(文法で)接続[法]の|接続詞;〈U〉接続法	ejdict
@@ -22487,6 +22781,7 @@ sadomasochism	加虐被虐性変態性欲	ejdict
 tonality	(音楽で)調性;(美術で)色調	ejdict
 probity	清廉|誠実|実直	anc
 unflinching	ひるまない|しりごみしない;断固たる	ejdict
+junco	ユキヒメドリ(北米産のヒワの類の鳥)	ejdict
 triumphal	勝利の|戦勝の|祝勝の	anc
 affable	愛想のよい|ものやわらかな|優しい	anc
 resurgent	よみがえる|蘇生する|復活する|生き返った人	anc
@@ -22550,6 +22845,7 @@ irrepressible	抑えられない	anc
 stickler	頑固に言い張る人|難問	anc
 ciliate	繊毛虫(ゾウリムシなど|繊毛のある微生物)	ejdict
 tinfoil	アルミ箔	anc
+astound	びっくり仰天させる	anc
 copulation	性交|交接|連結|結合	ejdict
 drumbeat	太鼓の音|ドラムビート|声を大にして唱える主義	anc
 midyear	一年のなかごろ|(大学の)中間試験	anc
@@ -22618,6 +22914,7 @@ circulator	循環器|流布(伝達)する人|循環小数	ejdict
 downsize	小型化する	anc
 wheeze	ぜいぜいいう|ぜいぜい息を切らす	anc
 silversmith	銀細工師	ejdict
+peterman	金庫破り	ejdict
 phallic	陰茎の|男根[崇拝]の	ejdict
 porphyry	斑岩 (ex|a porphyry that has a phenocryst of quartz or orthoclase 石英や正長石の斑晶を有する斑岩	anc
 breakneck	危険きわまる	ejdict
@@ -22687,6 +22984,7 @@ syncytial	合胞体|複数の核を含んだ細胞のこと(動物に見られ�
 psalmist	賛美歌作者	ejdict
 runnel	小川(runlet)	ejdict
 filtrate	ろ過水|ろ過液|=filter	ejdict
+lamentation	悲嘆|哀悼|哀歌	anc
 pyre	(pάɪɚ) (火葬用の)積み薪|(一般の)積んだ薪	anc
 twiddle	もてあそぶ|ひねり	anc
 basswood	=bass	ejdict
@@ -22746,238 +23044,6 @@ sheepish	(羊のように)内気な|恥ずかしがる|気の弱い|おどおど
 decimate	10人に1人をくじで殺す|殺す|倒す|多量に殺す	anc
 incestuous	近親相姦の|排他的な	anc
 antic	おどけた(しぐさ)|風変わりで滑稽な|怪奇な	anc
-reopen	再開する|再び始める	anc
-rein	手綱|統制|手段|拘束|指揮|制御する	anc
-technologist	科学技術者	anc
-divider	分割機|分割者|分配者|分裂のもと|離反者|仕切りページ|大活字|小見出し	anc
-sprawl	ばらばらに広がる|だらしなく伸びる|手足を延ばす|大の字に寝そべる|這い歩く|スプロール現象	anc
-awning	日よけ	anc
-collide	衝突する|ぶつかる|一致しない	anc
-buoy	浮標|ブイ	anc
-minivan	ミニバン	anc
-tinker	(機械などを)下手に･間に合わせに修繕する|Tinker Bell|ティンカーベル(Tinkerbell|ピーターパンに出てくる妖精)	anc
-coupler	(車両の)連結器	ejdict
-injector	注射器(=syringe)	anc
-chariot	(古代の)一人乗り軽三輪戦車|立派な馬車|(俗)古くて大きな自動車	anc
-modulus	係数|率|絶対値(absolute value)|標準|規準(norm)	anc
-forester	林務官|森林の住人	anc
-seaman	船員	anc
-werewolf	狼人間|狼男	anc
-disgrace	の両目を失わせる|恥辱|不名誉	anc
-lefty	左利き	anc
-moot	議論の余地がある|未決定の|議題にのせる|討論する	anc
-treatise	学術論文|論文|報告書	anc
-giraffe	キリン	anc
-inbreed	同系交配する	anc
-chimp	chimpanzeeチンパンジー	anc
-announcer	アナウンサー	anc
-ointment	軟膏	anc
-redress	弊害を除く|直す|不正を償う|改善|ただすこと	anc
-hemorrhage	出血|(資産･頭脳の)流出|多量に出血する	anc
-montage	モンタージュ(技法)	anc
-whine	すすり泣く|ぐちをこぼす|哀れっぽい声|犬の鳴き声	anc
-arson	放火(犯)	anc
-payback	資本回収	anc
-dill	ディル|ヒメウイキョウ(セリ科の植物で|実と葉はピクルスなどの香味料)	anc
-cappuccino	泡立てクリームをのせたエスプレッソコーヒー	anc
-monsieur	様	anc
-masthead	マストの先|マストの先の見張人|マストヘッド|新聞名|発行人欄	anc
-chilli	トウガラシ|唐辛子|(薬味の)チリ (国名のチリはChile)	anc
-azimuth	(æzəməθ)|(天文)方位角|方位|発射方位|アジマス	anc
-fodder	まぐさ(馬草)|にまぐさを与える	anc
-geeky	おかしな	anc
-quantification	定量化	anc
-falsely	偽って	anc
-adultery	不倫|姦通|密通	anc
-midwestern	中西部の	anc
-charisma	カリスマ(性)(神授の力)|権威|人々を信服させる教祖的な指導力	anc
-patronage	後援|(ペｲﾄｩﾛﾆｯｼﾞ)(顧客の)ひいき|愛顧|保護|いばった態度|商店へのひいき	anc
-impetus	勢い|刺激|推進力|起動力|はずみ	anc
-malnutrition	栄養失調	anc
-intercultural	異文化間の	ejdict
-superfamily	生物上科(科の上)	anc
-functionally	機能的に	anc
-rabies	狂犬病	anc
-readability	読みやすさ;おもしろく読めること|判読できること	ejdict
-transatlantic	大西洋の向うの|大西洋横断の	anc
-glutathione	グルタチオン|3つのアミノ酸から成るトリペプチド|抗酸化物質の1つ	anc
-angina	狭心症	anc
-cayenne	(粉)トウガラシ|トウガラシの実	anc
-balboa	バルボア(パナマ共和国の貨幣単位)	ejdict
-wainwright	荷車製造	anc
-brilliantly	あかあかと|あざやかに|キラキラと|すばらしく|水際だって	anc
-ionization	イオン化	anc
-congregational	集合の|集団の	anc
-waterfowl	(集合的に)水鳥|(fowl にわとり)	anc
-madras	マドラス木綿(インド原産;しまやチェックあや織りで|シャツやドレス用)	ejdict
-faro	銀行|賭けトランプの一種	anc
-skepticism	懐疑論|懐疑主義|懐疑的な態度|無神論	anc
-simplistic	極度に単純化した|簡単に割り切りすぎた	anc
-psychotic	精神異常者|精神病の|病性の	anc
-individuality	個性	anc
-freehold	(不動産などの)自由保有権|自由保有不動産	anc
-agar	テングサ|寒天(培養基)	anc
-polycarbonate	ポリカーボネート樹脂	anc
-placer	砂鉱床	anc
-irritable	おこりっぽい	anc
-scum	浮きかす|屑|灰汁(あく)|かすが浮かぶ|の浮きかすをすくう|くず|かす|泡|温めた牛乳に張る膜	anc
-cunning	抜け目のない|ずるい	anc
-associative	連合の|連想の|結合の	anc
-westside	ウェストサイド物語(映画名)	anc
-occidental	西洋(人)の	anc
-vigor	元気|力|活力|活気|迫力|勢い|(植物などの)生長力	anc
-evasion	言い逃れ|回避|くぐりぬけ|脱税	anc
-matrimonial	結婚の|夫婦の	anc
-tween	トゥイーン(MS Windowsで作動するTwitterのアプリケーション)	anc
-hydraulics	水力学|水理学	anc
-boucher	バウチャー|証書	anc
-prostitute	金のために売る|売春婦	anc
-warmer	暖める人|加湿器	anc
-halftime	ハーフタイム	anc
-giro	郵便振替	anc
-tenderness	柔らかさ|もろさ|敏感|愛情	anc
-ocular	目の|視覚による|ocular proof 目に見える証拠|接眼鏡	anc
-sandman	睡魔	anc
-dung	肥料(manure)|糞	anc
-conclusive	結論的な|決定的な|最終的な	anc
-brutality	横暴さ	anc
-plentiful	たくさんの|豊富な|多くの|豊富の|たっぷりの	anc
-massively	大規模	anc
-stately	威厳のあった|威厳のある|堂々と	anc
-lunchtime	昼食の時間	anc
-aeronautical	航空の	anc
-circumcision	割礼(ユダヤ教などで宗教的儀式として男性の陰茎包皮を切り取ること)|《Circumcision》(カトリックで)キリスト割礼の祝日|(聖公会で)受割礼日(1月1日)	ejdict
-exhibitionism	自己宣伝癖|露出症	anc
-redux	戻ってきた	anc
-compensatory	償いの|賠償的な|報酬の	anc
-rayon	レーヨン|絹に似せて作った繊維|人絹(人造絹糸)や|ステープル･ファイバーからスフと呼ばれていた|Rayonは光線(ray)と綿 (cotton) の合成語	anc
-concurrence	一致	anc
-troublesome	やっかいな|骨の折れる	anc
-eucharist	聖餐(式)|聖餐用のパンとブドウ酒	anc
-objectivity	客観性	anc
-hereto	これに|この点(場所|事)へ	ejdict
-magnetism	磁力|魅力|磁気|人を引きつける力|磁気学	anc
-inventive	発明の才のある	anc
-chromosomal	染色体の	anc
-cutting	割って入る	anc
-cyclical	周期的な(に起る)|循環する|循環株	anc
-mechanically	機械で|無意識的に	anc
-calumet	カルメット(北米インディアンが和解の印としてタバコを回し吸いする長い飾りパイプ)	ejdict
-doggie	(幼児語)わんちゃん	anc
-futile	無益な|無駄な|くだらない|役に立たない	anc
-elliptic	=elliptical	ejdict
-experimentally	実験的に	anc
-musculoskeletal	筋骨格系の	anc
-affluent	豊富な|よどみなく流れる|裕福な|流れ込む	anc
-lonesome	寂しい|人里離れた	anc
-unconventional	慣例にとらわれない|自由な|(服装など)略式の	anc
-heartfelt	心からの	anc
-telluride	テルル化物	anc
-victorious	勝利の|勝利を得た|勝った|戦勝の	anc
-mocha	コーヒー色|チョコレート色|モカ|上等のコーヒー|モカ革|モカ風味のケーキ|暗褐色|手袋用なめし革	anc
-sylvan	樹木の茂った|森の|森に住む	anc
-unnatural	不自然な|不思議な|人情にそむく|異常な	anc
-alphabetic	アルファベット順の	anc
-thrombosis	血栓症	anc
-symphonic	音の類似した|交響曲の|調和した	anc
-modernity	現代性|現代的なもの	anc
-gangsta	ギャングスタ(テレビアニメ名)	anc
-luscious	(味･香りが)よい|おいしい|甘い	anc
-ethos	(特定の民族･社会･時代･文化などの)気風|精神|思潮|エトス	anc
-bil	billionの略|10億	anc
-argyle	(対照的な色を用いた)ひし形編み模様|ひし形模様編みの短靴下	ejdict
-prophetic	予言的な	anc
-consequent	当然の|結果	anc
-neutrality	(国家の)中立|中立政策|中立･不偏不党の状態	anc
-ovulation	排卵	anc
-euthanasia	安楽死|安死術|安らかな死	anc
-liter	リットル(1000cc)	original
-fume	蒸発する|煙|蒸気|煙霧|熱気|怒気|煙を出す|をいぶす	anc
-unitarian	ユニテリアン派(プロテスタントの一派|三位一体の教義(The doctrine of the Trinity|父と子と聖霊)を排して唯一の神格を主張し|キリストを神としない)クリスチャン	anc
-lowercase	小文字	anc
-goldfish	金魚	anc
-irreversible	逆にできない|逆転できない|取り消しできない	anc
-understanding	物わかりのよい|理解|知力|思慮|相互の理解|一致	anc
-postpartum	分娩後の	anc
-dove	ハト|ハト派	anc
-glib	口の軽い|口の達者な|ベラベラしゃべる|口のうまい|行き当たりばったりの	anc
-fictitious	架空の|偽の|創作上の|虚構|虚偽|架空	anc
-immortality	不死	anc
-saffron	サフラン|鮮黄色(の)	anc
-peerless	無比の|無類の	anc
-improbable	ありそうもない	anc
-atypical	異常な	anc
-excessively	過度に	anc
-devoid	欠けていて	anc
-extraordinarily	異常に|並外れて|異例に|特別に|法外に	anc
-dishonest	不正直な	anc
-mailbag	郵便袋;郵便かばん(《英》postbag)	ejdict
-inert	(人など)のろい|生気のない|鈍い|不活性の	anc
-favorably	好意を持って|好意的に|好都合に|順調に|都合よく|有望に|有利に	anc
-postwar	戦後の	anc
-unfavorable	都合の悪い|不運な|不利な|逆の|好意的でない|好ましくない	anc
-anomalous	異常な|変則の|例外的な	anc
-jitter	(〜についての)神経過敏《+『about』+『名』》|いらいらする	ejdict
-feminization	女性化	anc
-frugal	節約する|倹約な|質素な|つましい	anc
-extremist	過激派	anc
-starry	星の多い|星のように輝いた|星形の	anc
-multipurpose	多目的の	anc
-cohesive	(日常などに)密接した|粘着性のある|結合性のある|密着する	anc
-caster	投げる人|配役係|鋳造者|(ピアノ|いすなどの)足車|キャスター|news casters(=news anchors)ニュース番組司会	anc
-medial	中間の|平均の|並みの|(文法)語中の	anc
-colossal	巨大な|素晴らしい|途方もない	anc
-conversational	会話の	anc
-brio	活気|元気	ejdict
-screener	審査官|しゃへい装置|スクリーナー	anc
-hanukkah	ハヌカー(ユダヤ教の祭り)	anc
-adsorption	吸着|吸着量	anc
-cumbersome	扱いにくい|邪魔な|やっかいな	anc
-transmembrane	膜貫通	anc
-firth	河口|入り江|湾	anc
-undated	日付のない	anc
-alternately	交互に|一つおきに|互い違い|ちゃんぽん|交互	anc
-technologically	技術的に	anc
-gracefully	優雅に|淑やかに	anc
-climber	登山者|はい登る植物(ツタなど)|出世主義者	anc
-avenger	復讐者	anc
-encapsulate	カプセルに包む|(事実･情報などを)要約する	anc
-evacuate	避難する|撤退する|疎開する|立ち退かせる|明け渡す|避難|退去|撤退	anc
-reunite	再び結合する|仲直りさせる(する)	anc
-restrain	抑制する|を押さえる|を制止する|防止する	anc
-tremble	震動する|(体が)震える|身震いする|おののく|揺れ動く|そよぐ|おののき	anc
-antidepressant	抗うつ剤	anc
-astronomer	天文学者	anc
-underwriter	保険引受人	anc
-inhale	吸い込む	anc
-drinker	酒飲み|飲む人|家畜用の給水機	anc
-immerse	没頭させる|浸す|沈める|つける	anc
-appraise	の価値を決める|を見積もる|評価する|見積もる|値踏みする|査定する	anc
-refrigerate	冷却する|冷やしておく	anc
-shingle	小さな看板|屋根板|小看板|を屋根板でふく|を短く刈る	anc
-chiropractor	脊柱指圧(調整)療法師	anc
-invertebrate	脊椎のない|無脊椎動物(の)|気骨のない	anc
-automaton	自動化|ロボット化	anc
-tropic	回帰線|熱帯の|熱帯地方の	anc
-perpetrator	加害者|犯人|下手人	anc
-macrophage	マクロファージ|白血球の一種|生体内をアメーバ様運動する食細胞|死んだ細胞や破片|体内に生じた変性物質や侵入した細菌などの異物を捕食し消化する	anc
-disqualify	無資格にする|資格を奪う|失格させる	anc
-amphibian	両生類(の)|水陸両用の|水陸両用飛行機･戦車|両生動物	anc
-grime	不潔	anc
-taint	汚れ|汚点|汚名|病毒|汚れる|を汚す	anc
-restock	(返品された商品を)在庫に戻す|仕入れ直す|新たに仕入れる|補充する	anc
-incubate	熟考する|卵を抱く	anc
-pollute	を汚染する|を汚す|を堕落させる|の神聖を汚す	anc
-segregate	分離する|差別する|隔離する|人種差別する	anc
-snore	いびきをかく|いびき|をぐうぐう寝て過す	anc
-toiletry	洗面化粧品	booqs
-sufferer	苦しむ人|被災者|病人	anc
-millisecond	ミリ秒	anc
-condolence	悔み|哀悼|悔やみ	anc
-knocker	ノックする人|(また『doorknocker』)(玄関の)ノッカー|たたき金	ejdict
-louse	シラミ(複数形lice)	anc
-astound	びっくり仰天させる	anc
-lamentation	悲嘆|哀悼|哀歌	anc
 abed	就床して	anc
 nubile	年ごろで性的魅力のある|(女性が)結婚適齢期の	anc
 dreadfully	すごく	anc
@@ -23505,6 +23571,7 @@ wino	(wάɪnoʊ)|ワイン中毒者|飲んだくれ|ブドウ摘みの働き手	
 cheerfulness	快活|上機嫌	anc
 egoism	利己主義;自分勝手|うぬぼれ	ejdict
 transshipment	(乗客・貨物を)他の乗り物に移すこと|(〜の)積み換え《+of+名》	ejdict
+panto	=pantomime	ejdict
 fatherless	父のない|父親の分からない|作者不詳の	ejdict
 acclimation	順化	anc
 seer	見る人|千里眼の人|予言者	anc
@@ -23619,6 +23686,7 @@ toccata	トッカータ(演奏者の技巧を見せるように意図された�
 dote	もうろくする|溺愛する	anc
 cruet	(酢・こしょうなどを入れるガラス製の)薬味(やくみ)入れ|=cruet stand	ejdict
 blithe	(blάɪθ)(のんきな|陽気な|楽しげな|心の浮き立つ|軽率な|不注意な	anc
+brander	焼き印を押す人(道具)	ejdict
 tiebreaker	テニス･サッカーなどタイで終った場合勝敗をつけるため短時間のプレーを行うシステム	anc
 antithetical	正反対の|(著しい)対照をなす	anc
 chromatid	染色分体	anc
@@ -23678,6 +23746,7 @@ teaspoonful	(〜の)茶さじ1杯[分](tablespoonful の3分の1の量)《+of+�
 absolutist	絶対主義者	anc
 basaltic	現武岩の|現武岩を含む	ejdict
 counterspy	逆スパイ(敵のスパイを逆に探るスパイ)	ejdict
+costal	肋(ろっ)骨の近くにある|肋骨を含む|わき腹の	ejdict
 challah	ハーラ(ユダヤ教の安息日・祭日に食べる白パンの一種)	ejdict
 antihero	反ヒーロー(小説で英雄や騎士らしい美徳を発揮しない主人公)	ejdict
 freewill	自由意志|任意決定|自由意志論	ejdict
@@ -23953,6 +24022,7 @@ maudlin	涙もろい|感傷的な|泣きじょうごの	anc
 insinuation	取り入ること|ほのめかし|あてこすり	anc
 excusable	許される|言い訳の立つ|無理もない	ejdict
 craggy	ごつごつした|顔が岩のようにごつごつした|彫りが深い	anc
+lovey	(呼びかけに用いて)おい|ちょっと|おまえ|= lovey-dovey	ejdict
 lowbrow	教養の低い|低級な|無知な人|教養の無い	anc
 lychee	=litchi	ejdict
 swizzle	スウィズル(ラム酒・ライムジュース・砕き氷・砂糖などを混ぜたカクテル)	ejdict
@@ -23975,8 +24045,10 @@ telfer	=telpher	ejdict
 turbid	(液体が)濁った|不透明な|(煙・雲などが)濃い・厚い|(感情・思考などが)混乱した	ejdict
 sifter	調査官|ふるい|ふりかけ器	ejdict
 televise	テレビで放送(受像)する	anc
+bort	(工業用の低質の)ダイヤモンドくず	ejdict
 righty	右利き(の人)|(野球)右腕投手	anc
 constitutionalism	立憲立義	ejdict
+nates	《複数形》しり|臀部(でんぶ)	ejdict
 compressibility	圧縮性|圧搾できること	ejdict
 cryptogram	暗号;〈C〉暗号文	ejdict
 quackery	いんちき療法	anc
@@ -24356,6 +24428,7 @@ comsat	コムサット(大陸間の通信衛星;communications satelliteの略)	
 insubordination	不服従|不従順|反抗	ejdict
 impious	神を敬わない|不信心な	ejdict
 coextensive	(空間的・時間的に)同一の広がりを持つ	ejdict
+capon	去勢した食肉用おんどり	ejdict
 stiffly	堅く	anc
 nastiness	意地の悪さ	anc
 festivity	祭典|お祭り騒ぎ	anc
@@ -24509,6 +24582,7 @@ reticence	無口(なこと)|沈黙|控えめ|思慮	anc
 iambic	(韻律で)弱強格の|=iambus|《複数形で》弱強格の詩	ejdict
 landholding	土地所有	ejdict
 quadrille	カドリール(4人が組みになって踊るスクエアダンス;その曲)	ejdict
+rondeau	ロンドー(2個脚韻を踏み|最初の語が後に2回くり返される短い定型詩)	ejdict
 treetop	こずえ	anc
 inedible	食べられない|食べるのに適さない	anc
 incongruity	不調和|不一致	anc
@@ -24689,6 +24763,7 @@ invariable	不変の	anc
 partita	パルティータ(17・18世紀ごろのヨーロッパの器楽組曲)	ejdict
 cloche	(苗・若芽を保護する)つり鐘形(屋根形)のガラスおおい|つり鐘形の婦人帽	ejdict
 bikeway	自転車専用道路|サイクリングコース	ejdict
+picot	ピコット(ししゅう・レース・リボンなどの縁に施す丸い輪飾りの一つ)|〜‘に'ピコットで縁飾りする	ejdict
 interpose	(会話や話などへ)〈批評・質問など〉‘を'差しはさむ|(二つの部分・物・場所などの間に)〜‘を'置く|挿入する(insert)《+『名』+『between』(『among』)+『名』》|〈異議〉‘を'唱える|〈拒否権〉‘を'発動する|割り込む|邪魔する	ejdict
 ardently	熱烈に	anc
 bubonic	(医)横痃(おうげん)|もものつけねのリンパ節が炎症を起こして腫れること|黒死病(bubonic plague)	anc
@@ -24703,6 +24778,7 @@ cycler	自転車に乗る人	anc
 asphyxiation	窒息	anc
 coppice	雑木林	ejdict
 kneecap	膝蓋骨|膝のお皿	anc
+tabard	(中世の騎士がよろいの上に着たそでなしで家紋入りの)陣羽織|伝令官(herald)の上着(1に似た形で|主君の紋章が付いている)	ejdict
 undiminished	減じていない|衰えない	anc
 mazel	運|好運	anc
 adsorb	〈ガス・液体など〉'を'吸着する	ejdict
@@ -24862,6 +24938,7 @@ adlib	〈楽譜にないもの〉'を'即興的に歌う(演奏する)|〈台本
 swayback	(特に馬の)脊柱湾曲	ejdict
 parishioner	教区民	anc
 meritocracy	実力社会	anc
+calve	〈雌牛が〉子を産む|〈氷河・氷山などが〉一部分離する	ejdict
 machismo	(スペイン語)男らしさ|マチスモ	anc
 sclerotic	(組織・血管などが)硬化した|硬化症の	ejdict
 docker	ドック作業員	anc
@@ -25595,6 +25672,7 @@ laboriously	＜laborious|苦労して|ほねをおって	anc
 inmost	=innermost	ejdict
 kinglet	小国の王|キクイタダキ属の小鳥	ejdict
 wording	言葉で言い表す|言い回し	anc
+quintal	キンタル(重量の単位;100kgに相当)	ejdict
 fascicle	分冊	anc
 cannot	can not	anc
 lordy	なんてこった	anc
@@ -26113,6 +26191,7 @@ troth	忠実|誠実|真実	ejdict
 contemptuously	見下げるように|軽蔑して	anc
 mercaptoethanol	メルカプトエタノール|劇物取締法による毒物|引火性で炎や酸化剤などに接触すると発火する|還元剤として働く	anc
 ideologue	イデオロギーの信奉者|空論家|夢想家	anc
+ironmonger	《英》鉄器商|金物屋	ejdict
 impugn	非難する|論難する|異議を唱える|反駁する|疑いを差し挟む	anc
 antipodean	(にとって)対蹠地の|(と)正反対の(to)	anc
 catchall	種々雑多なもの(がらくた)をなんでも含む(収める)もの|広範囲の	anc
@@ -26174,6 +26253,7 @@ spat	ささいなけんか|いさかいをする|spit(つばや悪口を吐く)�
 misquote	誤って引用する	anc
 protestor	抗議者	anc
 baleful	有害な|不吉な|悲惨な|元気のない|悪意に満ちた	anc
+chafer	コガネムシ	ejdict
 volitional	意志の|意志に関する|意志に基づく	anc
 jerkin	(16‐17世紀ごろ男子が用いた)袖無しの上着	ejdict
 foist	(偽物など)を人につかませる|押しつける|そっと挿入する|偽って～の作だとする	anc
@@ -26402,6 +26482,7 @@ merchantable	販売用の|売り物になる	ejdict
 dearie	deary|かわいい人|(ねえ)あなた|darling|dear	anc
 cloaca	下水|便所	anc
 comeuppance	当然の罰(報い)	anc
+doyen	(団体などの)古参者|長老|大御所	ejdict
 disbar	〜‘の'弁護士の資格をはく奪する	ejdict
 wive	〜‘を'めとる|妻帯する	ejdict
 finny	漁の|魚がたくさんいる|ひれのような|ひれのある	ejdict
@@ -26848,6 +26929,7 @@ hotcake	ホットケーキ	ejdict
 demesne	(封建領主・貴族などの)私有地|領地	ejdict
 briny	海|大洋|塩辛い|塩水の|海の|涙の	anc
 nimbly	すばやく	anc
+verger	聖堂番 《教会堂の掃除をしたり礼拝者を座席に案内する》《英》 (大聖堂・大学などで主教・副総長などを先導する)権標捧持者	ejdict
 holoenzyme	ホロ酵素|(酵素本体となるタンパク質分子に|非タンパク質性の分子が結合して初めて酵素として機能するものを呼ぶ)	anc
 bloodstained	血痕のついた	ejdict
 unfix	〜‘を'はずす|緩める|〈心・気持ち〉‘を'ぐらつかせる	ejdict
@@ -27076,6 +27158,7 @@ tartaric	酒石の	ejdict
 plenitude	豊富|十分	ejdict
 rosebush	バラの木(茂み)	ejdict
 intersperse	散らばせる|まき散らす|蒔き散らす	anc
+gunnel	=gunwale	ejdict
 premedical	医学部進学課程の	ejdict
 scurrilous	(言葉づかいの)下品な|野卑な	ejdict
 uncannily	不思議なほど	anc
@@ -27317,6 +27400,7 @@ splitting	裂ける|割れる|割れるように痛む|キリキリ|腹が痛む
 headlock	ヘッドロック(レスリングで相手の頭を脇の下で締めつける技)	ejdict
 doxology	栄光の賛歌|頌栄(しょうえい)(礼拝で歌う短い賛美歌)	ejdict
 hyperbola	双曲線	ejdict
+simony	(昔の)聖職売買[の罪]	ejdict
 syndicalist	サンディカリズム主義者|サンディカリズム主義の	ejdict
 luxuriate	大いに楽しむ|ぜいたくをする|繁茂する|ぜいたくに暮らす|ふける	anc
 immunocompetent	免疫応答性	anc
@@ -27417,6 +27501,7 @@ moodiness	むら気な|むっつりした|不機嫌な|ふさぎ込んだ	anc
 navigability	(川・海などの)航行可能(性)	ejdict
 interregnum	(国王の死などによる)空位期間|(政治の)空白期間	ejdict
 antitoxin	〈C〉抗毒素|〈U〉抗毒素血清	ejdict
+cacciatore	カチャトーレの(トマトやきのこを煮こんだ料理)	ejdict
 oedipal	エディプス複合(Oedipus complex)の	ejdict
 enthrall	魅了する|夢中にさせる	anc
 aspectual	(動詞の)相の	ejdict
@@ -27931,6 +28016,7 @@ odium	憎悪|反感|汚名|悪評	ejdict
 doctrinaire	空論家|教条的な|空論の	anc
 hustings	演説台	anc
 electromotive	電動の|起電の	ejdict
+stumper	切り株を除く人(物)|難問|難題|《米話》選挙演説家|遊説家	ejdict
 charioteer	chariotを駆る人(御者)	ejdict
 adroitly	うなだれた|うつむいた	anc
 ovenware	オーブン用耐熱食器	ejdict
@@ -27956,6 +28042,7 @@ elopement	駆け落ち;家出;失踪(そう)	ejdict
 monosyllabic	(単語の音節が)単音節の|単音節語の	ejdict
 incontestable	明らかな|議論の余地のない	anc
 languor	(け)だるさ|倦怠|無気力|思い悩み|物思い	anc
+mantilla	マンテラ(スペイン・メキシコなどの婦人が頭・肩・背を覆うレースまたは絹のスカーフ)	ejdict
 epochal	一新紀元を画する|画期的な|新しい時代をもたらす|新紀元の|前代未聞の|比類のない	anc
 ventriloquism	腹話術	anc
 slovenly	(服装・言語などが)だらしのない|いいかげんな|だらしなく|いいかげんに	ejdict
@@ -28039,6 +28126,7 @@ skittle	《複数形で;単数扱い》九柱戯(ninepins)|〈C〉九柱戯の�
 aforethought	(名詞の後で)あらかじめ考えた|計画的な|故意の	anc
 stonemason	石工	anc
 ytterbium	イッテルビウム(希土類元素;化学記号は Yb)	ejdict
+jato	ロケット離陸補助装置(離陸完了時には捨てられる)	ejdict
 dishcloth	《米》(またdishrag)皿洗い用ふきん|《英》皿洗いまたは皿ふき用ふきん	ejdict
 schismatic	分裂の(を引き起こす)|宗派分立論者	ejdict
 irrelevancy	見当違い|見当違いの言葉|的外れの質問|不適切|無関係	anc
@@ -28384,6 +28472,7 @@ worktable	仕事台	ejdict
 callously	冷淡に	anc
 resoundingly	(音など)鳴り響く|めざましい|顕著な	anc
 meathead	《俗》まぬけ|ばか	ejdict
+serrate	(葉の縁が)のこぎり歯状の	ejdict
 maladjusted	調節の悪い	anc
 epistasis	エピスタシス|遺伝学において|異なる遺伝子座間の相互作用が一つの形質に影響すること	anc
 bombproof	防弾の|爆弾の通らない	ejdict
@@ -28803,6 +28892,7 @@ skywards	=skyward	ejdict
 gradualism	漸進主義	anc
 incivility	無作法(な行為)	anc
 stultify	台なしにする|無意味にする|無効にする	anc
+troche	トローチ|錠剤	ejdict
 unctuous	なめらかな|脂質の	anc
 animato	(音楽の演奏の指示で)活発な(に)|元気のよい(よく)	ejdict
 oversteer	〈車などが〉ハンドルがきき過ぎる	ejdict
@@ -29410,6 +29500,7 @@ conferment	授与|叙勲	ejdict
 haunch	臀部(でんぶ)|(動物の)腰肉	anc
 postlude	後奏曲;最終楽章	ejdict
 plainness	明白さ|率直さ|質素	anc
+wolfish	オオカミのような|どん欲な(greedy)|残忍な(cruel)	ejdict
 oxtail	牛の尾(特にシチュー・スープなどに用いる)	ejdict
 restorable	復活(回復)できる|社会復帰可能な	ejdict
 moralism	教訓|説教|道徳主義	anc
@@ -30014,6 +30105,7 @@ cremate	〈死体〉'を'火葬にする	ejdict
 immunohistochemically	免疫組織化学的に	anc
 tweeze	〜をピンセットで抜く	ejdict
 anabolism	(生物の)同化作用	ejdict
+uhuh	うーん(No)(鼻にかけて発音し否定・不同意を表す)	ejdict
 generalissimo	大元帥	anc
 coquettish	(女が)男にこびを売る|なまめかしい|あだっぽい	ejdict
 seasonably	時機を得て|つごうよく	ejdict
@@ -30057,6 +30149,7 @@ overfly	(編隊飛行で)〜‘の'上空を飛行する	ejdict
 injudicious	無分別な|無思慮な	ejdict
 beriberi	脚気(かっけ)	ejdict
 unmanly	男らしくない|ひきょうな|めめしい|柔弱な	ejdict
+mazy	迷路のような	ejdict
 cookhouse	炊事場・(特に)船の調理室|(キャンプ・工事現場などの)仮設炊事場	ejdict
 phosphatic	リン酸塩の|リン酸塩を含む	ejdict
 satinwood	サテンの木(東インド産のマホガニーの一種)	ejdict
@@ -30099,6 +30192,7 @@ abnegation	権利(欲望など)の放棄;禁欲	ejdict
 synergize	相乗作用を与える	anc
 sporangium	(コケ植物の)胞子嚢(のう)	ejdict
 malefic	有害な|災いを呼ぶ	ejdict
+lecher	好色家	ejdict
 scatterbrain	気持ちが散漫な人|軽率な人	ejdict
 betake	(〜に)〈自分〉'を'行かせる《+one『self to』+『名』》	ejdict
 forestation	植林|造林;営林	ejdict
@@ -30130,6 +30224,7 @@ roundish	丸みのある|やや丸い	ejdict
 plimsoll	《複数形で》《英》ゴム底ズック靴|運動靴《米》sneaker)	ejdict
 untwist	よりがもどる|ほどける|〈糸〉‘の'よりをもどす|〈もつれ〉‘を'ほどく	ejdict
 milquetoast	気の弱い人|いくじなし	ejdict
+fellah	(エジプト・シリアなどの)農夫|労働者	ejdict
 epiglottis	喉頭蓋|のどぶた	ejdict
 vacantly	ぼんやりと|ぽかんとして	ejdict
 cablegram	=cable{名}3	ejdict
@@ -30681,6 +30776,7 @@ intermarry	(異なる人種･階級の人と)結婚する|近親結婚する	an
 cantharis	=Spanish fly	ejdict
 imprecation	祈ること|呪い	anc
 disunite	〜‘を'分離させる|分裂させる|分離する|分裂する	ejdict
+bracero	(米国へ農作業に来る)メキシコ人季節労務者	ejdict
 highboy	脚付きの高い洋だんす	ejdict
 parky	(空気などが)ひんやりとした|冷たい	ejdict
 corncrake	ウズラクイナ(ヨーロッパ産のクイナ科の小鳥)	ejdict
@@ -30938,6 +31034,7 @@ unceremonious	不作法な|ぶしつけな|儀式(形式)ばらない	ejdict
 sidewise	=sideways	ejdict
 gymnosperm	裸子植物	ejdict
 compeer	(階級・能力などが)同等な人|仲間|同僚	ejdict
+gammer	老婆	ejdict
 creepily	はい回って|のろのろと|ぞくぞくして|身震いして	ejdict
 cowhand	=cowboy	ejdict
 fumigate	(殺虫・殺菌のために)〜‘を'いぶす|いぶしい消毒する	ejdict
