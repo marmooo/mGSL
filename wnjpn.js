@@ -1,14 +1,13 @@
-const SQLite3 = require('better-sqlite3');
-const db = new SQLite3(__dirname + '/vendor/wnjpn.db');
-const readEachLineSync = require('read-each-line-sync');
+import { readLines } from "https://deno.land/std/io/mod.ts";
+import { DB } from "https://deno.land/x/sqlite/mod.ts";
 
-
-const getWordsEngStmt1 = db.prepare("SELECT * FROM word WHERE lemma = ?");
-// const getSensesEngStmt1 = db.prepare("SELECT * FROM sense WHERE wordid = ? ORDER BY freq");
-const getSensesEngStmt1 = db.prepare("SELECT synset FROM sense WHERE wordid = ? AND freq = (SELECT max(freq) FROM sense WHERE wordid = ?)");
-const getSensesEngStmt2 = db.prepare("SELECT distinct wordid FROM sense WHERE synset = ? AND lang='jpn' ORDER BY freq DESC LIMIT 10");
-const getWordsEngStmt2 = db.prepare("SELECT lemma FROM word WHERE wordid = ?");
-const getDefEngStmt = db.prepare("SELECT def FROM synset_def WHERE synset = ? AND lang='jpn'");
+const db = new DB('vendor/wnjpn.db');
+const getWordsEngStmt1 = db.prepareQuery("SELECT wordid FROM word WHERE lemma = ?");
+// const getSensesEngStmt1 = db.prepareQuery("SELECT wordid FROM sense WHERE wordid = ? ORDER BY freq");
+const getSensesEngStmt1 = db.prepareQuery("SELECT synset FROM sense WHERE wordid = ? AND freq = (SELECT max(freq) FROM sense WHERE wordid = ?)");
+const getSensesEngStmt2 = db.prepareQuery("SELECT distinct wordid FROM sense WHERE synset = ? AND lang='jpn' ORDER BY freq DESC LIMIT 10");
+const getWordsEngStmt2 = db.prepareQuery("SELECT lemma FROM word WHERE wordid = ?");
+const getDefEngStmt = db.prepareQuery("SELECT def FROM synset_def WHERE synset = ? AND lang='jpn'");
 
 function isUnnecessary(lexName) {
   switch (lexName) {
@@ -21,29 +20,30 @@ function isUnnecessary(lexName) {
 function getWordsEng(lemma) {
   let defs = [];
   let synonyms = [];
-  getWordsEngStmt1.all(lemma).forEach(wordEng1 => {
-    // getSensesEngStmt1.all(wordEng1.wordid).forEach(senseEng1 => {
-    getSensesEngStmt1.all(wordEng1.wordid, wordEng1.wordid).forEach(senseEng1 => {
-      // getDefEngStmt.all(senseEng1.synset).forEach(synsetDef => {
-      //   defs.push(synsetDef.def);
-      // });
-      getSensesEngStmt2.all(senseEng1.synset).forEach(senseEng2 => {
-        getWordsEngStmt2.all(senseEng2.wordid).forEach(wordEng2 => {
-          synonyms.push(wordEng2);
-        });
-      });
-    });
-  });
+  for (const [wordid1] of getWordsEngStmt1([lemma])) {
+    // for ([wordid1] of getSensesEngStmt1(wordid1)) {
+    for (const [synset1] of getSensesEngStmt1([wordid1, wordid1])) {
+      // for (const [def] of getDefEngStmt([synset1])) {
+      //   defs.push(def);
+      // }
+      for (const [wordid2] of getSensesEngStmt2([synset1])) {
+        for (const [lemma] of getWordsEngStmt2([wordid2])) {
+          synonyms.push(lemma);
+        }
+      }
+    }
+  }
   return [defs, synonyms];
 }
 
-readEachLineSync('3/mGSL.lst', 'utf8', (line) => {
+const fileReader = await Deno.open("3/mGSL.lst");
+for await (const line of readLines(fileReader)) {
   const [lemma, freq] = line.split('\t');
   const [defs, words] = getWordsEng(lemma);
   if (words.length != 0) {
     // const defString = defs.join('|');
-    const lemmaString = words.map(x => x.lemma).filter(x => x != lemma).join('|');
+    const lemmaString = words.filter(x => x != lemma).join('|');
     // console.log(lemma + '\t' + defString + '\t' + lemmaString);
     console.log(lemma + '\t' + lemmaString);
   }
-});
+}
