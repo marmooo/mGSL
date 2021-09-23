@@ -1,25 +1,25 @@
 import { readLines } from "https://deno.land/std/io/mod.ts";
 import { DB } from "https://deno.land/x/sqlite/mod.ts";
 
-const db = new DB('vendor/wnjpn.db');
-const getWordsEngStmt1 = db.prepareQuery("SELECT wordid FROM word WHERE lemma = ?");
+const db = new DB("vendor/wnjpn.db");
+const getWordsEngStmt1 = db.prepareQuery(
+  "SELECT wordid FROM word WHERE lemma = ?",
+);
 // const getSensesEngStmt1 = db.prepareQuery("SELECT wordid FROM sense WHERE wordid = ? ORDER BY freq");
-const getSensesEngStmt1 = db.prepareQuery("SELECT synset FROM sense WHERE wordid = ? AND freq = (SELECT max(freq) FROM sense WHERE wordid = ?)");
-const getSensesEngStmt2 = db.prepareQuery("SELECT distinct wordid FROM sense WHERE synset = ? AND lang='jpn' ORDER BY freq DESC LIMIT 10");
-const getWordsEngStmt2 = db.prepareQuery("SELECT lemma FROM word WHERE wordid = ?");
-const getDefEngStmt = db.prepareQuery("SELECT def FROM synset_def WHERE synset = ? AND lang='jpn'");
-
-function isUnnecessary(lexName) {
-  switch (lexName) {
-    case 'noun.person': return true;
-    case 'noun.location': return true;
-    default: return false;
-  }
-}
+const getSensesEngStmt1 = db.prepareQuery(
+  "SELECT synset FROM sense WHERE wordid = ? AND freq = (SELECT max(freq) FROM sense WHERE wordid = ?)",
+);
+const getSensesEngStmt2 = db.prepareQuery(
+  "SELECT distinct wordid FROM sense WHERE synset = ? AND lang='jpn' ORDER BY freq DESC LIMIT 10",
+);
+const getWordsEngStmt2 = db.prepareQuery(
+  "SELECT lemma FROM word WHERE wordid = ?",
+);
+// const getDefEngStmt = db.prepareQuery("SELECT def FROM synset_def WHERE synset = ? AND lang='jpn'");
 
 function getWordsEng(lemma) {
-  let defs = [];
-  let synonyms = [];
+  const defs = [];
+  const synonyms = [];
   for (const [wordid1] of getWordsEngStmt1([lemma])) {
     // for ([wordid1] of getSensesEngStmt1(wordid1)) {
     for (const [synset1] of getSensesEngStmt1([wordid1, wordid1])) {
@@ -38,12 +38,12 @@ function getWordsEng(lemma) {
 
 const fileReader = await Deno.open("3/mGSL.lst");
 for await (const line of readLines(fileReader)) {
-  const [lemma, freq] = line.split('\t');
-  const [defs, words] = getWordsEng(lemma);
+  const [lemma, _freq] = line.split("\t");
+  const [_defs, words] = getWordsEng(lemma);
   if (words.length != 0) {
     // const defString = defs.join('|');
-    const lemmaString = words.filter(x => x != lemma).join('|');
+    const lemmaString = words.filter((x) => x != lemma).join("|");
     // console.log(lemma + '\t' + defString + '\t' + lemmaString);
-    console.log(lemma + '\t' + lemmaString);
+    console.log(lemma + "\t" + lemmaString);
   }
 }
