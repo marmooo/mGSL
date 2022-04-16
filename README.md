@@ -78,11 +78,11 @@ CC-BY-SA 4.0
 
 ## Attribution
 
-- The original of vendor/ancdic.tsv was created by
+- `vendor/ancdic.tsv` is modified
   [ANC Frequency Dictionary](http://www.jamsystem.com/ancdic/) (free)
-- The original of vendor/booqs/*.csv were created by
-  [BooQs](https://note.com/kawanjin01/n/na861d9264699) under the license of
+- `vendor/booqs/*.csv` are [BooQs](https://note.com/kawanjin01/n/na861d9264699)
+  licensed under the
   [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- The original of vendor/ngsl/*.tsv were created by
-  [NGSL](http://www.newgeneralservicelist.org/) under the license of
+- `vendor/ngsl/*.xlsx` are [NGSL](http://www.newgeneralservicelist.org/)
+  licensed under the
   [CC-BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
