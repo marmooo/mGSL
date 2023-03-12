@@ -1,4 +1,4 @@
-vendor/google-ngram-small/
+vendor/google-ngram-small-en/
 vendor/dictionary/
 vendor/agid-2016.01.19.tar.gz
 vendor/agid-2016.01.19/
@@ -10,6 +10,3 @@ vendor/Google-profanity-words/
 vendor/Abbreviations/
 vendor/country-list/
 vendor/language-list/
-vendor/wnjpn.db
-vendor/wnjpn.txt
-vendor/wneng.txt
