@@ -34,7 +34,7 @@ one	1つの|ある|唯一の|一方の|同じもの|人	anc
 all	すべての|全部の|すべて(のこと)	anc
 we	私たち|私たちは	anc
 him	彼を	anc
-me	私を|私に|ドレミのミ(Doe,Ray,*,Far,Sew,La,Tea)	original
+me	私を|私に	original
 out	外へ	original
 up	上へ|上がる	anc
 time	時間|時刻|回|(times)時代|時勢	anc
@@ -131,11 +131,11 @@ while	の間|～する間|～する一方で	anc
 point	点|先端|指さす	anc
 around	〜の周りに	original
 never	決して～ない|今までに一度も～ない	anc
-doe	鹿,ウサギ,羊等の雌(反義語buck)|ドレミのド(*,Ray,Me,Far,Sew,La,Tea)	original
+doe	鹿,ウサギ,羊等の雌(反義語buck)	original
 old	古い|(年齢が)～歳の	anc
 world	世界	anc
 help	を助ける|を手伝う|役立つ|助け|援助|役立つ人	anc
-far	遠くに|はるかに|ドレミのファ(Doe,Ray,Me,*,Sew,La,Tea)	original
+far	遠くに|はるかに	original
 form	書類の様式|フォーム|形|外観	original
 again	再び|また|もう一度	anc
 study	勉強する|を研究する	anc
@@ -1476,7 +1476,7 @@ operate	手術する|作動する|操作する|経営する	anc
 sharp	明敏な|鋭い|急な|はっきりした|激しい|きびしい|鋭敏な|ちょうど	anc
 formal	公式の|形の|正式の|形式的な	anc
 federal	連邦政府の|連合の|同盟の|連邦制の|合衆国の(F-)	anc
-tea	茶|ドレミのシ(Doe,Ray,Me,Far,Sew,La,*)	original
+tea	茶	original
 technique	方法|技術|技巧	anc
 tool	道具|用具|手段|手先|に細工する|で仕上げる	anc
 dependent	依存している|扶養家族	anc
@@ -2156,7 +2156,7 @@ criticism	批判|非難|批評	anc
 counsel	に助言する|勧告する|助言|顧問弁護士|忠告	anc
 accuracy	精密さ|正確|精度	anc
 heavily	重く|重そうに|激しく|濃密に|ひどく|重々しく|密に|のっそり|猛烈|物物しい	anc
-ray	放射線|光線|光明|ひらめき|熱線|半径|(魚)エイ|ドレミのレ(Doe,*,Me,Far,Sew,La,Tea)	original
+ray	放射線|光線|光明|ひらめき|熱線|半径|(魚)エイ	original
 receptor	レセプター(受容体)	anc
 accurate	明確な|的確な|正確な	anc
 distant	時間が隔たった|かすかな|遠い|離れた|敬遠した	anc
@@ -6844,7 +6844,7 @@ supervise	を監督(管理)する	anc
 invaluable	非常に貴重な|priceless	anc
 ubiquitous	至る所にある|遍在する	anc
 proclamation	宣言|公布|布告|発布|宣言書|声明文	anc
-sew	を縫う|縫い物をする|を縫い付ける|ドレミのソ(Doe,Ray,Me,Far,*,La,Tea)	original
+sew	を縫う|縫い物をする|を縫い付ける	original
 curvature	湾曲|曲率|曲がり	anc
 metaphysics	形而上学	anc
 ornament	装飾|飾る|光彩を添える人|飾り	anc
