@@ -114,7 +114,7 @@ become	になる|(ある状態)になる･変わる	anc
 off	〜から離れて|休みの日	original
 high	高い|(程度などが)上の	anc
 still	まだ|やはり	anc
-change	変更|変化する|おつり|お釣り	anc
+change	変更|変化する|おつり	original
 same	同じ	anc
 both	両方|2人とも	anc
 must	〜しなければならない|〜に違いない	original
@@ -754,7 +754,7 @@ glass	コップ|グラス	anc
 breath	息|呼吸	anc
 stress	を強調する|緊張|ストレス|強調|強勢(をつける)	anc
 sea	海	anc
-mine	わたしのもの|鉱山|炭鉱|(a diamond mineダイヤモンド鉱山)|機雷|地雷	anc
+mine	わたしのもの|鉱山|炭鉱|機雷|地雷	original
 reference	参照|言及	anc
 communication	コミュニケーション|意思の伝達	anc
 nation	民族|国家|国民|主権国	anc
