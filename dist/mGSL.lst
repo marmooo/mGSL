@@ -40,7 +40,7 @@ up	上へ|上がる	anc
 time	時間|時刻|回|(times)時代|時勢	anc
 so	そのように|とても|それほど|そういうわけで	anc
 other	他の|別の|他の人|他のもの	anc
-see	見る|(イメージ:視界に)入る	anc
+see	見る|見える	original
 about	およそ|〜について	original
 who	誰	original
 know	を知っている	original
@@ -71,7 +71,7 @@ make	作る|(対象を新しい別のもの･状態に)する	anc
 shall	相手の意向を尋ねる	anc
 then	それから|その次に|そのとき|それなら|そうすれば	anc
 over	〜を越えて|〜の上を覆って|〜の上方に	original
-give	与える|(イメージ:手元から出す)	anc
+give	与える|渡す	original
 way	道|方法	anc
 such	そのような|このように|そんなに	anc
 these	これらの|これら|この人たち	anc
@@ -101,7 +101,7 @@ us	私たちを	booqs
 because	なぜなら	anc
 good	よい|よろしい|楽しい|おいしい|うまい|じゅうぶんな	anc
 life	生活|一生|人生|生命|命	anc
-look	見る|(イメージ:目を向ける)	anc
+look	見る|目を向ける	original
 here	ここに|ここで	anc
 much	ずっと|はるかに|非常に|多くの|多量の	anc
 own	自分の|自身の|を所有する	anc
@@ -209,7 +209,7 @@ law	法律|法則	anc
 though	しかし|にもかかわらず|だけれども|たとえ～しても	anc
 door	ドア|戸	anc
 fact	事実	anc
-leave	去る|(イメージ:対象をある状態のままその場に残す)|許可|休暇	anc
+leave	去る|許可|休暇	original
 himself	彼自身	anc
 information	情報	anc
 effect	効果|影響|結果	anc
@@ -251,7 +251,7 @@ care	介護|心配|注意|世話|気にする	anc
 once	一度|かつて|いったん～すると	anc
 create	創造する|引き起こす|授ける	anc
 enough	十分な|十分に	anc
-turn	順番|に変わる|(イメージ:現在の運動･状態の方向を転換すること)	anc
+turn	順番|に変わる|回転させる	original
 allow	許可する|許す|を可能にする	anc
 thing	物|こと|事	anc
 individual	個人|個人主義的な|個々の	anc
@@ -294,7 +294,7 @@ hard	熱心に|いっしょうけんめいに|激しく|(生活などが)つら�
 test	テスト|テストする|試す	anc
 activity	活動|活躍|働き|動き|活気	anc
 across	～を横切って|～の向こう側へ|～の至るところに	original
-hold	確保する|(イメージ:一時的に押さえておく)	anc
+hold	確保する|押さえておく	original
 note	ノート|符号|記号|覚え書き|注目|著名|書き留める|注意する	anc
 rate	レート|割合|率|速度|を評価する	anc
 cell	細胞|組織|電池|監房|独房|密室	anc
@@ -1151,7 +1151,7 @@ via	〜を経由して	original
 huge	巨大な|でっかい|莫大な|たいした	anc
 description	描写|記述|説明	anc
 therapy	治療|療法	anc
-push	(イメージ:押す力を加える)	anc
+push	押す	original
 none	少しも～ない|だれも～ない|決して～ない	anc
 novel	(長編)小説|新しい|珍しい|異常な|新奇な	anc
 audience	支持者|聴衆|謁見|観客|観衆	anc
@@ -5753,7 +5753,7 @@ scenery	風景|気色|景観	anc
 scorn	軽蔑する|あなどる|(軽蔑して)拒絶する|嘲笑|あざけり	anc
 reel	リール|糸巻き|動揺する|よろめく|ふらつき歩く	anc
 insecurity	不安定	anc
-serpent	ヘビ|蛇(snakeより文語的表現|また大型のイメージ)	anc
+serpent	ヘビ(snakeより大型)	original
 unseen	見られない|まだ見たことがない|見知らぬ|目に見えない|即席の	anc
 virtuous	高潔な|有徳の|徳の高い|貞潔な|貞淑な	anc
 outset	手始め|発端	anc
