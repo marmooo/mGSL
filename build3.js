@@ -173,7 +173,7 @@ function loadBadWords() {
 }
 
 function loadProfanityWords() {
-  return loadLineDict("vendor/Google-profanity-words/data/list.txt");
+  return loadLineDict("vendor/Google-profanity-words/data/en.txt");
 }
 
 async function loadNames() {
