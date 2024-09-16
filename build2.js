@@ -1,10 +1,15 @@
-import { readLines } from "https://deno.land/std/io/mod.ts";
+import { TextLineStream } from "jsr:@std/streams/text-line-stream";
+
+function getLineStream(file) {
+  return file.readable
+    .pipeThrough(new TextDecoderStream())
+    .pipeThrough(new TextLineStream());
+}
 
 const lemmatizationDict = new Map();
 lemmatizationDict.set("an", "a");
-let fileReader = await Deno.open("vendor/agid-2016.01.19/infl.txt");
-for await (const line of readLines(fileReader)) {
-  if (!line) continue;
+let file = await Deno.open("vendor/agid-2016.01.19/infl.txt");
+for await (const line of getLineStream(file)) {
   const [toStr, fromStr] = line.split(": ");
   if (!toStr.includes("?")) {
     const [to, _toPos] = toStr.split(" ");
@@ -25,9 +30,8 @@ for await (const line of readLines(fileReader)) {
 lemmatizationDict.delete("danger");
 
 const gsl = new Map();
-fileReader = await Deno.open("dist/mGSL.raw.lst");
-for await (const line of readLines(fileReader)) {
-  if (!line) continue;
+file = await Deno.open("dist/mGSL.raw.lst");
+for await (const line of getLineStream(file)) {
   let [lemma, count] = line.split("\t");
   count = parseInt(count);
   if (lemmatizationDict.has(lemma)) {

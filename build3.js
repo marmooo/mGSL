@@ -1,5 +1,11 @@
-import { readLines } from "https://deno.land/std/io/mod.ts";
-import * as CSV from "https://deno.land/std/encoding/csv.ts";
+import { TextLineStream } from "jsr:@std/streams/text-line-stream";
+import { parse } from "jsr:@std/csv/parse";
+
+function getLineStream(file) {
+  return file.readable
+    .pipeThrough(new TextDecoderStream())
+    .pipeThrough(new TextLineStream());
+}
 
 function atoz() {
   const result = [];
@@ -12,9 +18,8 @@ function atoz() {
 
 async function loadLineDict(filepath) {
   const dict = new Map();
-  const fileReader = await Deno.open(filepath);
-  for await (const lemma of readLines(fileReader)) {
-    if (!lemma) continue;
+  const file = await Deno.open(filepath);
+  for await (const lemma of getLineStream(file)) {
     dict.set(lemma, true);
   }
   return dict;
@@ -26,9 +31,8 @@ function loadFilterNGSL() {
 
 async function loadFilterOriginal() {
   const filterOriginal = new Map();
-  const fileReader = await Deno.open("filter-original.lst");
-  for await (const en of readLines(fileReader)) {
-    if (!en) continue;
+  const file = await Deno.open("filter-original.lst");
+  for await (const en of getLineStream(file)) {
     filterOriginal.set(en, true);
     filterOriginal.set(en.toLowerCase(), true);
   }
@@ -37,9 +41,8 @@ async function loadFilterOriginal() {
 
 async function loadOriginal() {
   const original = new Map();
-  const fileReader = await Deno.open("def.tsv");
-  for await (const line of readLines(fileReader)) {
-    if (!line) continue;
+  const file = await Deno.open("def.tsv");
+  for await (const line of getLineStream(file)) {
     const [en, ja] = line.split("\t");
     original.set(en, ja);
   }
@@ -55,9 +58,8 @@ async function loadBasicDict() {
     "vendor/ngsl/toeic.tsv",
   ];
   for (const filepath of filepaths) {
-    const fileReader = await Deno.open(filepath);
-    for await (const line of readLines(fileReader)) {
-      if (!line) continue;
+    const file = await Deno.open(filepath);
+    for await (const line of getLineStream(file)) {
       const row = line.split("\t");
       const en = row[0];
       const ja = row[14].replace(/…/g, "〜").split(/\s*[,;]\s*/).join("|");
@@ -71,15 +73,15 @@ async function loadBasicDict() {
 
 async function loadBooqs() {
   const booqs = new Map();
-  const filepaths = [
+  const filePaths = [
     "vendor/booqs/NGSL.csv",
     "vendor/booqs/NAWL.csv",
     "vendor/booqs/BSL.csv",
     "vendor/booqs/TSL.csv",
   ];
-  for (const filepath of filepaths) {
-    const csv = Deno.readTextFileSync(filepath);
-    const data = await CSV.parse(csv);
+  for (const filePath of filePaths) {
+    const csv = Deno.readTextFileSync(filePath);
+    const data = await parse(csv);
     data.forEach((row) => {
       const en = row[0];
       const ja = row[1]
@@ -95,9 +97,8 @@ async function loadBooqs() {
 async function loadLemmatizationDict() {
   const lemmatizationDict = new Map();
   lemmatizationDict.set("an", "a");
-  const fileReader = await Deno.open("vendor/agid-2016.01.19/infl.txt");
-  for await (const line of readLines(fileReader)) {
-    if (!line) continue;
+  const file = await Deno.open("vendor/agid-2016.01.19/infl.txt");
+  for await (const line of getLineStream(file)) {
     const [toStr, fromStr] = line.split(": ");
     if (!toStr.endsWith("?")) {
       const [to, _toPos] = toStr.split(" ");
@@ -119,9 +120,8 @@ async function loadLemmatizationDict() {
 
 async function loadAnc() {
   const anc = new Map();
-  const fileReader = await Deno.open("vendor/anc.tsv");
-  for await (const line of readLines(fileReader)) {
-    if (!line) continue;
+  const file = await Deno.open("vendor/anc.tsv");
+  for await (const line of getLineStream(file)) {
     const row = line.split("\t");
     const en = row[0];
     if (!en.match(/^[A-Z]+$/)) {
@@ -150,9 +150,8 @@ async function loadAnc() {
 async function loadEjdict(lemmatizationDict) {
   const ejdict = new Map();
   for (const alphabet of atoz()) {
-    const fileReader = await Deno.open(`vendor/EJDict/src/${alphabet}.txt`);
-    for await (const line of readLines(fileReader)) {
-      if (!line) continue;
+    const file = await Deno.open(`vendor/EJDict/src/${alphabet}.txt`);
+    for await (const line of getLineStream(file)) {
       let [en, ja] = line.split("\t");
       if (!ejdict.has(en)) {
         // 過去形などのノイズを消す (消しすぎてしまうが仕方ない)
@@ -183,9 +182,8 @@ async function loadNames() {
     "vendor/NameDatabases/NamesDatabases/first names/all.txt",
   ];
   for (const dict of dicts) {
-    const fileReader = await Deno.open(dict);
-    for await (const lemma of readLines(fileReader)) {
-      if (!lemma) continue;
+    const file = await Deno.open(dict);
+    for await (const lemma of getLineStream(file)) {
       names.set(lemma.toLowerCase(), true);
     }
   }
@@ -194,11 +192,8 @@ async function loadNames() {
 
 async function loadLangs() {
   const langs = new Map();
-  const fileReader = await Deno.open(
-    "vendor/language-list/data/en/language.csv",
-  );
-  for await (const line of readLines(fileReader)) {
-    if (!line) continue;
+  const file = await Deno.open("vendor/language-list/data/en/language.csv");
+  for await (const line of getLineStream(file)) {
     const [lang1, lang2] = line.split(",");
     langs.set(lang1, true);
     langs.set(lang2, true);
@@ -209,11 +204,10 @@ async function loadLangs() {
 
 async function loadCountries() {
   const countries = new Map(); // 省略名だけ登録
-  const fileReader = await Deno.open(
+  const file = await Deno.open(
     "vendor/language-list/data/en/language.csv",
   );
-  for await (const line of readLines(fileReader)) {
-    if (!line) continue;
+  for await (const line of getLineStream(file)) {
     const [country1, _country2] = line.split(",");
     countries.set(country1, true);
     countries.set(country1.toLowerCase(), true);
@@ -223,11 +217,10 @@ async function loadCountries() {
 
 async function loadCities() {
   const cities = new Map();
-  const fileReader = await Deno.open(
+  const file = await Deno.open(
     "vendor/world-cities/data/world-cities.csv",
   );
-  for await (const line of readLines(fileReader)) {
-    if (!line) continue;
+  for await (const line of getLineStream(file)) {
     const row = line.split(",");
     const city = row[0].toLowerCase();
     const country = row[1].toLowerCase();
@@ -241,9 +234,8 @@ async function loadCities() {
 
 async function loadChemicals() {
   const chemicals = new Map();
-  const fileReader = await Deno.open("chemicals.tsv");
-  for await (const line of readLines(fileReader)) {
-    if (!line) continue;
+  const file = await Deno.open("chemicals.tsv");
+  for await (const line of getLineStream(file)) {
     const lemma = line.split("\t")[0].toLowerCase();
     chemicals.set(lemma, true);
   }
@@ -256,9 +248,8 @@ async function loadAbbrevs() {
   // 省略形は複数の原形を持つため、lemmatization と同様に扱うと統計値がずれる
   // oct, nov など頻度の高いものも削除されるので注意は必要
   const abbrevs = new Map();
-  const fileReader = await Deno.open("vendor/Abbreviations/sources.txt");
-  for await (const line of readLines(fileReader)) {
-    if (!line) continue;
+  const file = await Deno.open("vendor/Abbreviations/sources.txt");
+  for await (const line of getLineStream(file)) {
     const lemma = line.split(" ")[1].toLowerCase();
     abbrevs.set(lemma, true);
   }
@@ -287,8 +278,8 @@ const websters = JSON.parse(
 );
 
 let tsv = "";
-const fileReader = await Deno.open("dist/mGSL.lemmatized.lst");
-for await (const line of readLines(fileReader)) {
+const file = await Deno.open("dist/mGSL.lemmatized.lst");
+for await (const line of getLineStream(file)) {
   const [lemma, _freq] = line.split("\t");
   if (lemma.length == 1 && lemma != "a") {
     console.log("[a-z]\t" + line);
