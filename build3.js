@@ -15,8 +15,20 @@ async function loadLineDict(filepath) {
   return dict;
 }
 
-function loadfilterNumbers() {
+function loadFilterNumbers() {
   return loadLineDict("filter-numbers.lst");
+}
+
+async function loadFilterChemicals() {
+  const filterChemicals = new Map();
+  const file = await Deno.open("filter-chemicals.csv");
+  for await (const line of getLineStream(file)) {
+    const lemma = line.split(",")[0].toLowerCase();
+    filterChemicals.set(lemma, true);
+  }
+  filterChemicals.delete("he");
+  filterChemicals.delete("os");
+  return filterChemicals;
 }
 
 async function loadFilterOriginal() {
@@ -107,18 +119,6 @@ async function loadCities() {
   return cities;
 }
 
-async function loadChemicals() {
-  const chemicals = new Map();
-  const file = await Deno.open("chemicals.tsv");
-  for await (const line of getLineStream(file)) {
-    const lemma = line.split("\t")[0].toLowerCase();
-    chemicals.set(lemma, true);
-  }
-  chemicals.delete("he");
-  chemicals.delete("os");
-  return chemicals;
-}
-
 async function loadAbbrevs() {
   const abbrevs = new Map();
   const file = await Deno.open("vendor/Abbreviations/sources.txt");
@@ -129,7 +129,8 @@ async function loadAbbrevs() {
   return abbrevs;
 }
 
-const filterNumbers = await loadfilterNumbers();
+const filterNumbers = await loadFilterNumbers();
+const filterChemicals = await loadFilterChemicals();
 const filterOriginal = await loadFilterOriginal();
 const original = await loadOriginal();
 const badWords = await loadBadWords();
@@ -138,7 +139,6 @@ const names = await loadNames();
 const langs = await loadLangs();
 const countries = await loadCountries();
 const cities = await loadCities();
-const chemicals = await loadChemicals();
 const abbrevs = await loadAbbrevs();
 
 const dict = [];
@@ -160,8 +160,8 @@ for await (const line of getLineStream(file)) {
       console.log("[badWords]\t" + line);
     } else if (profanityWords.has(lemma)) {
       console.log("[profanityWords]\t" + line);
-    } else if (chemicals.has(lemma)) {
-      console.log("[chemicals]\t" + line);
+    } else if (filterChemicals.has(lemma)) {
+      console.log("[filterChemicals]\t" + line);
     } else if (abbrevs.has(lemma)) {
       console.log("[abbrevs]\t" + line);
     } else if (langs.has(lemma)) {
