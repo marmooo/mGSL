@@ -246,6 +246,7 @@ idea,アイデア|考え
 already,すでに
 plan,計画
 believe,信じる
+de,〜の（フランス語・前置詞）|〜を取り除く・〜から離れる・反対（英語・接頭辞）
 reason,理由
 report,報告|レポート
 step,段階|踏む
@@ -1381,7 +1382,7 @@ coat,コート
 solid,固体の
 pocket,ポケット
 intention,意図
-en,〜の中に（フランス語）
+en,〜の中に（フランス語）|〜させる・〜にする（接頭辞）
 brown,茶色の
 eventually,最終的に
 regular,規則的な
@@ -3461,6 +3462,7 @@ borrow,借りる
 respiratory,呼吸の
 publicly,公に
 bundle,束
+da,〜から（イタリア語）（ポルトガル語）
 hollow,空洞の
 citizenship,市民権
 fee,料金
@@ -3669,6 +3671,7 @@ momentum,勢い
 skull,頭蓋骨
 silly,馬鹿な
 wagon,荷馬車
+les,〜たち（フランス語）
 independently,独立して
 remark,意見
 overhead,頭上の
@@ -3703,6 +3706,7 @@ retirement,引退
 humor,ユーモア
 carpet,カーペット
 recruit,採用する
+op,操作［operation の略語］
 nanoparticles,ナノ粒子
 abundance,豊富
 fraud,詐欺
@@ -4629,6 +4633,7 @@ scandal,スキャンダル
 spur,拍車
 paste,ペースト
 neat,きちんとした
+si,もし〜なら（フランス語）（イタリア語）
 nonlinear,非線形の
 affective,感情の
 hurriedly,慌てて
@@ -4650,6 +4655,7 @@ narrator,語り手
 offspring,子孫
 terminology,専門用語
 chapel,礼拝堂
+vols,飛ぶ［volverの活用形］（フランス語）
 rationale,理由
 integer,整数
 doll,人形
@@ -4660,6 +4666,7 @@ acceleration,加速
 rim,縁
 refrain,控える
 thrill,スリル
+adj,形容詞［adjectiveの略語］
 casually,気軽に
 terrace,テラス
 cult,カルト
@@ -5078,6 +5085,7 @@ fig,イチジク
 recollection,記憶
 lime,ライム
 invasive,侵入的な
+au,〜で（フランス語）
 procession,行列
 harness,利用する
 predictive,予測の
@@ -5183,6 +5191,7 @@ litigation,訴訟
 socioeconomic,社会経済的な
 incapable,無能な
 disbelief,不信
+te,あなた（フランス語）
 potent,強力な
 polar,極地の
 airway,気道
@@ -5234,6 +5243,7 @@ thief,泥棒
 trader,商人
 sexually,性的に
 broaden,広げる
+mi,私の（イタリア語）|音階「ミ」
 avoidance,回避
 repay,返済する
 embryo,胚
@@ -5376,6 +5386,7 @@ unprecedented,前例のない
 feather,羽
 candy,キャンディー
 arguably,議論の余地があるが
+cit,都市［cityの略語］
 tremble,震える
 bust,胸部
 smoothly,スムーズに
@@ -5455,14 +5466,17 @@ portray,描写する|演じる
 siege,包囲攻撃
 tribute,賛辞|貢物
 crisp,パリッとした|さわやかな
+lo,それ（男性単数定冠詞）（イタリア語）
 depiction,描写
 comb,櫛|くしでとかす
 vicinity,近所|近辺
 haste,急ぎ|急速
 tendon,腱
 invade,侵入する
+una,1つの（女性名詞単数冠詞）（スペイン語）
 segregation,隔離|人種差別政策
 fictional,架空の|フィクションの
+ne,〜ではない（フランス語）
 crust,地殻|パンの耳
 doubtful,疑わしい
 dissolution,解散|溶解
@@ -5507,6 +5521,7 @@ converse,話す|逆の
 analogous,類似した
 memoir,回想録
 functionality,機能性
+com,会社［companyの略語］|通信［communicationの略語］
 authenticity,信憑性|本物であること
 withstand,耐える
 visibility,視認性
@@ -5565,11 +5580,13 @@ bandage,包帯
 holistic,全体論的な
 folly,愚かさ|愚行
 creek,小川
+dans,〜の中に（フランス語）
 globally,世界的に
 routinely,定期的に|いつも通りに
 photographer,写真家
 keeper,管理者|飼育係
 coherence,一貫性|結束
+ma,私の（フランス語）
 velvet,ビロード
 shrine,神社|聖地
 omission,省略|怠慢
@@ -5711,6 +5728,7 @@ sideways,横に
 intercourse,交流
 forge,鍛造する
 breadth,幅
+nie,否定する［nieenの変化形］（ドイツ語）
 footprint,足跡
 worldly,世俗的な
 lessen,減らす
@@ -5734,6 +5752,7 @@ dart,投げる矢
 indispensable,不可欠な
 mediator,仲介者
 wink,ウインクする
+sa,彼の・彼女の（フランス語）
 inspector,検査官
 fulfil,果たす
 rainfall,降雨量

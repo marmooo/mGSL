@@ -2,14 +2,20 @@ ab,存在しない
 amd,固有名詞
 asp,存在しない
 cbc,固有名詞
+clit,存在しない
 couldn,存在しない (couldn't)
 comin,存在しない (comin')
 doesn,存在しない (doesn't)
 doi,固有名詞
 eds,存在しない
+edn,存在しない
 eff,存在しない
 hb,存在しない
 hn,存在しない
+ii,存在しない (Ⅱ)
+iii,存在しない (Ⅲ)
+ij,存在しない
+iv,存在しない (Ⅳ)
 linux,固有名詞
 ll,存在しない (I'll)
 midi,固有名詞
@@ -29,6 +35,7 @@ wifi,固有名詞
 wouldn,存在しない (wouldn't)
 women,複数形
 ve,存在しない (I've = I have)
+vi,存在しない (Ⅵ)
 vl,存在しない
 zeppelin,固有名詞
 zu,存在しない

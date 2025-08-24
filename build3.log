@@ -1,7 +1,6 @@
 [filterNumbers]	two	20326922
 [a-z]	s	15266588
 [filterNumbers]	three	9366508
-[abbrevs]	de	5839529
 [a-z]	p	5750880
 [filterNumbers]	four	4725293
 [a-z]	i	4461969
@@ -42,7 +41,7 @@
 [a-z]	z	841288
 [filterNumbers]	fifty	801749
 [a-z]	w	792749
-[languages]	ii	753599
+[filterOriginal]	ii	753599
 [filterNumbers]	forty	737874
 [filterNumbers]	fourth	732339
 [filterOriginal]	eds	730841
@@ -56,20 +55,17 @@
 [Japanese not found]	afterwards	477078
 [filterNumbers]	twentieth	464221
 [filterNumbers]	fifth	451538
-[Japanese not found]	iii	450903
+[filterOriginal]	iii	450903
 [Japanese not found]	taxis	442222
 [filterNumbers]	sixty	399366
 [filterNumbers]	eleven	326692
 [badWords]	rape	301293
-[languages]	da	298342
 [filterNumbers]	seventy	292765
 [filterNumbers]	eighteen	292511
 [filterOriginal]	nm	291097
 [filterNumbers]	eighteenth	289535
-[Japanese not found]	iv	279740
-[names]	les	270925
+[filterOriginal]	iv	279740
 [filterNumbers]	sixth	265668
-[abbrevs]	op	265207
 [filterNumbers]	sixteen	254167
 [filterNumbers]	fourteen	241165
 [filterNumbers]	eighty	229524
@@ -78,9 +74,6 @@
 [chemicals]	na	195429
 [filterOriginal]	pp	189055
 [filterNumbers]	seventeenth	185275
-[chemicals]	si	184984
-[abbrevs]	vols	183575
-[abbrevs]	adj	182755
 [filterNumbers]	ninety	182264
 [Japanese not found]	vis	181405
 [Japanese not found]	siblings	178048
@@ -93,25 +86,13 @@
 [filterNumbers]	sixteenth	161941
 [Japanese not found]	modelling	160144
 [badWords]	dick	159838
-[chemicals]	au	159154
-[Japanese not found]	ij	154923
-[chemicals]	te	153698
-[abbrevs]	mi	151173
-[Japanese not found]	edn	147039
-[languages]	vi	145895
-[Japanese not found]	cit	144558
-[languages]	lo	140969
-[cities]	una	140578
-[chemicals]	ne	140407
-[Japanese not found]	com	138125
-[badWords]	clit	136740
-[Japanese not found]	dans	135549
-[abbrevs]	ma	135264
+[filterOriginal]	ij	154923
+[filterOriginal]	edn	147039
+[filterOriginal]	vi	145895
+[filterOriginal]	clit	136740
 [filterNumbers]	ninth	132801
 [Japanese not found]	datasets	130078
 [Japanese not found]	apps	129877
-[Japanese not found]	nie	129837
-[languages]	sa	129011
 [abbrevs]	sp	128947
 [Japanese not found]	partisan	128885
 [Japanese not found]	qui	128581
