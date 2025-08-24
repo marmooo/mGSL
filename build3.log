@@ -25,7 +25,7 @@
 [a-z]	k	2033595
 [a-z]	v	1801058
 [a-z]	r	1676365
-[abbrevs]	ed	1622548
+[filterOriginal]	ed	1622548
 [filterNumbers]	seven	1509893
 [a-z]	g	1507867
 [filterNumbers]	eight	1398849
@@ -79,10 +79,8 @@
 [Japanese not found]	siblings	178048
 [Japanese not found]	est	177229
 [filterNumbers]	eighth	175240
-[Japanese not found]	im	175124
 [filterNumbers]	seventeen	173232
 [filterNumbers]	tenth	164624
-[abbrevs]	il	163168
 [filterNumbers]	sixteenth	161941
 [Japanese not found]	modelling	160144
 [badWords]	dick	159838
@@ -93,40 +91,14 @@
 [filterNumbers]	ninth	132801
 [Japanese not found]	datasets	130078
 [Japanese not found]	apps	129877
-[abbrevs]	sp	128947
-[Japanese not found]	partisan	128885
-[Japanese not found]	qui	128581
-[Japanese not found]	wellbeing	128359
-[Japanese not found]	epistemic	126273
-[Japanese not found]	neoliberal	123713
-[Japanese not found]	blockchain	123134
-[Japanese not found]	pedagogical	123039
-[Japanese not found]	mindfulness	122968
+[filterOriginal]	sp	128947
 [filterNumbers]	nineteen	121906
-[Japanese not found]	por	120402
-[Japanese not found]	une	120008
-[Japanese not found]	analytics	117589
-[Japanese not found]	cooky	117525
-[Japanese not found]	tion	117271
-[Japanese not found]	vs	115828
-[Japanese not found]	organisational	115151
-[Japanese not found]	sy	114918
-[names]	xi	114527
-[Japanese not found]	behavioural	111178
-[Japanese not found]	emphasise	110899
+[filterOriginal]	sy	114918
 [chemicals]	ca	110045
-[Japanese not found]	kneeling	109163
-[names]	bob	109064
-[names]	don	107963
-[languages]	su	107928
-[Japanese not found]	vii	105243
-[Japanese not found]	foundational	104954
-[names]	della	104919
-[abbrevs]	tsp	103533
-[abbrevs]	ff	103318
+[filterOriginal]	su	107928
+[filterOriginal]	vii	105243
+[filterOriginal]	ff	103318
 [filterNumbers]	fifteenth	102963
-[Japanese not found]	int	100859
-[Japanese not found]	tensor	100829
 [abbrevs]	sec	100769
 [Japanese not found]	fungal	99065
 [Japanese not found]	das	97778

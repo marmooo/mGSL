@@ -4793,6 +4793,7 @@ unfair,不公平な
 explosive,爆発性の
 comprehension,理解
 tug,引っぱる
+im,〜でない・〜できない（接頭辞）
 editorial,社説
 cerebral,知性的な
 spike,急増
@@ -5017,6 +5018,7 @@ madness,狂気
 monopoly,独占
 uptake,吸収
 prevail,勝る
+il,〜でない（接頭辞）
 rental,賃貸
 propagation,伝播
 pat,軽くたたく
@@ -5756,12 +5758,14 @@ sa,彼の・彼女の〈フランス語〉
 inspector,検査官
 fulfil,果たす
 rainfall,降雨量
+partisan,党派的な・熱烈な支持者
 energetic,精力的な
 mobilization,動員
 generalization,一般化
 empowerment,権限付与
 mattress,マットレス
 jade,翡翠
+qui,誰|〜する人（関係代名詞）〈フランス語〉
 irritation,いらだち
 bulb,電球
 humiliation,屈辱
@@ -5770,6 +5774,7 @@ bankruptcy,破産
 ripe,熟した
 explanatory,説明的な
 vengeance,復讐
+wellbeing,幸福・健康状態
 turnover,売上高
 appraisal,評価
 massacre,虐殺
@@ -5842,6 +5847,7 @@ infusion,注入
 oxidative,酸化の
 backpack,リュックサック
 simulate,模擬する
+epistemic,認識論の（哲学・学術用語）|知識に関する（哲学・学術用語）
 gloom,陰気さ
 confidential,秘密の
 champagne,シャンパン
@@ -5911,6 +5917,7 @@ resignation,辞職
 reluctantly,しぶしぶ
 resin,樹脂
 reuse,再利用
+neoliberal,新自由主義の
 attainment,達成
 extinction,絶滅
 banquet,宴会
@@ -5922,13 +5929,16 @@ procurement,調達
 expressly,明示的に
 allusion,ほのめかし
 bacon,ベーコン
+blockchain,ブロックチェーン（分散型台帳技術）
 vanity,虚栄心
 laundry,洗濯物
+pedagogical,教育学の|教授法の
 dessert,デザート
 lesbian,レズビアン
 frog,カエル
 internally,内部で
 cocktail,カクテル
+mindfulness,気づき
 affiliation,所属
 prioritize,優先する
 gigantic,巨大な
@@ -5996,6 +6006,7 @@ presidency,大統領職
 refrigerator,冷蔵庫
 comprise,含む
 diplomacy,外交
+por,〜のために〈スペイン語〉〈ポルトガル語〉
 intestine,腸
 mainland,本土
 hoc,特別の
@@ -6010,6 +6021,7 @@ dorsal,背中の
 sticky,粘着性の
 trainer,トレーナー
 akin,類似の
+une,1つの（女性名詞単数冠詞）〈フランス語〉
 axial,軸の
 amateur,アマチュア
 discrepancy,不一致
@@ -6073,7 +6085,9 @@ lawsuit,訴訟
 frontal,前面の
 contention,争い
 awesome,素晴らしい
+analytics,分析
 colonialism,植民地主義
+cooky,変わり者（口語）
 zinc,亜鉛
 starch,でんぷん
 cunning,ずる賢い
@@ -6082,6 +6096,7 @@ fore,前の
 motionless,動かない
 charitable,慈善の
 chimney,煙突
+tion,〜すること（接尾辞）|〜化（接尾辞）
 nowadays,最近は
 auxiliary,補助の
 pastoral,田園の
@@ -6116,6 +6131,7 @@ liberalism,自由主義
 sequential,連続した
 antibiotic,抗生物質
 nipple,乳首
+vs,〜対〜［versusの略］
 tailor,仕立て屋
 transverse,横断の
 referral,紹介
@@ -6133,6 +6149,7 @@ diarrhea,下痢
 robbery,強盗
 pest,害虫
 gateway,玄関口
+organisational,組織の・組織的な〈イギリス英語〉
 exponential,急増の
 paddle,櫂
 automation,自動化
@@ -6149,6 +6166,7 @@ allegiance,忠誠
 badge,バッジ
 rectangular,長方形の
 cupboard,食器棚
+xi,ξ・Ξ（ギリシャ文字）
 recording,録音
 gastric,胃の
 corps,団体
@@ -6256,6 +6274,7 @@ bribe,賄賂
 emergent,出現する
 unlimited,無制限の
 wary,用心深い
+behavioural,行動の・行動に関する〈イギリス英語〉
 incision,切開
 brute,獣
 pervasive,広がる
@@ -6264,6 +6283,7 @@ cowboy,カウボーイ
 instinctively,本能的に
 embodiment,具現化
 bee,ハチ
+emphasise,強調する〈イギリス英語〉
 permeability,透過性
 incense,香
 optimism,楽観主義
@@ -6324,9 +6344,11 @@ eventual,最終的な
 soothe,なだめる
 invent,発明する
 characterised,特徴づけられた
+kneeling,ひざまずいている
 foreground,前景
 braid,編み込み
 salient,顕著な
+bob,軽く上下に動く
 metastasis,転移
 painfully,痛々しく
 impede,妨げる
@@ -6370,6 +6392,7 @@ loaf,ひとかたまり（パンなど）
 ginger,ショウガ
 neurological,神経学の
 colorful,色鮮やかな
+don,身に着ける
 dispense,分配する|投与する
 quiver,震える|矢筒
 bait,エサ|おびき寄せる
@@ -6472,6 +6495,8 @@ sterile,無菌の|不妊の
 depreciation,価値の下落
 assassination,暗殺
 tease,からかう
+foundational,基礎的な|土台の
+della,〜の（女性名詞単数前置詞＋冠詞）〈イタリア語〉
 eminent,著名な|すぐれた
 thoughtfully,思慮深く
 boulder,巨石
@@ -6517,6 +6542,7 @@ applause,拍手
 affordable,手ごろな
 fabrication,作り話|製造
 freight,貨物
+tsp,小さじ［teaspoonの略語］
 weep,泣く
 earnestly,真剣に
 pious,敬虔な
@@ -6622,7 +6648,9 @@ interim,暫定の|合間の
 semester,学期
 slick,巧妙な|滑らかな
 babe,赤ちゃん|かわいこちゃん
+int,整数［integerの略語］
 telescope,望遠鏡
+tensor,多次元配列（数学・物理・工学用語）
 unnatural,不自然な
 bachelor,独身男性|学士
 wail,泣き叫ぶ
@@ -11180,7 +11208,7 @@ whiff,かすかな匂い
 fleshy,肉付きの良い
 osteoporosis,骨粗しょう症
 firstborn,最初に生まれた子
-mu,ミュー|ギリシャ文字
+mu,μ・Μ（ギリシャ文字）
 southwestern,南西の
 asymmetrical,非対称の
 recuperate,回復する
@@ -12599,7 +12627,7 @@ frosty,霜の降りた
 reload,再装填する
 bazaar,バザール
 daydream,白昼夢
-tau,タウ（ギリシャ文字）
+tau,τ・Τ（ギリシャ文字）
 delineation,輪郭描写
 vexation,いらだち
 forgetfulness,忘れっぽさ
@@ -12824,7 +12852,7 @@ decadent,退廃的な
 percussion,打楽器
 doorknob,ドアノブ
 unforgettable,忘れられない
-nu,ニュー（ギリシャ文字）
+nu,ν・Ν（ギリシャ文字）
 moot,議論の余地がある
 sympathetically,共感的に
 dependable,頼りになる
@@ -14477,7 +14505,7 @@ uninhabited,無人の
 downtime,停止時間
 regimental,連隊の
 retrofit,後付けの
-lambda,ラムダ（ギリシャ文字）
+lambda,λ・Λ（ギリシャ文字）
 facsimile,ファクシミリ
 vindication,正当化
 myeloma,骨髄腫
@@ -14748,7 +14776,7 @@ sneaky,こそこそした
 wintry,冬の
 pragmatist,実利主義者
 grout,目地材
-sigma,シグマ（ギリシャ文字）
+sigma,σ・ς・Σ（ギリシャ文字）
 ravenous,非常に空腹な
 compendium,概要
 thatch,藁ぶき屋根
@@ -16837,7 +16865,7 @@ neigh,いななく|馬の鳴き声
 rend,引き裂く
 satanic,悪魔のような
 carousel,回転木馬
-kappa,河童|ギリシャ文字
+kappa,κ・Κ（ギリシャ文字）
 godless,神を信じない
 ferociously,獰猛に
 myrtle,ギンバイカ|植物
@@ -19970,7 +19998,7 @@ coquetry,媚態
 swatch,見本（布などの）
 seigneur,領主（特にフランスの封建領主）
 classicism,古典主義
-phi,ファイ（ギリシャ文字φ）
+phi,φ・Φ（ギリシャ文字）
 ensnare,罠にかける|陥れる
 misapprehension,誤解
 intramural,学内の|建物内の
@@ -21040,7 +21068,7 @@ goalie,ゴールキーパー
 encyclopaedia,百科事典
 mutability,変わりやすさ
 disorientate,方向感覚を失わせる
-rho,ロー（ギリシャ文字）
+rho,ρ・Ρ（ギリシャ文字）
 hexameter,六歩格
 burro,ロバ
 iridium,イリジウム（元素）
@@ -21105,7 +21133,7 @@ effrontery,厚かましさ
 theocracy,神権政治
 gauche,不器用な
 poacher,密猟者
-epsilon,イプシロン（ギリシャ文字）
+epsilon,ε・Ε（ギリシャ文字）
 diorama,ジオラマ
 woozy,めまいがする
 appointee,任命された人
