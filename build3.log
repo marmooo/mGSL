@@ -1,7 +1,5 @@
 [filterNumbers]	two	20326922
 [a-z]	s	15266588
-[languages]	et	10927471
-[chemicals]	al	10670785
 [filterNumbers]	three	9366508
 [abbrevs]	de	5839529
 [a-z]	p	5750880
@@ -27,7 +25,6 @@
 [a-z]	y	2062578
 [a-z]	k	2033595
 [a-z]	v	1801058
-[chemicals]	la	1789060
 [a-z]	r	1676365
 [abbrevs]	ed	1622548
 [filterNumbers]	seven	1509893
@@ -40,9 +37,7 @@
 [a-z]	j	1235320
 [filterNumbers]	thirty	1148817
 [a-z]	u	1103524
-[languages]	en	1041590
-[chemicals]	co	969914
-[languages]	doi	947716
+[filterOriginal]	doi	947716
 [filterNumbers]	nine	939323
 [a-z]	z	841288
 [filterNumbers]	fifty	801749
@@ -51,7 +46,7 @@
 [filterNumbers]	forty	737874
 [filterNumbers]	fourth	732339
 [filterOriginal]	eds	730841
-[abbrevs]	ll	717356
+[filterOriginal]	ll	717356
 [a-z]	q	691400
 [filterNumbers]	billion	684757
 [filterNumbers]	twelve	677900
@@ -63,10 +58,7 @@
 [filterNumbers]	fifth	451538
 [Japanese not found]	iii	450903
 [Japanese not found]	taxis	442222
-[languages]	el	427289
-[chemicals]	se	401586
 [filterNumbers]	sixty	399366
-[Japanese not found]	em	359802
 [filterNumbers]	eleven	326692
 [badWords]	rape	301293
 [languages]	da	298342
