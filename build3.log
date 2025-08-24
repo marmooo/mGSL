@@ -581,7 +581,7 @@
 [cities]	san	29590
 [Japanese not found]	esse	29395
 [Japanese not found]	histoire	29388
-[Japanese not found]	comin	29368
+[filterOriginal]	comin	29368
 [Japanese not found]	pneumoniae	29364
 [Japanese not found]	anisotropic	29351
 [Japanese not found]	xy	29305
@@ -3634,6 +3634,7 @@
 [Japanese not found]	extracorporeal	7726
 [Japanese not found]	gilayon	7723
 [Japanese not found]	interregional	7723
+[chemicals]	cn	7722
 [Japanese not found]	axilla	7718
 [Japanese not found]	cocoanut	7717
 [Japanese not found]	telomeres	7714
@@ -12692,6 +12693,7 @@
 [Japanese not found]	subsidise	2530
 [Japanese not found]	thr	2530
 [Japanese not found]	crosslinguistic	2529
+[filterOriginal]	doesn	2529
 [Japanese not found]	stateof	2529
 [Japanese not found]	darky	2528
 [Japanese not found]	cate	2528
@@ -12838,6 +12840,7 @@
 [Japanese not found]	lekker	2498
 [Japanese not found]	melioidosis	2498
 [Japanese not found]	recoverability	2498
+[filterOriginal]	wasn	2498
 [Japanese not found]	appendiceal	2497
 [Japanese not found]	albopictus	2497
 [names]	dieter	2497
@@ -14456,6 +14459,7 @@
 [Japanese not found]	coom	2217
 [Japanese not found]	fulllength	2217
 [Japanese not found]	polysomnography	2217
+[filterOriginal]	wouldn	2217
 [Japanese not found]	downturned	2216
 [Japanese not found]	disingenuously	2216
 [Japanese not found]	grupos	2216
@@ -21115,6 +21119,7 @@
 [Japanese not found]	ferromagnets	1483
 [Japanese not found]	gerade	1483
 [Japanese not found]	mitungas	1483
+[filterOriginal]	nara	1483
 [Japanese not found]	prisede	1483
 [Japanese not found]	phreatic	1483
 [Japanese not found]	periglacial	1483
@@ -23619,6 +23624,7 @@
 [Japanese not found]	strobing	1310
 [Japanese not found]	trebuchet	1310
 [Japanese not found]	vergeet	1310
+[filterOriginal]	vl	1310
 [badWords]	titty	1309
 [Japanese not found]	acuta	1309
 [Japanese not found]	coho	1309
