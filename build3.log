@@ -52,7 +52,6 @@
 [filterOriginal]	ve	603242
 [filterNumbers]	fifteen	581998
 [filterNumbers]	nineteenth	545522
-[filterOriginal]	afterwards	477078
 [filterNumbers]	twentieth	464221
 [filterNumbers]	fifth	451538
 [filterOriginal]	iii	450903
@@ -72,7 +71,6 @@
 [filterNumbers]	seventh	214522
 [filterNumbers]	thirteen	211789
 [filterChemicals]	na	195429
-[filterOriginal]	pp	189055
 [filterNumbers]	seventeenth	185275
 [filterNumbers]	ninety	182264
 [filterOriginal]	siblings	178048
@@ -107,41 +105,15 @@
 [filterOriginal]	xiii	70673
 [filterOriginal]	xii	67242
 [filterOriginal]	www	65005
-[languages]	fi	64463
-[filterChemicals]	ti	64366
-[Japanese not found]	texted	63149
-[names]	qi	63045
-[Japanese not found]	fell	62812
-[cities]	china	62748
-[Japanese not found]	milling	62305
-[Japanese not found]	integrative	62054
-[names]	tu	61980
-[abbrevs]	ln	61617
-[Japanese not found]	chitosan	61533
-[Japanese not found]	ischemia	61357
-[Japanese not found]	whistling	61143
-[Japanese not found]	typology	60965
-[Japanese not found]	convolutional	60769
-[cities]	como	60586
-[filterChemicals]	ac	59661
-[Japanese not found]	phenomenology	59426
-[Japanese not found]	neoliberalism	59268
-[Japanese not found]	compressive	58928
-[Japanese not found]	performative	58895
-[Japanese not found]	xv	58575
-[Japanese not found]	messaging	58259
-[Japanese not found]	dit	57320
-[Japanese not found]	multimodal	57234
+[filterOriginal]	fi	64463
+[filterOriginal]	texted	63149
+[filterOriginal]	xv	58575
+[filterOriginal]	dit	57320
 [filterOriginal]	mit	56854
-[Japanese not found]	nanotubes	56807
-[Japanese not found]	avant	56506
-[languages]	pl	56453
-[badWords]	xx	56342
-[filterChemicals]	mo	56206
-[Japanese not found]	fol	56157
-[Japanese not found]	workflow	56146
-[Japanese not found]	smartphones	55504
-[languages]	tr	55173
+[filterOriginal]	xx	56342
+[filterOriginal]	fol	56157
+[filterOriginal]	smartphones	55504
+[filterOriginal]	tr	55173
 [Japanese not found]	actuator	55119
 [abbrevs]	ser	55061
 [Japanese not found]	xiv	55055
