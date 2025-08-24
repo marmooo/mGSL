@@ -22,7 +22,8 @@ function loadfilterNumbers() {
 async function loadFilterOriginal() {
   const filterOriginal = new Map();
   const file = await Deno.open("filter-original.lst");
-  for await (const en of getLineStream(file)) {
+  for await (const line of getLineStream(file)) {
+    const [en, _notes] = line.split(",");
     filterOriginal.set(en, true);
     filterOriginal.set(en.toLowerCase(), true);
   }
