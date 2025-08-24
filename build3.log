@@ -50,19 +50,16 @@
 [languages]	ii	753599
 [filterNumbers]	forty	737874
 [filterNumbers]	fourth	732339
-[Japanese not found]	eds	730841
+[filterOriginal]	eds	730841
 [abbrevs]	ll	717356
 [a-z]	q	691400
 [filterNumbers]	billion	684757
 [filterNumbers]	twelve	677900
-[languages]	ve	603242
+[filterOriginal]	ve	603242
 [filterNumbers]	fifteen	581998
 [filterNumbers]	nineteenth	545522
-[names]	le	478693
 [Japanese not found]	afterwards	477078
 [filterNumbers]	twentieth	464221
-[cities]	un	460005
-[names]	di	459570
 [filterNumbers]	fifth	451538
 [Japanese not found]	iii	450903
 [Japanese not found]	taxis	442222
@@ -70,35 +67,24 @@
 [chemicals]	se	401586
 [filterNumbers]	sixty	399366
 [Japanese not found]	em	359802
-[abbrevs]	oh	350618
 [filterNumbers]	eleven	326692
 [badWords]	rape	301293
 [languages]	da	298342
 [filterNumbers]	seventy	292765
 [filterNumbers]	eighteen	292511
-[abbrevs]	nm	291097
+[filterOriginal]	nm	291097
 [filterNumbers]	eighteenth	289535
 [Japanese not found]	iv	279740
 [names]	les	270925
-[Japanese not found]	traveling	269729
 [filterNumbers]	sixth	265668
 [abbrevs]	op	265207
-[Japanese not found]	nanoparticles	264878
-[abbrevs]	app	260754
 [filterNumbers]	sixteen	254167
 [filterNumbers]	fourteen	241165
-[Japanese not found]	socio	232002
 [filterNumbers]	eighty	229524
-[Japanese not found]	travelling	219753
-[chemicals]	cf	219053
-[Japanese not found]	los	217264
 [filterNumbers]	seventh	214522
 [filterNumbers]	thirteen	211789
-[Japanese not found]	ing	206586
-[abbrevs]	ch	202050
-[Japanese not found]	graphene	196659
 [chemicals]	na	195429
-[abbrevs]	pp	189055
+[filterOriginal]	pp	189055
 [filterNumbers]	seventeenth	185275
 [chemicals]	si	184984
 [abbrevs]	vols	183575
