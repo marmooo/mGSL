@@ -79,7 +79,7 @@
 [Japanese not found]	em	359802
 [abbrevs]	oh	350618
 [filterNumbers]	eleven	326692
-[filterOriginal]	rape	301293
+[badWords]	rape	301293
 [languages]	cop	298902
 [languages]	da	298342
 [filterNumbers]	seventy	292765
@@ -941,7 +941,7 @@
 [Japanese not found]	anticoagulation	20622
 [languages]	dar	20622
 [Japanese not found]	acquirer	20603
-[filterOriginal]	ang	20575
+[languages]	ang	20575
 [abbrevs]	rel	20574
 [Japanese not found]	modernisation	20559
 [Japanese not found]	intersubjective	20546
@@ -4217,7 +4217,6 @@
 [Japanese not found]	narratology	6914
 [Japanese not found]	memoria	6913
 [Japanese not found]	kry	6912
-[filterOriginal]	jasper	6911
 [Japanese not found]	universalistic	6911
 [Japanese not found]	bentonite	6910
 [Japanese not found]	neuroscientific	6910
