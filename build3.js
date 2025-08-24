@@ -21,7 +21,7 @@ function loadfilterNumbers() {
 
 async function loadFilterOriginal() {
   const filterOriginal = new Map();
-  const file = await Deno.open("filter-original.lst");
+  const file = await Deno.open("filter-original.csv");
   for await (const line of getLineStream(file)) {
     const [en, _notes] = line.split(",");
     filterOriginal.set(en, true);
