@@ -31,7 +31,7 @@
 [filterNumbers]	eight	1398849
 [a-z]	o	1320897
 [a-z]	l	1320534
-[Japanese not found]	feelings	1298359
+[filterOriginal]	feelings	1298359
 [a-z]	h	1245960
 [a-z]	j	1235320
 [filterNumbers]	thirty	1148817
@@ -52,11 +52,11 @@
 [filterOriginal]	ve	603242
 [filterNumbers]	fifteen	581998
 [filterNumbers]	nineteenth	545522
-[Japanese not found]	afterwards	477078
+[filterOriginal]	afterwards	477078
 [filterNumbers]	twentieth	464221
 [filterNumbers]	fifth	451538
 [filterOriginal]	iii	450903
-[Japanese not found]	taxis	442222
+[filterOriginal]	taxis	442222
 [filterNumbers]	sixty	399366
 [filterNumbers]	eleven	326692
 [badWords]	rape	301293
@@ -75,9 +75,7 @@
 [filterOriginal]	pp	189055
 [filterNumbers]	seventeenth	185275
 [filterNumbers]	ninety	182264
-[Japanese not found]	vis	181405
-[Japanese not found]	siblings	178048
-[Japanese not found]	est	177229
+[filterOriginal]	siblings	178048
 [filterNumbers]	eighth	175240
 [filterNumbers]	seventeen	173232
 [filterNumbers]	tenth	164624
@@ -89,47 +87,20 @@
 [filterOriginal]	vi	145895
 [filterOriginal]	clit	136740
 [filterNumbers]	ninth	132801
-[Japanese not found]	datasets	130078
-[Japanese not found]	apps	129877
+[filterOriginal]	datasets	130078
+[filterOriginal]	apps	129877
 [filterOriginal]	sp	128947
 [filterNumbers]	nineteen	121906
 [filterOriginal]	sy	114918
 [chemicals]	ca	110045
 [filterOriginal]	su	107928
 [filterOriginal]	vii	105243
-[filterOriginal]	ff	103318
 [filterNumbers]	fifteenth	102963
-[abbrevs]	sec	100769
-[Japanese not found]	fungal	99065
-[Japanese not found]	das	97778
-[abbrevs]	dat	97647
 [filterNumbers]	twelfth	97282
-[Japanese not found]	dt	97225
-[Japanese not found]	ix	96728
-[cities]	haar	96415
-[abbrevs]	var	96142
-[Japanese not found]	epistemological	95458
-[Japanese not found]	electrochemical	93463
-[Japanese not found]	exp	93053
+[filterOriginal]	ix	96728
 [filterNumbers]	thirteenth	92620
-[Japanese not found]	crawling	92345
-[names]	ou	91645
-[Japanese not found]	geological	91043
-[Japanese not found]	calory	90604
-[Japanese not found]	ebook	88769
-[Japanese not found]	belonging	88744
-[abbrevs]	viz	88725
-[chemicals]	pm	87782
-[badWords]	cunt	86925
-[Japanese not found]	smartphone	85334
-[Japanese not found]	goin	85004
-[Japanese not found]	conceptualization	84927
-[Japanese not found]	policymakers	84901
-[Japanese not found]	dx	84103
+[filterOriginal]	policymakers	84901
 [filterNumbers]	fourteenth	83814
-[abbrevs]	st	83763
-[chemicals]	ni	83744
-[chemicals]	ce	82690
 [Japanese not found]	viii	81894
 [filterOriginal]	zu	80985
 [names]	ester	80712
@@ -501,7 +472,6 @@
 [cities]	san	29590
 [Japanese not found]	esse	29395
 [Japanese not found]	histoire	29388
-[filterOriginal]	comin	29368
 [Japanese not found]	pneumoniae	29364
 [Japanese not found]	anisotropic	29351
 [Japanese not found]	xy	29305
@@ -11231,7 +11201,6 @@
 [Japanese not found]	microelectrode	2848
 [Japanese not found]	statebuilding	2848
 [Japanese not found]	waypoints	2848
-[filterOriginal]	couldn	2847
 [Japanese not found]	deben	2847
 [Japanese not found]	fava	2847
 [Japanese not found]	largemouth	2847
@@ -12612,7 +12581,6 @@
 [Japanese not found]	subsidise	2530
 [Japanese not found]	thr	2530
 [Japanese not found]	crosslinguistic	2529
-[filterOriginal]	doesn	2529
 [Japanese not found]	stateof	2529
 [Japanese not found]	darky	2528
 [Japanese not found]	cate	2528
@@ -12759,7 +12727,6 @@
 [Japanese not found]	lekker	2498
 [Japanese not found]	melioidosis	2498
 [Japanese not found]	recoverability	2498
-[filterOriginal]	wasn	2498
 [Japanese not found]	appendiceal	2497
 [Japanese not found]	albopictus	2497
 [names]	dieter	2497
@@ -14378,7 +14345,6 @@
 [Japanese not found]	coom	2217
 [Japanese not found]	fulllength	2217
 [Japanese not found]	polysomnography	2217
-[filterOriginal]	wouldn	2217
 [Japanese not found]	downturned	2216
 [Japanese not found]	disingenuously	2216
 [Japanese not found]	grupos	2216

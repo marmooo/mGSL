@@ -1,23 +1,24 @@
 ab,存在しない
+afterwards,複数形
 amd,固有名詞
+apps,複数形
 asp,存在しない
 cbc,固有名詞
 clit,存在しない
-couldn,存在しない (couldn't)
-comin,存在しない (comin')
-doesn,存在しない (doesn't)
+datasets,複数形
 doi,固有名詞
 ed,〜した（接尾辞）
 eds,存在しない
 edn,存在しない
 eff,存在しない
-ff,文脈依存 (fortissimo/following pages)
+feelings,複数形
 hb,存在しない
 hn,存在しない
 ii,存在しない (Ⅱ)
 iii,存在しない (Ⅲ)
 ij,存在しない
 iv,存在しない (Ⅳ)
+ix,存在しない (Ⅸ)
 linux,固有名詞
 ll,存在しない (I'll)
 midi,固有名詞
@@ -26,19 +27,20 @@ nara,固有名詞
 nm,存在しない
 os,固有名詞
 ov,存在しない
+policymakers,複数形
 pp,存在しない
 qq,存在しない
 rv,存在しない
 safari,固有名詞
+siblings,複数形
 sox,固有名詞
 sp,文脈依存 (special/species/spelling)
 su,旧ソ連の国コード
 sy,不明瞭（接頭辞・接尾辞）
 tate,固有名詞
+taxis,複数形
 tex,固有名詞
-wasn,存在しない (wasn't)
 wifi,固有名詞
-wouldn,存在しない (wouldn't)
 women,複数形
 ve,存在しない (I've = I have)
 vi,存在しない (Ⅵ)
