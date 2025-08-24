@@ -15,7 +15,7 @@ async function loadLineDict(filepath) {
   return dict;
 }
 
-function loadFilterNGSL() {
+function loadfilterNumbers() {
   return loadLineDict("filter-numbers.lst");
 }
 
@@ -154,7 +154,7 @@ async function loadAbbrevs() {
   return abbrevs;
 }
 
-const filterNumbers = await loadFilterNGSL();
+const filterNumbers = await loadfilterNumbers();
 const filterOriginal = await loadFilterOriginal();
 const original = await loadOriginal();
 const lemmatizationDict = await loadLemmatizationDict();
