@@ -80,7 +80,6 @@
 [filterNumbers]	seventeen	173232
 [filterNumbers]	tenth	164624
 [filterNumbers]	sixteenth	161941
-[Japanese not found]	modelling	160144
 [badWords]	dick	159838
 [filterOriginal]	ij	154923
 [filterOriginal]	edn	147039
@@ -101,33 +100,11 @@
 [filterNumbers]	thirteenth	92620
 [filterOriginal]	policymakers	84901
 [filterNumbers]	fourteenth	83814
-[Japanese not found]	viii	81894
-[filterOriginal]	zu	80985
-[names]	ester	80712
-[Japanese not found]	je	79652
-[Japanese not found]	psyche	79336
+[filterOriginal]	viii	81894
 [chemicals]	li	79251
-[Japanese not found]	nano	79001
-[abbrevs]	congress	78540
-[Japanese not found]	femoral	78156
-[Japanese not found]	civilisation	77781
-[languages]	om	77748
-[Japanese not found]	outskirt	77487
-[Japanese not found]	hegemonic	77463
-[Japanese not found]	stenosis	77454
 [filterNumbers]	trillion	76902
-[Japanese not found]	dangling	76530
-[Japanese not found]	urbanization	76032
-[Japanese not found]	postcolonial	74541
-[Japanese not found]	zur	74254
 [filterNumbers]	eleventh	74002
-[names]	eve	73539
-[languages]	ter	72954
-[chemicals]	pa	72785
-[abbrevs]	ok	72576
-[cities]	guinea	72448
-[abbrevs]	ut	72295
-[Japanese not found]	xiii	70673
+[filterOriginal]	xiii	70673
 [abbrevs]	esp	70662
 [names]	jack	70558
 [Japanese not found]	psychosocial	70124
@@ -141,7 +118,7 @@
 [Japanese not found]	cytokines	67780
 [Japanese not found]	ist	67443
 [abbrevs]	wi	67279
-[Japanese not found]	xii	67242
+[filterOriginal]	xii	67242
 [Japanese not found]	biomarkers	67063
 [names]	amine	66575
 [Japanese not found]	phenomenological	66463
