@@ -1,19 +1,9 @@
 import { TextLineStream } from "jsr:@std/streams/text-line-stream";
-import { parse } from "jsr:@std/csv/parse";
 
 function getLineStream(file) {
   return file.readable
     .pipeThrough(new TextDecoderStream())
     .pipeThrough(new TextLineStream());
-}
-
-function atoz() {
-  const result = [];
-  const first = "a", last = "z";
-  for (let i = first.charCodeAt(0); i <= last.charCodeAt(0); i++) {
-    result.push(String.fromCharCode(i));
-  }
-  return result;
 }
 
 async function loadLineDict(filepath) {
@@ -26,7 +16,7 @@ async function loadLineDict(filepath) {
 }
 
 function loadFilterNGSL() {
-  return loadLineDict("filter-ngsl.lst");
+  return loadLineDict("filter-numbers.lst");
 }
 
 async function loadFilterOriginal() {
@@ -41,57 +31,12 @@ async function loadFilterOriginal() {
 
 async function loadOriginal() {
   const original = new Map();
-  const file = await Deno.open("def.tsv");
+  const file = await Deno.open("def.csv");
   for await (const line of getLineStream(file)) {
-    const [en, ja] = line.split("\t");
+    const [en, ja, _notes] = line.split(",");
     original.set(en, ja);
   }
   return original;
-}
-
-async function loadBasicDict() {
-  const basicDict = new Map();
-  const filepaths = [
-    "vendor/ngsl/ngsl.tsv",
-    "vendor/ngsl/nawl.tsv",
-    "vendor/ngsl/bsl.tsv",
-    "vendor/ngsl/toeic.tsv",
-  ];
-  for (const filepath of filepaths) {
-    const file = await Deno.open(filepath);
-    for await (const line of getLineStream(file)) {
-      const row = line.split("\t");
-      const en = row[0];
-      const ja = row[14].replace(/…/g, "〜").split(/\s*[,;]\s*/).join("|");
-      if (ja != "N/A") {
-        basicDict.set(en, ja);
-      }
-    }
-  }
-  return basicDict;
-}
-
-async function loadBooqs() {
-  const booqs = new Map();
-  const filePaths = [
-    "vendor/booqs/NGSL.csv",
-    "vendor/booqs/NAWL.csv",
-    "vendor/booqs/BSL.csv",
-    "vendor/booqs/TSL.csv",
-  ];
-  for (const filePath of filePaths) {
-    const csv = Deno.readTextFileSync(filePath);
-    const data = await parse(csv);
-    data.forEach((row) => {
-      const en = row[0];
-      const ja = row[1]
-        .replace(/【[^【]*】/g, "；")
-        .split(/\s*[；，/]\s*/)
-        .filter((s) => s != "").join("|");
-      booqs.set(en, ja);
-    });
-  }
-  return booqs;
 }
 
 async function loadLemmatizationDict() {
@@ -116,53 +61,6 @@ async function loadLemmatizationDict() {
   }
   lemmatizationDict.delete("danger");
   return lemmatizationDict;
-}
-
-async function loadAnc() {
-  const anc = new Map();
-  const file = await Deno.open("vendor/anc.tsv");
-  for await (const line of getLineStream(file)) {
-    const row = line.split("\t");
-    const en = row[0];
-    if (!en.match(/^[A-Z]+$/)) {
-      let arr = row[4]
-        .replace(/\(cf.*\)/g, "")
-        .replace(/\(ex.*\)/g, "")
-        .split(/\s*[.,]\s*/)
-        .filter((str) => str != "");
-      if (
-        !["two", "three", "four", "five", "six", "seven", "eight", "nine"]
-          .includes(en)
-      ) {
-        arr = arr.filter((str) => !str.match(/^[1-9]$/));
-      }
-      if (arr.length == 1 && arr[0].includes("人名")) {
-        filterOriginal[en] = true;
-      } else {
-        const ja = arr.join("|");
-        anc.set(en, ja);
-      }
-    }
-  }
-  return anc;
-}
-
-async function loadEjdict(lemmatizationDict) {
-  const ejdict = new Map();
-  for (const alphabet of atoz()) {
-    const file = await Deno.open(`vendor/EJDict/src/${alphabet}.txt`);
-    for await (const line of getLineStream(file)) {
-      let [en, ja] = line.split("\t");
-      if (!ejdict.has(en)) {
-        // 過去形などのノイズを消す (消しすぎてしまうが仕方ない)
-        if (!lemmatizationDict.has(en)) {
-          ja = ja.replace(/…/g, "〜").split(/\s*[,/]\s*/).join("|");
-          ejdict.set(en, ja);
-        }
-      }
-    }
-  }
-  return ejdict;
 }
 
 function loadBadWords() {
@@ -256,14 +154,10 @@ async function loadAbbrevs() {
   return abbrevs;
 }
 
-const filterNGSL = await loadFilterNGSL();
+const filterNumbers = await loadFilterNGSL();
 const filterOriginal = await loadFilterOriginal();
 const original = await loadOriginal();
-const basicDict = await loadBasicDict();
-const booqs = await loadBooqs();
 const lemmatizationDict = await loadLemmatizationDict();
-const anc = await loadAnc();
-const ejdict = await loadEjdict(lemmatizationDict);
 const badWords = await loadBadWords();
 const profanityWords = await loadProfanityWords();
 const names = await loadNames();
@@ -273,10 +167,6 @@ const cities = await loadCities();
 const chemicals = await loadChemicals();
 const abbrevs = await loadAbbrevs();
 
-const websters = JSON.parse(
-  await Deno.readTextFile("vendor/dictionary/dictionary.json"),
-);
-
 let tsv = "";
 const file = await Deno.open("dist/mGSL.lemmatized.lst");
 for await (const line of getLineStream(file)) {
@@ -284,50 +174,32 @@ for await (const line of getLineStream(file)) {
   if (lemma.length == 1 && lemma != "a") {
     console.log("[a-z]\t" + line);
   } else if (filterOriginal.has(lemma)) {
-    console.log("filterOriginal\t" + line);
-  } else if (filterNGSL.has(lemma)) {
-    console.log("filterNGSL\t" + line);
+    console.log("[filterOriginal]\t" + line);
+  } else if (filterNumbers.has(lemma)) {
+    console.log("[filterNumbers]\t" + line);
   } else if (original.has(lemma)) {
     tsv += lemma + "\t" + original.get(lemma) + "\t" + "original" + "\n";
-  } else if (anc.has(lemma)) {
-    tsv += lemma + "\t" + anc.get(lemma) + "\t" + "anc" + "\n";
-  } else if (booqs.has(lemma)) {
-    tsv += lemma + "\t" + booqs.get(lemma) + "\t" + "booqs" + "\n";
-  } else if (basicDict.has(lemma)) {
-    tsv += lemma + "\t" + basicDict.get(lemma) + "\t" + "basic" + "\n";
   } else {
     if (original.has(lemma)) {
       tsv += lemma + "\t" + original.get(lemma) + "\t" + "original" + "\n";
     } else if (badWords.has(lemma)) {
-      console.log("badWords\t" + line);
+      console.log("[badWords]\t" + line);
     } else if (profanityWords.has(lemma)) {
-      console.log("profanityWords\t" + line);
+      console.log("[profanityWords]\t" + line);
     } else if (chemicals.has(lemma)) {
-      console.log("chemicals\t" + line);
-    } else if (anc.has(lemma)) {
-      tsv += lemma + "\t" + anc.get(lemma) + "\t" + "anc" + "\n";
+      console.log("[chemicals]\t" + line);
     } else if (abbrevs.has(lemma)) { // 以下は anc のほうが精度が高い
-      console.log("abbrevs\t" + line);
+      console.log("[abbrevs]\t" + line);
     } else if (langs.has(lemma)) {
-      console.log("languages\t" + line);
+      console.log("[languages]\t" + line);
     } else if (countries.has(lemma)) {
-      console.log("countries\t" + line);
+      console.log("[countries]\t" + line);
     } else if (cities.has(lemma)) {
-      console.log("cities\t" + line);
+      console.log("[cities]\t" + line);
     } else if (names.has(lemma)) {
-      console.log("names\t" + line);
-    } else if (booqs.has(lemma)) {
-      tsv += lemma + "\t" + booqs.get(lemma) + "\t" + "booqs" + "\n";
-    } else if (basicDict.has(lemma)) {
-      tsv += lemma + "\t" + basicDict.get(lemma) + "\t" + "basic" + "\n";
-    } else if (ejdict.has(lemma)) {
-      tsv += lemma + "\t" + ejdict.get(lemma) + "\t" + "ejdict" + "\n";
-    } else if (lemma in websters) {
-      let def = websters[lemma].replace(/\n/g, " ");
-      def = def.split(/;\s*/).join("|");
-      tsv += lemma + "\t" + def + "\t" + "websters" + "\n";
+      console.log("[names]\t" + line);
     } else {
-      console.log("Japanese not found\t" + line);
+      console.log("[Japanese not found]\t" + line);
     }
   }
 }

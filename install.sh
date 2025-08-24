@@ -1,7 +1,6 @@
 cd vendor
 git clone https://github.com/marmooo/google-ngram-small-en
 gunzip -d google-ngram-small-en/dist/1gram/*.gz
-git clone https://github.com/kujirahand/EJDict
 git clone https://github.com/datasets/world-cities
 git clone https://github.com/smashew/NameDatabases
 git clone https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
