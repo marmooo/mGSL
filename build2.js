@@ -1,4 +1,4 @@
-import { TextLineStream } from "jsr:@std/streams/text-line-stream";
+import { TextLineStream } from "@std/streams";
 
 function getLineStream(file) {
   return file.readable
