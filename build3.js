@@ -204,4 +204,15 @@ for await (const line of getLineStream(file)) {
     }
   }
 }
+const enDict = dict.map((def) => {
+  const [lemma, ja] = def.split(",");
+  const jaArr = ja.split("|").filter((jaDef) => {
+    if (!jaDef.includes("〈")) return true;
+    if (jaDef.includes("英語〉")) return true;
+    return false;
+  });
+  if (jaArr.length === 0) return false;
+  return `${lemma},${jaArr.join("|")}`;
+}).filter((def) => def);
+Deno.writeTextFileSync("dist/mGSL.en.csv", enDict.join("\n"));
 Deno.writeTextFileSync("dist/mGSL.csv", dict.join("\n"));
