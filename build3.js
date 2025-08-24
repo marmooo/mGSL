@@ -188,7 +188,7 @@ for await (const line of getLineStream(file)) {
       console.log("[profanityWords]\t" + line);
     } else if (chemicals.has(lemma)) {
       console.log("[chemicals]\t" + line);
-    } else if (abbrevs.has(lemma)) { // 以下は anc のほうが精度が高い
+    } else if (abbrevs.has(lemma)) {
       console.log("[abbrevs]\t" + line);
     } else if (langs.has(lemma)) {
       console.log("[languages]\t" + line);
