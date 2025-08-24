@@ -167,7 +167,7 @@ const cities = await loadCities();
 const chemicals = await loadChemicals();
 const abbrevs = await loadAbbrevs();
 
-let tsv = "";
+const dict = [];
 const file = await Deno.open("dist/mGSL.lemmatized.lst");
 for await (const line of getLineStream(file)) {
   const [lemma, _freq] = line.split("\t");
@@ -178,10 +178,10 @@ for await (const line of getLineStream(file)) {
   } else if (filterNumbers.has(lemma)) {
     console.log("[filterNumbers]\t" + line);
   } else if (original.has(lemma)) {
-    tsv += lemma + "\t" + original.get(lemma) + "\t" + "original" + "\n";
+    dict.push(lemma + "," + original.get(lemma));
   } else {
     if (original.has(lemma)) {
-      tsv += lemma + "\t" + original.get(lemma) + "\t" + "original" + "\n";
+      dict.push(lemma + "," + original.get(lemma));
     } else if (badWords.has(lemma)) {
       console.log("[badWords]\t" + line);
     } else if (profanityWords.has(lemma)) {
@@ -203,4 +203,4 @@ for await (const line of getLineStream(file)) {
     }
   }
 }
-Deno.writeTextFileSync("dist/mGSL.lst", tsv);
+Deno.writeTextFileSync("dist/mGSL.csv", dict.join("\n"));
