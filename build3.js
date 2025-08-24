@@ -40,30 +40,6 @@ async function loadOriginal() {
   return original;
 }
 
-async function loadLemmatizationDict() {
-  const lemmatizationDict = new Map();
-  lemmatizationDict.set("an", "a");
-  const file = await Deno.open("vendor/agid-2016.01.19/infl.txt");
-  for await (const line of getLineStream(file)) {
-    const [toStr, fromStr] = line.split(": ");
-    if (!toStr.endsWith("?")) {
-      const [to, _toPos] = toStr.split(" ");
-      const froms = [];
-      fromStr.split(" | ").forEach((forms) => {
-        forms.split(", ").forEach((entry) => {
-          const word = entry.split(/[~<!? ]/)[0];
-          froms.push(word);
-        });
-      });
-      froms.forEach((from) => {
-        lemmatizationDict.set(from, to);
-      });
-    }
-  }
-  lemmatizationDict.delete("danger");
-  return lemmatizationDict;
-}
-
 function loadBadWords() {
   return loadLineDict(
     "vendor/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/en",
@@ -144,8 +120,6 @@ async function loadChemicals() {
 }
 
 async function loadAbbrevs() {
-  // 省略形は複数の原形を持つため、lemmatization と同様に扱うと統計値がずれる
-  // oct, nov など頻度の高いものも削除されるので注意は必要
   const abbrevs = new Map();
   const file = await Deno.open("vendor/Abbreviations/sources.txt");
   for await (const line of getLineStream(file)) {
@@ -158,7 +132,6 @@ async function loadAbbrevs() {
 const filterNumbers = await loadfilterNumbers();
 const filterOriginal = await loadFilterOriginal();
 const original = await loadOriginal();
-const lemmatizationDict = await loadLemmatizationDict();
 const badWords = await loadBadWords();
 const profanityWords = await loadProfanityWords();
 const names = await loadNames();
