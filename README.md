@@ -18,12 +18,12 @@ noise and accurate statistics.
 - install [AGID](http://wordlist.aspell.net/agid-readme/) licensed under the
   [AGID License](http://wordlist.aspell.net/agid-readme/)
 - install [datasets/world-cities](https://github.com/datasets/world-cities)
-  licensed under the [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
+  licensed under the [CC-BY-3.0](http://creativecommons.org/licenses/by/3.0/)
 - install [smashew/NameDatabases](https://github.com/smashew/NameDatabases)
   licensed under the [Unlicense](https://github.com/smashew/NameDatabases)
 - install
   [LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
-  licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+  licensed under the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
 - install
   [RobertJGabriel/Google-profanity-words](https://github.com/RobertJGabriel/Google-profanity-words)
   licensed under the
