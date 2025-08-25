@@ -47,4 +47,4 @@ deno run -RW build3.js # remove bad words
 
 ## License
 
-CC-BY-SA 4.0
+CC-BY-SA-4.0
