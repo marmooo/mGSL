@@ -38,10 +38,12 @@ noise and accurate statistics.
 
 ## Build
 
-1. `bash install.sh`
-2. `deno run --allow-read --allow-write build1.js` # listup
-3. `deno run --allow-read --allow-write build2.js` # lemmatization
-4. `deno run --allow-read --allow-write build3.js` # remove bad words
+```
+bash install.sh
+deno run -RW build1.js # listup
+deno run -RW build2.js # lemmatization
+deno run -RW build3.js # remove bad words
+```
 
 ## License
 
