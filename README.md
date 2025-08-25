@@ -20,7 +20,7 @@ noise and accurate statistics.
 - install [datasets/world-cities](https://github.com/datasets/world-cities)
   licensed under the [CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/)
 - install [smashew/NameDatabases](https://github.com/smashew/NameDatabases)
-  licensed under the Unlicense
+  licensed under the [Unlicense](https://github.com/smashew/NameDatabases)
 - install
   [LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
   licensed under the [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
@@ -32,9 +32,9 @@ noise and accurate statistics.
   licensed under the
   [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0.txt)
 - install [umpirsky/country-list](https://github.com/umpirsky/country-list)
-  licensed under the MIT
+  licensed under the [MIT](https://github.com/umpirsky/country-list)
 - install [umpirsky/language-list](https://github.com/umpirsky/language-list)
-  licensed under the MIT
+  licensed under the [MIT](https://github.com/umpirsky/language-list)
 
 ## Build
 
