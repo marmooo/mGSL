@@ -246,7 +246,7 @@ idea,アイデア|考え
 already,すでに
 plan,計画
 believe,信じる
-de,〜の〈フランス語〉|〜を取り除く・〜から離れる・反対（英語・接頭辞）
+de,〜の〈フランス語〉|反対の（接頭辞）|取り除く（接頭辞）
 reason,理由
 report,報告|レポート
 step,段階|踏む
@@ -1381,8 +1381,8 @@ consumer,消費者
 coat,コート
 solid,固体の
 pocket,ポケット
-intention,意図
-en,〜の中に〈フランス語〉|〜させる・〜にする（接頭辞）
+intention,意
+en,〜の中に〈フランス語〉|〜させる（接頭辞）|〜にする（接頭辞）
 brown,茶色の
 eventually,最終的に
 regular,規則的な
@@ -5759,7 +5759,7 @@ dart,投げる矢
 indispensable,不可欠な
 mediator,仲介者
 wink,ウインクする
-sa,彼の・彼女の〈フランス語〉
+sa,彼の〈フランス語〉|彼女の〈フランス語〉
 inspector,検査官
 fulfil,果たす
 rainfall,降雨量
@@ -6154,7 +6154,7 @@ diarrhea,下痢
 robbery,強盗
 pest,害虫
 gateway,玄関口
-organisational,組織の・組織的な［=organizational］〈イギリス英語〉
+organisational,組織的な［=organizational］〈イギリス英語〉
 exponential,急増の
 paddle,櫂
 automation,自動化
@@ -6279,7 +6279,7 @@ bribe,賄賂
 emergent,出現する
 unlimited,無制限の
 wary,用心深い
-behavioural,行動の・行動に関する［=behavioral］〈イギリス英語〉
+behavioural,行動に関する［=behavioral］〈イギリス英語〉
 incision,切開
 brute,獣
 pervasive,広がる
@@ -8442,7 +8442,7 @@ potency,効力
 topography,地形
 cater,提供する
 ration,配給
-og,オリジナル・元祖［=original］（口語）
+og,オリジナル［=original］（口語）
 incite,扇動する
 waiver,権利放棄
 exaggeration,誇張
@@ -8488,7 +8488,7 @@ conveniently,便利に
 zoo,動物園
 doorstep,玄関先
 cucumber,キュウリ
-materiality,物質性|重要性（哲学・法学）
+materiality,物質性|重要性（哲学・法学用語）
 coercive,強制的な
 mischievous,いたずら好きな
 agrarian,農業の
@@ -9178,7 +9178,7 @@ bedtime,就寝時刻
 unbelievable,信じられない
 genital,生殖器の|身体部位
 spurt,噴出|動作
-hypocrisy,偽善|性格・態度
+hypocrisy,偽善|性格|態度
 synonym,同義語|言語
 allude,ほのめかす|動作
 honeymoon,新婚旅行|行事
@@ -9199,7 +9199,7 @@ thermometer,温度計|器具
 foyer,玄関ホール|場所
 resistor,抵抗器|電子部品
 gluten,グルテン|食品成分
-spindle,紡錘体|形状・器具
+spindle,紡錘体|形状|器具
 spacecraft,宇宙船|乗り物
 workflow, 作業の流れ
 berth,寝台|設備
@@ -9213,7 +9213,7 @@ photosynthesis,光合成|生物作用
 horrific,恐ろしい|感情
 multivariate,多変量の|数学
 variously,様々に|程度
-occult,神秘的な|宗教・信仰
+occult,神秘的な|宗教|信仰
 doorbell,呼び鈴|器具
 originality,独創性|性質
 firstly,第一に|順序
@@ -9395,7 +9395,7 @@ mistrust,不信
 sire,父親（動物）
 chronology,年代順
 benefactor,恩人
-topological,位相的な（数学・物理）
+topological,位相的な（数学・物理用語）
 inexperienced,未熟な
 sender,差出人
 metre,メートル
@@ -9446,7 +9446,7 @@ envious,うらやましい
 strikingly,際立って
 referee,審判
 fertilization,受精
-remediation,修復（教育・環境分野）|改善（教育・環境分野）
+remediation,修復（教育・環境分野用語）|改善（教育・環境分野用語）
 speck,小さな点
 hydrocarbon,炭化水素
 ecstatic,有頂天の
@@ -9462,7 +9462,7 @@ reappear,再出現する
 peculiarly,奇妙に
 convolution,ねじれ
 doctrinal,教義の
-temporality,時間性（哲学・社会学）|一時性（哲学・社会学）
+temporality,時間性（哲学・社会学用語）|一時性（哲学・社会学用語）
 reimbursement,払い戻し
 electorate,有権者
 abundantly,豊富に
@@ -9628,7 +9628,7 @@ attacker,攻撃者
 eerie,不気味な
 appalling,ぞっとするような
 escalation,拡大
-microbiota,微生物叢（医学・生物学）
+microbiota,微生物叢（医学・生物学用語）
 annihilation,全滅
 diaper,おむつ
 omen,前兆
@@ -9775,7 +9775,7 @@ fluent,流暢な
 cooker,調理器具
 budgetary,予算の
 pea,エンドウ豆
-tingling,チクチク感・しびれ感
+tingling,チクチク感|しびれ感
 hindrance,妨げ
 apologetic,謝罪の
 smelt,精錬する
@@ -15153,7 +15153,7 @@ contraption,奇妙な装置
 overrule,却下する|覆す
 summarily,即座に
 subtilis,バチルス・サブチリス（微生物名）
-acyl,アシル基（化学）
+acyl,アシル基（化学用語）
 quickness,迅速さ
 amortization,償却
 warship,軍艦
@@ -20368,7 +20368,7 @@ partway,途中で
 unspoiled,損なわれていない
 wraparound,巻きつく形の|ワイドスクリーンの
 malleability,延性|柔軟性
-whoa,おっと（驚き・制止）
+whoa,おっと（感嘆詞）
 footwork,足さばき
 gaoler,看守
 sitting,在任中の|座っている
@@ -21937,7 +21937,7 @@ mange,疥癬（かいせん）|皮膚病
 vandalize,故意に破壊する
 spiel,大げさな宣伝文句|口上
 superficiality,表面的なこと|浅薄さ
-sanitize,清潔にする|除去・修正する
+sanitize,清潔にする|除去する|修正する
 gastronomy,美食学|料理法
 pendulous,垂れ下がった|ぶら下がった
 heraldry,紋章学
@@ -27094,7 +27094,7 @@ sepal,萼片（植物）
 hoarding,囲い（古語）
 intaglio,エングレービング（彫刻）
 horsewhip,馬鞭
-ichor,血液（古語・神話）
+ichor,神の血（古語）
 raffia,ラフィア（植物繊維）
 tangibility,有形性（古語）
 solarium,日光浴室
@@ -30170,7 +30170,7 @@ pigpen,豚小屋
 shyster,悪徳弁護士
 scrimp,けちけちする
 tweeter,ツイーター（スピーカー）
-apparatchik,官僚・党員
+apparatchik,官僚|党員
 customhouse,税関
 moonscape,月面の景色
 polyandrous,一妻多夫の
@@ -30251,7 +30251,7 @@ loach,ドジョウ
 thrombospondin,血栓関連糖タンパク質
 snowfield,雪原
 copperas,硫酸鉄
-gravamen,主要部分・本旨
+gravamen,主要部分|本旨
 piddle,小便をする
 unhealthiness,不健康
 vulnerably,脆弱に
