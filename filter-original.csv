@@ -10,6 +10,7 @@ doi,固有名詞
 ed,〜した（接尾辞）
 eds,存在しない
 edn,存在しない
+ek,存在しない
 feelings,感情|感じ（複数形）
 fi,存在しない
 fol,存在しない
@@ -24,7 +25,9 @@ linux,固有名詞
 ll,存在しない (I'll)
 midi,固有名詞
 mit, マサチューセッツ工科大学（固有名詞）
+nanoparticles,ナノ粒子（複数形）
 nara,固有名詞
+negroes,黒人（古語）（複数形）
 nd,〜番目［2ndの一部］|固有名詞
 nm,存在しない
 os,固有名詞
@@ -46,6 +49,7 @@ tex,固有名詞
 texted,メッセージを送った（口語）
 tr,トルコの国コード
 wa,インドネシアの国コード
+wat,文脈依存（watt/web application toolkit/watch/what）
 wifi,固有名詞
 women,女性（womanの複数形）
 www,固有名詞
@@ -56,7 +60,8 @@ viii,存在しない (Ⅷ)
 vl,存在しない
 xii,12（ギリシャ数字）
 xiii,13（ギリシャ数字）
-xiv,14（ギリシャ文字）
-xv,15（ギリシャ文字）
-xx,20（ギリシャ文字）
+xiv,14（ギリシャ数字）
+xv,15（ギリシャ数字）
+xvi,16（ギリシャ数字）
+xx,20（ギリシャ数字）
 zeppelin,固有名詞
